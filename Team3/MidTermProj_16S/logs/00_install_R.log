@@ -1,0 +1,6 @@
+            phyloseq                vegan           microbiome 
+                TRUE                 TRUE                 TRUE 
+DirichletMultinomial         randomForest             microeco 
+                TRUE                 TRUE                 TRUE 
+           file2meco            SpiecEasi               igraph 
+                TRUE                 TRUE                 TRUE 

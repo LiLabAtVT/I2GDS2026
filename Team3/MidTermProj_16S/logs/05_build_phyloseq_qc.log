@@ -1,0 +1,11 @@
+Rarefying full table to 14872 reads/sample
+Rarefied+filtered: reads 222558  ASVs 2220 
+Reads: 222558  ASVs: 2220 
+# A tibble: 2 × 5
+  status    min  mean   max  reads
+  <fct>   <dbl> <dbl> <dbl>  <dbl>
+1 Canker     15   131   454 222208
+2 Healthy     0     2     8    350
+empty rows removed
+null device 
+          1 

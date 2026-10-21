@@ -1,0 +1,128 @@
+canker_T5 : loaded checkpoint
+canker_T0 : loaded checkpoint
+healthy_T1_unrarefied : loaded checkpoint
+WARNING: healthy_T1_unrarefied has no significant edges - skipped
+                    canker_T5                
+Nodes               "152"                    
+Links               "425"                    
+Positive            "198"                    
+Negative            "227"                    
+R2_power_law        "0.52909132"             
+avgK                "5.592105"               
+avgCC               "0.2170466"              
+GD                  "3.432119"               
+E                   "0.3354837"              
+HD                  "2.980771"               
+MaxDegree           "18"                     
+NodesMaxDegree      "ASV0108-Novosphingobium"
+CD                  "0.08217149"             
+MaxBetweenness      "1103.127"               
+NodesMaxBetweenness "ASV0108-Novosphingobium"
+CB                  "0.08172991"             
+NodesMaxEigen       "ASV0022-Microbacterium" 
+CE                  "0.787649"               
+NodesMaxCloseness   "ASV0108-Novosphingobium"
+CCL                 "0.2050342"              
+Density             "0.03703381"             
+Transitivity        "0.2212513"              
+Connectedness       "1.0"                    
+Modules             "8"                      
+Modularity          "0.5194124"              
+                    canker_T0                                                                                                   
+Nodes               " 10"                                                                                                       
+Links               " 10"                                                                                                       
+Positive            "  6"                                                                                                       
+Negative            "  4"                                                                                                       
+R2_power_law        "0.02234604"                                                                                                
+avgK                "2.000000"                                                                                                  
+avgCC               "0.6666667"                                                                                                 
+GD                  "1.307692"                                                                                                  
+E                   "0.8717949"                                                                                                 
+HD                  "1.147059"                                                                                                  
+MaxDegree           " 3"                                                                                                        
+NodesMaxDegree      "ASV0002-Erwinia amylovora; ASV0003-Erwinia amylovora; ASV0001-Erwinia amylovora; ASV0004-Erwinia amylovora"
+CD                  "0.11111111"                                                                                                
+MaxBetweenness      "   2.000"                                                                                                  
+NodesMaxBetweenness "ASV0014-Pantoea; ASV0018-Comamonadaceae"                                                                   
+CB                  "0.04938272"                                                                                                
+NodesMaxEigen       "ASV0002-Erwinia amylovora; ASV0001-Erwinia amylovora"                                                      
+CE                  "0.750000"                                                                                                  
+NodesMaxCloseness   "ASV0022-Microbacterium; ASV0010-Xanthomonas"                                                               
+CCL                 "0.3541667"                                                                                                 
+Density             "0.22222222"                                                                                                
+Transitivity        "0.8571429"                                                                                                 
+Connectedness       "0.4"                                                                                                       
+Modules             "3"                                                                                                         
+Modularity          "0.4134663"                                                                                                 
+      network     ASV                                              taxon module
+2   canker_T5 ASV0108                                    Novosphingobium      8
+5   canker_T5 ASV0304                                    Novosphingobium      2
+11  canker_T5 ASV0155                                       Sphingomonas      3
+27  canker_T5 ASV0182                                       Sphingomonas      5
+35  canker_T5 ASV0031                                       Sphingomonas      8
+37  canker_T5 ASV0194                                       Sphingomonas      6
+40  canker_T5 ASV0542                                       Sphingomonas      8
+48  canker_T5 ASV0168                                    Novosphingobium      2
+54  canker_T5 ASV0137                     Methylobacterium-Methylorubrum      3
+55  canker_T5 ASV0033                     Methylobacterium-Methylorubrum      1
+56  canker_T5 ASV0042                     Methylobacterium-Methylorubrum      3
+57  canker_T5 ASV0017                     Methylobacterium-Methylorubrum      7
+63  canker_T5 ASV0011 Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium      1
+64  canker_T5 ASV0254 Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium      7
+66  canker_T5 ASV0072 Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium      4
+67  canker_T5 ASV0035 Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium      3
+76  canker_T5 ASV0112                                        Kineococcus      7
+83  canker_T5 ASV0052                                     Curtobacterium      2
+87  canker_T5 ASV0147                                     Frondihabitans      1
+95  canker_T5 ASV0016                                      Amnibacterium      2
+96  canker_T5 ASV0020                                      Amnibacterium      1
+97  canker_T5 ASV0022                                     Microbacterium      7
+110 canker_T5 ASV0635                                       Nocardioides      5
+111 canker_T5 ASV0024                                     Friedmanniella      1
+112 canker_T5 ASV0081                                     Friedmanniella      4
+113 canker_T5 ASV0233                                     Friedmanniella      4
+116 canker_T5 ASV0210                                   Leptotrichiaceae      3
+120 canker_T5 ASV0085                                          Spirosoma      1
+129 canker_T5 ASV0061                                            Pantoea      7
+131 canker_T5 ASV0030                                            Pantoea      8
+139 canker_T5 ASV0038                                   Stenotrophomonas      3
+146 canker_T5 ASV0018                                     Comamonadaceae      8
+149 canker_T5 ASV0023                                   Oxalobacteraceae      3
+             Zi        Pi       role
+2    0.93968682 0.7345679  Connector
+5   -0.49543369 0.7200000  Connector
+11   0.42986348 0.6600000  Connector
+27   0.05346753 0.6666667  Connector
+35  -0.95968016 0.6400000  Connector
+37   1.78265901 0.6250000  Connector
+40  -0.95968016 0.6250000  Connector
+48  -1.40372880 0.7500000  Connector
+54   0.42986348 0.6280992  Connector
+55  -0.64605364 0.6938776  Connector
+56   0.85972695 0.6745562  Connector
+57   0.63678074 0.6942149  Connector
+63   0.11746430 0.6446281  Connector
+64   0.63678074 0.6800000  Connector
+66  -1.14692237 0.6666667  Connector
+67  -0.42986348 0.7187500  Connector
+76  -1.14620533 0.6666667  Connector
+83   2.22945162 0.7272727  Connector
+87  -0.64605364 0.7500000  Connector
+95   0.41286141 0.8165680  Connector
+96  -0.64605364 0.6562500  Connector
+97   0.19103422 0.7822222  Connector
+110 -1.12281807 0.8000000  Connector
+111  0.11746430 0.6776860  Connector
+112  0.30182168 0.7346939  Connector
+113 -0.42255035 0.7654321  Connector
+116 -0.85972695 0.7777778  Connector
+120 -0.26429467 0.7160494  Connector
+129 -1.14620533 0.6666667  Connector
+131  0.55981343 0.6250000  Connector
+139 -0.42986348 0.7346939  Connector
+146 -0.95968016 0.6250000  Connector
+149  3.00904434 0.2721893 Module hub
+null device 
+          1 
+null device 
+          1 

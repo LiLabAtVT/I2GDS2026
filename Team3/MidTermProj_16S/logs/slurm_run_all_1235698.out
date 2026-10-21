@@ -1,0 +1,14 @@
+[2026-10-21 12:19:16] job 1235698 on owl035, 8 CPUs
+[2026-10-21 12:19:16] 01 metadata
+[2026-10-21 12:19:17] 02 download
+[2026-10-21 12:19:26] 03 fastqc
+[2026-10-21 12:20:01] 04 qiime2
+[2026-10-21 12:23:37] 00 install R packages
+[2026-10-21 12:23:48] 05_build_phyloseq_qc
+[2026-10-21 12:23:55] 06_composition_alpha_beta
+[2026-10-21 12:24:04] 07_taxa_RF_LEfSe_DMM
+[2026-10-21 12:25:02] 08_FAPROTAX
+[2026-10-21 12:25:09] 09_SparCC_networks
+[2026-10-21 12:25:15] 10 finalize README
+README written Wed Oct 21 12:25:15 PM EDT 2026
+[2026-10-21 12:25:15] ALL DONE

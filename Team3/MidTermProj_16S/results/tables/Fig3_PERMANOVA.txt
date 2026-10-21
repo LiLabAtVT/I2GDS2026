@@ -1,0 +1,14 @@
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Permutation: free
+Number of permutations: 999
+
+adonis2(formula = bc ~ status * cultivar, data = mdr, permutations = 999, by = "terms")
+                Df SumOfSqs      R2      F Pr(>F)    
+status           1   2.0438 0.15256 7.2441  0.001 ***
+cultivar         5   1.4666 0.10947 1.0397  0.353    
+status:cultivar  4   1.7046 0.12724 1.5105  0.023 *  
+Residual        29   8.1817 0.61073                  
+Total           39  13.3967 1.00000                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

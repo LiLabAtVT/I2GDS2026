@@ -1,0 +1,23 @@
+
+Call:
+ randomForest(x = X, y = md[rownames(X), "cultivar"], ntree = 1000,      importance = TRUE) 
+               Type of random forest: classification
+                     Number of trees: 1000
+No. of variables tried at each split: 10
+
+        OOB estimate of  error rate: 65.62%
+Confusion matrix:
+                 Cripps Pink Aztec Fuji Gala Hewe's Crab Granniwinkle
+Cripps Pink                2          3    1           0            0
+Aztec Fuji                 2          1    1           1            1
+Gala                       1          2    2           1            0
+Hewe's Crab                1          0    1           3            1
+Granniwinkle               1          0    0           2            3
+Unknown cultivar           0          0    1           0            1
+                 Unknown cultivar class.error
+Cripps Pink                     0   0.6666667
+Aztec Fuji                      0   0.8333333
+Gala                            0   0.6666667
+Hewe's Crab                     0   0.5000000
+Granniwinkle                    0   0.5000000
+Unknown cultivar                0   1.0000000

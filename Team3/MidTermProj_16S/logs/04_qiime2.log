@@ -1,0 +1,11 @@
+/opt/conda/envs/qiime2-amplicon-2024.10/lib/python3.10/site-packages/qiime2/core/cache.py:468: UserWarning: Your temporary cache was found to be in an inconsistent state. It has been recreated.
+  warnings.warn(
+Saved Visualization to: demux.qzv
+Saved Visualization to: dada2-stats.qzv
+Saved Visualization to: taxa-barplot.qzv
+Exported table.qza as BIOMV210DirFmt to directory export/table
+Exported taxonomy.qza as TSVTaxonomyDirectoryFormat to directory export/taxonomy
+Exported rep-seqs.qza as DNASequencesDirectoryFormat to directory export/rep-seqs
+Exported rooted-tree.qza as NewickDirectoryFormat to directory export/rooted-tree
+Exported dada2-stats.qza as DADA2StatsDirFmt to directory export/dada2-stats
+STEP4 DONE

@@ -1,0 +1,10 @@
+# Large / re-downloadable inputs (recreate with scripts/02_download_raw.sh and 04_qiime2_dada2_taxonomy.sh)
+data/
+refs/
+qiime/*.qza
+qiime/.q2home/
+# R / OS cruft
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
