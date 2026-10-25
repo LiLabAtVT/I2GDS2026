@@ -1,0 +1,50 @@
+sample-id	label	cultivar	health_status	replicate	group	instrument	biosample
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	categorical
+SRR36091169	Fuji1_Canker	Aztec Fuji	Canker	1	Aztec Fuji_Canker	Sequel	SAMN52904113
+SRR36091168	Fuji2_Canker	Aztec Fuji	Canker	2	Aztec Fuji_Canker	Sequel	SAMN52904114
+SRR36091167	Fuji3_Canker	Aztec Fuji	Canker	3	Aztec Fuji_Canker	Sequel	SAMN52904115
+SRR36091166	Fuji4_Canker	Aztec Fuji	Canker	4	Aztec Fuji_Canker	Sequel	SAMN52904116
+SRR36091165	Fuji5_Canker	Aztec Fuji	Canker	5	Aztec Fuji_Canker	Sequel	SAMN52904117
+SRR36091164	Fuji6_Canker	Aztec Fuji	Canker	6	Aztec Fuji_Canker	Sequel	SAMN52904118
+SRR36091176	CP1_Canker	Cripps Pink	Canker	1	Cripps Pink_Canker	Sequel	SAMN52904107
+SRR36091175	CP2_Canker	Cripps Pink	Canker	2	Cripps Pink_Canker	Sequel	SAMN52904108
+SRR36091174	CP3_Canker	Cripps Pink	Canker	3	Cripps Pink_Canker	Sequel	SAMN52904109
+SRR36091173	CP4_Canker	Cripps Pink	Canker	4	Cripps Pink_Canker	Sequel	SAMN52904110
+SRR36091171	CP5_Canker	Cripps Pink	Canker	5	Cripps Pink_Canker	Sequel	SAMN52904111
+SRR36091170	CP6_Canker	Cripps Pink	Canker	6	Cripps Pink_Canker	Sequel	SAMN52904112
+SRR36091163	Gala1_Canker	Gala	Canker	1	Gala_Canker	Sequel	SAMN52904119
+SRR36091162	Gala2_Canker	Gala	Canker	2	Gala_Canker	Sequel	SAMN52904120
+SRR36091160	Gala3_Canker	Gala	Canker	3	Gala_Canker	Sequel	SAMN52904121
+SRR36091158	Gala4_Canker	Gala	Canker	4	Gala_Canker	Sequel	SAMN52904122
+SRR36091157	Gala5_Canker	Gala	Canker	5	Gala_Canker	Sequel	SAMN52904123
+SRR36091159	Gala6_Canker	Gala	Canker	6	Gala_Canker	Sequel	SAMN52904124
+SRR36091155	Nic1_Canker	Granniwinkle	Canker	1	Granniwinkle_Canker	Sequel	SAMN52904131
+SRR36091154	Nic2_Canker	Granniwinkle	Canker	2	Granniwinkle_Canker	Sequel	SAMN52904132
+SRR36091153	Nic3_Canker	Granniwinkle	Canker	3	Granniwinkle_Canker	Sequel	SAMN52904133
+SRR36091152	Nic4_Canker	Granniwinkle	Canker	4	Granniwinkle_Canker	Sequel	SAMN52904134
+SRR36091151	Nic5_Canker	Granniwinkle	Canker	5	Granniwinkle_Canker	Sequel	SAMN52904135
+SRR36091150	Nic6_Canker	Granniwinkle	Canker	6	Granniwinkle_Canker	Sequel	SAMN52904136
+SRR36103839	HW1_Canker	Hewe's Crab	Canker	1	Hewe's Crab_Canker	Sequel IIe	SAMN52904125
+SRR36103838	HW2_Canker	Hewe's Crab	Canker	2	Hewe's Crab_Canker	Sequel IIe	SAMN52904126
+SRR36103837	HW3_Canker	Hewe's Crab	Canker	3	Hewe's Crab_Canker	Sequel IIe	SAMN52904127
+SRR36103836	HW4_Canker	Hewe's Crab	Canker	4	Hewe's Crab_Canker	Sequel IIe	SAMN52904128
+SRR36103835	HW5_Canker	Hewe's Crab	Canker	5	Hewe's Crab_Canker	Sequel IIe	SAMN52904129
+SRR36103834	HW6_Canker	Hewe's Crab	Canker	6	Hewe's Crab_Canker	Sequel IIe	SAMN52904130
+SRR36091149	UN1_Canker	Unknown cultivar	Canker	1	Unknown cultivar_Canker	Sequel	SAMN52904137
+SRR36091148	UN2_Canker	Unknown cultivar	Canker	2	Unknown cultivar_Canker	Sequel	SAMN52904138
+SRR36091182	Fuji1_Healthy	Aztec Fuji	Healthy	1	Aztec Fuji_Healthy	Sequel	SAMN52904091
+SRR36091181	Fuji2_Healthy	Aztec Fuji	Healthy	2	Aztec Fuji_Healthy	Sequel	SAMN52904092
+SRR36091172	Fuji3_Healthy	Aztec Fuji	Healthy	3	Aztec Fuji_Healthy	Sequel	SAMN52904093
+SRR36091161	Fuji4_Healthy	Aztec Fuji	Healthy	4	Aztec Fuji_Healthy	Sequel	SAMN52904094
+SRR36091156	Fuji5_Healthy	Aztec Fuji	Healthy	5	Aztec Fuji_Healthy	Sequel	SAMN52904095
+SRR36091147	Fuji6_Healthy	Aztec Fuji	Healthy	6	Aztec Fuji_Healthy	Sequel	SAMN52904096
+SRR36091146	CP1_Healthy	Cripps Pink	Healthy	1	Cripps Pink_Healthy	Sequel	SAMN52904097
+SRR36091145	CP2_Healthy	Cripps Pink	Healthy	2	Cripps Pink_Healthy	Sequel	SAMN52904098
+SRR36091144	Gala1_Healthy	Gala	Healthy	1	Gala_Healthy	Sequel	SAMN52904099
+SRR36091143	Gala2_Healthy	Gala	Healthy	2	Gala_Healthy	Sequel	SAMN52904100
+SRR36091179	Nic1_Healthy	Granniwinkle	Healthy	1	Granniwinkle_Healthy	Sequel	SAMN52904101
+SRR36091180	Nic2_Healthy	Granniwinkle	Healthy	2	Granniwinkle_Healthy	Sequel	SAMN52904102
+SRR36103841	HW1_Healthy	Hewe's Crab	Healthy	1	Hewe's Crab_Healthy	Sequel IIe	SAMN52904103
+SRR36103840	HW2_Healthy	Hewe's Crab	Healthy	2	Hewe's Crab_Healthy	Sequel IIe	SAMN52904104
+SRR36091178	UN1_Healthy	Unknown cultivar	Healthy	1	Unknown cultivar_Healthy	Sequel	SAMN52904105
+SRR36091177	UN2_Healthy	Unknown cultivar	Healthy	2	Unknown cultivar_Healthy	Sequel	SAMN52904106
