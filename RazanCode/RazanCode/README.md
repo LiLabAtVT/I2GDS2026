@@ -94,6 +94,5 @@ export R_ENVIRON_USER=/dev/null R_PROFILE_USER=/dev/null R_LIBS_USER=$CONDA_PREF
 ```
 scripts/           one numbered script per step
 metadata/          runinfo.csv, SRR_Acc_List.txt, metadata.tsv, manifest.tsv
-envs/              conda environment files
 ```
 
