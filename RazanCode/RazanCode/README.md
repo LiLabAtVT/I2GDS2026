@@ -5,7 +5,6 @@ Key Ecological Niche for Erwinia amylovora*, Phytobiomes J. 10:277-292, https://
 
 - **Data:** NCBI SRA BioProject [PRJNA1348523](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1348523): 48 PacBio HiFi full-length
   16S runs (32 canker, 16 healthy bark; 6 apple cultivars). Public, so nothing needs to be shared separately.
-- **Author:** Razan Alajoleen, Virginia Tech. Run on VT ARC (TinkerCliffs, Slurm).
 - **Main finding:** canker results reproduce well; healthy-bark results do not (about 99.5% of healthy reads are one
   chloroplast ASV). See `docs/Report_Reanalysis_vs_Paper.pdf`.
 
