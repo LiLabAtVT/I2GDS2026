@@ -87,10 +87,7 @@ export R_ENVIRON_USER=/dev/null R_PROFILE_USER=/dev/null R_LIBS_USER=$CONDA_PREF
   healthy-bark results as weak.
 - Bug fixed: distance-based network measures (path length, efficiency, closeness...) now use unweighted edges.
 
-## Student pipeline
 
-`student_pipeline/` is a settings-file-driven version for new PacBio HiFi 16S data:
-`bash student_pipeline/run_pipeline.sh my_config.sh`. See `student_pipeline/STUDENT_GUIDE.pdf`.
 
 ## Repository layout
 
@@ -98,7 +95,5 @@ export R_ENVIRON_USER=/dev/null R_PROFILE_USER=/dev/null R_LIBS_USER=$CONDA_PREF
 scripts/           one numbered script per step
 metadata/          runinfo.csv, SRR_Acc_List.txt, metadata.tsv, manifest.tsv
 envs/              conda environment files
-docs/              comparison report, demo slides
-student_pipeline/  general pipeline + guide + worked example
 ```
-Not in the repo (see `.gitignore`): `raw_data/`, `ref/`, `logs/`, `.qza/.qzv` files.
+
