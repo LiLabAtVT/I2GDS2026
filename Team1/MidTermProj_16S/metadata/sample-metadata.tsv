@@ -1,0 +1,49 @@
+sample-id	sample_name	cultivar	replicate	status
+SRR36091169	Aztec Fuji_1_Canker	Aztec Fuji	1	Canker
+SRR36091182	Aztec Fuji_1_Healthy	Aztec Fuji	1	Healthy
+SRR36091168	Aztec Fuji_2_Canker	Aztec Fuji	2	Canker
+SRR36091181	Aztec Fuji_2_Healthy	Aztec Fuji	2	Healthy
+SRR36091167	Aztec Fuji_3_Canker	Aztec Fuji	3	Canker
+SRR36091172	Aztec Fuji_3_Healthy	Aztec Fuji	3	Healthy
+SRR36091166	Aztec Fuji_4_Canker	Aztec Fuji	4	Canker
+SRR36091161	Aztec Fuji_4_Healthy	Aztec Fuji	4	Healthy
+SRR36091165	Aztec Fuji_5_Canker	Aztec Fuji	5	Canker
+SRR36091156	Aztec Fuji_5_Healthy	Aztec Fuji	5	Healthy
+SRR36091164	Aztec Fuji_6_Canker	Aztec Fuji	6	Canker
+SRR36091147	Aztec Fuji_6_Healthy	Aztec Fuji	6	Healthy
+SRR36091176	Cripps Pink_1_Canker	Cripps Pink	1	Canker
+SRR36091146	Cripps Pink_1_Healthy	Cripps Pink	1	Healthy
+SRR36091175	Cripps Pink_2_Canker	Cripps Pink	2	Canker
+SRR36091145	Cripps Pink_2_Healthy	Cripps Pink	2	Healthy
+SRR36091174	Cripps Pink_3_Canker	Cripps Pink	3	Canker
+SRR36091173	Cripps Pink_4_Canker	Cripps Pink	4	Canker
+SRR36091171	Cripps Pink_5_Canker	Cripps Pink	5	Canker
+SRR36091170	Cripps Pink_6_Canker	Cripps Pink	6	Canker
+SRR36091163	Gala_1_Canker	Gala	1	Canker
+SRR36091144	Gala_1_Healthy	Gala	1	Healthy
+SRR36091162	Gala_2_Canker	Gala	2	Canker
+SRR36091143	Gala_2_Healthy	Gala	2	Healthy
+SRR36091160	Gala_3_Canker	Gala	3	Canker
+SRR36091158	Gala_4_Canker	Gala	4	Canker
+SRR36091157	Gala_5_Canker	Gala	5	Canker
+SRR36091159	Gala_6_Canker	Gala	6	Canker
+SRR36091155	Granniwinkle_1_Canker	Granniwinkle	1	Canker
+SRR36091179	Granniwinkle_1_Healthy	Granniwinkle	1	Healthy
+SRR36091154	Granniwinkle_2_Canker	Granniwinkle	2	Canker
+SRR36091180	Granniwinkle_2_Healthy	Granniwinkle	2	Healthy
+SRR36091153	Granniwinkle_3_Canker	Granniwinkle	3	Canker
+SRR36091152	Granniwinkle_4_Canker	Granniwinkle	4	Canker
+SRR36091151	Granniwinkle_5_Canker	Granniwinkle	5	Canker
+SRR36091150	Granniwinkle_6_Canker	Granniwinkle	6	Canker
+SRR36103839	Hewes Crab_1_Canker	Hewes Crab	1	Canker
+SRR36103841	Hewes Crab_1_Healthy	Hewes Crab	1	Healthy
+SRR36103838	Hewes Crab_2_Canker	Hewes Crab	2	Canker
+SRR36103840	Hewes Crab_2_Healthy	Hewes Crab	2	Healthy
+SRR36103837	Hewes Crab_3_Canker	Hewes Crab	3	Canker
+SRR36103836	Hewes Crab_4_Canker	Hewes Crab	4	Canker
+SRR36103835	Hewes Crab_5_Canker	Hewes Crab	5	Canker
+SRR36103834	Hewes Crab_6_Canker	Hewes Crab	6	Canker
+SRR36091149	Unknown cultivar_1_Canker	Unknown cultivar	1	Canker
+SRR36091178	Unknown cultivar_1_Healthy	Unknown cultivar	1	Healthy
+SRR36091148	Unknown cultivar_2_Canker	Unknown cultivar	2	Canker
+SRR36091177	Unknown cultivar_2_Healthy	Unknown cultivar	2	Healthy
