@@ -1,0 +1,2185 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Stats & ML Analysis (04_stats.R)",
+      "x": 0,
+      "y": 0,
+      "width": 1760,
+      "height": 820,
+      "color": "1"
+    },
+    {
+      "id": "n_scripts_04_stats",
+      "type": "file",
+      "file": "04_stats.R.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_dirichletmultinomial",
+      "type": "file",
+      "file": "DirichletMultinomial.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_aic",
+      "type": "file",
+      "file": "aic.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_al",
+      "type": "file",
+      "file": "al.md",
+      "x": 620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_alpha",
+      "type": "file",
+      "file": "alpha.md",
+      "x": 820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_aov_res",
+      "type": "file",
+      "file": "aov_res.md",
+      "x": 1020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_bc",
+      "type": "file",
+      "file": "bc.md",
+      "x": 1220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_bic",
+      "type": "file",
+      "file": "bic.md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_can",
+      "type": "file",
+      "file": "can.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_cl",
+      "type": "file",
+      "file": "cl.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_dmm_tab",
+      "type": "file",
+      "file": "dmm_tab.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_dplyr",
+      "type": "file",
+      "file": "dplyr.md",
+      "x": 620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_drv",
+      "type": "file",
+      "file": "drv.md",
+      "x": 820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_ex",
+      "type": "file",
+      "file": "ex.md",
+      "x": 1020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_f4",
+      "type": "file",
+      "file": "f4.md",
+      "x": 1220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_fd",
+      "type": "file",
+      "file": "fd.md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_fits",
+      "type": "file",
+      "file": "fits.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_fl",
+      "type": "file",
+      "file": "fl.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_fn",
+      "type": "file",
+      "file": "fn.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_fp",
+      "type": "file",
+      "file": "fp.md",
+      "x": 620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_fpk",
+      "type": "file",
+      "file": "fpk.md",
+      "x": 820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_gcount",
+      "type": "file",
+      "file": "gcount.md",
+      "x": 1020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_gen",
+      "type": "file",
+      "file": "gen.md",
+      "x": 1220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_gk",
+      "type": "file",
+      "file": "gk.md",
+      "x": 1420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_imp",
+      "type": "file",
+      "file": "imp.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_lap",
+      "type": "file",
+      "file": "lap.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_ld",
+      "type": "file",
+      "file": "ld.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_magrittr",
+      "type": "file",
+      "file": "magrittr.md",
+      "x": 620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_meta",
+      "type": "file",
+      "file": "meta.md",
+      "x": 820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_metrics",
+      "type": "file",
+      "file": "metrics.md",
+      "x": 1020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_mg",
+      "type": "file",
+      "file": "mg.md",
+      "x": 1220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_microeco",
+      "type": "file",
+      "file": "microeco.md",
+      "x": 1420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_mt",
+      "type": "file",
+      "file": "mt.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_otu",
+      "type": "file",
+      "file": "otu.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_out",
+      "type": "file",
+      "file": "out.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_pc",
+      "type": "file",
+      "file": "pc.md",
+      "x": 620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_pd",
+      "type": "file",
+      "file": "pd.md",
+      "x": 820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_perm",
+      "type": "file",
+      "file": "perm.md",
+      "x": 1020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_pheatmap",
+      "type": "file",
+      "file": "pheatmap.md",
+      "x": 1220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_randomforest",
+      "type": "file",
+      "file": "randomForest.md",
+      "x": 1420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_ranks",
+      "type": "file",
+      "file": "ranks.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_rel",
+      "type": "file",
+      "file": "rel.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_reshape2",
+      "type": "file",
+      "file": "reshape2.md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_rf",
+      "type": "file",
+      "file": "rf.md",
+      "x": 620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_tab",
+      "type": "file",
+      "file": "tab.md",
+      "x": 820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_tax",
+      "type": "file",
+      "file": "tax.md",
+      "x": 1020,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_taxm",
+      "type": "file",
+      "file": "taxm.md",
+      "x": 1220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_top",
+      "type": "file",
+      "file": "top.md",
+      "x": 1420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_topg",
+      "type": "file",
+      "file": "topg.md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_ve",
+      "type": "file",
+      "file": "ve.md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_vegan",
+      "type": "file",
+      "file": "vegan.md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Study Design & Sequencing",
+      "x": 1840,
+      "y": 0,
+      "width": 1100,
+      "height": 520,
+      "color": "2"
+    },
+    {
+      "id": "n_paper_apple_cultivars",
+      "type": "file",
+      "file": "Apple cultivars (Gala, Aztec Fuji, Cripps Pink, Granniwinkle, Hewe's Crab, unknown).md",
+      "x": 1860,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_bakhshiganje_acimovic",
+      "type": "file",
+      "file": "Authors BakhshiGanje, Jo, Li, Kong, Park, Acimovic (Virginia Tech  Kangwon  Chungbuk).md",
+      "x": 2060,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_cripps_pink",
+      "type": "file",
+      "file": "Cripps Pink cultivar.md",
+      "x": 2260,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_dada2",
+      "type": "file",
+      "file": "DADA2 denoising  chimera removal (Callahan 2016).md",
+      "x": 2460,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_erwinia_amylovora",
+      "type": "file",
+      "file": "Erwinia amylovora (Ea).md",
+      "x": 2660,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_fastqc",
+      "type": "file",
+      "file": "FastQC read quality assessment (Andrews 2010).md",
+      "x": 1860,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_results_pdf_fig0_fastqc_summary",
+      "type": "file",
+      "file": "Fig0 FastQC summary (48 HiFi samples).md",
+      "x": 2060,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_fire_blight_canker_microbiome",
+      "type": "file",
+      "file": "Fire Blight Canker Microbiome Insights into the Key Ecological Niche for Erwinia amylovora (Phytobiomes J 2026).md",
+      "x": 2260,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_fire_blight_canker",
+      "type": "file",
+      "file": "Fire blight canker (ecological niche).md",
+      "x": 2460,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_fire_blight",
+      "type": "file",
+      "file": "Fire blight disease.md",
+      "x": 2660,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_prjna1348523",
+      "type": "file",
+      "file": "NCBI SRA BioProject PRJNA1348523.md",
+      "x": 1860,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_results_pdf_fig0_fastqc_summary_per_base_quality",
+      "type": "file",
+      "file": "Per-base mean Phred quality by health status.md",
+      "x": 2060,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_qiime2",
+      "type": "file",
+      "file": "QIIME2 v2024.10.md",
+      "x": 2260,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_results_pdf_fig0_fastqc_summary_reads_per_sample",
+      "type": "file",
+      "file": "Raw HiFi reads per sample (total 3,529,407; canker  healthy).md",
+      "x": 2460,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_results_pdf_fig0_fastqc_summary_read_length",
+      "type": "file",
+      "file": "Read length distribution (peaks ~1400-1500 bp).md",
+      "x": 2660,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_pacbio_hifi_16s",
+      "type": "file",
+      "file": "SMRT PacBio HiFi full-length 16S rRNA metabarcoding (27F1492R, Sequel IIe).md",
+      "x": 1860,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_sampling_design",
+      "type": "file",
+      "file": "Sampling 32 canker + 16 healthy wood samples, Augusta County VA, Nov 2022.md",
+      "x": 2060,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_silva_138",
+      "type": "file",
+      "file": "Silva 138 reference taxonomy.md",
+      "x": 2260,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_streptomycin_resistance",
+      "type": "file",
+      "file": "Streptomycin-resistant Ea strains.md",
+      "x": 2460,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_synthetic_communities",
+      "type": "file",
+      "file": "Synthetic microbial communities for fire blight control.md",
+      "x": 2660,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Diversity & Pathobiome Findings",
+      "x": 3020,
+      "y": 0,
+      "width": 1100,
+      "height": 520,
+      "color": "3"
+    },
+    {
+      "id": "n_paper_asv_table",
+      "type": "file",
+      "file": "ASV table (1,817,968 reads, 2,322 ASVs).md",
+      "x": 3040,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_acute_oak_decline",
+      "type": "file",
+      "file": "Acute oak decline polymicrobial canker (Brenneria goodwinii).md",
+      "x": 3240,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_alpha_diversity",
+      "type": "file",
+      "file": "Alpha diversity (Shannon, Simpson, Chao1, observed).md",
+      "x": 3440,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_bacillus_keystone",
+      "type": "file",
+      "file": "Bacillus  Amnibacterium keystone taxa in healthy bark.md",
+      "x": 3640,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_beta_diversity_bray_curtis",
+      "type": "file",
+      "file": "Beta diversity Bray-Curtis PCoA + PERMANOVA.md",
+      "x": 3840,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_module_hubs",
+      "type": "file",
+      "file": "Canker module hubs Novosphingobium, Variovorax, Nocardioides.md",
+      "x": 3040,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_canker_dominant_taxa",
+      "type": "file",
+      "file": "Canker-dominant genera Erwinia, Sphingomonas, Massilia, Pantoea, Novosphingobium.md",
+      "x": 3240,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_dmm_clustering",
+      "type": "file",
+      "file": "Dirichlet-multinomial mixture clustering (k=4).md",
+      "x": 3440,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_faprotax",
+      "type": "file",
+      "file": "FAPROTAX functional prediction (microeco).md",
+      "x": 3640,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_lefse",
+      "type": "file",
+      "file": "LEfSe (Segata 2011).md",
+      "x": 3840,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_pathobiome_shift",
+      "type": "file",
+      "file": "Microbiome-to-pathobiome shift (dysbiosis).md",
+      "x": 3040,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_picrust2",
+      "type": "file",
+      "file": "PICRUSt2.md",
+      "x": 3240,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_pantoea",
+      "type": "file",
+      "file": "Pantoea (dual antagonistopportunist role).md",
+      "x": 3440,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_random_forest",
+      "type": "file",
+      "file": "Random Forest classification (Liaw & Wiener 2002).md",
+      "x": 3640,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_rhizobia_group",
+      "type": "file",
+      "file": "Rhizobia group (negatively correlated with Ea).md",
+      "x": 3840,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_sparcc_menap_network",
+      "type": "file",
+      "file": "SparCC co-occurrence networks via MENAP (CytoscapeGephi).md",
+      "x": 3040,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_paper_variovorax_quorum_quenching",
+      "type": "file",
+      "file": "Variovorax AHL degradation (quorum quenching).md",
+      "x": 3240,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Co-occurrence Network (05_network.R)",
+      "x": 4200,
+      "y": 0,
+      "width": 880,
+      "height": 520,
+      "color": "4"
+    },
+    {
+      "id": "n_scripts_05_network",
+      "type": "file",
+      "file": "05_network.R.md",
+      "x": 4220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_spieceasi",
+      "type": "file",
+      "file": "SpiecEasi.md",
+      "x": 4420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_build",
+      "type": "file",
+      "file": "build().md",
+      "x": 4620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_ex",
+      "type": "file",
+      "file": "ex_1.md",
+      "x": 4820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_genus",
+      "type": "file",
+      "file": "genus.md",
+      "x": 4220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_igraph",
+      "type": "file",
+      "file": "igraph.md",
+      "x": 4420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_meta",
+      "type": "file",
+      "file": "meta_1.md",
+      "x": 4620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_nets",
+      "type": "file",
+      "file": "nets.md",
+      "x": 4820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_otu",
+      "type": "file",
+      "file": "otu_1.md",
+      "x": 4220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_out",
+      "type": "file",
+      "file": "out_1.md",
+      "x": 4420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_plot_net",
+      "type": "file",
+      "file": "plot_net().md",
+      "x": 4620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_pr",
+      "type": "file",
+      "file": "pr.md",
+      "x": 4820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_props",
+      "type": "file",
+      "file": "props().md",
+      "x": 4220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_tab",
+      "type": "file",
+      "file": "tab_1.md",
+      "x": 4420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_05_network_r_tax",
+      "type": "file",
+      "file": "tax_1.md",
+      "x": 4620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "FastQC Summary Plotting",
+      "x": 0,
+      "y": 900,
+      "width": 660,
+      "height": 420,
+      "color": "5"
+    },
+    {
+      "id": "n_scripts_02b_fastqc_summary",
+      "type": "file",
+      "file": "02b_fastqc_summary.R.md",
+      "x": 20,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_02b_fastqc_summary_r_basic",
+      "type": "file",
+      "file": "basic.md",
+      "x": 220,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_02b_fastqc_summary_r_files",
+      "type": "file",
+      "file": "files.md",
+      "x": 420,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_package_ggplot2",
+      "type": "file",
+      "file": "ggplot2.md",
+      "x": 20,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_02b_fastqc_summary_r_id",
+      "type": "file",
+      "file": "id.md",
+      "x": 220,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_02b_fastqc_summary_r_len",
+      "type": "file",
+      "file": "len.md",
+      "x": 420,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_02b_fastqc_summary_r_meta",
+      "type": "file",
+      "file": "meta_2.md",
+      "x": 20,
+      "y": 1140,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_02b_fastqc_summary_r_module",
+      "type": "file",
+      "file": "module().md",
+      "x": 220,
+      "y": 1140,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_02b_fastqc_summary_r_qual",
+      "type": "file",
+      "file": "qual.md",
+      "x": 420,
+      "y": 1140,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Graphify Project Rules",
+      "x": 1840,
+      "y": 900,
+      "width": 660,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_claude_graph_report",
+      "type": "file",
+      "file": "GRAPH_REPORT.md",
+      "x": 1860,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_graphify_rules",
+      "type": "file",
+      "file": "Graphify Project Rules.md",
+      "x": 2060,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_graphify_query",
+      "type": "file",
+      "file": "graphify querypathexplain commands.md",
+      "x": 2260,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_graphify_update",
+      "type": "file",
+      "file": "graphify update (AST-only rebuild).md",
+      "x": 1860,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_graphify_knowledge_graph",
+      "type": "file",
+      "file": "graphify-out Knowledge Graph.md",
+      "x": 2060,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "DADA2 Test Script",
+      "x": 3020,
+      "y": 900,
+      "width": 660,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_r_package_dada2",
+      "type": "file",
+      "file": "dada2.md",
+      "x": 3040,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tmp_test_rp_r_fs",
+      "type": "file",
+      "file": "fs.md",
+      "x": 3240,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tmp_test_rp_r_out",
+      "type": "file",
+      "file": "out_2.md",
+      "x": 3440,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tmp_test_rp_r_r",
+      "type": "file",
+      "file": "r.md",
+      "x": 3040,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tmp_test_rp",
+      "type": "file",
+      "file": "test_rp.R.md",
+      "x": 3240,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "QIIME2 Processing Script",
+      "x": 4200,
+      "y": 900,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_scripts_03_qiime2",
+      "type": "file",
+      "file": "03_qiime2.sh.md",
+      "x": 4220,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_03_qiime2_sh__entry",
+      "type": "file",
+      "file": "03_qiime2.sh script.md",
+      "x": 4420,
+      "y": 980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_03_qiime2_tmpdir",
+      "type": "file",
+      "file": "TMPDIR.md",
+      "x": 4220,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Data Download Script",
+      "x": 0,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_scripts_01_download",
+      "type": "file",
+      "file": "01_download.sh.md",
+      "x": 20,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_01_download_sh__entry",
+      "type": "file",
+      "file": "01_download.sh script.md",
+      "x": 220,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "FastQC Run Script",
+      "x": 1840,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_scripts_02_fastqc",
+      "type": "file",
+      "file": "02_fastqc.sh.md",
+      "x": 1860,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_02_fastqc_sh__entry",
+      "type": "file",
+      "file": "02_fastqc.sh script.md",
+      "x": 2060,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "R Stage Launcher",
+      "x": 3020,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_scripts_04_05_r",
+      "type": "file",
+      "file": "04_05_R.sh.md",
+      "x": 3040,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_05_r_sh__entry",
+      "type": "file",
+      "file": "04_05_R.sh script.md",
+      "x": 3240,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "Taxa Aggregation Helpers",
+      "x": 4200,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_scripts_04_stats_r_agg",
+      "type": "file",
+      "file": "agg().md",
+      "x": 4220,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_04_stats_r_barplot_rank",
+      "type": "file",
+      "file": "barplot_rank().md",
+      "x": 4420,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g12",
+      "type": "group",
+      "label": "Pipeline Orchestrator",
+      "x": 0,
+      "y": 1880,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_scripts_run_all",
+      "type": "file",
+      "file": "run_all.sh.md",
+      "x": 20,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_run_all_sh__entry",
+      "type": "file",
+      "file": "run_all.sh script.md",
+      "x": 220,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_scripts_04_stats_r_barplot_rank_scripts_04_stats_r_agg",
+      "fromNode": "n_scripts_04_stats_r_barplot_rank",
+      "toNode": "n_scripts_04_stats_r_agg",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_agg",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_agg",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_barplot_rank",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_barplot_rank",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_build",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_build",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_plot_net",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_plot_net",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_props",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_02b_fastqc_summary_scripts_02b_fastqc_summary_r_module",
+      "fromNode": "n_scripts_02b_fastqc_summary",
+      "toNode": "n_scripts_02b_fastqc_summary_r_module",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_r_package_dirichletmultinomial",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_r_package_dirichletmultinomial",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_r_package_dplyr",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_r_package_dplyr",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_r_package_magrittr",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_r_package_magrittr",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_r_package_microeco",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_r_package_microeco",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_r_package_pheatmap",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_r_package_pheatmap",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_r_package_randomforest",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_r_package_randomforest",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_r_package_reshape2",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_r_package_reshape2",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_r_package_vegan",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_r_package_vegan",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_ld",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_ld",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_fn",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_fn",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_fp",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_fp",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_fpk",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_fpk",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_fl",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_fl",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_meta",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_meta",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_gcount",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_gcount",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_fits",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_fits",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_aic",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_aic",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_bic",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_bic",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_lap",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_lap",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_cl",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_cl",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_f4",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_f4",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_dmm_tab",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_dmm_tab",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_drv",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_drv",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_fd",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_fd",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_otu",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_otu",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_tax",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_tax",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_ranks",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_ranks",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_taxm",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_taxm",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_alpha",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_alpha",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_metrics",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_metrics",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_aov_res",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_aov_res",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_al",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_al",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_rel",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_rel",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_bc",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_bc",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_perm",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_perm",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_pc",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_pc",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_ve",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_ve",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_pd",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_pd",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_can",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_can",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_gen",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_gen",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_topg",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_topg",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_gk",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_gk",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_rf",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_rf",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_imp",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_imp",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_top",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_top",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_ex",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_ex",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_out",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_out",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_tab",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_tab",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_mg",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_mg",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_scripts_04_stats_r_mt",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_scripts_04_stats_r_mt",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_stats_r_package_ggplot2",
+      "fromNode": "n_scripts_04_stats",
+      "toNode": "n_r_package_ggplot2",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_04_05_r_scripts_04_05_r_sh__entry",
+      "fromNode": "n_scripts_04_05_r",
+      "toNode": "n_scripts_04_05_r_sh__entry",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_run_all_scripts_run_all_sh__entry",
+      "fromNode": "n_scripts_run_all",
+      "toNode": "n_scripts_run_all_sh__entry",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_r_package_igraph",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_r_package_igraph",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_r_package_spieceasi",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_r_package_spieceasi",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_tax",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_tax",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_genus",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_genus",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_nets",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_nets",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_pr",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_pr",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_ex",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_ex",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_out",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_out",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_tab",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_tab",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_meta",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_meta",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_05_network_scripts_05_network_r_otu",
+      "fromNode": "n_scripts_05_network",
+      "toNode": "n_scripts_05_network_r_otu",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_02b_fastqc_summary_r_package_ggplot2",
+      "fromNode": "n_scripts_02b_fastqc_summary",
+      "toNode": "n_r_package_ggplot2",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_02b_fastqc_summary_scripts_02b_fastqc_summary_r_files",
+      "fromNode": "n_scripts_02b_fastqc_summary",
+      "toNode": "n_scripts_02b_fastqc_summary_r_files",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_02b_fastqc_summary_scripts_02b_fastqc_summary_r_id",
+      "fromNode": "n_scripts_02b_fastqc_summary",
+      "toNode": "n_scripts_02b_fastqc_summary_r_id",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_02b_fastqc_summary_scripts_02b_fastqc_summary_r_qual",
+      "fromNode": "n_scripts_02b_fastqc_summary",
+      "toNode": "n_scripts_02b_fastqc_summary_r_qual",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_02b_fastqc_summary_scripts_02b_fastqc_summary_r_len",
+      "fromNode": "n_scripts_02b_fastqc_summary",
+      "toNode": "n_scripts_02b_fastqc_summary_r_len",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_02b_fastqc_summary_scripts_02b_fastqc_summary_r_basic",
+      "fromNode": "n_scripts_02b_fastqc_summary",
+      "toNode": "n_scripts_02b_fastqc_summary_r_basic",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_02b_fastqc_summary_scripts_02b_fastqc_summary_r_meta",
+      "fromNode": "n_scripts_02b_fastqc_summary",
+      "toNode": "n_scripts_02b_fastqc_summary_r_meta",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_tmp_test_rp_r_package_dada2",
+      "fromNode": "n_tmp_test_rp",
+      "toNode": "n_r_package_dada2",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_tmp_test_rp_tmp_test_rp_r_fs",
+      "fromNode": "n_tmp_test_rp",
+      "toNode": "n_tmp_test_rp_r_fs",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_tmp_test_rp_tmp_test_rp_r_out",
+      "fromNode": "n_tmp_test_rp",
+      "toNode": "n_tmp_test_rp_r_out",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_tmp_test_rp_tmp_test_rp_r_r",
+      "fromNode": "n_tmp_test_rp",
+      "toNode": "n_tmp_test_rp_r_r",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_03_qiime2_scripts_03_qiime2_sh__entry",
+      "fromNode": "n_scripts_03_qiime2",
+      "toNode": "n_scripts_03_qiime2_sh__entry",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_03_qiime2_scripts_03_qiime2_tmpdir",
+      "fromNode": "n_scripts_03_qiime2",
+      "toNode": "n_scripts_03_qiime2_tmpdir",
+      "label": "defines [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_01_download_scripts_01_download_sh__entry",
+      "fromNode": "n_scripts_01_download",
+      "toNode": "n_scripts_01_download_sh__entry",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scripts_02_fastqc_scripts_02_fastqc_sh__entry",
+      "fromNode": "n_scripts_02_fastqc",
+      "toNode": "n_scripts_02_fastqc_sh__entry",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_cripps_pink_paper_apple_cultivars",
+      "fromNode": "n_paper_cripps_pink",
+      "toNode": "n_paper_apple_cultivars",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_fire_blight_canker_microbiome_paper_apple_cultivars",
+      "fromNode": "n_paper_fire_blight_canker_microbiome",
+      "toNode": "n_paper_apple_cultivars",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_cripps_pink_paper_erwinia_amylovora",
+      "fromNode": "n_paper_cripps_pink",
+      "toNode": "n_paper_erwinia_amylovora",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_erwinia_amylovora_paper_fire_blight",
+      "fromNode": "n_paper_erwinia_amylovora",
+      "toNode": "n_paper_fire_blight",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_fire_blight_canker_microbiome_paper_erwinia_amylovora",
+      "fromNode": "n_paper_fire_blight_canker_microbiome",
+      "toNode": "n_paper_erwinia_amylovora",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_fire_blight_paper_streptomycin_resistance",
+      "fromNode": "n_paper_fire_blight",
+      "toNode": "n_paper_streptomycin_resistance",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_fire_blight_canker_paper_fire_blight",
+      "fromNode": "n_paper_fire_blight_canker",
+      "toNode": "n_paper_fire_blight",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_fire_blight_canker_microbiome_paper_fire_blight_canker",
+      "fromNode": "n_paper_fire_blight_canker_microbiome",
+      "toNode": "n_paper_fire_blight_canker",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_fire_blight_canker_microbiome_paper_prjna1348523",
+      "fromNode": "n_paper_fire_blight_canker_microbiome",
+      "toNode": "n_paper_prjna1348523",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_pacbio_hifi_16s_paper_prjna1348523",
+      "fromNode": "n_paper_pacbio_hifi_16s",
+      "toNode": "n_paper_prjna1348523",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_fastqc_paper_qiime2",
+      "fromNode": "n_paper_fastqc",
+      "toNode": "n_paper_qiime2",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_qiime2_paper_dada2",
+      "fromNode": "n_paper_qiime2",
+      "toNode": "n_paper_dada2",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_qiime2_paper_silva_138",
+      "fromNode": "n_paper_qiime2",
+      "toNode": "n_paper_silva_138",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_fire_blight_canker_microbiome_paper_sampling_design",
+      "fromNode": "n_paper_fire_blight_canker_microbiome",
+      "toNode": "n_paper_sampling_design",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_results_pdf_fig0_fastqc_summary_paper_sampling_design",
+      "fromNode": "n_results_pdf_fig0_fastqc_summary",
+      "toNode": "n_paper_sampling_design",
+      "label": "shares_data_with [INFERRED]"
+    },
+    {
+      "id": "e_paper_streptomycin_resistance_paper_synthetic_communities",
+      "fromNode": "n_paper_streptomycin_resistance",
+      "toNode": "n_paper_synthetic_communities",
+      "label": "rationale_for [INFERRED]"
+    },
+    {
+      "id": "e_paper_fire_blight_canker_microbiome_paper_synthetic_communities",
+      "fromNode": "n_paper_fire_blight_canker_microbiome",
+      "toNode": "n_paper_synthetic_communities",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_variovorax_quorum_quenching_paper_synthetic_communities",
+      "fromNode": "n_paper_variovorax_quorum_quenching",
+      "toNode": "n_paper_synthetic_communities",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_paper_fire_blight_canker_microbiome_paper_bakhshiganje_acimovic",
+      "fromNode": "n_paper_fire_blight_canker_microbiome",
+      "toNode": "n_paper_bakhshiganje_acimovic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_results_pdf_fig0_fastqc_summary_results_pdf_fig0_fastqc_summary_per_base_quality",
+      "fromNode": "n_results_pdf_fig0_fastqc_summary",
+      "toNode": "n_results_pdf_fig0_fastqc_summary_per_base_quality",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_results_pdf_fig0_fastqc_summary_results_pdf_fig0_fastqc_summary_read_length",
+      "fromNode": "n_results_pdf_fig0_fastqc_summary",
+      "toNode": "n_results_pdf_fig0_fastqc_summary_read_length",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_results_pdf_fig0_fastqc_summary_results_pdf_fig0_fastqc_summary_reads_per_sample",
+      "fromNode": "n_results_pdf_fig0_fastqc_summary",
+      "toNode": "n_results_pdf_fig0_fastqc_summary_reads_per_sample",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_results_pdf_fig0_fastqc_summary_paper_fastqc",
+      "fromNode": "n_results_pdf_fig0_fastqc_summary",
+      "toNode": "n_paper_fastqc",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_results_pdf_fig0_fastqc_summary_read_length_paper_pacbio_hifi_16s",
+      "fromNode": "n_results_pdf_fig0_fastqc_summary_read_length",
+      "toNode": "n_paper_pacbio_hifi_16s",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_results_pdf_fig0_fastqc_summary_reads_per_sample_paper_asv_table",
+      "fromNode": "n_results_pdf_fig0_fastqc_summary_reads_per_sample",
+      "toNode": "n_paper_asv_table",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_paper_fire_blight_canker_microbiome_paper_pacbio_hifi_16s",
+      "fromNode": "n_paper_fire_blight_canker_microbiome",
+      "toNode": "n_paper_pacbio_hifi_16s",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_fire_blight_canker_microbiome_paper_pathobiome_shift",
+      "fromNode": "n_paper_fire_blight_canker_microbiome",
+      "toNode": "n_paper_pathobiome_shift",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_dada2_paper_asv_table",
+      "fromNode": "n_paper_dada2",
+      "toNode": "n_paper_asv_table",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_pacbio_hifi_16s_paper_fastqc",
+      "fromNode": "n_paper_pacbio_hifi_16s",
+      "toNode": "n_paper_fastqc",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_pathobiome_shift_paper_acute_oak_decline",
+      "fromNode": "n_paper_pathobiome_shift",
+      "toNode": "n_paper_acute_oak_decline",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_paper_asv_table_paper_alpha_diversity",
+      "fromNode": "n_paper_asv_table",
+      "toNode": "n_paper_alpha_diversity",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_asv_table_paper_beta_diversity_bray_curtis",
+      "fromNode": "n_paper_asv_table",
+      "toNode": "n_paper_beta_diversity_bray_curtis",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_asv_table_paper_dmm_clustering",
+      "fromNode": "n_paper_asv_table",
+      "toNode": "n_paper_dmm_clustering",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_asv_table_paper_faprotax",
+      "fromNode": "n_paper_asv_table",
+      "toNode": "n_paper_faprotax",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_asv_table_paper_lefse",
+      "fromNode": "n_paper_asv_table",
+      "toNode": "n_paper_lefse",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_asv_table_paper_random_forest",
+      "fromNode": "n_paper_asv_table",
+      "toNode": "n_paper_random_forest",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_asv_table_paper_sparcc_menap_network",
+      "fromNode": "n_paper_asv_table",
+      "toNode": "n_paper_sparcc_menap_network",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_sparcc_menap_network_paper_bacillus_keystone",
+      "fromNode": "n_paper_sparcc_menap_network",
+      "toNode": "n_paper_bacillus_keystone",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_canker_dominant_taxa_paper_pantoea",
+      "fromNode": "n_paper_canker_dominant_taxa",
+      "toNode": "n_paper_pantoea",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_random_forest_paper_canker_dominant_taxa",
+      "fromNode": "n_paper_random_forest",
+      "toNode": "n_paper_canker_dominant_taxa",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_module_hubs_paper_variovorax_quorum_quenching",
+      "fromNode": "n_paper_module_hubs",
+      "toNode": "n_paper_variovorax_quorum_quenching",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_sparcc_menap_network_paper_module_hubs",
+      "fromNode": "n_paper_sparcc_menap_network",
+      "toNode": "n_paper_module_hubs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_sparcc_menap_network_paper_pantoea",
+      "fromNode": "n_paper_sparcc_menap_network",
+      "toNode": "n_paper_pantoea",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_alpha_diversity_paper_pathobiome_shift",
+      "fromNode": "n_paper_alpha_diversity",
+      "toNode": "n_paper_pathobiome_shift",
+      "label": "rationale_for [INFERRED]"
+    },
+    {
+      "id": "e_paper_sparcc_menap_network_paper_pathobiome_shift",
+      "fromNode": "n_paper_sparcc_menap_network",
+      "toNode": "n_paper_pathobiome_shift",
+      "label": "rationale_for [INFERRED]"
+    },
+    {
+      "id": "e_paper_faprotax_paper_picrust2",
+      "fromNode": "n_paper_faprotax",
+      "toNode": "n_paper_picrust2",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_paper_sparcc_menap_network_paper_rhizobia_group",
+      "fromNode": "n_paper_sparcc_menap_network",
+      "toNode": "n_paper_rhizobia_group",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_graphify_query_claude_graphify_knowledge_graph",
+      "fromNode": "n_claude_graphify_query",
+      "toNode": "n_claude_graphify_knowledge_graph",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_graphify_rules_claude_graphify_knowledge_graph",
+      "fromNode": "n_claude_graphify_rules",
+      "toNode": "n_claude_graphify_knowledge_graph",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_graphify_update_claude_graphify_knowledge_graph",
+      "fromNode": "n_claude_graphify_update",
+      "toNode": "n_claude_graphify_knowledge_graph",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_graphify_rules_claude_graphify_query",
+      "fromNode": "n_claude_graphify_rules",
+      "toNode": "n_claude_graphify_query",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_graphify_rules_claude_graphify_update",
+      "fromNode": "n_claude_graphify_rules",
+      "toNode": "n_claude_graphify_update",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_graphify_rules_claude_graph_report",
+      "fromNode": "n_claude_graphify_rules",
+      "toNode": "n_claude_graph_report",
+      "label": "references [EXTRACTED]"
+    }
+  ]
+}

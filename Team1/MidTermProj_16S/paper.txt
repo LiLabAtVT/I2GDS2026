@@ -1,0 +1,1215 @@
+Phytobiomes Journal r 2026 r 10:277-292                                                                               https://doi.org/10.1094/PBIOMES-10-25-0086-R
+
+                                                                                                                                                       +=
+                                                                                                                                                       –
+
+
+
+
+                                                         An Open Access Journal from The American Phytopathological Society
+
+
+
+
+RESEARCH
+
+
+Fire Blight Canker Microbiome: Insights into the Key Ecological
+Niche for Erwinia amylovora
+Meysam BakhshiGanje,1 Eon Jin Jo,2 Song Li,1 Hyun Gi Kong,3                               Duck-Hwan Park,2,†                  and Srđan G. Aćimović1,†
+1
+  School of Plant and Environmental Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA 24060, U.S.A.
+2
+  Interdisciplinary Program in Smart Agriculture and Plant Medicine Program, Division of Bioresource Sciences, College of Agriculture and
+  Life Sciences, Kangwon National University, Chuncheon-si, Republic of Korea
+3
+  Department of Plant Medicine, College of Agriculture, Life and Environment Sciences, Chungbuk National University, Cheongju-si 28644,
+  Republic of Korea
+Accepted for publication 28 January 2026.
+
+
+
+                                                                                 Abstract
+
+    The invasion of Erwinia amylovora (Ea) from soft plant tissues to                      networks showed a mixture of cooccurrence and coexclusion,
+    wood forms fire blight cankers, which serve as reservoirs for                          including significant negative (e.g., Rhizobia group) and positive
+    pathogen overwintering and infection in spring. Understanding                          (e.g., Pantoea spp.) correlations with Ea and several other
+    the poorly explored ecological niche of Ea within cankers                              bacterial species in the canker microbiome. The canker
+    provides valuable insight into its biology, ecology, and                               networks identified Novosphingobium, Variovorax, and
+    pathogenicity. This study analyzed bacterial communities in                            Nocardioides as module hubs. Bacillus spp. were prominent in
+    healthy and cankered wood samples from six apple cultivars in                          the healthy wood tissue microbiome. The increasing number of
+    Augusta County, Virginia, using SMRT (single molecule,                                 amplicon sequence variants assigned to different bacterial taxa
+    real-time) PacBio Hi-Fi metabarcoding. Significant differences in                      indicated a shift in community composition from microbiome to
+    bacterial diversity and richness were found between healthy and                        pathobiome. Functional profiling revealed ecological differences
+    cankered wood tissues, with Erwinia spp. dominating the                                between healthy tissues and cankers (e.g., canker
+    cankered samples. The highest number of Ea amplicon                                    phytopathogenic determinants enrichment). Our results pave the
+    sequence variants was detected in the apple cultivar Cripps                            way for the development of potential synthetic microbial
+    Pink, followed by Gala, Aztec Fuji, Granniwinkle, Hewe’s Crab,                         communities that can effectively manage fire blight.
+    and an unknown cultivar used as a blind control. Machine
+    learning algorithms identified the prevalence of Erwinia,
+    Sphingomonas, Massilia, and Pantoea in cankered wood                                   Keywords: apple cultivars, fire blight canker, microbiome,
+    samples. Bacterial interactions in healthy and cankered wood                           pathobiome, SMRT PacBio Hi-Fi sequencing
+
+
+
+†
+  Corresponding authors: S. G. Aćimović; acimovic@vt.edu, and                               Apple (Malus domestica Borkh.) is a globally important fruit
+D.-H. Park; dhp@kangwon.ac.kr                                                              crop. It is valued for its flavor, nutritional content, and economic
+Author contributions: S.G.A. and D.-H.P. designed the experiment. D.-H.P.,                 significance, with an annual production exceeding 90 million tons
+M.B.G., S.G.A., and H.G.K. analyzed the data. M.B.G., S.G.A., and D.-H.P. wrote            (FAO 2023). The United States ranks second behind China with
+the manuscript with feedback from all authors. S.G.A. conducted field sampling and         nearly 5% of total fresh apple production in the 2022–2023 grow-
+DNA extraction. E.J.J., D.-H.P., and H.G.K. prepared sequencing libraries, and S.L.
+provided additional statistical input.                                                     ing season (USDA-FAS 2023). Apples contribute more than $3.05
+                                                                                           billion to the United States economy annually. More than 200 va-
+Data availability: The raw sequences were deposited in the NCBI Sequence Read              rieties are grown in 32 states, primarily in Washington, New York,
+Archive under the BioProject number PRJNA1348523.
+                                                                                           Michigan, Pennsylvania, California, Virginia, and Oregon (USDA-
+Funding: Support was provided by the Rural Development Administration of the               NASS 2022).
+Republic of Korea to D.-H. Park (project RS-2020-RD009731) and the USDA                       Fire blight is a disease of pome fruit caused by the bacterial
+National Institute of Food and Agriculture to S. G. Aćimović (Specialty Crop Re-
+search Initiative project accession no. 1031507, grant award no. 2023-51181-41319/
+                                                                                           pathogen Erwinia amylovora (Ea; Burrill; Winslow et al. 1920),
+2023-05675, titled “An all-stage fire blight control: Remote sensing, DNA, enzyme          which poses a significant threat to global apple and pear production
+and plant activator technologies for cankers, blossom blight and shoot blight”).
+                                                                                           e-Xtra: Supplementary material is available online.
+             Copyright © 2026 The Author(s). This is an open access article
+             distributed under the CC BY-NC-ND 4.0 International license.                  The author(s) declare no conflict of interest.
+
+
+
+                                                                                                                                                Vol. 10, No. 3, 2026   277
+(Aćimović et al. 2014a, b; Borba et al. 2023; Choi et al. 2022). This   be investigated (Liu et al. 2018, 2022). The function and diversity
+disease is characterized by blossom blight and shoot blight symp-         of Ea and other abundant members of canker microbial commu-
+toms, resulting in fruit and current year’s growth loss, respectively.    nities acting as symbionts or pathogens and their interaction with
+After infection of soft plant tissues, Ea invades wood and forms fire     the host are poorly understood in the etiology of the disease, but
+blight cankers. These symptoms represent three interrelated disease       can have crucial implications for its management (Aćimović et al.
+phases that, alone or in sequence, weaken tree vigor and can cause        2023; Liu et al. 2018; Santander et al. 2019, 2022a). This study
+tree death by girdling the key tree structures such as the central        aimed to characterize the microbiome of fire blight cankers on ap-
+leader, trunk, or rootstock, thus disrupting water and nutrient flow      ple trees. These cankers represent an important ecological niche in
+(Aćimović et al. 2023; Santander et al. 2022b).                         the fire blight pathosystem and act as a long-term battleground be-
+   Apple trees harbor diverse microbial communities, including bac-       tween beneficial and harmful microorganisms. Understanding this
+teria, fungi, and viruses, which play essential roles in plant health     aspect of plant-associated microbiota is critical to grasping the eco-
+(Kim et al. 2021). The composition of these communities varies            evolutionary dynamics that influence community interactions and
+among plant tissues and developmental stages (Lee et al. 2023).           can lead to new disease cycles in cases of dysbiosis. We hypothe-
+Previous studies have demonstrated significant differences in com-        sized that the microbiome of fire blight cankers on different apple
+munity composition and functional profiles between symptomatic            cultivars comprises a diverse array of microorganisms that could
+and asymptomatic apple trees, suggesting that microbial diversity         significantly influence plant ecology, health, and tissue physiology
+plays a critical role in disease dynamics (Muñoz-Ramírez et al.           in the vicinity of cankers. Although many microbial communities
+2024).                                                                    coexist without causing harm, certain members can potentially sup-
+   Bacterial communities in fire blight cankers on apple trees likely     press Ea or other plant pathogens, thereby enhancing plant resis-
+consist of endophytes that either suppress or promote disease pro-        tance to diseases. We also hypothesized that apple cultivars with
+gression. The composition of these communities is shaped by envi-         different levels of susceptibility to fire blight would have distinct
+ronmental conditions (e.g., humidity, temperature, water potential,       canker-associated bacterial communities.
+and soil quality), host cultivar susceptibility, and infection stage
+(Santander et al. 2022a). Stressors such as drought or nutrient de-
+ficiency could further alter these communities by weakening plant
+                                                                                            Materials and Methods
+defenses and increasing vulnerability to pathogens, such as Ea. Mi-       Field site and sampling
+crobes within cankers can play dual roles. Some exacerbate bark              Seven-year-old, bearing apple trees (Malus domestica) of mul-
+and xylem necrosis (e.g., Erwinia, Pseudomonas, and Neonectria),          tiple cultivars were planted in a high-density orchard with 1 m
+whereas others enhance resilience by competing with pathogens, in-        between trees and 2.5 m between rows. After a natural fire blight
+ducing systemic resistance, or improving nutrient cycling (Ali et al.     infection in 2022, fire blight cankers and healthy wood were har-
+2023; Lee et al. 2023). Unlike ephemeral flowers, cankers provide a       vested from these trees (Fig. 1). The trees were regularly irri-
+long-term ecological niche for pathogen–microbiome interactions.          gated, fertilized, and managed for pests, and were sampled on
+This highlights the importance of characterizing the microbial com-       1 and 2 November 2022. The orchard was located in Augusta
+munities within them to identify organisms that can be utilized as        County, Virginia, U.S.A. (global positioning system coordinates:
+biocontrol agents for sustainable disease management (Aćimović          38°11 51.825 N, 78°51 49.482 W). The orchard was planted for
+et al. 2023).                                                             fruit production and bud wood collection for grafting purposes. A
+   Fire blight canker formation in apples may arise from disrupted        total of 32 cankered wood samples from symptomatic trees and
+commensal microbial communities (dysbiosis), which is driven by           16 wood samples from healthy trees were collected on the 6 ap-
+abiotic stress or mechanical damage and facilitates colonization by       ple cultivars using the method described by Aćimović et al. (2023),
+pathogens like Ea. This necrotrophic pathogen employs virulence           including fresh fruit production cultivars Gala grafted on B.10 root-
+effectors to degrade cell walls and suppress immunity (e.g., hrp          stock, Aztec Fuji grafted on rootstock B.9, Cripps Pink (Pink Lady)
+gene cluster), and microbiome shifts (e.g., a decline in antagonistic     grafted on G.11 rootstock, and cider apple cultivars Granniwinkle
+Pseudomonas and Sphingomonas) favor secondary colonizers that             grafted on the M.9 rootstock clone Nic.29, and Hewe’s Crab grafted
+worsen necrosis (e.g., Pantoea) (Dagher et al. 2020; Johnson et al.       on G.11 rootstock. In addition, cankered and healthy wood sam-
+2000). Fire blight progression may correlate with reduced bacte-          ples were collected from one apple tree of unknown cultivar and
+rial diversity; however, the interactions between dysbiosis, patho-       rootstock, which served as an uncharacterized reference genotype
+bionts, and established canker communities are not well understood.       for comparison. The following are the ratings of the used cultivars
+Closing this knowledge gap is essential, especially in light of the       for their wood susceptibility to form cankers: Gala, highly sus-
+increasing prevalence of streptomycin-resistant Ea strains in the         ceptible; Aztec Fuji, tolerant or medium resistant to medium sus-
+United States (Borba et al. 2023; Santander and Aćimović 2025;          ceptible; Cripps Pink (Pink Lady), intermediate to moderately
+Tancos et al. 2016).                                                      susceptible; Granniwinkle, susceptible, Hewe’s Crab, highly sus-
+   Previous studies have revealed the members of the apple mi-            ceptible; unknown cultivar, unknown susceptibility (Kostick et al.
+crobiome and their variability across different plant organs, time,       2019; https://www.cumminsnursery.com/buy-trees/product-detail.
+location, tissue, cultivar, and environmental factors in various com-     php?type=scion&id=28630). Samples were labeled and stored at
+binations (Boutin et al. 2024; Cui et al. 2021; Li et al. 2018; Liu       −80°C until DNA was extracted.
+et al. 2018; Steven et al. 2018; Wallis et al. 2021). However, the
+composition of the fire blight canker microbiome has not yet been         DNA extraction and 16S rRNA amplification
+investigated. The genotypic characteristics of the host species de-          Fire blight cankers were collected by cutting the stem above and
+termine the associated microbiota. Apple scions closely related by        below the canker edges at a distance of 2.54 cm. Cankers were stored
+pedigree have a more similar microbial composition as a sign of co-       at −80°C until DNA extraction. Using a sterile scalpel, cankers
+evolution (Li et al. 2018). Different apple cultivars have been shown     were excised from the bark and vascular cambium encompassing
+to harbor different phyllospheric, rhizospheric, and endophytic mi-       the canker plus a 4-mm ring area of asymptomatic bark tissue be-
+crobial consortia. The composition of fire blight canker-associated       yond the canker margin. Simultaneously, healthy branch samples
+microbial communities within different apple cultivars remains to         were collected, and healthy bark was excised from them to ex-
+
+
+278   Phytobiomes Journal
+tract DNA. DNA was extracted according to the methods described              assessed for fragment size using the TapeStation system (Agilent
+by Santander et al. (2019, 2022a, b), without treating the tissue            Technologies, Waldbronn, Germany). For PacBio Sequel IIe se-
+with antioxidant maceration or propidium monoazide dye. Qubit                quencing, 500 ng of the purified amplicons were used to pre-
+(Invitrogen, Waltham, MA, U.S.A.) and 1% agarose gel elec-                   pare SMRTbell libraries with the SMRTbell Prep Kit 3.0. This
+trophoresis were used to check the DNA concentration, quality, and           was followed by annealing and polymerase binding according to
+integrity of the samples, respectively. Nearly full-length 16S rRNA          the PacBio Amplicon Sequencing Workflow. Sequencing was per-
+gene amplicons were generated from 2 ng of genomic DNA using                 formed using Sequel IIe chemistry with a SMRT Cell 8M and
+primers 27F (5 -AGRGTTYGATYMTGGCTCAG-3 ) and 1492R                         10-h movie acquisition. All steps were conducted according to the
+(5 -RGYTACCTTGTTACGACTT-3 ). Polymerase chain reaction                     manufacturer’s protocols for amplicon sequencing on the Sequel
+amplification was performed using LA Taq (Takara Bio, Kusatsu,               IIe platform (PacBio) by Macrogen (Seoul, Korea). The raw se-
+Japan) under the following conditions: initial denaturation at 94°C          quences were deposited in the NCBI Sequence Read Archive under
+for 5 min, followed by 25 cycles of 94°C for 30 s, 53°C for 30 s,            the BioProject number PRJNA1348523.
+and 72°C for 90 s, and a final extension at 72°C for 5 min. LA Taq
+has traditionally been used for amplifying large amplicons. How-             Structural comparison of the apple cultivar microbiomes
+ever, numerous studies have used LA Taq to amplify amplicons of                 We assessed the quality of the amplified sequence reads using
+various sizes, including the full-length 16S rRNA gene and variable          FastQC (Andrews 2010) and determined a cut-off score for low
+regions (approximately 60 to 500 bp). This suggests that LA Taq is           quality. Then the sequence reads underwent quality control,
+now used in microbiome analyses regardless of amplicon size. Fur-            diversity analysis, and taxonomic classification using the QIIME2
+thermore, LA Taq was chosen for PacBio sequencing because of its             (v2024.10) platform (Bolyen et al. 2019). DADA2 (Callahan et al.
+reported ability to produce the fewest polymerase chain reaction er-         2016) was used within QIIME2 to remove quality control and
+rors in negative control samples compared with other polymerases             sequence noise and to detect and remove chimeras. Cluster richness
+(Vasselon et al. 2025). The amplicons were then purified using               was determined by measuring alpha diversity estimates such as
+SMRTbell cleanup beads (Pacific Biosciences [PacBio], Menlo                  richness-based Chao1 and observed species, as well as cluster
+Park, CA, U.S.A.), quantified using PicoGreen (Invitrogen), and              uniformity estimates, including the Shannon and Simpson indices.
+
+
+
+
+Fig. 1. Fire blight cankers on apple wood used in the current study: A, side branch canker; B, large-size central leader canker that girdles the stem;
+C, medium-size central leader canker that does not girdle the stem; D, small-size canker that does not girdle the central leader stem.
+
+
+
+                                                                                                                           Vol. 10, No. 3, 2026   279
+Paired sample estimates and principal coordinate analysis (beta           (up to 96% relative abundance), Alphaproteobacteria, and Ab-
+diversity) were analyzed using the Bray–Curtis dissimilarity index        ditibacteria were dominant in canker tissues. The differences in
+to visualize differences in communities between healthy and dis-          the species richness parameters (ACE, Chao1, Jackknife, No. of
+eased bark samples (Somerfield 2008). Sequences were assigned to          identified species) between the two sample sets were statistically
+species using the Silva 138 Reference Taxonomy Database (https://         significant (P < 0.01) (Fig. 2B; Supplementary Fig. S2), whereas
+docs.qiime2.org/2019.1/data-resources/). Amplicon sequence                only the phylogenetic diversity parameter of the diversity index was
+variant (ASV) abundances were rarefied to the same sequencing             statistically different (P < 0.001) between canker and healthy bark
+depth and normalized in QIIME2 to enable fair sample comparison.          samples. Based on the alpha diversity metrics (Fig. 2B), analysis of
+                                                                          the rarefied ASV table revealed minimal variability (consistent bac-
+Statistical analysis and machine learning algorithms                      terial species) in the canker samples, with a higher number of ASVs
+   An analysis of variance was performed on the experimental              present in the cultivar Cripps Pink. There were no statistical differ-
+datasets using R software (v3.6.3) (R Core Team 2020). The magni-         ences between the other five cultivars. With evenness values of 1
+tude of the F value (P < 0.05) determined the statistical significance    and 4 in the Shannon and Simpson indices, respectively, the canker
+of the treatment. The Shannon index, Simpson index, and Chao1             samples showed greater diversity and richness than the healthy bark
+metric were calculated using QIIME2. A Random Forest analysis             samples, which showed evenness values of 0 to 0.75 (Simpson) and
+(Liaw and Wiener 2002) was performed in R to identify the most            0 to 2 (Shannon). The healthy apple bark microbiome showed no
+significant bacterial species for each apple cultivar canker, using the   significant statistical differences among the six cultivars except for
+ASV table obtained from microbiome analysis. Based on the mi-             Simpson’s index. According to this index, Aztec Fuji, Hewe’s Crab,
+crobial community data, the abundance of functional gene families         and an unknown cultivar were in group 1, Cripps Pink was in group
+was predicted using the FAPROTAX database (Louca et al. 2016).            2, and Granniwinkle and Gala were in group 3.
+FAPROTAX analysis was performed using the microeco package
+(Liu et al. 2021) in R software (v4.3.1). Dirichlet-multinomial clus-     Structural comparison of the apple cultivar microbiomes
+tering was used to cluster and classify the microbial community              The Bray–Curtis dissimilarity index revealed significant dif-
+data. Dirichlet-multinomial analysis was performed using the R            ferences (P = 0.001) in bacterial communities between canker-
+program. Count data were fitted to k values ranging from 1 to 7           affected and healthy samples. Permutational analysis of variance
+to fit the Dirichlet-multinomial model. The results for k = 4 are         showed that health status (healthy versus diseased) significantly
+presented (Holmes et al. 2012). Bacterial taxa showing significant        explained variation in the microbial community (R2 = 17.2%, P =
+differences between cankered and healthy samples were analyzed            0.001, F value = 9.35), whereas cultivar alone had no significant
+using the linear discriminant analysis effect size (LEfSe) algorithm      effect (P = 0.223). However, the interaction between health status
+(Segata et al. 2011). All analyses and graphs were generated using        and cultivar was significant (R2 = 12.4%, P = 0.016, F value =
+R packages, including ggplot2, microbiome, DirichletMultinomial,          1.43), suggesting that shifts in the disease-associated microbiome
+reshape2, magrittr, and dplyr.                                            depend on the host cultivar. Pairwise comparisons confirmed strong
+                                                                          differentiation between healthy and diseased samples (P = 0.001).
+Cooccurrence network analysis                                             Because the Bray–Curtis index measures compositional dissimilar-
+   We investigated the potential interactions between bacterial           ity, the separation implies that the two groups have different relative
+species of all six apple cultivars using the SparCC (Sparse Correla-      abundances of taxa (or features). The disease state is likely a major
+tions for Compositional Data) (Friedman and Alm 2012) approach            driver of community differences (Fig. 3).
+to construct intrakingdom (bacterial–bacterial) networks in canker
+and healthy microbiota. We performed network analysis using the           Dominant bacterial taxa, LEfSe, and community drivers
+Molecular Ecological Network Analysis Pipeline (MENAP) (Deng                 Figure 4A shows the relative abundance heatmap of bacterial
+et al. 2012; Feng et al. 2022), making only minor changes to the set-     genera detected in all canker samples. The top five most domi-
+tings. The majority selection function was set to 5 and 0 (canker)        nant taxa within the apple cultivars were Erwinia, Sphingomonas,
+and 1 (healthy) for the first and second tables, respectively. The        Massilia, Pantoea, and Novosphingobium (Fig. 4A). Applying
+SparCC pseudo P value calculation was performed based on these            Random Forest classification to relative abundance identified the
+settings, and the threshold value for filtering the SparCC results        major bacterial groups associated with the canker tissue of each
+was set to 0.2. Only significant correlations (P < 0.01) were in-         cultivar. This method effectively identifies key bacterial taxa asso-
+cluded. Global network properties were calculated in MENAP. We            ciated with plant health outcomes, such as resistance or suscepti-
+graphed the networks using Cytoscape and Gephi (Bastian et al.            bility, among apple cultivars. The Rhizobia group (Allorhizobium-
+2009; Shannon et al. 2003).                                               Neorhizobium-Pararhizobium-Rhizobium) was the most abundant
+                                                                          bacterial taxa associated with Aztec Fuji; the genera Friedman-
+                                                                          niella, Aurantisolimonas, Deinococcus were dominantly associ-
+                             Results                                      ated with Cripps Pink; Cutibacterium and Gibbsiella dominated
+Bacterial diversity in the apple cultivars                                the canker tissues of Gala cultivar, followed by Nocardioides and
+  After removing chimeras, full-length 16S rRNA amplicon se-              Shimwellia, which were more abundant in Hewe’s Crab cultivar
+quencing using the SMRTbell technology from PacBio resulted in            (Fig. 4B).
+1,817,968 reads that were assigned to 2,322 ASVs. These ASVs                 LEfSe is a method used to identify and interpret features with
+were identified in both canker and healthy samples. The number of         differing abundances across groups or conditions. The method re-
+unique ASVs observed in canker samples ranged from 16 to 470,             veals which features, such as organisms or genes, are significantly
+with a mean of 130 ASVs. In contrast, the range in healthy samples        more prevalent in one group than in another. LEfSe then uses linear
+was 1 to 22, with a mean of 5 ASVs (Supplementary Fig. S1). The           discriminant analysis to assess the effect sizes of these features,
+ASV table was used for subsequent community analysis. Figure 2A           ranking them according to their significance. Consistent with the
+shows the relative abundance of bacterial communities assigned to         LEfSe results, Erwinia dominated the canker microbiome (relative
+21 bacterial classes in 2 sample sets. Bacilli and Acidobacteria          abundance > 5.0 and linear discriminant analysis score > 5.0 log10 )
+were abundant in healthy samples, whereas Gammaproteobacteria             along with Bacillus spp. in healthy bark microbiomes (Fig. 5A).
+
+
+280   Phytobiomes Journal
+Ea ASVs comprise the most prominent bacterial taxa in canker                                                                        drivers per Dirichlet multinomial mixtures (DMM) clusters. Cur-
+samples (Fig. 5B), with cultivar Cripps Pink, followed by Gala, har-                                                                tobacterium flaccumfaciens pv. flaccumfaciens, Novosphingobium
+boring dozens of pathogenic bacteria (Fig. 5C). ASVs 1032, 2281,                                                                    fluoreni, Methylobacterium, and Microbacterium followed them
+0473, and 2300, which belong to Ea, were the main community                                                                         (Fig. 5D).
+
+
+
+          A                                100%
+
+
+                                               90%
+ Relative abundance (%)
+
+
+
+
+                                               80%
+                          (Class level)
+
+
+
+
+                                               70%
+
+
+                                               60%
+
+
+                                               50%
+
+
+                                               40%
+
+
+                                               30%
+
+
+                                               20%
+
+
+                                               10%
+
+
+                                                    0%
+
+
+
+
+                                                                                   Healthy                                                                                              Canker
+                                  c__Phycisphaerae                            c__Clostridia                c__Deinococci                        c__Verrucomicrobiae                               c__Acidimicrobiia                 c__Abditibacteria
+                                  c__Bdellovibrionia                          c__Fimbriimonadia            c__Planctomycetes                    c__Oligoflexia                                    c__Polyangia                      c__Thermoleophilia
+                                  c__Saccharimonadia                          c__Myxococcia                c__Acidobacteriae                    c__Fusobacteriia                                  c__Bacteroidia                    c__Actinobacteria
+                                  c__Bacilli                                  c__Alphaproteobacteria       c__Gammaproteobacteria
+
+
+        B                                           1.00
+                                                           a        a   a      a     a   a                                                                            a
+                                                                                                                                                                               a
+                                                                                                   b   b                                                                                 a
+                                                                                              b                                                                                               a
+                                                                                                                                                                                                       a
+
+                                                    0.75                                                                                              4       a
+                                                                                                                                    Shannon
+                               Simpson
+
+
+
+
+                                                    0.50                                                                                                                                                    b
+                                                                                                              bc                                                                                                            b
+                                                                                                                                                      2                                                             b
+
+                                                    0.25
+                                                                                                                                                                                                                                    b
+                                                                                                                       c   c                                                                                                                b       b
+                                                    0.00                                                                                              0
+
+
+
+
+                                                    500            ab                                                                                 500                 ab
+
+
+                                                               a        ab                                                                                        a                ab
+                                                    400                                                                                               400
+                                         Observed
+
+
+
+
+                                                    300                                                                                               300
+                                                                                                                                              Chao1
+
+
+
+
+                                                                                    ab                                                                                                            ab
+
+                                                    200                       ab                                                                      200                                ab            ab
+                                                                                         ab
+
+
+                                                    100                                                                                               100
+                                                                                              b                                                                                                                 b
+                                                                                                   b   b                                                                                                                b       b       b       b       b
+                                                                                                              b    b       b
+                                                       0                                                                                                  0
+
+
+
+
+                                                                             Canker                        Healthy                                                                       Canker                                     Healthy
+
+Fig. 2. The composition of the microbial community in the canker and healthy bark of each apple variety was analyzed using 16S amplicon sequenc-
+ing, with colors representing different classes. This figure indicates quantitative profiling of microbial communities. A, The graph shows the relative
+abundance of microbial communities, which is a quantitative output. B, Alpha diversity measurements using general indices (Simpson, Shannon,
+observed phylogenetic diversity, Chao1) to visualize differences in the microbial community of canker and healthy bark for each apple variety.
+
+
+
+                                                                                                                                                                                                                                Vol. 10, No. 3, 2026        281
+Predicting functional profiles of the apple microbiome                                                            function were detected in Cripps Pink, Gala, Hewe’s Crab, Aztec
+   The FAPROTAX database was used to predict functional dif-                                                      Fuji, an unknown cultivar, and Granniwinkle canker tissues, respec-
+ferences between canker-affected and healthy bark samples. The                                                    tively. The two functions, anaerobic and aerobic chemoheterotro-
+highest number of ASVs for the anaerobic chemoheterotrophy                                                        phy, seem complementary; therefore, the order of functional
+
+
+Fig. 3. Principal coordinates analysis based
+on the Bray–Curtis index shows the micro-
+biome structure of healthy and cankered
+wood tissues. Samples are colored according
+to the apple cultivar.
+
+
+
+
+A       Genus      Cripps Pink   Aztec Fuji        Gala              Hewe’s Crab             Granniwinkle   Unknown      B
+                                                                                                             cultivar
+
+         Erwinia
+   Sphingomonas                                                                                                          g__Friedmanniella
+
+        Massilia
+
+         Pantoea
+                                                                                                                        g__Aurantisolimonas
+Novosphingobium
+
+      Kosakonia
+                                                                                                                             g__Deinococcus
+    Pseudomonas
+
+      Rhizobium
+
+  Methylorubrum                                                                                                               g__Rhizobium
+
+  Curtobacterium
+
+  Staphylococcus
+                                                                                                                            g__Cutibacterium
+  Amnibacterium
+
+      Variovorax
+
+Stenotrophomonas                                                                                                                g__Gibbsiella
+
+   Cutibacterium                                                                                                                                                                                              Group
+
+                                                                                                                                                                                                                 Cripps Pink
+       Duganella                                                                                                              g__Nocardioides                                                                    Aztec Fuji
+
+  Friedmanniella                                                                                                                                                                                                 Gala
+                                                                                                                                                                                                                     ,
+                                                                                                                                                                                                                 Hewe s Crab
+Chryseobacterium                                                                                                                                                                                                 Granniwinckle
+                                                                                                                               g__Shimwellia
+                                                                                                                                                                                                                 Unknown cultivar
+Mucilaginibacter
+
+   Xanthomonas                                                                                                                                  0      1     2      3    0.00   0.02         0.04      0.06           0.08
+
+
+                                                                                                                                                    Mean Decrease Gini                 Relative abundance
+                                       % Relative abundance
+                                                                                     10.00
+                                                              0.01
+
+                                                                       0.10
+
+                                                                              1.00
+
+
+
+
+Fig. 4. Heatmap of microbial community abundance in cankers by apple variety. Abundances of the top 20 most abundant bacterial genus levels.
+A, Blue: 1 or less; red: 1 or more. B, Random Forest model detects bacterial taxa that accurately predict canker for each apple variety. The top
+eight bacterial groups were identified by applying Random Forest classification to the relative abundance of canker microbiota for the four cultivars.
+Additionally, the relative abundance of each microflora was indicated.
+
+
+
+282      Phytobiomes Journal
+intensity is opposite. Relatively higher abundances of ASVs related        Cooccurrence network analysis
+to aerobic chemoheterotrophy were detected in Gala, whereas rela-            We used SparCC to identify significant interactions between
+tively intense ASVs related to aerobic chemoheterotrophy activity         canker- and healthy-associated ASVs. Notable differences in bacte-
+were detected in Cripps Pink, the unknown cultivar, and Granni-           rial cooccurrence networks were observed between the two datasets.
+winkle. No ASVs related to anaerobic or aerobic chemoheterotro-           Bacterial–bacterial network analysis revealed that the canker
+phy were detected in healthy Hewe’s Crab tissues. The carbon cy-          samples were assigned to 10 distinct groups (Fig. 7A), with a
+cling processes in healthy and canker tissues differed significantly      total of 160 nodes and 1,586 links (edges). When the majority
+among cultivars. Fermentation was identified as the major func-           selection parameter in the SparCC pipeline was set to 5, a neg-
+tional variation compared with unique functional activities, includ-      ative correlation was observed between Ea and other bacterial
+ing hydrocarbon degradation, methanotrophy, and methylotrophy             taxa, including Pedobacter, Plantibacter, Sphingomonas roseiflava,
+in healthy samples, which corresponded to specific cultivars, es-         Pigmentiphaga, Novosphingobium fluoreni, Kineococcus, Sphin-
+pecially Gala, followed by Aztec Fuji and the unknown cultivar            gomonas, Pseudomonas, Altererythrobacter, Aureimonas, Corti-
+(Fig. 6). Only ureolysis differed significantly between healthy and       cibacterium populi, Cutibacterium, and Roseomonas, with cor-
+cankered samples in nitrogen cycle functioning. Statistically signif-     relation values ranging from −0.24 to −0.45 (P < 0.05) (Fig.
+icant phytopathogenic activities were observed in canker tissues of       7B). Negative interactions were also detected between Ea ASVs
+the Cripps Pink cultivar, whereas no phytopathogenic ASVs were            (majority selection threshold = 0) and other bacterial taxa (to-
+detected in healthy bark tissues. ASVs involved in methanol oxida-        tal of 17 nodes and a total of 27 links), including Novosphin-
+tion were only detected in the healthy bark of Gala cultivar, and a       gobium fluoreni, Variovorax, Methylobacterium–Methylorubrum,
+significantly smaller proportion was detected in the Aztec Fuji, and      Rathayibacter, Pseudomonas psychrotolerans, Sphingomonas, and
+unknown cultivars (Fig. 6).                                               members of the Rhizobia and Comamonadaceae groups. These
+
+
+
+
+                                                                                                                                     (Continued)
+Fig. 5. A, Variations in amplicon sequence variant (ASV) abundance between healthy bark and canker microbiomes according to linear discrim-
+inant analysis effect size (LEfSe) analysis and Dirichlet multinomial mixtures (DMM) clustering of 16S rRNA gene sequencing data (n = 32).
+B, The entire data set formed four distinct clusters based on the lowest Laplace approximation. Heat map showing the relative abundance of
+the most dominant bacterial genera per DMM cluster. Six ASVs that show differences depending on the cluster are expressed in red font. C, Bar
+plot showing the diversity (abundance and Shannon’s diversity) of Erwinia amylovora ASVs in each cultivar. D, The top 10 drivers in DMM cluster-
+ing and the classification position of each ASV were identified through the National Center for Biotechnology Information’s Basic Local Alignment
+Search Tool (BLAST). LDA, linear discriminant analysis; CP, Cripps Pink; Fuji, Aztec Fuji; HW, Hewe’s Crab; Nic, Granniwinckle; UN, unknown
+cultivar.
+
+
+
+                                                                                                                       Vol. 10, No. 3, 2026   283
+interactions ranged from −0.28 to −0.45 (Figs. 7C and D) (0: keep           to zero. Nodes with maximum degree, nodes with maximum be-
+only ASVs or species detected in more than half of the sam-                 tweenness, and nodes with maximum stress centrality values high-
+ples). A positive correlation was observed between Ea and Fried-            lighted the role of Ea ASV1032 (threshold = 0, Fig. 7C; Table
+manniella, Curtobacterium, Novosphingobium, Nocardioides, and               1), followed by the genera Mucilaginibacter, Nocardioides, and
+Methylobacterium–Methylorubrum (P < 0.05, majority selection                Sphingomonas in a more complex network (threshold = 5, Fig. 7A;
+threshold = 5), with a correlation value ranging from 0.26 to               Table 1).
+0.92. Additionally, a positive correlation was detected between                Negative and positive interactions were identified among healthy
+Ea ASVs and Pantoea, with a majority selection threshold set                bark bacterial taxa (majority selection threshold = 1; 51 nodes
+
+
+
+Fig. 5. (Continued from previous page)
+                                                                                                                                        K_means
+  B
+
+                                                                                                                                           Cluster: 3, Size: 4
+                                                                                                                                                                  15,000
+
+
+
+
+                                                                                                                                           Cluster: 1, Size: 5
+
+
+
+                                                                                                                                                                  10,000
+
+
+
+
+                                                                                                                                           Cluster: 2, Size: 11
+
+
+
+
+                                                                                                                                                                  5,000
+
+                                                                                                                                           Cluster: 4, Size: 12
+           ASV2281
+           ASV2300
+           ASV1630
+           ASV1160
+           ASV2248
+           ASV0020
+           ASV0280
+           ASV1845
+           ASV1998
+           ASV1320
+           ASV1428
+           ASV0607
+           ASV1974
+           ASV2189
+           ASV0110
+           ASV1088
+           ASV1782
+           ASV0981
+                             ASV1378
+                             ASV1157
+                             ASV0429
+                             ASV1572
+                             ASV0649
+                             ASV1546
+                             ASV0439
+                             ASV1280
+                             ASV0369
+                             ASV0590
+                             ASV0785
+                             ASV1253
+                             ASV1806
+                             ASV0536
+                                       ASV1139
+                                       ASV0291
+                                       ASV1685
+                                       ASV1254
+                                       ASV0495
+                                       ASV1121
+                                       ASV0655
+                                       ASV0891
+                                       ASV2184
+                                       ASV1122
+                                       ASV0636
+                                       ASV1671
+                                       ASV2220
+                                       ASV1047
+                                       ASV1389
+                                       ASV0878
+                                       ASV1073
+                                       ASV1585
+                                       ASV0310
+                                       ASV1231
+                                       ASV1522
+                                       ASV1143
+                                       ASV1394
+                                       ASV1458
+                                       ASV1643
+                                       ASV0024
+                                       ASV0635
+                                       ASV0044
+                                       ASV1168
+                                       ASV0560
+                                                             ASV0295
+                                                             ASV1277
+                                                             ASV2211
+                                                             ASV1387
+                                                             ASV1774
+                                                                       ASV2031
+                                                                       ASV0266
+                                                                       ASV0579
+                                                                       ASV1358
+                                                                       ASV1113
+                                                                       ASV1539
+                                                                       ASV1119
+                                                                       ASV0183
+                                                                       ASV0498
+                                                                       ASV0111
+                                                                       ASV1028
+                                                                       ASV0118
+                                                                       ASV1628
+                                                                       ASV0228
+                                                                       ASV0485
+                                                                       ASV0644
+                                                                       ASV0344
+                                                                       ASV1209
+                                                                       ASV1342
+                                                                       ASV0503
+                                                                       ASV0516
+                                                                       ASV2141
+                                                                       ASV0648
+                                                                       ASV1726
+                                                                       ASV0075
+                                                                       ASV0486
+                                                                       ASV0297
+                                                                       ASV1849
+                                                                       ASV1599
+                                                                       ASV0665
+                                                                       ASV0894
+                                                                       ASV1827
+                                                                       ASV2156
+                                                                       ASV0163
+                                                                       ASV0955
+                                                                       ASV0413
+                                                                       ASV0688
+                                                                       ASV0559
+                                                                       ASV1765
+                                                                       ASV2308
+                                                                       ASV0167
+                                                                       ASV1728
+                                                                       ASV0400
+                                                                       ASV0840
+                                                                                                                ASV0039
+                                                                                                                ASV1035
+                                                                                                                ASV2048
+                                                                                                                ASV0460
+                                                                                                                ASV1639
+                                                                                                                ASV0926
+                                                                                                                ASV0374
+                                                                                                                ASV1943
+                                                                                                                ASV1529
+                                                                                                                ASV1958
+                                                                                                                ASV1085
+                                                                                                                ASV2238
+                                                                                                                ASV0410
+                                                                                                                ASV0663
+                                                                                                                ASV1928
+                                                                                                                ASV0033
+                                                                                                                ASV1961
+                                                                                                                ASV0704
+                                                                                                                                 ASV1670
+                                                                                                                                 ASV0573
+                                                                                                                                 ASV1377
+                                                                                                                                 ASV0316
+                                                                                                                                 ASV1569
+                                                                                                                                 ASV0729
+                                                                                                                                 ASV0331
+                                                                                                                                 ASV2053
+                                                                                                                                 ASV0899
+                                                                                                                                 ASV1885
+                                                                                                                                 ASV0473
+                                                                                                                                 ASV1032
+                                                                                                                                                                  0
+
+
+
+
+  C
+
+
+
+
+                  D
+                                         Top 10 drivers: Community type 1
+
+                             ASV1032
+
+                             ASV0473
+                                                                                     Erwinia amylovora
+                             ASV2281
+
+                             ASV2300
+
+                             ASV1630                                                 Curtobacterium flaccumfaciens pv. flaccumfaciens
+                       OTU
+
+
+
+
+                             ASV0729                                                 Novosphingobium fluoreni
+
+                             ASV2053                                                 Methylobacterium sp.
+
+                             ASV0163                                                 Curtobacterium flaccumfaciens pv. flaccumfaciens
+
+                             ASV1569                                                 Methylobacterium sp.
+
+                             ASV0840                                                 Microbacterium sp.
+
+
+                                                         Value
+
+
+
+
+284   Phytobiomes Journal
+and 698 links in total), including ASVs belonging to the genus                                                   and ASV345 (Nocardioides). No keystone taxa were found in either
+Bacillus (the dominant taxa after majority selection in the SparCC                                               healthy bark or canker networks (Supplementary Fig. S3). Cooccur-
+pipeline) and other microbiome members. These interactions were                                                  rence networks revealed disrupted microbial interactions in cankers
+even observed between different Bacillus ASVs within the micro-                                                  (T = 0) (Fig. 7C). These networks were characterized by fewer con-
+biota (Fig. 8A). According to nodes with maximum degree, be-                                                     nections (X versus Y edges) and a loss of hub taxa. The collapse of
+tweenness, stress centrality, eigenvector centrality, and closeness                                              the canker network suggests that the disease disrupts stable mi-
+centrality values, the roles of Bacillus and Amnibacterium in the                                                crobial interactions (T = 5 versus T = 0) and that pathogens may
+network analysis of the healthy microbiome were highlighted (Fig.                                                outcompete beneficial taxa.
+8A; Table 1). Figure 8B shows the correlation values between dif-
+ferent combinations.
+   Bacterial interactions in healthy bark and canker networks were
+                                                                                                                                                                                       Discussion
+dominated by a mixture of cooccurrence and coexclusion evidence,                                                    Intensive research is underway worldwide to develop effective
+or positive and negative interactions. As expected, Ea infection and                                             fire blight control strategies, including the use of more biocontrol
+establishment altered the structure and taxonomic composition of                                                 agents (Barbé et al. 2022; Choi et al. 2022; Dagher et al. 2020;
+the networks. Different majority selection values resulted in differ-                                            Gschwend et al. 2021; Han et al. 2024; Lee et al. 2024; Lim et al.
+ent numbers of nodes and edges. Healthy bark networks were denser                                                2024; Medhioub et al. 2022; Mikiciński et al. 2016; Pedroncelli et al.
+than canker networks (0.54 versus 0.12 to 0.19). This indicates that                                             2022; Pusey et al. 2011; Roselló et al. 2013; Sadanov et al. 2024;
+healthy-bark-associated bacterial taxa interacted with each other                                                Stockwell et al. 2002). Previous studies have only explored flowers,
+more than those in cankers did (Table 1). According to these criteria,                                           leaves, fruit, and the rhizosphere as ecological niches for the apple
+the healthy bark network and the canker network were better con-                                                 microbiome (Abdelfattah et al. 2021, 2022; Ajeethan et al. 2023;
+nected, with closeness centrality values of 0.43 versus 0.13 to 0.16,                                            Ali et al. 2024; Arrigoni et al. 2018; Boutin et al. 2024; Gschwend
+betweenness centrality values of 0.24 versus 0.16 to 0.41, and eigen-                                            et al. 2021; Kim et al. 2021). This study provides the first insight
+vector centrality values of 0.36 versus 0.6 to 0.7. Zi and Pi values                                             into the composition of bacterial communities associated with fire
+identified three ASVs as module hubs in the canker network                                                       blight cankers and healthy bark on different apple cultivars with
+(T = 5): ASV1961 (Novosphingobium), ASV1877 (Variovorax),                                                        varying susceptibility to fire blight. Because Ea permanently resides
+
+
+ Energy                                                                                                                                                                                Photoheterotrophy
+                                                                                                                                                                                                                             Percentage (%)
+                                                                                                                                                                                       Anaerobic_chemoheterotrophy
+ source
+                                                                                                                                                                                       Aerobic_chemoheterotrophy
+                                                                                                                                                                                                                                       75
+                                                                                                                                                                                       Xylanolysis
+                                                                                                                                                                                                                                       50
+                                                                                                                                                                                       Oil_bioremediation
+                                                                                                                                                                                       Methylotrophy
+                                                                                                                                                                                                                                       25
+                                                                                                                                                                                       Methanotrophy
+ C-cycle                                                                                                                                                                               Hydrocarbon_degradation                         0
+                                                                                                                                                                                       Fermentation
+                                                                                                                                                                                       Chitinolysis
+                                                                                                                                                                                       Cellulolysis
+                                                                                                                                                                                       Ureolysis
+                                                                                                                                                                                       Nitrous_oxide_denitrification
+                                                                                                                                                                                       Nitrogen_respiration
+                                                                                                                                                                                       Nitrogen_fixation
+                                                                                                                                                                                       Nitrite_respiration
+                                                                                                                                                                                       Nitrite_denitrification
+ N-cycle                                                                                                                                                                               Nitrate_respiration
+                                                                                                                                                                                       Nitrate_reduction
+                                                                                                                                                                                       Nitrate_denitrification
+                                                                                                                                                                                       Denitrification
+                                                                                                                                                                                       Predatory_or_exoparasitic
+                                                                                                                                                                                       Plant_pathogen
+                                                                                                                                                                                       Phototrophy
+                                                                                                                                                                                       Methanol_oxidation
+                                                                                                                                                                                       Manganese_oxidation
+                                                                                                                                                                                       Mammal_gut
+                                                                                                                                                                                       Invertebrate_parasites
+                                                                                                                                                                                       Intracellular_parasites
+                                                                                                                                                                                       Human_pathogens_pneumonia
+  Other                                                                                                                                                                                Human_pathogens_all
+                                                                                                                                                                                       Human_gut
+                                                                                                                                                                                       Human_associated
+                                                                                                                                                                                       Dark_hydrogen_oxidation
+                                                                                                                                                                                       Aromatic_hydrocarbon_degradation
+                                                                                                                                                                                       Aromatic_compound_degradation
+                                                                                                                                                                                       Animal_parasites_or_symbionts
+                                                                                                                                                                                       Aliphatic_non_methane_hydrocarbon_degradation
+              Cripps Pink
+
+
+
+
+                            Aztec Fuji
+
+
+
+
+                                            Gala
+
+
+
+
+                                                   Hewe’s Crab
+
+
+
+
+                                                                 Granniwinkle
+
+
+                                                                                Unknown cultivar
+
+
+                                                                                                   Cripps Pink
+
+
+                                                                                                                   Aztec Fuji
+
+                                                                                                                                Gala
+                                                                                                                                       Hewe’s Crab
+
+                                                                                                                                                     Granniwinkle
+
+                                                                                                                                                                    Unknown cultivar
+
+
+
+
+                                         Canker                                                                                 Healthy
+
+Fig. 6. Distribution of bacterial features in the FAPROTAX database for cankers and healthy bark of different apple varieties. Different colors indicate
+the relative abundance of groups in individual samples. Samples are grouped according to their similarity to each other. C, carbon; N, nitrogen.
+
+
+
+                                                                                                                                                                                                                Vol. 10, No. 3, 2026    285
+                                                                                                                                       (Continued)
+Fig. 7. Apple microbiome cooccurrence network analysis in canker samples. The network was constructed using the SparCC (Sparse Correlations
+for Compositional Data) pipeline. The minimum correlation value was set to 0.2. Positive or negative relationships between bacterial taxa were
+shown for each combination. A, Canker microbiome network (majority selection threshold = 5). B, Positive/negative interactions between Erwinia
+amylovora amplicon sequence variants and other bacterial taxa at majority selection threshold = 5. C, Canker microbiome network (majority selection
+threshold = 0). D, Corresponding positive/negative interactions between E. amylovora amplicon sequence variants and other bacterial taxa in canker
+microbiome at majority selection threshold = 0.
+
+
+
+286   Phytobiomes Journal
+in fire blight cankers, these cankers are an important ecological       whereas canker tissues were enriched with Erwinia, Pantoea, Sphin-
+niche for Ea’s survival, dissemination, and long-term interaction       gomonas, and Massilia. This indicates a transition from a balanced
+with the endophytic and epiphytic microbiome. Therefore, cankers        microbiome to a pathogen-driven pathobiome (Kim et al. 2021;
+are extremely significant for mining microbiomes to search for new      Santander et al. 2022a).
+and effective management strategies.                                       Beta-diversity and permutational analysis of variance analyses
+   Fire blight cankers are a unique ecological niche in which Ea        confirmed that disease status was the primary factor shaping the
+persists and interacts with other bacterial species in woody tissues.   microbiome (Fig. 3). Cultivar identity and its interaction with
+Long-read SMRT sequencing revealed a distinct shift in commu-           infection also contributed to compositional changes. Specific
+nity structure between healthy and diseased apple bark (Fig. 2).        apple cultivars were dominated by a few bacterial taxa, suggesting
+Healthy bark was dominated by Bacillus and Acidobacteria,               interactions or symbioses within cultivars (Fig. 4). These findings
+
+
+
+Fig. 7. (Continued from previous page)
+
+                                C
+
+
+
+
+   D
+
+
+
+                                                                                                                            Interaction
+                                                                                                                               Negative
+                                                                                                                               Positive
+
+
+                                                                                                                            Correlation strength
+                                                                                                                                  0.3
+                                                                                                                                  0.4
+                                                                                                                                  0.5
+                                                                                                                                  0.6
+
+                                                                                                                                  0.7
+
+                                                                                                                                  0.8
+
+
+
+
+                                                                                                                  Vol. 10, No. 3, 2026        287
+are consistent with previous studies indicating that apple genotypes       The dominance of Ea within diseased samples was confirmed by
+influence aboveground microbial assemblages (Abdelfattah et al.         machine-learning analyses, including Random Forest, LEfSe, and
+2021; Liu et al. 2018, 2022). The higher richness observed in           DMM clustering (see Figs. 4 and 5). Cripps Pink and Gala har-
+cankered tissues (Fig. 2B) likely reflects secondary colonization       bored the highest number of Ea ASVs among cultivars, suggesting
+during tissue necrosis. This contrasts with the reduced diversity       that pathogen enrichment may depend on host genotype. Never-
+reported for the rhizosphere of infected trees (Kim et al. 2021).       theless, several nonpathogenic genera, including Sphingomonas,
+We believed that increased richness was a sign of ecosystem             Novosphingobium, Pantoea, Methylobacterium, Methylorubrum,
+dysfunction rather than health. It indicates a transition from a        and Microbacterium, consistently coexisted with the pathogen (Fig.
+tightly regulated, host-selected microbiome to an open, necrotic        5D). Pantoea species have been reported to exhibit dual roles, act-
+environment that operates under different ecological principles.        ing as either antagonists or opportunists toward Ea through an-
+We attribute this pattern to saprophytic enrichment, rather than        tibiotic and siderophore production (Dagher et al. 2020; Johnson
+functional resilience—the secondary colonization of necrotic tissue     et al. 2000). Similarly, Sphingomonas and Novosphingobium pro-
+by diverse opportunists. This distinction is important because,         tect apple tissues from fire blight infection (Lee et al. 2023). The
+although taxonomic diversity increases, the functional stability        abundant occurrence of Methylobacterium–Methylorubrum, partic-
+of the microbiome decreases, as demonstrated by the breakdown           ularly in Gala, supports its previously suggested role in methanol
+of cooccurrence networks (see Fig. 7C). In the context of this          oxidation and pathogen suppression through competition for
+disease, increased richness signifies the breakdown of a healthy,       carbon substrates (Arrigoni et al. 2018; Palberg et al. 2024). Fur-
+host-regulated microbiome and its replacement by a community of         thermore, the negative correlation between Erwinia and Microbac-
+decomposers, rather than being a marker of ecological health.           teriaceae members, including Microbacterium, Curtobacterium,
+
+
+                                                                TABLE 1
+                Network topology parameters within the constructed cooccurrence analysis in canker and healthy microbiota
+                                                                       Canker network                             Healthy bark network
+ Parameter                                               Threshold 5                    Threshold 0                    Threshold 1
+ R square of power-law                                       0.033                          0.913                          0.0007
+ Average degree (avgK)                                      19.825                          3.176                        27.372
+ Average clustering coefficient (avgCC)                      0.267                          0.439                          0.701
+ Average path distance (GD)                                  2.032                          1.990                          1.456
+ Geodesic efficiency (E)                                     0.5361                         0.588                          0.773
+ Harmonic geodesic distance (HD)                             1.865                          1.700                          1.293
+ Maximal degree                                             39                            11                             45
+ Nodes with maximal degree                       ASV451-Mucilaginibacter sp.    ASV1032-Erwinia amylovora         ASV1308-Bacillus sp.
+ Centralization of degree (CD)                               0.120                          0.489                          0.352
+ Maximal betweenness                                       281.914                        52.666                         40.455
+ Nodes with maximal betweenness                   ASV345-Nocardioides sp.       ASV1032-Erwinia amylovora         ASV1308-Bacillus sp.
+ Centralization of betweenness (CB)                          0.0160                         0.411                          0.0241
+ Maximal stress centrality                               2501                             75                            435
+ Nodes with maximal stress centrality             ASV345-Nocardioides sp.       ASV1032-Erwinia amylovora         ASV1308-Bacillus sp.
+ Centralization of stress centrality (CS)                    0.137                          0.572                          0.243
+ Maximal eigenvector centrality                              1                              1                              1
+ Nodes with maximal eigenvector centrality       ASV451-Mucilaginibacter sp.    ASV1032-Erwinia amylovora      ASV341-Amnibacterium sp.
+ Centralization of eigenvector centrality (CE)               0.604                          0.706                          0.36
+ Maximal closeness centrality                                0.003                          0.019                          0.018
+ Nodes with maximal closeness centrality          ASV345-Nocardioides sp.       ASV1032-Erwinia amylovora         ASV1308-Bacillus sp.
+                                                 ASV1290-Sphingomonas sp.
+ Centralization of closeness centrality (CCL)                0.1326                         0.168                          0.430
+ Density (D)                                                 0.124                          0.198                          0.547
+ Reciprocity                                                 1                              1                              1
+ Transitivity (Trans)                                        0.276                          0.381                          0.677
+ Connectedness (Con)                                         1                              0.780                          1
+ Efficiency                                                  0.881                          0.802                          0.4616
+ Hierarchy                                                   0                              0                              0
+ Lubnessa                                                    1                              1                              1
+ a Lubness,    least upper boundedness.
+
+
+
+288   Phytobiomes Journal
+Plantibacter, and Rathayibacter (Fig. 7B), suggests the existence          the metabolic shifts observed in other woody host pathosystems
+of antagonistic mechanisms or nutrient competition (e.g., sucrose          under stress (Ali et al. 2023; Muñoz-Ramírez et al. 2024). The
+metabolism), given that these taxa are known to synthesize phy-            woody plants’ canker microbiome remains unknown in terms of
+tohormones (e.g., auxin, cytokinin, and 1-aminocyclopropane-1-             its microbial components and genomic potential. Therefore, our
+carboxylate deaminase) and stress-mitigating enzymes (Bogs and             FAPROTAX results should be interpreted as preliminary ecological
+Geider 2000; Muvingi et al. 2023).                                         inferences and as a basis for testable hypotheses regarding major
+   Functional profiling further supported the ecological differenti-       biogeochemical cycles, such as nitrogen and carbon metabolism.
+ation between healthy and cankered bark tissues. In diseased bark,         However, direct functional validation through metagenomic,
+phytopathogenic determinants, chemoheterotrophy, fermentation,             metatranscriptomic, or enzymatic assays is still necessary. Our
+and ureolysis were dominant functions (Fig. 6). This indicates             data were derived from full-length 16S rRNA gene sequencing
+enhanced carbon and nitrogen turnover, which likely facilitates            (SMRT PacBio Hi-Fi sequencing), so we prioritized FAPROTAX
+pathogen persistence and saprophytic growth (Ali et al. 2024).             because of its curated, environment-focused functional guilds
+In contrast, healthy bark samples exhibited functional signatures          (e.g., “nitrogen fixation,” “methylotrophy”). Although PICRUSt2
+of methanol oxidation and hydrocarbon degradation, activities              (Phylogenetic Investigation of Communities by Reconstruction of
+associated with Methylobacterium and Sphingomonas that are                 Unobserved States) predicts KEGG (Kyoto Encyclopedia of Genes
+characteristic of oxidative, detoxifying metabolism in living              and Genomes) orthologs and pathways using broader genomic
+wood tissues (Fig. 6). This functional polarization is similar to          inference, its algorithm is optimized for hypervariable regions
+
+
+
+
+                                                                                                                                     (Continued)
+Fig. 8. Apple microbiome cooccurrence network analysis in healthy samples. The network was constructed using the SparCC (Sparse Correlations
+for Compositional Data) pipeline. The minimum correlation value was set to 0.2. A, Healthy microbiome network (majority selection threshold = 1).
+B, Positive or negative relationships between bacterial taxa were shown for each combination (majority selection threshold = 1). ASV, amplicon
+sequence variant.
+
+
+
+                                                                                                                       Vol. 10, No. 3, 2026   289
+of short-read amplicons. FAPROTAX’s simpler ontology, which            taxa. This pattern is similar to observations in other canker dis-
+maps taxonomy to ecological roles via literature, was a better fit     eases, such as acute oak decline, where a consortium of bacteria is
+for our goal of generating testable, ecology-focused hypotheses        involved in the necrosis of woody tissues. This consortium includes
+about microbial roles in wood decay and tree health rather than        the primary pathogen Brenneria goodwinii, and the associated bac-
+reconstructing comprehensive metabolic networks.                       teria Gibbsiella quercinecans and Rahnella victoriana (Denman
+   Ecological network analyses revealed that Ea infection dras-        et al. 2018; Downie et al. 2025). Future research using Ea inocu-
+tically altered microbial interactions (Fig. 7A and B). Healthy        lation assays with bioluminescence tagging and multiomics could
+bark microbiomes were densely connected, with Bacillus and             determine whether this scenario—a pathogen-driven breakdown
+Amnibacterium serving as keystone taxa that maintained structural      leading to a keystone-free, functionally unstable community—also
+stability (Fig. 8). In contrast, canker networks exhibited fragmen-    occurs in earlier infection sites, such as shoots and blossoms.
+tation and reduced connectivity, with Ea emerging as the principal
+hub species (Fig. 7A). Negative associations between Ea and
+Novosphingobium, Sphingomonas, Pseudomonas, and Variovorax
+suggest that pathogen invasion disrupts the competitive equilibrium
+                                                                                                 Conclusion
+normally maintained in healthy tissues (Deng et al. 2012). Further        Taken together, the figures depict fire blight canker as a dy-
+analyses should test the role of Novosphingobium, Nocardioides,        namic ecological system in which pathogen dominance, oppor-
+and Variovorax as ecological stabilizers. Notably, Variovorax can      tunistic colonization, and partial resilience coexist. The progression
+degrade acyl-homoserine lactones, which are key quorum-sensing         from a balanced microbiome to a dysbiotic pathobiome reflects
+molecules used by Ea, indicating a potential natural quorum-           disease-driven ecological collapse and subsequent recolonization
+quenching mechanism (Leadbetter and Greenberg 2000). The               (Aćimović et al. 2023). Understanding how cultivar-specific micro-
+absence of traditional keystone taxa in the canker cooccurrence        biomes and hub taxa interact provides a framework for developing
+networks is indicative of the functionally degraded state described    synthetic microbial communities (SynComs) that can restore a ben-
+above. Rather than being governed by host selection and symbiotic      eficial equilibrium and suppress Ea. Consortia of Bacillus, Methy-
+interactions, the network is dominated by the disruptive influence     lobacterium, and Novosphingobium, in particular, may inhibit the
+of the central pathogen, Ea. Ea acts less as a keystone within a mu-   pathogen through antibiosis, nutrient competition, and induction of
+tualistic web and more as a foundation pathogen that reshapes the      systemic resistance (Dimopoulou et al. 2021; Lim et al. 2024). Inte-
+entire environment. Its activity creates necrotic tissue, leading to   grating metatranscriptomic and metabolomic data in future studies
+the saprophytic enrichment previously mentioned. In this new open      will reveal the active interactions underlying canker persistence
+niche, interactions become more random and less structured, which      and guide the development of microbiome-based fire blight control
+explains why the network collapses and lacks identifiable keystone     strategies that are compatible with sustainable apple production.
+
+
+Fig. 8. (Continued from previous page)
+
+      B   ASV
+          1308
+                 Genus/Species
+                 Bacillus
+          1942   Bacillus
+          1349   Bacillus
+          341    Bacillus
+          1743   Bacillus
+          1051   Bacillus
+          1099   Bacillus
+           50    Bacillus
+          2086   Bacillus
+          1143   1174-901-12 (Beijerinckiaceae)
+          856    Methylobacterium aerolatum
+          1378   Spirosoma lituiforme
+          2064   Sphingomonas faeni
+          1569   Methylobacterium-Methylorubrum
+
+          1990   Pantoea
+          2053   Methylobacterium-Methylorubrum
+
+          2314   Sphingomonas
+          163    Comamonadaceae
+          1848   Bacillus
+          721    Bacillus
+
+          1441   Bacillus
+          295    Terriglobus roseus
+          1550   Methylobacterium-Methylorubrum
+
+          681    Bacillus
+          1034   Sphingomonas
+          1108   Methylobacterium-Methylorubrum
+
+          1133   Bacillus
+          1773   Hymenobacter
+          1805   Variovorax
+          2220   Sphingomonas
+          2234   Hymenobacter
+          506    Staphylococcus
+          167    Methylobacterium-Methylorubrum
+
+          321    Methylobacterium-Methylorubrum
+
+          1396   Methylobacterium-Methylorubrum
+
+          1440   Pseudomonas graminis
+          1396   Methylobacterium-Methylorubrum
+
+          1440   Pseudomonas graminis
+          1191   Hymenobacter
+          1264   Bacillus
+          1264   Bacillus
+          957    Bacillus
+          1401   Bacillus
+
+
+
+
+290   Phytobiomes Journal
+                             Acknowledgments                                             J. A., Nothias, L. F., Orchanian, S. B., Pearson, T., Peoples, S. L., Petras,
+                                                                                         D., Preuss, M. L., Pruesse, E., Rasmussen, L. B., Rivers, A., Robeson,
+   The authors thank Bidhan Chandra Dhar and Diana McHenry for assistance                M. S., II, Rosenthal, P., Segata, N., Shaffer, M., Shiffer, A., Sinha, R., Song,
+provided in DNA extraction from cankered and healthy wood samples; Manisha               S. J., Spear, J. R., Swafford, A. D., Thompson, L. R., Torres, P. J., Trinh, P.,
+Chaudhary at the School of Plant and Environmental Sciences, Virginia Poly-              Tripathi, A., Turnbaugh, P. J., Ul-Hasan, S., van der Hooft, J. J. J., Vargas,
+technic Institute and State University, for her critical review of the manuscript;       F., Vázquez-Baeza, Y., Vogtmann, E., von Hippel, M., Walters, W., Wan, Y.,
+the apple grower in Augusta County, Virginia, who provided access to his or-             Wang, M., Warren, J., Weber, K. C., Williamson, C. H. D., Willis, A. D.,
+chard for collecting samples in support of this study; and the two anonymous             Xu, Z. Z., Zaneveld, J. R., Zhang, Y., Zhu, Q., Knight, R., and Caporaso,
+reviewers who provided valuable feedback, which helped to substantially im-              J. G. 2019. Reproducible, interactive, scalable and extensible microbiome
+prove the manuscript.                                                                    data science using QIIME 2. Nat. Biotechnol. 37:852-857.
+                                                                                      Borba, M. C., Meredith, C. L., Dhar, B. C., and Aćimović, S. G. 2023. Proof
+                                                                                         of concept for management of shoot blight and fire blight cankers on pear
+                               Literature Cited                                          with preventive spray applications of giant knotweed extract. Front. Hortic.
+                                                                                         1:1082284.
+Abdelfattah, A., Freilich, S., Bartuv, R., Zhimo, V. Y., Kumar, A., Biasi, A.,        Boutin, S., Lussier, E., and Laforest-Lapointe, I. 2024. Investigating the
+   Salim, S., Feygenberg, O., Burchard, E., Dardick, C., Liu, J., Khan, A.,              spatiotemporal dynamics of apple tree phyllosphere bacterial and fun-
+   Ellouze, W., Ali, S., Spadaro, D., Torres, R., Teixido, N., Ozkaya, O.,               gal communities across cultivars in orchards. Can. J. Microbiol. 70:
+   Buehlmann, A., Vero, S., Mondino, P., Berg, G., Wisniewski, M., and Droby,            238-251.
+   S. 2021. Global analysis of the apple fruit microbiome: Are all apples the         Callahan, B. J., McMurdie, P. J., Rosen, M. J., Han, A. W., Johnson, A. J. A.,
+   same? Environ. Microbiol. 23:6038-6055.                                               and Holmes, S. P. 2016. DADA2: High-resolution sample inference from
+Abdelfattah, A., Tack, A. J. M., Wasserman, B., Liu, J., Berg, G., Norelli, J.,          Illumina amplicon data. Nat. Methods 13:581-583.
+   Droby, S., and Wisniewski, M. 2022. Evidence for host–microbiome co-               Choi, D. H., Choi, H. J., Kim, Y.-J., Lim, Y.-J., Lee, I., and Park, D. H. 2022.
+   evolution in apple. New Phytol. 234:2088-2100.                                        Screening of bacterial antagonists to develop an effective cocktail against
+Aćimović, S. G., Balaž, J. S., Aćimović, D. Ð., and Reeb, P. D. 2014a. High          Erwinia amylovora. Res. Plant Dis. 28:152-161.
+   magnitude of fire blight symptom development and canker formation from             Cui, Z., Huntley, R. B., Schultes, N. P., Steven, B., and Zeng, Q. 2021. Inoc-
+   July onwards on two apple cultivars under severe natural infections. J. Plant         ulation of stigma-colonizing microbes to apple stigmas alters microbiome
+   Pathol. 96:159-168.                                                                   structure and reduces the occurrence of fire blight disease. Phytobiomes J.
+Aćimović, S. G., Santander, R. D., Meredith, C. L., and Pavlović, Ž. M. 2023.         5:156-165.
+   Fire blight rootstock infections causing apple tree death: A case study in         Dagher, F., Olishevska, S., Philion, V., Zheng, J., and Déziel, E. 2020. Develop-
+   high-density apple orchards with Erwinia amylovora strain characterization.           ment of a novel biological control agent targeting the phytopathogen Erwinia
+   Front. Hortic. 2:1082204.                                                             amylovora. Heliyon 6:e05222.
+Aćimović, S. G., VanWoerkom, A. H., Reeb, P. D., Vandervoort, C., Garavaglia,       Deng, Y., Jiang, Y.-H., Yang, Y., He, Z., Luo, F., and Zhou, J. 2012. Molecular
+   T., Cregg, B. M., and Wise, J. C. 2014b. Spatial and temporal distribu-               ecological network analyses. BMC Bioinf. 13:113.
+   tion of trunk-injected imidacloprid in apple tree canopies. Pest Manage. Sci.      Denman, S., Doonan, J., Ransom-Jones, E., Broberg, M., Plummer, S., Kirk, S.,
+   70:1751-1760.                                                                         Scarlett, K., Griffiths, A. R., Kaczmarek, M., Forster, J., Peace, A., Golyshin,
+Ajeethan, N., Ali, S., Fuller, K. D., Abbey, L., and Yurgel, S. N. 2023. Apple           P. N., Hassard, F., Brown, N., Kenny, J. G., and McDonald, J. E. 2018.
+   root microbiome as indicator of plant adaptation to apple replant diseased            Microbiome and infectivity studies reveal complex polyspecies tree disease
+   soils. Microorganisms 11:1372.                                                        in acute oak decline. ISME J. 12:386-399.
+Ali, M., Zhao, X., Hussain, S., Fu, X., Shahwar, D., Li, X., Li, F., and Xinhua,      Dimopoulou, A., Theologidis, I., Varympopi, A., Papafotis, D., Mermigka, G.,
+   Z. 2024. Metagenomic and transcriptome insights into the disease resistance           Tzima, A., Panopoulos, N. J., and Skandalis, N. 2021. Shifting perspectives
+   mechanisms in fresh-cut apple under pyridoxine treatment. Postharvest Biol.           of translational research in bio-bactericides: Reviewing the Bacillus amy-
+   Technol. 218:113167.                                                                  loliquefaciens paradigm. Biology 10:1202.
+Ali, S., Hameed, A., Muhae-Ud-Din, G., Ikhlaq, M., Ashfaq, M., Atiq, M., Ali,         Downie, J., Ordonez, A., Cambon, M. C., Hussain, U., Brown, N., Beckmann,
+   F., Zia, Z. U., Naqvi, S. A. H., and Wang, Y. 2023. Citrus canker: A per-             M., Finch, J., Draper, J., Denman, S., and McDonald, J. E. 2025. Environ-
+   sistent threat to the worldwide citrus industry—An analysis. Agronomy 13:             ment and disease have tissue-specific effects on the tree microbiome. bioRxiv
+   1112.                                                                                 670310.
+Andrews, S. 2010. FastQC: A quality control tool for high throughput sequence         FAO. 2023. FAOSTAT. Food and Agriculture Organization of the United
+   data. https://www.bioinformatics.babraham.ac.uk/projects/fastqc/                      Nations. https://www.fao.org/faostat/en/#data/QI
+Arrigoni, E., Antonielli, L., Pindo, M., Pertot, I., and Perazzolli, M. 2018. Tis-    Feng, K., Peng, X., Zhang, Z., Gu, S., He, Q., Shen, W., Wang, Z., Wang, D.,
+   sue age and plant genotype affect the microbiota of apple and pear bark.              Hu, Q., Li, Y., Wang, S., and Deng, Y. 2022. iNAP: An integrated network
+   Microbiol. Res. 211:57-68.                                                            analysis pipeline for microbiome studies. iMeta 1:e13.
+Barbé, S., Figàs-Segura, À., Benada, M., Navarro-Herrero, I., Sampaio, T.             Friedman, J., and Alm, E. J. 2012. Inferring correlation networks from genomic
+   M., Biosca, E. G., and Marco-Noales, E. 2022. Plant-associated micro-                 survey data. PLoS Comput. Biol. 8:e1002687.
+   biota as a source of antagonistic bacteria against the phytopathogen Erwinia       Gschwend, F., Braun-Kiewnick, A., Widmer, F., and Pelludat, C. 2021. Apple
+   amylovora. Environ. Microbiol. Rep. 14:559-569.                                       blossoms from a Swiss orchard with low-input plant protection regime reveal
+Bastian, M., Heymann, S., and Jacomy, M. 2009. Gephi: An open source soft-               high abundance of potential fire blight antagonists. Phytobiomes J. 5:145-
+   ware for exploring and manipulating networks. Proc. Int. AAAI Conf. Web               155.
+   Soc. Media 3:361-362.                                                              Han, J., Dong, Z., Ji, W., Lv, W., Luo, M., and Fu, B. 2024. From predator to
+Bogs, J., and Geider, K. 2000. Molecular analysis of sucrose metabolism of Er-           protector: Myxococcus fulvus WCH05 emerges as a potent biocontrol agent
+   winia amylovora and influence on bacterial virulence. J. Bacteriol. 182:5351-         for fire blight. Front. Microbiol. 15:1378288.
+   5358.                                                                              Holmes, I., Harris, K., and Quince, C. 2012. Dirichlet multinomial mixtures:
+Bolyen, E., Rideout, J. R., Dillon, M. R., Bokulich, N. A., Abnet, C. C., Al-            Generative models for microbial metagenomics. PLoS One 7:e30126.
+   Ghalith, G. A., Alexander, H., Alm, E. J., Arumugam, M., Asnicar, F., Bai,         Johnson, K. B., Stockwell, V. O., Sawyer, T. L., and Sugar, D. 2000. Assess-
+   Y., Bisanz, J. E., Bittinger, K., Brejnrod, A., Brislawn, C. J., Brown, C. T.,        ment of environmental factors influencing growth and spread of Pantoea
+   Callahan, B. J., Caraballo-Rodríguez, A. M., Chase, J., Cope, E. K., Da Silva,        agglomerans on and among blossoms of pear and apple. Phytopathology
+   R., Diener, C., Dorrestein, P. C., Douglas, G. M., Durall, D. M., Duvallet,           90:1285-1294.
+   C., Edwardson, C. F., Ernst, M., Estaki, M., Fouquier, J., Gauglitz, J. M.,        Kim, S.-H., Cho, G., Lee, S. I., Kim, D.-R., and Kwak, Y.-S. 2021. Comparison
+   Gibbons, S. M., Gibson, D. L., Gonzalez, A., Gorlick, K., Guo, J., Hillmann,          of bacterial community of healthy and Erwinia amylovora infected apples.
+   B., Holmes, S., Holste, H., Huttenhower, C., Huttley, G. A., Janssen, S.,             Plant Pathol. J. 37:396-403.
+   Jarmusch, A. K., Jiang, L., Kaehler, B. D., Kang, K. B., Keefe, C. R., Keim,       Kostick, S. A., Norelli, J. L., and Evans, K. M. 2019. Novel metrics to classify
+   P., Kelley, S. T., Knights, D., Koester, I., Kosciolek, T., Kreps, J., Langille,      fire blight resistance of 94 apple cultivars. Plant Pathol. 68:985-996.
+   M. G. I., Lee, J., Ley, R., Liu, Y.-X., Loftfield, E., Lozupone, C., Maher,        Leadbetter, J. R., and Greenberg, E. P. 2000. Metabolism of acyl-homoserine
+   M., Marotz, C., Martin, B. D., McDonald, D., McIver, L. J., Melnik, A. V.,            lactone quorum-sensing signals by Variovorax paradoxus. J. Bacteriol.
+   Metcalf, J. L., Morgan, S. C., Morton, J. T., Naimey, A. T., Navas-Molina,            182:6921-6926.
+
+
+
+                                                                                                                                          Vol. 10, No. 3, 2026      291
+Lee, H.-J., Kim, S.-H., Kim, D.-R., Cho, G., and Kwak, Y.-S. 2023. Dynam-             Roselló, G., Bonaterra, A., Francés, J., Montesinos, L., Badosa, E., and
+   ics of bacterial communities by apple tissue: Implications for apple health.          Montesinos, E. 2013. Biological control of fire blight of apple and pear with
+   J. Microbiol. Biotechnol. 33:1141-1148.                                               antagonistic Lactobacillus plantarum. Eur. J. Plant Pathol. 137:621-633.
+Lee, J., Jung, W.-K., Ahsan, S. M., Jung, H.-Y., and Choi, H. W. 2024. Identi-        Sadanov, A., Ismailova, E., Shemshura, O., Alimzhanova, M., Molzhigitova,
+   fication of Pantoea ananatis strain BCA19 as a potential biological control           A., Kuldybayev, N., Tleubekova, D., Daugalieva, S., Baimakhanova, G.,
+   agent against Erwinia amylovora. Front. Microbiol. 15:1493430.                        Turlybaeva, Z., and Yelubayeva, A. 2024. A new strain Lacticaseibacil-
+Li, Y., Wu, X., Chen, T., Wang, W., Liu, G., Zhang, W., Li, S., Wang, M., Zhao,          lus paracasei M12 and perspectives of its use against Erwinia amylovora.
+   C., Zhou, H., and Zhang, G. 2018. Plant phenotypic traits eventually shape            J. Plant Pathol. 106:925-936.
+   its microbiota: A common garden test. Front. Microbiol. 9:2479.                    Santander, R. D., and Aćimović, S. G. 2025. Copper-induced stress mecha-
+Liaw, A., and Wiener, M. 2002. Classification and regression by randomForest.            nisms in Erwinia amylovora: A comparative phenotypic and transcriptomic
+   R News 2:18-22.                                                                       study using copper-sensitive and -tolerant strains. Appl. Environ. Microbiol.
+Lim, N. R., Kong, H. G., Jo, E. J., Kang, M. K., and Park, D. H. 2024. Analysis          91:e00334-25.
+   of bacterial community changes in apple trees treated with biological control      Santander, R. D., Gašić, K., and Aćimović, S. G. 2022b. Selective quantifica-
+   agent, Bacillus altitudinis KPB25, for controlling fire blight. https://www.          tion of Erwinia amylovora live cells in pome fruit tree cankers by viability
+   preprints.org/manuscript/202410.1103/v1                                               digital PCR. Pages 231-249 in: Plant Pathology: Methods and Protocols.
+Liu, C., Cui, Y., Li, X., and Yao, M. 2021. microeco: An R package for                   Methods in Molecular Biology, vol. 2536. N. Luchi, ed. Humana, New York,
+   data mining in microbial community ecology. FEMS Microbiol. Ecol. 97:                 NY.
+   fiaa255.                                                                           Santander, R. D., Khodadadi, F., Meredith, C. L., Rađenović, Ž., Clements, J.,
+Liu, J., Abdelfattah, A., Norelli, J., Burchard, E., Schena, L., Droby, S., and          and Aćimović, S. G. 2022a. Fire blight resistance, irrigation and conducive
+   Wisniewski, M. 2018. Apple endophytic microbiota of different root-                   wet weather improve Erwinia amylovora winter survival in cankers. Front.
+   stock/scion combinations suggests a genotype-specific influence. Micro-               Microbiol. 13:1009364.
+   biome 6:18.                                                                        Santander, R. D., Meredith, C. L., and Aćimović, S. G. 2019. Development of
+Liu, J., Abdelfattah, A., Wasserman, B., Wisniewski, M., Droby, S., Fazio, G.,           a viability digital PCR protocol for the selective detection and quantification
+   Mazzola, M., and Wu, X. 2022. Contrasting effects of genotype and root size           of live Erwinia amylovora cells in cankers. Sci. Rep. 9:11530.
+   on the fungal and bacterial communities associated with apple rootstocks.          Segata, N., Izard, J., Waldron, L., Gevers, D., Miropolsky, L., Garrett, W. S., and
+   Hortic. Res. 9:uhab013.                                                               Huttenhower, C. 2011. Metagenomic biomarker discovery and explanation.
+Louca, S., Parfrey, L. W., and Doebeli, M. 2016. Decoupling function and tax-            Genome Biol. 12:R60.
+   onomy in the global ocean microbiome. Science 353:1272-1277.                       Shannon, P., Markiel, A., Ozier, O., Baliga, N. S., Wang, J. T., Ramage, D., Amin,
+Medhioub, I., Cheffi, M., Tounsi, S., and Triki, M. A. 2022. Study of Bacillus           N., Schwikowski, B., and Ideker, T. 2003. Cytoscape: A software environ-
+   velezensis OEE1 potentialities in the biocontrol against Erwinia amylovora,           ment for integrated models of biomolecular interaction networks. Genome
+   causal agent of fire blight disease of rosaceous plants. Biol. Control                Res. 13:2498-2504.
+   167:104842.                                                                        Somerfield, P. J. 2008. Identification of the Bray–Curtis similarity index: Com-
+Mikiciński, A., Sobiczewski, P., Puławska, J., and Maciorowski, R. 2016. Con-           ment on Yoshioka (2008). Mar. Ecol. Prog. Ser. 372:303-306.
+   trol of fire blight (Erwinia amylovora) by a novel strain 49M of Pseudomonas       Steven, B., Huntley, R. B., and Zeng, Q. 2018. The influence of flower anatomy
+   graminis from the phyllosphere of apple (Malus spp.). Eur. J. Plant Pathol.           and apple cultivar on the apple flower phytobiome. Phytobiomes J. 2:171-
+   145:265-276.                                                                          179.
+Muñoz-Ramírez, Z. Y., González-Escobedo, R., Avila-Quezada, G. D., Ramírez-           Stockwell, V. O., Johnson, K. B., Sugar, D., and Loper, J. E. 2002. Antibiosis
+   Sánchez, O., Higareda-Alvear, V. M., Zapata-Chávez, E., Borrego-Loya, A.,             contributes to biological control of fire blight by Pantoea agglomerans strain
+   and Muñoz-Castellanos, L. N. 2024. Exploring microbial rhizosphere com-               Eh252 in orchards. Phytopathology 92:1202-1209.
+   munities in asymptomatic and symptomatic apple trees using amplicon se-            Tancos, K. A., Villani, S., Kuehne, S., Borejsza-Wysocka, E., Breth, D., Carol, J.,
+   quencing and shotgun metagenomics. Agronomy 14:357.                                   Aldwinckle, H. S., and Cox, K. D. 2016. Prevalence of streptomycin-resistant
+Muvingi, M., Slovareva, O. Y., Yaremko, A. B., Zargar, M., Lyashko, M., Pakina,          Erwinia amylovora in New York apple orchards. Plant Dis. 100:802-809.
+   E., and Vvedenskiy, V. 2023. Variations of the bacterial community in wheat        USDA-FAS. 2023. Global production. Foreign Agricultural Service. U.S. De-
+   (Triticum aestivum), oats (Avena sativa L.), barley (Hordeum vulgare L.)              partment of Agriculture. https://fas.usda.gov/data/production?commodity=
+   and triticale (Triticosecale) from three regions of the Republic of Crimea.           almonds
+   https://www.preprints.org/manuscript/202307.1559                                   USDA-NASS. 2022. Noncitrus fruits and nuts 2021 summary. USDA National
+Palberg, D., Kaszecki, E., Dhanjal, C., Kisiała, A., Morrison, E. N., Stock,             Agricultural Statistics Service. https://www.nass.usda.gov/Publications/
+   N., and Emery, R. J. N. 2024. Impact of glyphosate and glyphosate-based               Todays_Reports/reports/ncit0522.pdf
+   herbicides on phyllospheric Methylobacterium. BMC Plant Biol. 24:119.              Vasselon, V., Rivera, S. F., Ács, É., Almeida, S. B., Andree, K. B., Apothéloz-
+Pedroncelli, A., Khaled Mahmoud, M. M., and Puopolo, G. 2022. Isolation                  Perret-Gentil, L., Bailet, B., Baričević, A., Beentjes, K. K., Bettig, J., and
+   and identification of bacterial strains from apple flowers in Trentino and their      Bouchez, A. 2025. Proficiency testing and cross-laboratory method compar-
+   evaluation as biocontrol agents of Erwinia amylovora. Page 65 in ISFB 2022:           ison to support standardisation of diatom DNA metabarcoding for freshwater
+   3rd International Symposium on Fire Blight of Rosaceous Plants, Dresden-              biomonitoring. Metabarcoding Metagenomics 3:1-23.
+   Pillnitz, Germany.                                                                 Wallis, A., Gu, G., Ramachandran, P., Reed, E., Ottesen, A., Nou, X., and Cox,
+Pusey, P. L., Stockwell, V. O., Reardon, C. L., Smits, T. H. M., and Duffy,              K. D. 2021. Endophytic bacterial communities in apple leaves are minimally
+   B. 2011. Antibiosis activity of Pantoea agglomerans biocontrol strain                 impacted by streptomycin use for fire blight management. Phytobiomes J.
+   E325 against Erwinia amylovora on apple flower stigmas. Phytopathology                5:350-361.
+   101:1234-1241.                                                                     Winslow, C.-E. A., Broadhurst, J., Buchanan, R. E., Krumwiede, C., Rogers,
+R Core Team. 2020. R: A language and environment for statistical comput-                 L. A., and Smith, G. H. 1920. The families and genera of the bacteria fi-
+   ing. R Foundation for Statistical Computing, Vienna, Austria. https://www.            nal report of the committee of the society of American bacteriologists on
+   r-project.org/                                                                        characterization and classification of bacterial types. J. Bacteriol. 5:191-229.
+
+
+
+
+292    Phytobiomes Journal
+

@@ -1,0 +1,8 @@
+QIIME2 2024.10 loaded. Run 'qiime' to start.
+WARNING: group: unknown groupid 22507907
+Imported metadata/manifest.tsv as SingleEndFastqManifestPhred33V2 to results/qiime2/demux.qza
+Plugin error from dada2:
+
+  An error was encountered while running DADA2 in R (return code 1), please inspect stdout and stderr to learn more.
+
+Debug info has been saved to /localscratch/7907007/qiime2-q2cli-err-dv9l7o20.log

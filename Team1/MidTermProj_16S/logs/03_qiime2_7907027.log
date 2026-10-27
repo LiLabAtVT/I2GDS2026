@@ -1,0 +1,52 @@
+QIIME2 2024.10 loaded. Run 'qiime' to start.
+WARNING: group: unknown groupid 22507907
+R version 4.3.3 (2024-02-29) 
+Loading required package: Rcpp
+DADA2: 1.30.0 / Rcpp: 1.0.13.1 / RcppParallel: 5.1.9 
+1) Removing Primers
+Multiple matches to the primer(s) in some sequences. Using the longest possible match.
+20178 sequences out of 47393 are being reverse-complemented.
+Error in sapply(match.fwd, end) + 1 : 
+  non-numeric argument to binary operator
+3: removePrimers(unfilts, nop, primer, primerR, max.mismatch = maxMismatch, 
+       allow.indels = indels, orient = TRUE, verbose = TRUE)
+2: withCallingHandlers(expr, warning = function(w) if (inherits(w, 
+       classes)) tryInvokeRestart("muffleWarning"))
+1: suppressWarnings(removePrimers(unfilts, nop, primer, primerR, 
+       max.mismatch = maxMismatch, allow.indels = indels, orient = TRUE, 
+       verbose = TRUE))
+Traceback (most recent call last):
+  File "/opt/conda/envs/qiime2-amplicon-2024.10/lib/python3.10/site-packages/q2_dada2/_denoise.py", line 473, in denoise_ccs
+    run_commands([cmd])
+  File "/opt/conda/envs/qiime2-amplicon-2024.10/lib/python3.10/site-packages/q2_dada2/_denoise.py", line 38, in run_commands
+    subprocess.run(cmd, check=True)
+  File "/opt/conda/envs/qiime2-amplicon-2024.10/lib/python3.10/subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['run_dada.R', '--input_directory', '/localscratch/7907027/qiime2/kamals/data/522ee177-bc5d-4ba3-a024-533ac72d8f13/data', '--output_path', '/localscratch/7907027/tmpfs3v10i5/output.tsv.biom', '--output_track', '/localscratch/7907027/tmpfs3v10i5/track.tsv', '--removed_primer_directory', '/localscratch/7907027/tmpfs3v10i5/nop', '--filtered_directory', '/localscratch/7907027/tmpfs3v10i5/filt', '--forward_primer', 'AGRGTTYGATYMTGGCTCAG', '--max_mismatch', '2', '--indels', 'False', '--truncation_length', '0', '--trim_left', '0', '--max_expected_errors', '2.0', '--truncation_quality_score', '2', '--min_length', '1000', '--max_length', '1600', '--pooling_method', 'independent', '--chimera_method', 'consensus', '--min_parental_fold', '3.5', '--allow_one_off', 'False', '--num_threads', '32', '--learn_min_reads', '1000000', '--homopolymer_gap_penalty', 'NULL', '--band_size', '32', '--reverse_primer', 'AAGTCGTAACAAGGTARCY']' returned non-zero exit status 1.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/conda/envs/qiime2-amplicon-2024.10/lib/python3.10/site-packages/q2cli/commands.py", line 530, in __call__
+    results = self._execute_action(
+  File "/opt/conda/envs/qiime2-amplicon-2024.10/lib/python3.10/site-packages/q2cli/commands.py", line 602, in _execute_action
+    results = action(**arguments)
+  File "<decorator-gen-55>", line 2, in denoise_ccs
+  File "/opt/conda/envs/qiime2-amplicon-2024.10/lib/python3.10/site-packages/qiime2/sdk/action.py", line 299, in bound_callable
+    outputs = self._callable_executor_(
+  File "/opt/conda/envs/qiime2-amplicon-2024.10/lib/python3.10/site-packages/qiime2/sdk/action.py", line 570, in _callable_executor_
+    output_views = self._callable(**view_args)
+  File "/opt/conda/envs/qiime2-amplicon-2024.10/lib/python3.10/site-packages/q2_dada2/_denoise.py", line 482, in denoise_ccs
+    raise Exception("An error was encountered while running DADA2"
+Exception: An error was encountered while running DADA2 in R (return code 1), please inspect stdout and stderr to learn more.
+
+Plugin error from dada2:
+
+  An error was encountered while running DADA2 in R (return code 1), please inspect stdout and stderr to learn more.
+
+See above for debug info.
+Running external command line application(s). This may print messages to stdout and/or stderr.
+The command(s) being run are below. These commands cannot be manually re-run as they will depend on temporary files that no longer exist.
+
+Command: run_dada.R --input_directory /localscratch/7907027/qiime2/kamals/data/522ee177-bc5d-4ba3-a024-533ac72d8f13/data --output_path /localscratch/7907027/tmpfs3v10i5/output.tsv.biom --output_track /localscratch/7907027/tmpfs3v10i5/track.tsv --removed_primer_directory /localscratch/7907027/tmpfs3v10i5/nop --filtered_directory /localscratch/7907027/tmpfs3v10i5/filt --forward_primer AGRGTTYGATYMTGGCTCAG --max_mismatch 2 --indels False --truncation_length 0 --trim_left 0 --max_expected_errors 2.0 --truncation_quality_score 2 --min_length 1000 --max_length 1600 --pooling_method independent --chimera_method consensus --min_parental_fold 3.5 --allow_one_off False --num_threads 32 --learn_min_reads 1000000 --homopolymer_gap_penalty NULL --band_size 32 --reverse_primer AAGTCGTAACAAGGTARCY
+

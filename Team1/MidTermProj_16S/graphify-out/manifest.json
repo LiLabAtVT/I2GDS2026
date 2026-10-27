@@ -1,0 +1,80 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1792021668.265545,
+    "seen": 1792021981.9140263,
+    "ast_hash": "0bea751cda88869c643edf1a896794e4",
+    "semantic_hash": "0bea751cda88869c643edf1a896794e4"
+  },
+  "scripts/01_download.sh": {
+    "mtime": 1791473415.7953415,
+    "seen": 1792021981.9140313,
+    "ast_hash": "46c945d80be7ff68af170ada3934f092",
+    "semantic_hash": "46c945d80be7ff68af170ada3934f092"
+  },
+  "scripts/02_fastqc.sh": {
+    "mtime": 1791474929.5575361,
+    "seen": 1792021981.9140341,
+    "ast_hash": "606dd3c2bdbb70270f550fcb57653157",
+    "semantic_hash": "606dd3c2bdbb70270f550fcb57653157"
+  },
+  "scripts/02b_fastqc_summary.R": {
+    "mtime": 1791474915.3624144,
+    "seen": 1792021981.9140363,
+    "ast_hash": "65516c479c022c9c76532956c6867fb1",
+    "semantic_hash": "65516c479c022c9c76532956c6867fb1"
+  },
+  "scripts/03_qiime2.sh": {
+    "mtime": 1791475001.9461248,
+    "seen": 1792021981.914038,
+    "ast_hash": "8cd99501c78edb102c5bf5b0cd46c724",
+    "semantic_hash": "8cd99501c78edb102c5bf5b0cd46c724"
+  },
+  "scripts/04_05_R.sh": {
+    "mtime": 1791473590.9854276,
+    "seen": 1792021981.9140399,
+    "ast_hash": "06a2595766836fcdb7206b90ebe9d680",
+    "semantic_hash": "06a2595766836fcdb7206b90ebe9d680"
+  },
+  "scripts/04_stats.R": {
+    "mtime": 1791473557.0044224,
+    "seen": 1792021981.9140413,
+    "ast_hash": "666f4cad0dd984e6c9ab21a33da62dc7",
+    "semantic_hash": "666f4cad0dd984e6c9ab21a33da62dc7"
+  },
+  "scripts/05_network.R": {
+    "mtime": 1791473579.429462,
+    "seen": 1792021981.9140432,
+    "ast_hash": "692286c4b450e7a1cbabf701ee221fb5",
+    "semantic_hash": "692286c4b450e7a1cbabf701ee221fb5"
+  },
+  "scripts/run_all.sh": {
+    "mtime": 1791473590.9884248,
+    "seen": 1792021981.9140449,
+    "ast_hash": "3f410819a8610d8c1543a7935347ffa2",
+    "semantic_hash": "3f410819a8610d8c1543a7935347ffa2"
+  },
+  "tmp/test_rp.R": {
+    "mtime": 1791475487.3518543,
+    "seen": 1792021981.9140468,
+    "ast_hash": "eb062c0d2934e6541d672667f1e18c1c",
+    "semantic_hash": "eb062c0d2934e6541d672667f1e18c1c"
+  },
+  "CLAUDE.md": {
+    "mtime": 1792021668.262582,
+    "seen": 1792021981.9140482,
+    "ast_hash": "67d88e9d0760c3ba54c75dfd9551c1c5",
+    "semantic_hash": "67d88e9d0760c3ba54c75dfd9551c1c5"
+  },
+  "paper.txt": {
+    "mtime": 1791473354.9606876,
+    "seen": 1792021981.9140503,
+    "ast_hash": "0673017e92eb2574fc0a03f212c32156",
+    "semantic_hash": "0673017e92eb2574fc0a03f212c32156"
+  },
+  "results/pdf/Fig0_FastQC_summary.pdf": {
+    "mtime": 1791474924.992338,
+    "seen": 1792021981.9140518,
+    "ast_hash": "665b5a96bb4fdd83b61f4595f8a7b7ed",
+    "semantic_hash": "665b5a96bb4fdd83b61f4595f8a7b7ed"
+  }
+}
