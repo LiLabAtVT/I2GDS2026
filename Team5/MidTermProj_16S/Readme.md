@@ -1,4 +1,4 @@
-# QIIME2: DADA2 denoising for PacBio HiFi (about 2 hours)
+# QIIME2: DADA2 denoising for PacBio HiFi 
 
 qiime dada2 denoise-ccs \
   --i-demultiplexed-seqs demux.qza \
