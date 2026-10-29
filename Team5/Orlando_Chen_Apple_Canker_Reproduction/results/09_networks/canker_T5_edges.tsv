@@ -1,0 +1,252 @@
+from	to	rho	p	from_label	to_label
+ASV0001	ASV0002	0.9304	0.001	ASV0001-Erwinia amylovora	ASV0002-Erwinia amylovora
+ASV0001	ASV0003	0.8241	0.001	ASV0001-Erwinia amylovora	ASV0003-Erwinia amylovora
+ASV0002	ASV0003	0.7688	0.001	ASV0002-Erwinia amylovora	ASV0003-Erwinia amylovora
+ASV0001	ASV0004	0.8021	0.001	ASV0001-Erwinia amylovora	ASV0004-Erwinia amylovora
+ASV0002	ASV0004	0.775	0.001	ASV0002-Erwinia amylovora	ASV0004-Erwinia amylovora
+ASV0003	ASV0004	0.8729	0.001	ASV0003-Erwinia amylovora	ASV0004-Erwinia amylovora
+ASV0009	ASV0017	0.5047	0.005	ASV0009-Methylobacterium goesingense	ASV0017-Methylobacterium-Methylorubrum
+ASV0009	ASV0022	0.4536	0.005	ASV0009-Methylobacterium goesingense	ASV0022-Microbacterium algihabitans
+ASV0019	ASV0024	0.4918	0.001	ASV0019-Novosphingobium	ASV0024-Friedmanniella
+ASV0020	ASV0024	0.5204	0.004	ASV0020-Amnibacterium	ASV0024-Friedmanniella
+ASV0019	ASV0028	0.5501	0.001	ASV0019-Novosphingobium	ASV0028-D05-2
+ASV0001	ASV0030	0.5007	0.001	ASV0001-Erwinia amylovora	ASV0030-Pantoea
+ASV0014	ASV0030	0.5521	0.001	ASV0014-Pantoea	ASV0030-Pantoea
+ASV0011	ASV0035	0.4416	0.004	ASV0011-Rhizobium soli	ASV0035-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium
+ASV0030	ASV0035	-0.4293	0.009	ASV0030-Pantoea	ASV0035-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium
+ASV0014	ASV0049	0.5181	0.001	ASV0014-Pantoea	ASV0049-Pantoea
+ASV0020	ASV0049	-0.4737	0.001	ASV0020-Amnibacterium	ASV0049-Pantoea
+ASV0046	ASV0049	0.411	0.008	ASV0046-Pedobacter agri	ASV0049-Pantoea
+ASV0024	ASV0052	-0.4465	0.004	ASV0024-Friedmanniella	ASV0052-Curtobacterium
+ASV0023	ASV0053	0.7312	0.001	ASV0023-Unassigned	ASV0053-Massilia
+ASV0009	ASV0054	0.44	0.004	ASV0009-Methylobacterium goesingense	ASV0054-Frondihabitans
+ASV0057	ASV0077	0.5898	0.002	ASV0057-Novosphingobium	ASV0077-Sphingomonas
+ASV0025	ASV0078	0.467	0.005	ASV0025-Pseudomonas oryzihabitans	ASV0078-Sphingomonas
+ASV0028	ASV0081	0.3815	0.009	ASV0028-D05-2	ASV0081-Friedmanniella
+ASV0057	ASV0081	-0.4521	0.004	ASV0057-Novosphingobium	ASV0081-Friedmanniella
+ASV0009	ASV0083	-0.4062	0.009	ASV0009-Methylobacterium goesingense	ASV0083-Cutibacterium acnes
+ASV0017	ASV0083	-0.4179	0.005	ASV0017-Methylobacterium-Methylorubrum	ASV0083-Cutibacterium acnes
+ASV0022	ASV0083	-0.4533	0.002	ASV0022-Microbacterium algihabitans	ASV0083-Cutibacterium acnes
+ASV0011	ASV0085	0.4201	0.007	ASV0011-Rhizobium soli	ASV0085-Spirosoma lituiforme
+ASV0019	ASV0085	-0.3978	0.007	ASV0019-Novosphingobium	ASV0085-Spirosoma lituiforme
+ASV0042	ASV0085	0.4976	0.001	ASV0042-Methylobacterium mesophilicum	ASV0085-Spirosoma lituiforme
+ASV0072	ASV0085	0.4042	0.007	ASV0072-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	ASV0085-Spirosoma lituiforme
+ASV0014	ASV0087	0.4155	0.006	ASV0014-Pantoea	ASV0087-Pantoea
+ASV0030	ASV0087	0.4008	0.009	ASV0030-Pantoea	ASV0087-Pantoea
+ASV0049	ASV0087	0.5733	0.001	ASV0049-Pantoea	ASV0087-Pantoea
+ASV0061	ASV0087	0.4411	0.005	ASV0061-Pantoea	ASV0087-Pantoea
+ASV0073	ASV0087	0.4211	0.007	ASV0073-Pantoea	ASV0087-Pantoea
+ASV0076	ASV0088	-0.4262	0.003	ASV0076-Sphingomonas roseiflava	ASV0088-Sphingomonas yunnanensis
+ASV0077	ASV0088	0.4993	0.002	ASV0077-Sphingomonas	ASV0088-Sphingomonas yunnanensis
+ASV0063	ASV0092	0.4105	0.008	ASV0063-Sphingomonas	ASV0092-Sphingomonas
+ASV0053	ASV0094	-0.4043	0.007	ASV0053-Massilia	ASV0094-Okibacterium fritillariae
+ASV0048	ASV0101	0.4373	0.007	ASV0048-Sphingomonas	ASV0101-Variovorax
+ASV0046	ASV0102	-0.4074	0.009	ASV0046-Pedobacter agri	ASV0102-Novosphingobium
+ASV0020	ASV0106	-0.4501	0.005	ASV0020-Amnibacterium	ASV0106-Sphingomonas roseiflava
+ASV0038	ASV0106	0.4371	0.005	ASV0038-Stenotrophomonas	ASV0106-Sphingomonas roseiflava
+ASV0014	ASV0107	0.6378	0.001	ASV0014-Pantoea	ASV0107-Pantoea
+ASV0030	ASV0107	0.439	0.007	ASV0030-Pantoea	ASV0107-Pantoea
+ASV0049	ASV0107	0.4148	0.005	ASV0049-Pantoea	ASV0107-Pantoea
+ASV0102	ASV0107	0.4422	0.004	ASV0102-Novosphingobium	ASV0107-Pantoea
+ASV0001	ASV0108	0.4482	0.007	ASV0001-Erwinia amylovora	ASV0108-Novosphingobium
+ASV0014	ASV0108	0.4661	0.004	ASV0014-Pantoea	ASV0108-Novosphingobium
+ASV0031	ASV0108	-0.4324	0.004	ASV0031-Sphingomonas phyllosphaerae	ASV0108-Novosphingobium
+ASV0052	ASV0108	-0.4141	0.008	ASV0052-Curtobacterium	ASV0108-Novosphingobium
+ASV0102	ASV0108	0.5627	0.001	ASV0102-Novosphingobium	ASV0108-Novosphingobium
+ASV0107	ASV0108	0.4733	0.003	ASV0107-Pantoea	ASV0108-Novosphingobium
+ASV0081	ASV0110	-0.395	0.007	ASV0081-Friedmanniella	ASV0110-Sphingomonas
+ASV0088	ASV0111	-0.4052	0.006	ASV0088-Sphingomonas yunnanensis	ASV0111-Sphingomonas
+ASV0003	ASV0113	-0.4	0.009	ASV0003-Erwinia amylovora	ASV0113-Sphingomonas roseiflava
+ASV0063	ASV0113	0.4748	0.001	ASV0063-Sphingomonas	ASV0113-Sphingomonas roseiflava
+ASV0011	ASV0117	0.5233	0.001	ASV0011-Rhizobium soli	ASV0117-Roseomonas haemaphysalidis
+ASV0092	ASV0119	0.5038	0.003	ASV0092-Sphingomonas	ASV0119-Novosphingobium
+ASV0025	ASV0124	0.4312	0.007	ASV0025-Pseudomonas oryzihabitans	ASV0124-Xylophilus
+ASV0052	ASV0124	0.3991	0.003	ASV0052-Curtobacterium	ASV0124-Xylophilus
+ASV0063	ASV0124	0.4261	0.006	ASV0063-Sphingomonas	ASV0124-Xylophilus
+ASV0013	ASV0125	0.4293	0.002	ASV0013-Novosphingobium	ASV0125-Massilia
+ASV0023	ASV0125	0.6566	0.001	ASV0023-Unassigned	ASV0125-Massilia
+ASV0053	ASV0125	0.6054	0.001	ASV0053-Massilia	ASV0125-Massilia
+ASV0065	ASV0125	0.3882	0.009	ASV0065-Stenotrophomonas	ASV0125-Massilia
+ASV0028	ASV0132	-0.3922	0.006	ASV0028-D05-2	ASV0132-Frigoribacterium
+ASV0009	ASV0134	-0.4711	0.002	ASV0009-Methylobacterium goesingense	ASV0134-Cutibacterium acnes
+ASV0015	ASV0134	-0.4085	0.008	ASV0015-Variovorax	ASV0134-Cutibacterium acnes
+ASV0093	ASV0134	-0.4751	0.004	ASV0093-Rathayibacter oskolensis	ASV0134-Cutibacterium acnes
+ASV0031	ASV0135	0.3835	0.009	ASV0031-Sphingomonas phyllosphaerae	ASV0135-Pedobacter
+ASV0106	ASV0135	0.4148	0.007	ASV0106-Sphingomonas roseiflava	ASV0135-Pedobacter
+ASV0011	ASV0138	0.4043	0.009	ASV0011-Rhizobium soli	ASV0138-Methylobacterium-Methylorubrum
+ASV0023	ASV0138	0.5055	0.001	ASV0023-Unassigned	ASV0138-Methylobacterium-Methylorubrum
+ASV0035	ASV0138	0.5055	0.001	ASV0035-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	ASV0138-Methylobacterium-Methylorubrum
+ASV0042	ASV0138	0.4644	0.003	ASV0042-Methylobacterium mesophilicum	ASV0138-Methylobacterium-Methylorubrum
+ASV0053	ASV0138	0.4175	0.005	ASV0053-Massilia	ASV0138-Methylobacterium-Methylorubrum
+ASV0085	ASV0138	0.4441	0.004	ASV0085-Spirosoma lituiforme	ASV0138-Methylobacterium-Methylorubrum
+ASV0107	ASV0138	-0.4307	0.003	ASV0107-Pantoea	ASV0138-Methylobacterium-Methylorubrum
+ASV0016	ASV0142	-0.3992	0.007	ASV0016-Amnibacterium	ASV0142-Mucilaginibacter
+ASV0019	ASV0142	0.5249	0.002	ASV0019-Novosphingobium	ASV0142-Mucilaginibacter
+ASV0028	ASV0142	0.5941	0.001	ASV0028-D05-2	ASV0142-Mucilaginibacter
+ASV0085	ASV0142	-0.4271	0.006	ASV0085-Spirosoma lituiforme	ASV0142-Mucilaginibacter
+ASV0025	ASV0147	-0.3776	0.008	ASV0025-Pseudomonas oryzihabitans	ASV0147-Sphingomonas
+ASV0040	ASV0147	-0.496	0.001	ASV0040-Rhizobium soli	ASV0147-Sphingomonas
+ASV0078	ASV0147	-0.4182	0.005	ASV0078-Sphingomonas	ASV0147-Sphingomonas
+ASV0087	ASV0147	0.4402	0.008	ASV0087-Pantoea	ASV0147-Sphingomonas
+ASV0112	ASV0149	0.6077	0.001	ASV0112-Kineococcus radiotolerans	ASV0149-Sphingomonas
+ASV0028	ASV0151	-0.4294	0.003	ASV0028-D05-2	ASV0151-Frondihabitans peucedani
+ASV0085	ASV0151	0.4244	0.007	ASV0085-Spirosoma lituiforme	ASV0151-Frondihabitans peucedani
+ASV0142	ASV0151	-0.4681	0.001	ASV0142-Mucilaginibacter	ASV0151-Frondihabitans peucedani
+ASV0031	ASV0152	0.5106	0.002	ASV0031-Sphingomonas phyllosphaerae	ASV0152-Corticibacterium
+ASV0063	ASV0152	0.3722	0.007	ASV0063-Sphingomonas	ASV0152-Corticibacterium
+ASV0077	ASV0152	0.4406	0.002	ASV0077-Sphingomonas	ASV0152-Corticibacterium
+ASV0108	ASV0152	-0.4495	0.003	ASV0108-Novosphingobium	ASV0152-Corticibacterium
+ASV0076	ASV0153	0.5439	0.001	ASV0076-Sphingomonas roseiflava	ASV0153-Curtobacterium
+ASV0017	ASV0155	-0.3901	0.008	ASV0017-Methylobacterium-Methylorubrum	ASV0155-Sphingomonas
+ASV0061	ASV0155	0.4031	0.009	ASV0061-Pantoea	ASV0155-Sphingomonas
+ASV0107	ASV0155	0.4064	0.007	ASV0107-Pantoea	ASV0155-Sphingomonas
+ASV0108	ASV0155	0.404	0.009	ASV0108-Novosphingobium	ASV0155-Sphingomonas
+ASV0138	ASV0155	-0.3982	0.008	ASV0138-Methylobacterium-Methylorubrum	ASV0155-Sphingomonas
+ASV0072	ASV0159	0.4525	0.003	ASV0072-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	ASV0159-Sphingomonas
+ASV0077	ASV0174	0.396	0.006	ASV0077-Sphingomonas	ASV0174-Plantibacter
+ASV0152	ASV0174	0.3861	0.009	ASV0152-Corticibacterium	ASV0174-Plantibacter
+ASV0076	ASV0186	0.4572	0.003	ASV0076-Sphingomonas roseiflava	ASV0186-Pseudomonas caspiana
+ASV0153	ASV0186	0.4248	0.003	ASV0153-Curtobacterium	ASV0186-Pseudomonas caspiana
+ASV0023	ASV0191	-0.4184	0.009	ASV0023-Unassigned	ASV0191-Frigoribacterium
+ASV0038	ASV0191	-0.3893	0.006	ASV0038-Stenotrophomonas	ASV0191-Frigoribacterium
+ASV0053	ASV0191	-0.3988	0.005	ASV0053-Massilia	ASV0191-Frigoribacterium
+ASV0125	ASV0191	-0.4046	0.009	ASV0125-Massilia	ASV0191-Frigoribacterium
+ASV0038	ASV0194	-0.4218	0.002	ASV0038-Stenotrophomonas	ASV0194-Sphingomonas
+ASV0048	ASV0194	-0.4127	0.006	ASV0048-Sphingomonas	ASV0194-Sphingomonas
+ASV0092	ASV0194	0.5244	0.001	ASV0092-Sphingomonas	ASV0194-Sphingomonas
+ASV0137	ASV0194	0.4873	0.002	ASV0137-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	ASV0194-Sphingomonas
+ASV0019	ASV0196	0.39	0.009	ASV0019-Novosphingobium	ASV0196-Novosphingobium
+ASV0088	ASV0196	-0.3869	0.005	ASV0088-Sphingomonas yunnanensis	ASV0196-Novosphingobium
+ASV0048	ASV0197	0.399	0.003	ASV0048-Sphingomonas	ASV0197-Sphingomonas
+ASV0075	ASV0197	-0.3987	0.008	ASV0075-Sphingomonas endophytica	ASV0197-Sphingomonas
+ASV0052	ASV0198	0.4684	0.005	ASV0052-Curtobacterium	ASV0198-Curtobacterium
+ASV0124	ASV0198	0.4095	0.006	ASV0124-Xylophilus	ASV0198-Curtobacterium
+ASV0019	ASV0199	0.4098	0.003	ASV0019-Novosphingobium	ASV0199-Novosphingobium
+ASV0103	ASV0199	0.5387	0.002	ASV0103-Novosphingobium	ASV0199-Novosphingobium
+ASV0124	ASV0204	0.4255	0.004	ASV0124-Xylophilus	ASV0204-Methylobacterium tardum
+ASV0019	ASV0208	-0.3818	0.008	ASV0019-Novosphingobium	ASV0208-Kineococcus
+ASV0142	ASV0208	-0.3743	0.007	ASV0142-Mucilaginibacter	ASV0208-Kineococcus
+ASV0147	ASV0210	0.3973	0.004	ASV0147-Sphingomonas	ASV0210-uncultured
+ASV0016	ASV0211	0.4551	0.002	ASV0016-Amnibacterium	ASV0211-Acidiphilium
+ASV0132	ASV0211	0.456	0.004	ASV0132-Frigoribacterium	ASV0211-Acidiphilium
+ASV0011	ASV0215	-0.4125	0.007	ASV0011-Rhizobium soli	ASV0215-Terriglobus
+ASV0085	ASV0215	-0.4661	0.003	ASV0085-Spirosoma lituiforme	ASV0215-Terriglobus
+ASV0117	ASV0215	-0.4087	0.005	ASV0117-Roseomonas haemaphysalidis	ASV0215-Terriglobus
+ASV0142	ASV0215	0.5823	0.001	ASV0142-Mucilaginibacter	ASV0215-Terriglobus
+ASV0151	ASV0215	-0.3711	0.009	ASV0151-Frondihabitans peucedani	ASV0215-Terriglobus
+ASV0194	ASV0215	0.3896	0.006	ASV0194-Sphingomonas	ASV0215-Terriglobus
+ASV0195	ASV0216	-0.3736	0.009	ASV0195-Massilia	ASV0216-Roseomonas
+ASV0159	ASV0220	-0.4353	0.003	ASV0159-Sphingomonas	ASV0220-Sphingomonas
+ASV0011	ASV0222	-0.4945	0.001	ASV0011-Rhizobium soli	ASV0222-Sphingomonas
+ASV0022	ASV0222	-0.3881	0.008	ASV0022-Microbacterium algihabitans	ASV0222-Sphingomonas
+ASV0117	ASV0222	-0.4542	0.003	ASV0117-Roseomonas haemaphysalidis	ASV0222-Sphingomonas
+ASV0142	ASV0222	0.4768	0.001	ASV0142-Mucilaginibacter	ASV0222-Sphingomonas
+ASV0194	ASV0222	0.4251	0.004	ASV0194-Sphingomonas	ASV0222-Sphingomonas
+ASV0215	ASV0222	0.4724	0.001	ASV0215-Terriglobus	ASV0222-Sphingomonas
+ASV0101	ASV0223	0.4694	0.001	ASV0101-Variovorax	ASV0223-Variovorax
+ASV0190	ASV0223	0.3866	0.005	ASV0190-Mucilaginibacter	ASV0223-Variovorax
+ASV0195	ASV0227	0.3773	0.008	ASV0195-Massilia	ASV0227-Amnibacterium
+ASV0019	ASV0228	-0.388	0.005	ASV0019-Novosphingobium	ASV0228-Aureimonas
+ASV0028	ASV0228	-0.4393	0.003	ASV0028-D05-2	ASV0228-Aureimonas
+ASV0085	ASV0228	0.4044	0.009	ASV0085-Spirosoma lituiforme	ASV0228-Aureimonas
+ASV0132	ASV0228	0.5117	0.002	ASV0132-Frigoribacterium	ASV0228-Aureimonas
+ASV0142	ASV0228	-0.4039	0.005	ASV0142-Mucilaginibacter	ASV0228-Aureimonas
+ASV0194	ASV0228	-0.37	0.007	ASV0194-Sphingomonas	ASV0228-Aureimonas
+ASV0211	ASV0228	0.4009	0.007	ASV0211-Acidiphilium	ASV0228-Aureimonas
+ASV0222	ASV0228	-0.4246	0.003	ASV0222-Sphingomonas	ASV0228-Aureimonas
+ASV0075	ASV0229	-0.5058	0.001	ASV0075-Sphingomonas endophytica	ASV0229-Flavobacterium
+ASV0057	ASV0232	-0.5146	0.002	ASV0057-Novosphingobium	ASV0232-Friedmanniella
+ASV0077	ASV0232	-0.4448	0.002	ASV0077-Sphingomonas	ASV0232-Friedmanniella
+ASV0215	ASV0232	0.3997	0.006	ASV0215-Terriglobus	ASV0232-Friedmanniella
+ASV0182	ASV0238	0.4917	0.002	ASV0182-Sphingomonas	ASV0238-Sphingomonas
+ASV0198	ASV0238	0.4028	0.004	ASV0198-Curtobacterium	ASV0238-Sphingomonas
+ASV0211	ASV0238	0.4019	0.002	ASV0211-Acidiphilium	ASV0238-Sphingomonas
+ASV0019	ASV0242	0.6009	0.001	ASV0019-Novosphingobium	ASV0242-1174-901-12
+ASV0024	ASV0242	0.5807	0.001	ASV0024-Friedmanniella	ASV0242-1174-901-12
+ASV0085	ASV0242	-0.4013	0.008	ASV0085-Spirosoma lituiforme	ASV0242-1174-901-12
+ASV0132	ASV0242	-0.4138	0.007	ASV0132-Frigoribacterium	ASV0242-1174-901-12
+ASV0142	ASV0242	0.4059	0.007	ASV0142-Mucilaginibacter	ASV0242-1174-901-12
+ASV0208	ASV0242	-0.396	0.007	ASV0208-Kineococcus	ASV0242-1174-901-12
+ASV0028	ASV0251	0.4326	0.004	ASV0028-D05-2	ASV0251-Sphingomonas
+ASV0081	ASV0251	0.3746	0.009	ASV0081-Friedmanniella	ASV0251-Sphingomonas
+ASV0142	ASV0251	0.3731	0.008	ASV0142-Mucilaginibacter	ASV0251-Sphingomonas
+ASV0019	ASV0253	0.3795	0.008	ASV0019-Novosphingobium	ASV0253-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium
+ASV0028	ASV0253	0.4362	0.004	ASV0028-D05-2	ASV0253-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium
+ASV0137	ASV0253	0.3585	0.008	ASV0137-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	ASV0253-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium
+ASV0142	ASV0253	0.3871	0.007	ASV0142-Mucilaginibacter	ASV0253-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium
+ASV0149	ASV0253	-0.4209	0.004	ASV0149-Sphingomonas	ASV0253-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium
+ASV0196	ASV0253	0.4066	0.006	ASV0196-Novosphingobium	ASV0253-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium
+ASV0040	ASV0268	-0.4033	0.008	ASV0040-Rhizobium soli	ASV0268-Sphingomonas
+ASV0129	ASV0268	-0.3922	0.008	ASV0129-Amnibacterium kyonggiense	ASV0268-Sphingomonas
+ASV0147	ASV0268	0.3967	0.008	ASV0147-Sphingomonas	ASV0268-Sphingomonas
+ASV0210	ASV0268	0.3618	0.009	ASV0210-uncultured	ASV0268-Sphingomonas
+ASV0016	ASV0269	0.4813	0.002	ASV0016-Amnibacterium	ASV0269-Novosphingobium
+ASV0038	ASV0269	0.5042	0.001	ASV0038-Stenotrophomonas	ASV0269-Novosphingobium
+ASV0106	ASV0269	0.4285	0.008	ASV0106-Sphingomonas roseiflava	ASV0269-Novosphingobium
+ASV0211	ASV0269	0.3436	0.008	ASV0211-Acidiphilium	ASV0269-Novosphingobium
+ASV0147	ASV0270	0.3532	0.009	ASV0147-Sphingomonas	ASV0270-Aeromicrobium
+ASV0208	ASV0270	0.521	0.001	ASV0208-Kineococcus	ASV0270-Aeromicrobium
+ASV0268	ASV0270	0.4415	0.001	ASV0268-Sphingomonas	ASV0270-Aeromicrobium
+ASV0023	ASV0275	0.4478	0.002	ASV0023-Unassigned	ASV0275-Sphingomonas fucosidasi
+ASV0038	ASV0275	0.4134	0.005	ASV0038-Stenotrophomonas	ASV0275-Sphingomonas fucosidasi
+ASV0053	ASV0275	0.4021	0.003	ASV0053-Massilia	ASV0275-Sphingomonas fucosidasi
+ASV0137	ASV0275	-0.4486	0.004	ASV0137-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	ASV0275-Sphingomonas fucosidasi
+ASV0151	ASV0275	0.3842	0.005	ASV0151-Frondihabitans peucedani	ASV0275-Sphingomonas fucosidasi
+ASV0253	ASV0275	-0.3611	0.009	ASV0253-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	ASV0275-Sphingomonas fucosidasi
+ASV0240	ASV0279	0.5107	0.001	ASV0240-Stenotrophomonas chelatiphaga	ASV0279-Curtobacterium herbarum
+ASV0242	ASV0284	0.4299	0.002	ASV0242-1174-901-12	ASV0284-Sphingomonas
+ASV0017	ASV0289	-0.4174	0.005	ASV0017-Methylobacterium-Methylorubrum	ASV0289-Pantoea
+ASV0196	ASV0289	0.4221	0.005	ASV0196-Novosphingobium	ASV0289-Pantoea
+ASV0235	ASV0289	0.455	0.003	ASV0235-Sphingomonas	ASV0289-Pantoea
+ASV0253	ASV0289	0.4215	0.005	ASV0253-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	ASV0289-Pantoea
+ASV0015	ASV0291	-0.3843	0.009	ASV0015-Variovorax	ASV0291-Pigmentiphaga litoralis
+ASV0111	ASV0298	0.3931	0.008	ASV0111-Sphingomonas	ASV0298-Plantibacter
+ASV0038	ASV0304	0.3732	0.009	ASV0038-Stenotrophomonas	ASV0304-Novosphingobium
+ASV0093	ASV0304	-0.3911	0.006	ASV0093-Rathayibacter oskolensis	ASV0304-Novosphingobium
+ASV0106	ASV0304	0.3811	0.006	ASV0106-Sphingomonas roseiflava	ASV0304-Novosphingobium
+ASV0269	ASV0304	0.4582	0.002	ASV0269-Novosphingobium	ASV0304-Novosphingobium
+ASV0159	ASV0318	-0.3984	0.006	ASV0159-Sphingomonas	ASV0318-Sphingomonas yunnanensis
+ASV0030	ASV0319	-0.4144	0.006	ASV0030-Pantoea	ASV0319-Rathayibacter festucae
+ASV0076	ASV0319	0.5486	0.001	ASV0076-Sphingomonas roseiflava	ASV0319-Rathayibacter festucae
+ASV0088	ASV0319	-0.3773	0.008	ASV0088-Sphingomonas yunnanensis	ASV0319-Rathayibacter festucae
+ASV0153	ASV0319	0.4974	0.001	ASV0153-Curtobacterium	ASV0319-Rathayibacter festucae
+ASV0186	ASV0319	0.4706	0.003	ASV0186-Pseudomonas caspiana	ASV0319-Rathayibacter festucae
+ASV0110	ASV0324	0.3649	0.008	ASV0110-Sphingomonas	ASV0324-Kineococcus
+ASV0030	ASV0328	-0.4356	0.005	ASV0030-Pantoea	ASV0328-Sphingomonas
+ASV0078	ASV0328	0.4179	0.005	ASV0078-Sphingomonas	ASV0328-Sphingomonas
+ASV0054	ASV0340	-0.3651	0.005	ASV0054-Frondihabitans	ASV0340-Klenkia
+ASV0229	ASV0340	-0.415	0.005	ASV0229-Flavobacterium	ASV0340-Klenkia
+ASV0242	ASV0340	0.39	0.008	ASV0242-1174-901-12	ASV0340-Klenkia
+ASV0253	ASV0340	0.3188	0.009	ASV0253-Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	ASV0340-Klenkia
+ASV0023	ASV0354	-0.3874	0.004	ASV0023-Unassigned	ASV0354-Aureimonas
+ASV0155	ASV0354	0.3674	0.009	ASV0155-Sphingomonas	ASV0354-Aureimonas
+ASV0088	ASV0388	0.3793	0.006	ASV0088-Sphingomonas yunnanensis	ASV0388-Frondihabitans
+ASV0190	ASV0388	0.4076	0.008	ASV0190-Mucilaginibacter	ASV0388-Frondihabitans
+ASV0284	ASV0388	0.3812	0.006	ASV0284-Sphingomonas	ASV0388-Frondihabitans
+ASV0228	ASV0391	-0.4186	0.005	ASV0228-Aureimonas	ASV0391-Acidiphilium
+ASV0019	ASV0420	0.4464	0.002	ASV0019-Novosphingobium	ASV0420-Chryseobacterium
+ASV0028	ASV0420	0.4022	0.006	ASV0028-D05-2	ASV0420-Chryseobacterium
+ASV0085	ASV0420	-0.3968	0.004	ASV0085-Spirosoma lituiforme	ASV0420-Chryseobacterium
+ASV0142	ASV0420	0.4657	0.001	ASV0142-Mucilaginibacter	ASV0420-Chryseobacterium
+ASV0215	ASV0420	0.4616	0.002	ASV0215-Terriglobus	ASV0420-Chryseobacterium
+ASV0242	ASV0420	0.4163	0.003	ASV0242-1174-901-12	ASV0420-Chryseobacterium
+ASV0048	ASV0437	0.4768	0.001	ASV0048-Sphingomonas	ASV0437-Sphingomonas
+ASV0197	ASV0437	0.3457	0.009	ASV0197-Sphingomonas	ASV0437-Sphingomonas
+ASV0432	ASV0501	0.3426	0.005	ASV0432-Altererythrobacter	ASV0501-Aureimonas
+ASV0092	ASV0530	0.4463	0.001	ASV0092-Sphingomonas	ASV0530-Subtercola
+ASV0119	ASV0530	0.3718	0.006	ASV0119-Novosphingobium	ASV0530-Subtercola
+ASV0194	ASV0530	0.408	0.002	ASV0194-Sphingomonas	ASV0530-Subtercola
+ASV0297	ASV0544	0.3697	0.006	ASV0297-Kineococcus radiotolerans	ASV0544-Sphingomonas
+ASV0340	ASV0544	0.3582	0.006	ASV0340-Klenkia	ASV0544-Sphingomonas
+ASV0013	ASV0563	-0.4109	0.003	ASV0013-Novosphingobium	ASV0563-Subtercola
+ASV0075	ASV0563	-0.3634	0.008	ASV0075-Sphingomonas endophytica	ASV0563-Subtercola
+ASV0284	ASV0563	0.4407	0.002	ASV0284-Sphingomonas	ASV0563-Subtercola
+ASV0048	ASV0567	0.4908	0.001	ASV0048-Sphingomonas	ASV0567-Microbacterium
+ASV0432	ASV0567	0.3523	0.009	ASV0432-Altererythrobacter	ASV0567-Microbacterium
+ASV0065	ASV0623	0.4201	0.005	ASV0065-Stenotrophomonas	ASV0623-uncultured
+ASV0102	ASV0634	0.4457	0.002	ASV0102-Novosphingobium	ASV0634-Nocardioides
+ASV0108	ASV0634	0.4832	0.003	ASV0108-Novosphingobium	ASV0634-Nocardioides
+ASV0174	ASV0634	-0.3487	0.008	ASV0174-Plantibacter	ASV0634-Nocardioides
+ASV0210	ASV0634	0.3774	0.006	ASV0210-uncultured	ASV0634-Nocardioides
+ASV0166	ASV0685	0.3703	0.005	ASV0166-Novosphingobium	ASV0685-Agrococcus
+ASV0573	ASV0685	0.3288	0.007	ASV0573-Microbacterium	ASV0685-Agrococcus

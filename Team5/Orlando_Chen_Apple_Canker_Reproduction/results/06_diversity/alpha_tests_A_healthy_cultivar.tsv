@@ -1,0 +1,6 @@
+metric	ANOVA_F	ANOVA_P	KruskalWallis_H	KW_P
+Simpson	1.02	0.45	11.47	0.043
+Shannon	0.98	0.47	11.47	0.043
+Observed	0.62	0.69	7.95	0.16
+Chao1	0.62	0.69	7.95	0.16
+Faith PD	0.75	0.61	6.13	0.29

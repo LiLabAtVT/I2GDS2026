@@ -1,0 +1,42 @@
+# Version control for the apple canker reproduction (set up 2026-10-22).
+# Tracked: scripts, PDFs, QIIME 2 visualizations (.qzv), small result tables, sample metadata, presentation, reports.
+# Never tracked: raw reads, reference databases, QIIME 2 data artifacts (.qza), environments, Slurm logs, large files.
+# These stay on TinkerCliffs: /projects/intro2gds/I2GDS2026/Team5/orlando/Claude_Code
+
+# raw reads (public on SRA, PRJNA1348523); sample metadata tables in raw_data/ are kept
+/raw_data/fastq/
+/raw_data/*.bak*
+
+# reference databases (SILVA 138 classifier, NCBI 16S BLAST db): re-downloaded by 05_taxonomy.sh / 08b_blast_species.sh
+/reference/
+
+# Slurm logs
+/logs/
+
+# results: only small text tables, sequences and QIIME 2 visualizations
+/results/**
+!/results/**/
+!/results/**/*.csv
+!/results/**/*.tsv
+!/results/**/*.txt
+!/results/**/*.md
+!/results/**/*.fasta
+!/results/**/*.qzv
+
+# result files larger than 5 MB (re-create from scripts; kept on TinkerCliffs)
+/results/08b_blast/blast_all_asvs.tsv
+
+# large binaries anywhere
+*.qza
+*.biom
+*.rds
+*.RData
+*.tar.gz
+*.fastq.gz
+
+# environments and caches
+/conda_*/
+/venv_*/
+__pycache__/
+*.pyc
+.Rhistory

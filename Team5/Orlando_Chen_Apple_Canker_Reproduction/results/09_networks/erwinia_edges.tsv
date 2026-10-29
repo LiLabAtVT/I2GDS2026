@@ -1,0 +1,16 @@
+from	to	rho	p	Erwinia_ASV	partner	sign	network
+ASV0001	ASV0108	0.4482	0.007	ASV0001-Erwinia amylovora	ASV0108-Novosphingobium	positive	canker_T5
+ASV0001	ASV0030	0.5007	0.001	ASV0001-Erwinia amylovora	ASV0030-Pantoea	positive	canker_T5
+ASV0001	ASV0004	0.8021	0.001	ASV0001-Erwinia amylovora	ASV0004-Erwinia amylovora	positive	canker_T5
+ASV0001	ASV0003	0.8241	0.001	ASV0001-Erwinia amylovora	ASV0003-Erwinia amylovora	positive	canker_T5
+ASV0001	ASV0002	0.9304	0.001	ASV0001-Erwinia amylovora	ASV0002-Erwinia amylovora	positive	canker_T5
+ASV0002	ASV0003	0.7688	0.001	ASV0002-Erwinia amylovora	ASV0003-Erwinia amylovora	positive	canker_T5
+ASV0002	ASV0004	0.775	0.001	ASV0002-Erwinia amylovora	ASV0004-Erwinia amylovora	positive	canker_T5
+ASV0003	ASV0113	-0.4	0.009	ASV0003-Erwinia amylovora	ASV0113-Sphingomonas roseiflava	negative	canker_T5
+ASV0003	ASV0004	0.8729	0.001	ASV0003-Erwinia amylovora	ASV0004-Erwinia amylovora	positive	canker_T5
+ASV0001	ASV0004	0.7272	0.001	ASV0001-Erwinia amylovora	ASV0004-Erwinia amylovora	positive	canker_T0
+ASV0001	ASV0003	0.7392	0.002	ASV0001-Erwinia amylovora	ASV0003-Erwinia amylovora	positive	canker_T0
+ASV0001	ASV0002	0.9016	0.002	ASV0001-Erwinia amylovora	ASV0002-Erwinia amylovora	positive	canker_T0
+ASV0002	ASV0003	0.7163	0.001	ASV0002-Erwinia amylovora	ASV0003-Erwinia amylovora	positive	canker_T0
+ASV0002	ASV0004	0.7359	0.001	ASV0002-Erwinia amylovora	ASV0004-Erwinia amylovora	positive	canker_T0
+ASV0003	ASV0004	0.8593	0.001	ASV0003-Erwinia amylovora	ASV0004-Erwinia amylovora	positive	canker_T0

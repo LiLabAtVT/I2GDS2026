@@ -1,0 +1,49 @@
+	total_reads	bacterial_reads	bacterial_ASVs	all_ASVs	cultivar	health_status
+Fuji1_Canker	74755.0	73487.0	468	471	Aztec Fuji	Canker
+Fuji2_Canker	33194.0	20440.0	121	124	Aztec Fuji	Canker
+Fuji3_Canker	19071.0	2488.0	58	62	Aztec Fuji	Canker
+Fuji4_Canker	30110.0	9893.0	84	87	Aztec Fuji	Canker
+Fuji5_Canker	34575.0	2451.0	54	57	Aztec Fuji	Canker
+Fuji6_Canker	39120.0	26456.0	148	156	Aztec Fuji	Canker
+CP1_Canker	60924.0	58981.0	142	144	Cripps Pink	Canker
+CP2_Canker	63184.0	59441.0	144	150	Cripps Pink	Canker
+CP3_Canker	30955.0	22373.0	143	148	Cripps Pink	Canker
+CP4_Canker	77084.0	76065.0	228	231	Cripps Pink	Canker
+CP5_Canker	62742.0	60996.0	197	199	Cripps Pink	Canker
+CP6_Canker	71447.0	62086.0	372	376	Cripps Pink	Canker
+Gala1_Canker	44133.0	26282.0	53	56	Gala	Canker
+Gala2_Canker	49417.0	43807.0	203	209	Gala	Canker
+Gala3_Canker	46739.0	29946.0	196	201	Gala	Canker
+Gala4_Canker	31426.0	5401.0	78	81	Gala	Canker
+Gala5_Canker	25819.0	9360.0	87	94	Gala	Canker
+Gala6_Canker	66861.0	65810.0	365	369	Gala	Canker
+Nic1_Canker	46214.0	5067.0	18	19	Granniwinkle	Canker
+Nic2_Canker	43119.0	14213.0	62	65	Granniwinkle	Canker
+Nic3_Canker	39317.0	793.0	25	27	Granniwinkle	Canker
+Nic4_Canker	49681.0	12877.0	146	150	Granniwinkle	Canker
+Nic5_Canker	40718.0	2107.0	61	63	Granniwinkle	Canker
+Nic6_Canker	43876.0	5051.0	85	90	Granniwinkle	Canker
+HW1_Canker	54161.0	21252.0	127	131	Hewe's Crab	Canker
+HW2_Canker	48108.0	505.0	16	21	Hewe's Crab	Canker
+HW3_Canker	50887.0	4268.0	54	59	Hewe's Crab	Canker
+HW4_Canker	56418.0	38785.0	207	212	Hewe's Crab	Canker
+HW5_Canker	51378.0	1988.0	45	48	Hewe's Crab	Canker
+HW6_Canker	52408.0	21296.0	84	87	Hewe's Crab	Canker
+UN1_Canker	58023.0	23682.0	158	162	Unknown cultivar	Canker
+UN2_Canker	48886.0	5697.0	66	71	Unknown cultivar	Canker
+Fuji1_Healthy	15564.0	0.0	0	2	Aztec Fuji	Healthy
+Fuji2_Healthy	17566.0	26.0	2	3	Aztec Fuji	Healthy
+Fuji3_Healthy	16923.0	0.0	0	3	Aztec Fuji	Healthy
+Fuji4_Healthy	19964.0	0.0	0	2	Aztec Fuji	Healthy
+Fuji5_Healthy	17451.0	0.0	0	3	Aztec Fuji	Healthy
+Fuji6_Healthy	21646.0	177.0	8	12	Aztec Fuji	Healthy
+CP1_Healthy	18908.0	10.0	2	4	Cripps Pink	Healthy
+CP2_Healthy	20232.0	0.0	0	3	Cripps Pink	Healthy
+Gala1_Healthy	18371.0	68.0	5	8	Gala	Healthy
+Gala2_Healthy	19084.0	18.0	1	3	Gala	Healthy
+Nic1_Healthy	20440.0	0.0	0	1	Granniwinkle	Healthy
+Nic2_Healthy	17891.0	7.0	1	2	Granniwinkle	Healthy
+HW1_Healthy	18256.0	0.0	0	3	Hewe's Crab	Healthy
+HW2_Healthy	20476.0	0.0	0	2	Hewe's Crab	Healthy
+UN1_Healthy	14881.0	63.0	5	8	Unknown cultivar	Healthy
+UN2_Healthy	16773.0	64.0	2	4	Unknown cultivar	Healthy

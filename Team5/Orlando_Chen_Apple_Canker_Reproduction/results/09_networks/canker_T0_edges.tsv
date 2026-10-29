@@ -1,0 +1,8 @@
+from	to	rho	p	from_label	to_label
+ASV0001	ASV0002	0.9016	0.002	ASV0001-Erwinia amylovora	ASV0002-Erwinia amylovora
+ASV0001	ASV0003	0.7392	0.002	ASV0001-Erwinia amylovora	ASV0003-Erwinia amylovora
+ASV0002	ASV0003	0.7163	0.001	ASV0002-Erwinia amylovora	ASV0003-Erwinia amylovora
+ASV0001	ASV0004	0.7272	0.001	ASV0001-Erwinia amylovora	ASV0004-Erwinia amylovora
+ASV0002	ASV0004	0.7359	0.001	ASV0002-Erwinia amylovora	ASV0004-Erwinia amylovora
+ASV0003	ASV0004	0.8593	0.001	ASV0003-Erwinia amylovora	ASV0004-Erwinia amylovora
+ASV0006	ASV0018	-0.5939	0.008	ASV0006-Curtobacterium	ASV0018-Unassigned

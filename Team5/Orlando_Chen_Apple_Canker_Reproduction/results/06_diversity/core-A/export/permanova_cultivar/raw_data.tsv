@@ -1,0 +1,2073 @@
+	SubjectID1	SubjectID2	Group1	Group2	Distance
+0	Fuji2_Canker	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.8236677642631544
+1	Fuji3_Canker	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.8916739466433707
+2	Fuji3_Canker	Fuji2_Canker	Aztec Fuji	Aztec Fuji	0.5316846986089645
+3	Fuji4_Canker	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.8633156373899603
+4	Fuji4_Canker	Fuji2_Canker	Aztec Fuji	Aztec Fuji	0.40158591492507223
+5	Fuji4_Canker	Fuji3_Canker	Aztec Fuji	Aztec Fuji	0.25031919897856325
+6	Fuji5_Canker	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.9438881795578254
+7	Fuji5_Canker	Fuji2_Canker	Aztec Fuji	Aztec Fuji	0.586721322491768
+8	Fuji5_Canker	Fuji3_Canker	Aztec Fuji	Aztec Fuji	0.1036220684093811
+9	Fuji5_Canker	Fuji4_Canker	Aztec Fuji	Aztec Fuji	0.29971104092466905
+10	Fuji6_Canker	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.8123110006047981
+11	Fuji6_Canker	Fuji2_Canker	Aztec Fuji	Aztec Fuji	0.48209125730797664
+12	Fuji6_Canker	Fuji3_Canker	Aztec Fuji	Aztec Fuji	0.5946508971171293
+13	Fuji6_Canker	Fuji4_Canker	Aztec Fuji	Aztec Fuji	0.4818896579530946
+14	Fuji6_Canker	Fuji5_Canker	Aztec Fuji	Aztec Fuji	0.6447819366978026
+15	Fuji1_Healthy	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.9836032524695921
+16	Fuji1_Healthy	Fuji2_Canker	Aztec Fuji	Aztec Fuji	0.624420401854714
+17	Fuji1_Healthy	Fuji3_Canker	Aztec Fuji	Aztec Fuji	0.14172434648209126
+18	Fuji1_Healthy	Fuji4_Canker	Aztec Fuji	Aztec Fuji	0.33089174114642833
+19	Fuji1_Healthy	Fuji5_Canker	Aztec Fuji	Aztec Fuji	0.09354210066527788
+20	Fuji1_Healthy	Fuji6_Canker	Aztec Fuji	Aztec Fuji	0.6926281835898125
+21	Fuji2_Healthy	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.9835360526846314
+22	Fuji2_Healthy	Fuji2_Canker	Aztec Fuji	Aztec Fuji	0.6260331966937706
+23	Fuji2_Healthy	Fuji3_Canker	Aztec Fuji	Aztec Fuji	0.14333714132114778
+24	Fuji2_Healthy	Fuji4_Canker	Aztec Fuji	Aztec Fuji	0.33250453598548485
+25	Fuji2_Healthy	Fuji5_Canker	Aztec Fuji	Aztec Fuji	0.09515489550433438
+26	Fuji2_Healthy	Fuji6_Canker	Aztec Fuji	Aztec Fuji	0.694240978428869
+27	Fuji2_Healthy	Fuji1_Healthy	Aztec Fuji	Aztec Fuji	0.001612794839056515
+28	Fuji3_Healthy	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.9836032524695921
+29	Fuji3_Healthy	Fuji2_Canker	Aztec Fuji	Aztec Fuji	0.6249580001343996
+30	Fuji3_Healthy	Fuji3_Canker	Aztec Fuji	Aztec Fuji	0.14226194476177675
+31	Fuji3_Healthy	Fuji4_Canker	Aztec Fuji	Aztec Fuji	0.33142933942611386
+32	Fuji3_Healthy	Fuji5_Canker	Aztec Fuji	Aztec Fuji	0.09407969894496337
+33	Fuji3_Healthy	Fuji6_Canker	Aztec Fuji	Aztec Fuji	0.6931657818694981
+34	Fuji3_Healthy	Fuji1_Healthy	Aztec Fuji	Aztec Fuji	0.000537598279685505
+35	Fuji3_Healthy	Fuji2_Healthy	Aztec Fuji	Aztec Fuji	0.0014111954841744506
+36	Fuji4_Healthy	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.9836032524695921
+37	Fuji4_Healthy	Fuji2_Canker	Aztec Fuji	Aztec Fuji	0.6245548014246355
+38	Fuji4_Healthy	Fuji3_Canker	Aztec Fuji	Aztec Fuji	0.14185874605201262
+39	Fuji4_Healthy	Fuji4_Canker	Aztec Fuji	Aztec Fuji	0.3310261407163497
+40	Fuji4_Healthy	Fuji5_Canker	Aztec Fuji	Aztec Fuji	0.09367650023519924
+41	Fuji4_Healthy	Fuji6_Canker	Aztec Fuji	Aztec Fuji	0.6927625831597339
+42	Fuji4_Healthy	Fuji1_Healthy	Aztec Fuji	Aztec Fuji	0.00013439956992137626
+43	Fuji4_Healthy	Fuji2_Healthy	Aztec Fuji	Aztec Fuji	0.0014783952691351388
+44	Fuji4_Healthy	Fuji3_Healthy	Aztec Fuji	Aztec Fuji	0.0004031987097641288
+45	Fuji5_Healthy	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.9829312546199852
+46	Fuji5_Healthy	Fuji2_Canker	Aztec Fuji	Aztec Fuji	0.6249580001343996
+47	Fuji5_Healthy	Fuji3_Canker	Aztec Fuji	Aztec Fuji	0.14226194476177675
+48	Fuji5_Healthy	Fuji4_Canker	Aztec Fuji	Aztec Fuji	0.33142933942611386
+49	Fuji5_Healthy	Fuji5_Canker	Aztec Fuji	Aztec Fuji	0.09407969894496337
+50	Fuji5_Healthy	Fuji6_Canker	Aztec Fuji	Aztec Fuji	0.6931657818694981
+51	Fuji5_Healthy	Fuji1_Healthy	Aztec Fuji	Aztec Fuji	0.0007391976345675694
+52	Fuji5_Healthy	Fuji2_Healthy	Aztec Fuji	Aztec Fuji	0.0018143941939385794
+53	Fuji5_Healthy	Fuji3_Healthy	Aztec Fuji	Aztec Fuji	0.0007391976345675694
+54	Fuji5_Healthy	Fuji4_Healthy	Aztec Fuji	Aztec Fuji	0.0007391976345675694
+55	Fuji6_Healthy	Fuji1_Canker	Aztec Fuji	Aztec Fuji	0.9781600698877764
+56	Fuji6_Healthy	Fuji2_Canker	Aztec Fuji	Aztec Fuji	0.6236140044351858
+57	Fuji6_Healthy	Fuji3_Canker	Aztec Fuji	Aztec Fuji	0.1391035548686244
+58	Fuji6_Healthy	Fuji4_Canker	Aztec Fuji	Aztec Fuji	0.33142933942611386
+59	Fuji6_Healthy	Fuji5_Canker	Aztec Fuji	Aztec Fuji	0.093945299375042
+60	Fuji6_Healthy	Fuji6_Canker	Aztec Fuji	Aztec Fuji	0.689940192191385
+61	Fuji6_Healthy	Fuji1_Healthy	Aztec Fuji	Aztec Fuji	0.01216316107788455
+62	Fuji6_Healthy	Fuji2_Healthy	Aztec Fuji	Aztec Fuji	0.01323835763725556
+63	Fuji6_Healthy	Fuji3_Healthy	Aztec Fuji	Aztec Fuji	0.01216316107788455
+64	Fuji6_Healthy	Fuji4_Healthy	Aztec Fuji	Aztec Fuji	0.01216316107788455
+65	Fuji6_Healthy	Fuji5_Healthy	Aztec Fuji	Aztec Fuji	0.01216316107788455
+66	Fuji1_Canker	CP1_Canker	Aztec Fuji	Cripps Pink	0.8271621530811102
+67	Fuji1_Canker	CP2_Canker	Aztec Fuji	Cripps Pink	0.8299173442644984
+68	Fuji1_Canker	CP3_Canker	Aztec Fuji	Cripps Pink	0.8631140380350782
+69	Fuji1_Canker	CP4_Canker	Aztec Fuji	Cripps Pink	0.793360661245884
+70	Fuji1_Canker	CP5_Canker	Aztec Fuji	Cripps Pink	0.7973254485585646
+71	Fuji1_Canker	CP6_Canker	Aztec Fuji	Cripps Pink	0.8102278072710167
+72	Fuji1_Canker	CP1_Healthy	Aztec Fuji	Cripps Pink	0.9836032524695921
+73	Fuji1_Canker	CP2_Healthy	Aztec Fuji	Cripps Pink	0.9838720516094348
+74	Fuji2_Canker	CP1_Canker	Aztec Fuji	Cripps Pink	0.7592231704858544
+75	Fuji2_Canker	CP2_Canker	Aztec Fuji	Cripps Pink	0.7490088031718298
+76	Fuji2_Canker	CP3_Canker	Aztec Fuji	Cripps Pink	0.5818157381896378
+77	Fuji2_Canker	CP4_Canker	Aztec Fuji	Cripps Pink	0.7604999664001075
+78	Fuji2_Canker	CP5_Canker	Aztec Fuji	Cripps Pink	0.7615079631745179
+79	Fuji2_Canker	CP6_Canker	Aztec Fuji	Cripps Pink	0.818560580606142
+80	Fuji2_Canker	CP1_Healthy	Aztec Fuji	Cripps Pink	0.6242860022847927
+81	Fuji2_Canker	CP2_Healthy	Aztec Fuji	Cripps Pink	0.6260331966937706
+82	Fuji3_Canker	CP1_Canker	Aztec Fuji	Cripps Pink	0.8847523687924199
+83	Fuji3_Canker	CP2_Canker	Aztec Fuji	Cripps Pink	0.8647268328741348
+84	Fuji3_Canker	CP3_Canker	Aztec Fuji	Cripps Pink	0.675089039715073
+85	Fuji3_Canker	CP4_Canker	Aztec Fuji	Cripps Pink	0.8967811303003831
+86	Fuji3_Canker	CP5_Canker	Aztec Fuji	Cripps Pink	0.8790403870707614
+87	Fuji3_Canker	CP6_Canker	Aztec Fuji	Cripps Pink	0.8430885021167932
+88	Fuji3_Canker	CP1_Healthy	Aztec Fuji	Cripps Pink	0.1415899469121699
+89	Fuji3_Canker	CP2_Healthy	Aztec Fuji	Cripps Pink	0.14333714132114778
+90	Fuji4_Canker	CP1_Canker	Aztec Fuji	Cripps Pink	0.7525703917747463
+91	Fuji4_Canker	CP2_Canker	Aztec Fuji	Cripps Pink	0.7389960352126873
+92	Fuji4_Canker	CP3_Canker	Aztec Fuji	Cripps Pink	0.5845037295880653
+93	Fuji4_Canker	CP4_Canker	Aztec Fuji	Cripps Pink	0.7580807741415228
+94	Fuji4_Canker	CP5_Canker	Aztec Fuji	Cripps Pink	0.7482696055372623
+95	Fuji4_Canker	CP6_Canker	Aztec Fuji	Cripps Pink	0.8313957395336334
+96	Fuji4_Canker	CP1_Healthy	Aztec Fuji	Cripps Pink	0.33075734157650694
+97	Fuji4_Canker	CP2_Healthy	Aztec Fuji	Cripps Pink	0.33250453598548485
+98	Fuji5_Canker	CP1_Canker	Aztec Fuji	Cripps Pink	0.9379073986963242
+99	Fuji5_Canker	CP2_Canker	Aztec Fuji	Cripps Pink	0.9180834621329211
+100	Fuji5_Canker	CP3_Canker	Aztec Fuji	Cripps Pink	0.7046569450977757
+101	Fuji5_Canker	CP4_Canker	Aztec Fuji	Cripps Pink	0.9444929776224716
+102	Fuji5_Canker	CP5_Canker	Aztec Fuji	Cripps Pink	0.9381089980512063
+103	Fuji5_Canker	CP6_Canker	Aztec Fuji	Cripps Pink	0.8301861434043412
+104	Fuji5_Canker	CP1_Healthy	Aztec Fuji	Cripps Pink	0.0934077010953565
+105	Fuji5_Canker	CP2_Healthy	Aztec Fuji	Cripps Pink	0.09515489550433438
+106	Fuji6_Canker	CP1_Canker	Aztec Fuji	Cripps Pink	0.5482158457092937
+107	Fuji6_Canker	CP2_Canker	Aztec Fuji	Cripps Pink	0.5175055439822592
+108	Fuji6_Canker	CP3_Canker	Aztec Fuji	Cripps Pink	0.5085679725824878
+109	Fuji6_Canker	CP4_Canker	Aztec Fuji	Cripps Pink	0.5767757543175862
+110	Fuji6_Canker	CP5_Canker	Aztec Fuji	Cripps Pink	0.5363886835562126
+111	Fuji6_Canker	CP6_Canker	Aztec Fuji	Cripps Pink	0.7491432027417513
+112	Fuji6_Canker	CP1_Healthy	Aztec Fuji	Cripps Pink	0.6924937840198911
+113	Fuji6_Canker	CP2_Healthy	Aztec Fuji	Cripps Pink	0.694240978428869
+114	Fuji1_Healthy	CP1_Canker	Aztec Fuji	Cripps Pink	0.9681473019286339
+115	Fuji1_Healthy	CP2_Canker	Aztec Fuji	Cripps Pink	0.9490625629997984
+116	Fuji1_Healthy	CP3_Canker	Aztec Fuji	Cripps Pink	0.7336200524158323
+117	Fuji1_Healthy	CP4_Canker	Aztec Fuji	Cripps Pink	0.9861568442980982
+118	Fuji1_Healthy	CP5_Canker	Aztec Fuji	Cripps Pink	0.9724480881661178
+119	Fuji1_Healthy	CP6_Canker	Aztec Fuji	Cripps Pink	0.8735972044889456
+120	Fuji1_Healthy	CP1_Healthy	Aztec Fuji	Cripps Pink	0.0006719978496068813
+121	Fuji1_Healthy	CP2_Healthy	Aztec Fuji	Cripps Pink	0.0026207916134668367
+122	Fuji2_Healthy	CP1_Canker	Aztec Fuji	Cripps Pink	0.9681473019286339
+123	Fuji2_Healthy	CP2_Canker	Aztec Fuji	Cripps Pink	0.948726564074995
+124	Fuji2_Healthy	CP3_Canker	Aztec Fuji	Cripps Pink	0.7352328472548888
+125	Fuji2_Healthy	CP4_Canker	Aztec Fuji	Cripps Pink	0.9861568442980982
+126	Fuji2_Healthy	CP5_Canker	Aztec Fuji	Cripps Pink	0.9724480881661178
+127	Fuji2_Healthy	CP6_Canker	Aztec Fuji	Cripps Pink	0.8752099993280021
+128	Fuji2_Healthy	CP1_Healthy	Aztec Fuji	Cripps Pink	0.002284792688663396
+129	Fuji2_Healthy	CP2_Healthy	Aztec Fuji	Cripps Pink	0.0026207916134668367
+130	Fuji3_Healthy	CP1_Canker	Aztec Fuji	Cripps Pink	0.9681473019286339
+131	Fuji3_Healthy	CP2_Canker	Aztec Fuji	Cripps Pink	0.9490625629997984
+132	Fuji3_Healthy	CP3_Canker	Aztec Fuji	Cripps Pink	0.7341576506955177
+133	Fuji3_Healthy	CP4_Canker	Aztec Fuji	Cripps Pink	0.9861568442980982
+134	Fuji3_Healthy	CP5_Canker	Aztec Fuji	Cripps Pink	0.9724480881661178
+135	Fuji3_Healthy	CP6_Canker	Aztec Fuji	Cripps Pink	0.8741348027686311
+136	Fuji3_Healthy	CP1_Healthy	Aztec Fuji	Cripps Pink	0.0012095961292923863
+137	Fuji3_Healthy	CP2_Healthy	Aztec Fuji	Cripps Pink	0.0026207916134668367
+138	Fuji4_Healthy	CP1_Canker	Aztec Fuji	Cripps Pink	0.9681473019286339
+139	Fuji4_Healthy	CP2_Canker	Aztec Fuji	Cripps Pink	0.9490625629997984
+140	Fuji4_Healthy	CP3_Canker	Aztec Fuji	Cripps Pink	0.7337544519857536
+141	Fuji4_Healthy	CP4_Canker	Aztec Fuji	Cripps Pink	0.9861568442980982
+142	Fuji4_Healthy	CP5_Canker	Aztec Fuji	Cripps Pink	0.9724480881661178
+143	Fuji4_Healthy	CP6_Canker	Aztec Fuji	Cripps Pink	0.873731604058867
+144	Fuji4_Healthy	CP1_Healthy	Aztec Fuji	Cripps Pink	0.0008063974195282575
+145	Fuji4_Healthy	CP2_Healthy	Aztec Fuji	Cripps Pink	0.0026207916134668367
+146	Fuji5_Healthy	CP1_Canker	Aztec Fuji	Cripps Pink	0.9681473019286339
+147	Fuji5_Healthy	CP2_Canker	Aztec Fuji	Cripps Pink	0.9490625629997984
+148	Fuji5_Healthy	CP3_Canker	Aztec Fuji	Cripps Pink	0.7341576506955177
+149	Fuji5_Healthy	CP4_Canker	Aztec Fuji	Cripps Pink	0.9861568442980982
+150	Fuji5_Healthy	CP5_Canker	Aztec Fuji	Cripps Pink	0.9724480881661178
+151	Fuji5_Healthy	CP6_Canker	Aztec Fuji	Cripps Pink	0.8741348027686311
+152	Fuji5_Healthy	CP1_Healthy	Aztec Fuji	Cripps Pink	0.0012095961292923863
+153	Fuji5_Healthy	CP2_Healthy	Aztec Fuji	Cripps Pink	0.0026207916134668367
+154	Fuji6_Healthy	CP1_Canker	Aztec Fuji	Cripps Pink	0.966601706874538
+155	Fuji6_Healthy	CP2_Canker	Aztec Fuji	Cripps Pink	0.944828976547275
+156	Fuji6_Healthy	CP3_Canker	Aztec Fuji	Cripps Pink	0.7341576506955177
+157	Fuji6_Healthy	CP4_Canker	Aztec Fuji	Cripps Pink	0.9826624554801424
+158	Fuji6_Healthy	CP5_Canker	Aztec Fuji	Cripps Pink	0.9692896982729655
+159	Fuji6_Healthy	CP6_Canker	Aztec Fuji	Cripps Pink	0.869430817821383
+160	Fuji6_Healthy	CP1_Healthy	Aztec Fuji	Cripps Pink	0.01216316107788455
+161	Fuji6_Healthy	CP2_Healthy	Aztec Fuji	Cripps Pink	0.01323835763725556
+162	Fuji1_Canker	Gala1_Canker	Aztec Fuji	Gala	0.8784355890061152
+163	Fuji1_Canker	Gala2_Canker	Aztec Fuji	Gala	0.7908742692023385
+164	Fuji1_Canker	Gala3_Canker	Aztec Fuji	Gala	0.8022982326456556
+165	Fuji1_Canker	Gala4_Canker	Aztec Fuji	Gala	0.8743364021235132
+166	Fuji1_Canker	Gala5_Canker	Aztec Fuji	Gala	0.854982864054835
+167	Fuji1_Canker	Gala6_Canker	Aztec Fuji	Gala	0.7155433102614072
+168	Fuji1_Canker	Gala1_Healthy	Aztec Fuji	Gala	0.9830656541899065
+169	Fuji1_Canker	Gala2_Healthy	Aztec Fuji	Gala	0.9836032524695921
+170	Fuji2_Canker	Gala1_Canker	Aztec Fuji	Gala	0.42127545191855387
+171	Fuji2_Canker	Gala2_Canker	Aztec Fuji	Gala	0.6719978496068812
+172	Fuji2_Canker	Gala3_Canker	Aztec Fuji	Gala	0.4326322155769102
+173	Fuji2_Canker	Gala4_Canker	Aztec Fuji	Gala	0.5298031046300652
+174	Fuji2_Canker	Gala5_Canker	Aztec Fuji	Gala	0.4074322962166521
+175	Fuji2_Canker	Gala6_Canker	Aztec Fuji	Gala	0.7655399502721592
+176	Fuji2_Canker	Gala1_Healthy	Aztec Fuji	Gala	0.6258315973388885
+177	Fuji2_Canker	Gala2_Healthy	Aztec Fuji	Gala	0.6238828035750286
+178	Fuji3_Canker	Gala1_Canker	Aztec Fuji	Gala	0.5170351454875345
+179	Fuji3_Canker	Gala2_Canker	Aztec Fuji	Gala	0.7999462401720314
+180	Fuji3_Canker	Gala3_Canker	Aztec Fuji	Gala	0.5590350110879645
+181	Fuji3_Canker	Gala4_Canker	Aztec Fuji	Gala	0.10839325314158994
+182	Fuji3_Canker	Gala5_Canker	Aztec Fuji	Gala	0.2806935017807943
+183	Fuji3_Canker	Gala6_Canker	Aztec Fuji	Gala	0.890128351589275
+184	Fuji3_Canker	Gala1_Healthy	Aztec Fuji	Gala	0.14253074390161952
+185	Fuji3_Canker	Gala2_Healthy	Aztec Fuji	Gala	0.14118674820240576
+186	Fuji4_Canker	Gala1_Canker	Aztec Fuji	Gala	0.38055238223237686
+187	Fuji4_Canker	Gala2_Canker	Aztec Fuji	Gala	0.6640010751965594
+188	Fuji4_Canker	Gala3_Canker	Aztec Fuji	Gala	0.4216114508433573
+189	Fuji4_Canker	Gala4_Canker	Aztec Fuji	Gala	0.24534641489147235
+190	Fuji4_Canker	Gala5_Canker	Aztec Fuji	Gala	0.1437403400309119
+191	Fuji4_Canker	Gala6_Canker	Aztec Fuji	Gala	0.7570055775821517
+192	Fuji4_Canker	Gala1_Healthy	Aztec Fuji	Gala	0.33250453598548485
+193	Fuji4_Canker	Gala2_Healthy	Aztec Fuji	Gala	0.3303541428667428
+194	Fuji5_Canker	Gala1_Canker	Aztec Fuji	Gala	0.5652173913043478
+195	Fuji5_Canker	Gala2_Canker	Aztec Fuji	Gala	0.8406693098582084
+196	Fuji5_Canker	Gala3_Canker	Aztec Fuji	Gala	0.5947180969020899
+197	Fuji5_Canker	Gala4_Canker	Aztec Fuji	Gala	0.13419797056649418
+198	Fuji5_Canker	Gala5_Canker	Aztec Fuji	Gala	0.33532692695383376
+199	Fuji5_Canker	Gala6_Canker	Aztec Fuji	Gala	0.9461729722464888
+200	Fuji5_Canker	Gala1_Healthy	Aztec Fuji	Gala	0.09502049593441302
+201	Fuji5_Canker	Gala2_Healthy	Aztec Fuji	Gala	0.09300450238559237
+202	Fuji6_Canker	Gala1_Canker	Aztec Fuji	Gala	0.278811907801895
+203	Fuji6_Canker	Gala2_Canker	Aztec Fuji	Gala	0.42342584503729586
+204	Fuji6_Canker	Gala3_Canker	Aztec Fuji	Gala	0.4308178213829716
+205	Fuji6_Canker	Gala4_Canker	Aztec Fuji	Gala	0.5828237349640482
+206	Fuji6_Canker	Gala5_Canker	Aztec Fuji	Gala	0.4170418654660305
+207	Fuji6_Canker	Gala6_Canker	Aztec Fuji	Gala	0.6131980377662791
+208	Fuji6_Canker	Gala1_Healthy	Aztec Fuji	Gala	0.6934345810093407
+209	Fuji6_Canker	Gala2_Healthy	Aztec Fuji	Gala	0.692090585310127
+210	Fuji1_Healthy	Gala1_Canker	Aztec Fuji	Gala	0.5992876822794168
+211	Fuji1_Healthy	Gala2_Canker	Aztec Fuji	Gala	0.890128351589275
+212	Fuji1_Healthy	Gala3_Canker	Aztec Fuji	Gala	0.6531819098178886
+213	Fuji1_Healthy	Gala4_Canker	Aztec Fuji	Gala	0.19434177810631006
+214	Fuji1_Healthy	Gala5_Canker	Aztec Fuji	Gala	0.36818762179961023
+215	Fuji1_Healthy	Gala6_Canker	Aztec Fuji	Gala	0.9860224447281769
+216	Fuji1_Healthy	Gala1_Healthy	Aztec Fuji	Gala	0.005241583226933673
+217	Fuji1_Healthy	Gala2_Healthy	Aztec Fuji	Gala	0.0015455950540958269
+218	Fuji2_Healthy	Gala1_Canker	Aztec Fuji	Gala	0.6009004771184733
+219	Fuji2_Healthy	Gala2_Canker	Aztec Fuji	Gala	0.8917411464283315
+220	Fuji2_Healthy	Gala3_Canker	Aztec Fuji	Gala	0.6547947046569451
+221	Fuji2_Healthy	Gala4_Canker	Aztec Fuji	Gala	0.19595457294536658
+222	Fuji2_Healthy	Gala5_Canker	Aztec Fuji	Gala	0.36980041663866675
+223	Fuji2_Healthy	Gala6_Canker	Aztec Fuji	Gala	0.9860224447281769
+224	Fuji2_Healthy	Gala1_Healthy	Aztec Fuji	Gala	0.005241583226933673
+225	Fuji2_Healthy	Gala2_Healthy	Aztec Fuji	Gala	0.0031583898931523417
+226	Fuji3_Healthy	Gala1_Canker	Aztec Fuji	Gala	0.5998252805591022
+227	Fuji3_Healthy	Gala2_Canker	Aztec Fuji	Gala	0.8906659498689604
+228	Fuji3_Healthy	Gala3_Canker	Aztec Fuji	Gala	0.6537195080975741
+229	Fuji3_Healthy	Gala4_Canker	Aztec Fuji	Gala	0.19487937638599556
+230	Fuji3_Healthy	Gala5_Canker	Aztec Fuji	Gala	0.36872522007929576
+231	Fuji3_Healthy	Gala6_Canker	Aztec Fuji	Gala	0.9860224447281769
+232	Fuji3_Healthy	Gala1_Healthy	Aztec Fuji	Gala	0.005241583226933673
+233	Fuji3_Healthy	Gala2_Healthy	Aztec Fuji	Gala	0.002083193333781332
+234	Fuji4_Healthy	Gala1_Canker	Aztec Fuji	Gala	0.5994220818493381
+235	Fuji4_Healthy	Gala2_Canker	Aztec Fuji	Gala	0.8902627511591963
+236	Fuji4_Healthy	Gala3_Canker	Aztec Fuji	Gala	0.6533163093878099
+237	Fuji4_Healthy	Gala4_Canker	Aztec Fuji	Gala	0.19447617767623143
+238	Fuji4_Healthy	Gala5_Canker	Aztec Fuji	Gala	0.3683220213695316
+239	Fuji4_Healthy	Gala6_Canker	Aztec Fuji	Gala	0.9860224447281769
+240	Fuji4_Healthy	Gala1_Healthy	Aztec Fuji	Gala	0.005241583226933673
+241	Fuji4_Healthy	Gala2_Healthy	Aztec Fuji	Gala	0.0016799946240172031
+242	Fuji5_Healthy	Gala1_Canker	Aztec Fuji	Gala	0.5998252805591022
+243	Fuji5_Healthy	Gala2_Canker	Aztec Fuji	Gala	0.8906659498689604
+244	Fuji5_Healthy	Gala3_Canker	Aztec Fuji	Gala	0.6537195080975741
+245	Fuji5_Healthy	Gala4_Canker	Aztec Fuji	Gala	0.19487937638599556
+246	Fuji5_Healthy	Gala5_Canker	Aztec Fuji	Gala	0.36872522007929576
+247	Fuji5_Healthy	Gala6_Canker	Aztec Fuji	Gala	0.9858880451582555
+248	Fuji5_Healthy	Gala1_Healthy	Aztec Fuji	Gala	0.005241583226933673
+249	Fuji5_Healthy	Gala2_Healthy	Aztec Fuji	Gala	0.002083193333781332
+250	Fuji6_Healthy	Gala1_Canker	Aztec Fuji	Gala	0.5988172837846919
+251	Fuji6_Healthy	Gala2_Canker	Aztec Fuji	Gala	0.8874403601908474
+252	Fuji6_Healthy	Gala3_Canker	Aztec Fuji	Gala	0.6500907197096969
+253	Fuji6_Healthy	Gala4_Canker	Aztec Fuji	Gala	0.19219138498756805
+254	Fuji6_Healthy	Gala5_Canker	Aztec Fuji	Gala	0.36650762717559304
+255	Fuji6_Healthy	Gala6_Canker	Aztec Fuji	Gala	0.9827968550500639
+256	Fuji6_Healthy	Gala1_Healthy	Aztec Fuji	Gala	0.01256635978764868
+257	Fuji6_Healthy	Gala2_Healthy	Aztec Fuji	Gala	0.01216316107788455
+258	Fuji1_Canker	Nic1_Canker	Aztec Fuji	Granniwinkle	0.8897923526644714
+259	Fuji1_Canker	Nic2_Canker	Aztec Fuji	Granniwinkle	0.8725220079295746
+260	Fuji1_Canker	Nic3_Canker	Aztec Fuji	Granniwinkle	0.9802432632215576
+261	Fuji1_Canker	Nic4_Canker	Aztec Fuji	Granniwinkle	0.920704253746388
+262	Fuji1_Canker	Nic5_Canker	Aztec Fuji	Granniwinkle	0.9648545124655601
+263	Fuji1_Canker	Nic6_Canker	Aztec Fuji	Granniwinkle	0.8998723204085747
+264	Fuji1_Canker	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.9838720516094348
+265	Fuji1_Canker	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.9834016531147101
+266	Fuji2_Canker	Nic1_Canker	Aztec Fuji	Granniwinkle	0.520798333445333
+267	Fuji2_Canker	Nic2_Canker	Aztec Fuji	Granniwinkle	0.42806263019958335
+268	Fuji2_Canker	Nic3_Canker	Aztec Fuji	Granniwinkle	0.6173644244338418
+269	Fuji2_Canker	Nic4_Canker	Aztec Fuji	Granniwinkle	0.6133996371211612
+270	Fuji2_Canker	Nic5_Canker	Aztec Fuji	Granniwinkle	0.6110476446475371
+271	Fuji2_Canker	Nic6_Canker	Aztec Fuji	Granniwinkle	0.5540622270008736
+272	Fuji2_Canker	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.6260331966937706
+273	Fuji2_Canker	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.6260331966937706
+274	Fuji3_Canker	Nic1_Canker	Aztec Fuji	Granniwinkle	0.06592298904643505
+275	Fuji3_Canker	Nic2_Canker	Aztec Fuji	Granniwinkle	0.24655601102076474
+276	Fuji3_Canker	Nic3_Canker	Aztec Fuji	Granniwinkle	0.1420603454068947
+277	Fuji3_Canker	Nic4_Canker	Aztec Fuji	Granniwinkle	0.24978160069887775
+278	Fuji3_Canker	Nic5_Canker	Aztec Fuji	Granniwinkle	0.13399637121161212
+279	Fuji3_Canker	Nic6_Canker	Aztec Fuji	Granniwinkle	0.07566695786573482
+280	Fuji3_Canker	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.14333714132114778
+281	Fuji3_Canker	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.14333714132114778
+282	Fuji4_Canker	Nic1_Canker	Aztec Fuji	Granniwinkle	0.22800887037161482
+283	Fuji4_Canker	Nic2_Canker	Aztec Fuji	Granniwinkle	0.12895638733956052
+284	Fuji4_Canker	Nic3_Canker	Aztec Fuji	Granniwinkle	0.3288757475976077
+285	Fuji4_Canker	Nic4_Canker	Aztec Fuji	Granniwinkle	0.31872858006854377
+286	Fuji4_Canker	Nic5_Canker	Aztec Fuji	Granniwinkle	0.3207445736173644
+287	Fuji4_Canker	Nic6_Canker	Aztec Fuji	Granniwinkle	0.2662455480142464
+288	Fuji4_Canker	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.33250453598548485
+289	Fuji4_Canker	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.33250453598548485
+290	Fuji5_Canker	Nic1_Canker	Aztec Fuji	Granniwinkle	0.08218533700692157
+291	Fuji5_Canker	Nic2_Canker	Aztec Fuji	Granniwinkle	0.3061622202808951
+292	Fuji5_Canker	Nic3_Canker	Aztec Fuji	Granniwinkle	0.09300450238559237
+293	Fuji5_Canker	Nic4_Canker	Aztec Fuji	Granniwinkle	0.24595121295611855
+294	Fuji5_Canker	Nic5_Canker	Aztec Fuji	Granniwinkle	0.08581412539479874
+295	Fuji5_Canker	Nic6_Canker	Aztec Fuji	Granniwinkle	0.09031651098716484
+296	Fuji5_Canker	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.09515489550433438
+297	Fuji5_Canker	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.09515489550433438
+298	Fuji6_Canker	Nic1_Canker	Aztec Fuji	Granniwinkle	0.5893421141052348
+299	Fuji6_Canker	Nic2_Canker	Aztec Fuji	Granniwinkle	0.41468987299240645
+300	Fuji6_Canker	Nic3_Canker	Aztec Fuji	Granniwinkle	0.6922249848800484
+301	Fuji6_Canker	Nic4_Canker	Aztec Fuji	Granniwinkle	0.6535851085276527
+302	Fuji6_Canker	Nic5_Canker	Aztec Fuji	Granniwinkle	0.6797258248773604
+303	Fuji6_Canker	Nic6_Canker	Aztec Fuji	Granniwinkle	0.6174988240037632
+304	Fuji6_Canker	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.694240978428869
+305	Fuji6_Canker	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.6937705799341443
+306	Fuji1_Healthy	Nic1_Canker	Aztec Fuji	Granniwinkle	0.10846045292655064
+307	Fuji1_Healthy	Nic2_Canker	Aztec Fuji	Granniwinkle	0.33398293125462
+308	Fuji1_Healthy	Nic3_Canker	Aztec Fuji	Granniwinkle	0.02042873462804919
+309	Fuji1_Healthy	Nic4_Canker	Aztec Fuji	Granniwinkle	0.25945836973321684
+310	Fuji1_Healthy	Nic5_Canker	Aztec Fuji	Granniwinkle	0.052886230764061556
+311	Fuji1_Healthy	Nic6_Canker	Aztec Fuji	Granniwinkle	0.1193468180901821
+312	Fuji1_Healthy	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.001612794839056515
+313	Fuji1_Healthy	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.001612794839056515
+314	Fuji2_Healthy	Nic1_Canker	Aztec Fuji	Granniwinkle	0.10846045292655064
+315	Fuji2_Healthy	Nic2_Canker	Aztec Fuji	Granniwinkle	0.33398293125462
+316	Fuji2_Healthy	Nic3_Canker	Aztec Fuji	Granniwinkle	0.02042873462804919
+317	Fuji2_Healthy	Nic4_Canker	Aztec Fuji	Granniwinkle	0.25945836973321684
+318	Fuji2_Healthy	Nic5_Canker	Aztec Fuji	Granniwinkle	0.052886230764061556
+319	Fuji2_Healthy	Nic6_Canker	Aztec Fuji	Granniwinkle	0.1193468180901821
+320	Fuji2_Healthy	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.0012767959142530743
+321	Fuji2_Healthy	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.0012767959142530743
+322	Fuji3_Healthy	Nic1_Canker	Aztec Fuji	Granniwinkle	0.10846045292655064
+323	Fuji3_Healthy	Nic2_Canker	Aztec Fuji	Granniwinkle	0.33398293125462
+324	Fuji3_Healthy	Nic3_Canker	Aztec Fuji	Granniwinkle	0.02042873462804919
+325	Fuji3_Healthy	Nic4_Canker	Aztec Fuji	Granniwinkle	0.25945836973321684
+326	Fuji3_Healthy	Nic5_Canker	Aztec Fuji	Granniwinkle	0.052886230764061556
+327	Fuji3_Healthy	Nic6_Canker	Aztec Fuji	Granniwinkle	0.1193468180901821
+328	Fuji3_Healthy	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.0014111954841744506
+329	Fuji3_Healthy	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.0014111954841744506
+330	Fuji4_Healthy	Nic1_Canker	Aztec Fuji	Granniwinkle	0.10846045292655064
+331	Fuji4_Healthy	Nic2_Canker	Aztec Fuji	Granniwinkle	0.33398293125462
+332	Fuji4_Healthy	Nic3_Canker	Aztec Fuji	Granniwinkle	0.02042873462804919
+333	Fuji4_Healthy	Nic4_Canker	Aztec Fuji	Granniwinkle	0.25945836973321684
+334	Fuji4_Healthy	Nic5_Canker	Aztec Fuji	Granniwinkle	0.052886230764061556
+335	Fuji4_Healthy	Nic6_Canker	Aztec Fuji	Granniwinkle	0.1193468180901821
+336	Fuji4_Healthy	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.0014783952691351388
+337	Fuji4_Healthy	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.0014783952691351388
+338	Fuji5_Healthy	Nic1_Canker	Aztec Fuji	Granniwinkle	0.10846045292655064
+339	Fuji5_Healthy	Nic2_Canker	Aztec Fuji	Granniwinkle	0.33398293125462
+340	Fuji5_Healthy	Nic3_Canker	Aztec Fuji	Granniwinkle	0.02042873462804919
+341	Fuji5_Healthy	Nic4_Canker	Aztec Fuji	Granniwinkle	0.25945836973321684
+342	Fuji5_Healthy	Nic5_Canker	Aztec Fuji	Granniwinkle	0.052886230764061556
+343	Fuji5_Healthy	Nic6_Canker	Aztec Fuji	Granniwinkle	0.11860762045561454
+344	Fuji5_Healthy	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.0018143941939385794
+345	Fuji5_Healthy	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.0018143941939385794
+346	Fuji6_Healthy	Nic1_Canker	Aztec Fuji	Granniwinkle	0.10799005443182581
+347	Fuji6_Healthy	Nic2_Canker	Aztec Fuji	Granniwinkle	0.3323029366306028
+348	Fuji6_Healthy	Nic3_Canker	Aztec Fuji	Granniwinkle	0.02042873462804919
+349	Fuji6_Healthy	Nic4_Canker	Aztec Fuji	Granniwinkle	0.2552247832806935
+350	Fuji6_Healthy	Nic5_Canker	Aztec Fuji	Granniwinkle	0.0526174316242188
+351	Fuji6_Healthy	Nic6_Canker	Aztec Fuji	Granniwinkle	0.11578522948726563
+352	Fuji6_Healthy	Nic1_Healthy	Aztec Fuji	Granniwinkle	0.01323835763725556
+353	Fuji6_Healthy	Nic2_Healthy	Aztec Fuji	Granniwinkle	0.01323835763725556
+354	Fuji1_Canker	HW1_Canker	Aztec Fuji	Hewe's Crab	0.8664740272831127
+355	Fuji1_Canker	HW2_Canker	Aztec Fuji	Hewe's Crab	0.9757408776291916
+356	Fuji1_Canker	HW3_Canker	Aztec Fuji	Hewe's Crab	0.944828976547275
+357	Fuji1_Canker	HW4_Canker	Aztec Fuji	Hewe's Crab	0.816208588132518
+358	Fuji1_Canker	HW5_Canker	Aztec Fuji	Hewe's Crab	0.9670721053692628
+359	Fuji1_Canker	HW6_Canker	Aztec Fuji	Hewe's Crab	0.8688932195416975
+360	Fuji1_Canker	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.9838720516094348
+361	Fuji1_Canker	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.9838720516094348
+362	Fuji2_Canker	HW1_Canker	Aztec Fuji	Hewe's Crab	0.41455547342248505
+363	Fuji2_Canker	HW2_Canker	Aztec Fuji	Hewe's Crab	0.6187756199180162
+364	Fuji2_Canker	HW3_Canker	Aztec Fuji	Hewe's Crab	0.5963308917411464
+365	Fuji2_Canker	HW4_Canker	Aztec Fuji	Hewe's Crab	0.5685773805523823
+366	Fuji2_Canker	HW5_Canker	Aztec Fuji	Hewe's Crab	0.6225388078758148
+367	Fuji2_Canker	HW6_Canker	Aztec Fuji	Hewe's Crab	0.42356024460721725
+368	Fuji2_Canker	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.6260331966937706
+369	Fuji2_Canker	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.6260331966937706
+370	Fuji3_Canker	HW1_Canker	Aztec Fuji	Hewe's Crab	0.3124118002822391
+371	Fuji3_Canker	HW2_Canker	Aztec Fuji	Hewe's Crab	0.13574356562059
+372	Fuji3_Canker	HW3_Canker	Aztec Fuji	Hewe's Crab	0.1165916269067939
+373	Fuji3_Canker	HW4_Canker	Aztec Fuji	Hewe's Crab	0.6070828573348566
+374	Fuji3_Canker	HW5_Canker	Aztec Fuji	Hewe's Crab	0.1409851488475237
+375	Fuji3_Canker	HW6_Canker	Aztec Fuji	Hewe's Crab	0.3267253544788657
+376	Fuji3_Canker	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.14333714132114778
+377	Fuji3_Canker	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.14333714132114778
+378	Fuji4_Canker	HW1_Canker	Aztec Fuji	Hewe's Crab	0.1657818694980176
+379	Fuji4_Canker	HW2_Canker	Aztec Fuji	Hewe's Crab	0.3252469592097305
+380	Fuji4_Canker	HW3_Canker	Aztec Fuji	Hewe's Crab	0.3028022310328607
+381	Fuji4_Canker	HW4_Canker	Aztec Fuji	Hewe's Crab	0.5710637725959277
+382	Fuji4_Canker	HW5_Canker	Aztec Fuji	Hewe's Crab	0.32921174652241114
+383	Fuji4_Canker	HW6_Canker	Aztec Fuji	Hewe's Crab	0.19219138498756805
+384	Fuji4_Canker	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.33250453598548485
+385	Fuji4_Canker	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.33250453598548485
+386	Fuji5_Canker	HW1_Canker	Aztec Fuji	Hewe's Crab	0.36308043814259794
+387	Fuji5_Canker	HW2_Canker	Aztec Fuji	Hewe's Crab	0.08776291915865869
+388	Fuji5_Canker	HW3_Canker	Aztec Fuji	Hewe's Crab	0.07519655937101001
+389	Fuji5_Canker	HW4_Canker	Aztec Fuji	Hewe's Crab	0.656743498420805
+390	Fuji5_Canker	HW5_Canker	Aztec Fuji	Hewe's Crab	0.09199650561118204
+391	Fuji5_Canker	HW6_Canker	Aztec Fuji	Hewe's Crab	0.3732948054566225
+392	Fuji5_Canker	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.09515489550433438
+393	Fuji5_Canker	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.09515489550433438
+394	Fuji6_Canker	HW1_Canker	Aztec Fuji	Hewe's Crab	0.45682413816275785
+395	Fuji6_Canker	HW2_Canker	Aztec Fuji	Hewe's Crab	0.6866474027283113
+396	Fuji6_Canker	HW3_Canker	Aztec Fuji	Hewe's Crab	0.6650090719709697
+397	Fuji6_Canker	HW4_Canker	Aztec Fuji	Hewe's Crab	0.5371950809757409
+398	Fuji6_Canker	HW5_Canker	Aztec Fuji	Hewe's Crab	0.6837578119750016
+399	Fuji6_Canker	HW6_Canker	Aztec Fuji	Hewe's Crab	0.35568846179692226
+400	Fuji6_Canker	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.694240978428869
+401	Fuji6_Canker	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.694240978428869
+402	Fuji1_Healthy	HW1_Canker	Aztec Fuji	Hewe's Crab	0.39479873664404275
+403	Fuji1_Healthy	HW2_Canker	Aztec Fuji	Hewe's Crab	0.018211141724346482
+404	Fuji1_Healthy	HW3_Canker	Aztec Fuji	Hewe's Crab	0.08386533163093877
+405	Fuji1_Healthy	HW4_Canker	Aztec Fuji	Hewe's Crab	0.6935689805792622
+406	Fuji1_Healthy	HW5_Canker	Aztec Fuji	Hewe's Crab	0.045292655063503794
+407	Fuji1_Healthy	HW6_Canker	Aztec Fuji	Hewe's Crab	0.40917949062562997
+408	Fuji1_Healthy	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.001612794839056515
+409	Fuji1_Healthy	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.001612794839056515
+410	Fuji2_Healthy	HW1_Canker	Aztec Fuji	Hewe's Crab	0.39479873664404275
+411	Fuji2_Healthy	HW2_Canker	Aztec Fuji	Hewe's Crab	0.018211141724346482
+412	Fuji2_Healthy	HW3_Canker	Aztec Fuji	Hewe's Crab	0.08386533163093877
+413	Fuji2_Healthy	HW4_Canker	Aztec Fuji	Hewe's Crab	0.6935689805792622
+414	Fuji2_Healthy	HW5_Canker	Aztec Fuji	Hewe's Crab	0.045292655063503794
+415	Fuji2_Healthy	HW6_Canker	Aztec Fuji	Hewe's Crab	0.40917949062562997
+416	Fuji2_Healthy	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.0012767959142530743
+417	Fuji2_Healthy	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.0012767959142530743
+418	Fuji3_Healthy	HW1_Canker	Aztec Fuji	Hewe's Crab	0.39479873664404275
+419	Fuji3_Healthy	HW2_Canker	Aztec Fuji	Hewe's Crab	0.018211141724346482
+420	Fuji3_Healthy	HW3_Canker	Aztec Fuji	Hewe's Crab	0.08386533163093877
+421	Fuji3_Healthy	HW4_Canker	Aztec Fuji	Hewe's Crab	0.6935689805792622
+422	Fuji3_Healthy	HW5_Canker	Aztec Fuji	Hewe's Crab	0.045292655063503794
+423	Fuji3_Healthy	HW6_Canker	Aztec Fuji	Hewe's Crab	0.40917949062562997
+424	Fuji3_Healthy	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.0014111954841744506
+425	Fuji3_Healthy	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.0014111954841744506
+426	Fuji4_Healthy	HW1_Canker	Aztec Fuji	Hewe's Crab	0.39479873664404275
+427	Fuji4_Healthy	HW2_Canker	Aztec Fuji	Hewe's Crab	0.018211141724346482
+428	Fuji4_Healthy	HW3_Canker	Aztec Fuji	Hewe's Crab	0.08386533163093877
+429	Fuji4_Healthy	HW4_Canker	Aztec Fuji	Hewe's Crab	0.6935689805792622
+430	Fuji4_Healthy	HW5_Canker	Aztec Fuji	Hewe's Crab	0.045292655063503794
+431	Fuji4_Healthy	HW6_Canker	Aztec Fuji	Hewe's Crab	0.40917949062562997
+432	Fuji4_Healthy	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.0014783952691351388
+433	Fuji4_Healthy	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.0014783952691351388
+434	Fuji5_Healthy	HW1_Canker	Aztec Fuji	Hewe's Crab	0.39479873664404275
+435	Fuji5_Healthy	HW2_Canker	Aztec Fuji	Hewe's Crab	0.018211141724346482
+436	Fuji5_Healthy	HW3_Canker	Aztec Fuji	Hewe's Crab	0.08386533163093877
+437	Fuji5_Healthy	HW4_Canker	Aztec Fuji	Hewe's Crab	0.6935689805792622
+438	Fuji5_Healthy	HW5_Canker	Aztec Fuji	Hewe's Crab	0.045292655063503794
+439	Fuji5_Healthy	HW6_Canker	Aztec Fuji	Hewe's Crab	0.40917949062562997
+440	Fuji5_Healthy	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.0018143941939385794
+441	Fuji5_Healthy	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.0018143941939385794
+442	Fuji6_Healthy	HW1_Canker	Aztec Fuji	Hewe's Crab	0.3935219407297897
+443	Fuji6_Healthy	HW2_Canker	Aztec Fuji	Hewe's Crab	0.017875142799543043
+444	Fuji6_Healthy	HW3_Canker	Aztec Fuji	Hewe's Crab	0.08299173442644983
+445	Fuji6_Healthy	HW4_Canker	Aztec Fuji	Hewe's Crab	0.6911497883206774
+446	Fuji6_Healthy	HW5_Canker	Aztec Fuji	Hewe's Crab	0.04435185807405416
+447	Fuji6_Healthy	HW6_Canker	Aztec Fuji	Hewe's Crab	0.4075666957865735
+448	Fuji6_Healthy	HW1_Healthy	Aztec Fuji	Hewe's Crab	0.01323835763725556
+449	Fuji6_Healthy	HW2_Healthy	Aztec Fuji	Hewe's Crab	0.01323835763725556
+450	Fuji1_Canker	UN1_Canker	Aztec Fuji	Unknown cultivar	0.8264229554465425
+451	Fuji1_Canker	UN2_Canker	Aztec Fuji	Unknown cultivar	0.9746656810698205
+452	Fuji1_Canker	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.9825280559102211
+453	Fuji1_Canker	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.9838720516094348
+454	Fuji2_Canker	UN1_Canker	Aztec Fuji	Unknown cultivar	0.42080505342382907
+455	Fuji2_Canker	UN2_Canker	Aztec Fuji	Unknown cultivar	0.6160876285195888
+456	Fuji2_Canker	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.6260331966937706
+457	Fuji2_Canker	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.6260331966937706
+458	Fuji3_Canker	UN1_Canker	Aztec Fuji	Unknown cultivar	0.3310261407163497
+459	Fuji3_Canker	UN2_Canker	Aztec Fuji	Unknown cultivar	0.13782675895437135
+460	Fuji3_Canker	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.14333714132114778
+461	Fuji3_Canker	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.14333714132114778
+462	Fuji4_Canker	UN1_Canker	Aztec Fuji	Unknown cultivar	0.2013977555271823
+463	Fuji4_Canker	UN2_Canker	Aztec Fuji	Unknown cultivar	0.32215576910153887
+464	Fuji4_Canker	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.33250453598548485
+465	Fuji4_Canker	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.33250453598548485
+466	Fuji5_Canker	UN1_Canker	Aztec Fuji	Unknown cultivar	0.38223237685639405
+467	Fuji5_Canker	UN2_Canker	Aztec Fuji	Unknown cultivar	0.11491163228277669
+468	Fuji5_Canker	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.09515489550433438
+469	Fuji5_Canker	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.09515489550433438
+470	Fuji6_Canker	UN1_Canker	Aztec Fuji	Unknown cultivar	0.45635373966803305
+471	Fuji6_Canker	UN2_Canker	Aztec Fuji	Unknown cultivar	0.6855050063839796
+472	Fuji6_Canker	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.691216988105638
+473	Fuji6_Canker	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.6918217861702842
+474	Fuji1_Healthy	UN1_Canker	Aztec Fuji	Unknown cultivar	0.41684026611114844
+475	Fuji1_Healthy	UN2_Canker	Aztec Fuji	Unknown cultivar	0.11981721658490693
+476	Fuji1_Healthy	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.007459176130636382
+477	Fuji1_Healthy	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.006518379141186748
+478	Fuji2_Healthy	UN1_Canker	Aztec Fuji	Unknown cultivar	0.41684026611114844
+479	Fuji2_Healthy	UN2_Canker	Aztec Fuji	Unknown cultivar	0.11981721658490693
+480	Fuji2_Healthy	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.007459176130636382
+481	Fuji2_Healthy	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.006518379141186748
+482	Fuji3_Healthy	UN1_Canker	Aztec Fuji	Unknown cultivar	0.41684026611114844
+483	Fuji3_Healthy	UN2_Canker	Aztec Fuji	Unknown cultivar	0.11981721658490693
+484	Fuji3_Healthy	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.007459176130636382
+485	Fuji3_Healthy	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.006518379141186748
+486	Fuji4_Healthy	UN1_Canker	Aztec Fuji	Unknown cultivar	0.41684026611114844
+487	Fuji4_Healthy	UN2_Canker	Aztec Fuji	Unknown cultivar	0.11981721658490693
+488	Fuji4_Healthy	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.007459176130636382
+489	Fuji4_Healthy	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.006518379141186748
+490	Fuji5_Healthy	UN1_Canker	Aztec Fuji	Unknown cultivar	0.41684026611114844
+491	Fuji5_Healthy	UN2_Canker	Aztec Fuji	Unknown cultivar	0.11981721658490693
+492	Fuji5_Healthy	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.007459176130636382
+493	Fuji5_Healthy	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.006518379141186748
+494	Fuji6_Healthy	UN1_Canker	Aztec Fuji	Unknown cultivar	0.4147570727773671
+495	Fuji6_Healthy	UN2_Canker	Aztec Fuji	Unknown cultivar	0.11981721658490693
+496	Fuji6_Healthy	UN1_Healthy	Aztec Fuji	Unknown cultivar	0.012028761507963174
+497	Fuji6_Healthy	UN2_Healthy	Aztec Fuji	Unknown cultivar	0.01323835763725556
+0	CP2_Canker	CP1_Canker	Cripps Pink	Cripps Pink	0.1516027148713124
+1	CP3_Canker	CP1_Canker	Cripps Pink	Cripps Pink	0.7455816141388347
+2	CP3_Canker	CP2_Canker	Cripps Pink	Cripps Pink	0.7255560782205497
+3	CP4_Canker	CP1_Canker	Cripps Pink	Cripps Pink	0.4465425710637726
+4	CP4_Canker	CP2_Canker	Cripps Pink	Cripps Pink	0.4335730125663598
+5	CP4_Canker	CP3_Canker	Cripps Pink	Cripps Pink	0.5980108863651636
+6	CP5_Canker	CP1_Canker	Cripps Pink	Cripps Pink	0.2886902761911162
+7	CP5_Canker	CP2_Canker	Cripps Pink	Cripps Pink	0.2969558497412808
+8	CP5_Canker	CP3_Canker	Cripps Pink	Cripps Pink	0.7486728042470264
+9	CP5_Canker	CP4_Canker	Cripps Pink	Cripps Pink	0.43706740138431555
+10	CP6_Canker	CP1_Canker	Cripps Pink	Cripps Pink	0.9247362408440293
+11	CP6_Canker	CP2_Canker	Cripps Pink	Cripps Pink	0.8889859552449432
+12	CP6_Canker	CP3_Canker	Cripps Pink	Cripps Pink	0.8430885021167932
+13	CP6_Canker	CP4_Canker	Cripps Pink	Cripps Pink	0.86425643437941
+14	CP6_Canker	CP5_Canker	Cripps Pink	Cripps Pink	0.8653988307237417
+15	CP1_Healthy	CP1_Canker	Cripps Pink	Cripps Pink	0.9681473019286339
+16	CP1_Healthy	CP2_Canker	Cripps Pink	Cripps Pink	0.9490625629997984
+17	CP1_Healthy	CP3_Canker	Cripps Pink	Cripps Pink	0.7334856528459109
+18	CP1_Healthy	CP4_Canker	Cripps Pink	Cripps Pink	0.9856192460184128
+19	CP1_Healthy	CP5_Canker	Cripps Pink	Cripps Pink	0.9721120892413144
+20	CP1_Healthy	CP6_Canker	Cripps Pink	Cripps Pink	0.8729924064242994
+21	CP2_Healthy	CP1_Canker	Cripps Pink	Cripps Pink	0.9681473019286339
+22	CP2_Healthy	CP2_Canker	Cripps Pink	Cripps Pink	0.9471137692359385
+23	CP2_Healthy	CP3_Canker	Cripps Pink	Cripps Pink	0.7352328472548888
+24	CP2_Healthy	CP4_Canker	Cripps Pink	Cripps Pink	0.9861568442980982
+25	CP2_Healthy	CP5_Canker	Cripps Pink	Cripps Pink	0.9724480881661178
+26	CP2_Healthy	CP6_Canker	Cripps Pink	Cripps Pink	0.8752099993280021
+27	CP2_Healthy	CP1_Healthy	Cripps Pink	Cripps Pink	0.0026207916134668367
+28	CP1_Canker	Fuji1_Canker	Cripps Pink	Aztec Fuji	0.8271621530811102
+29	CP1_Canker	Fuji2_Canker	Cripps Pink	Aztec Fuji	0.7592231704858544
+30	CP1_Canker	Fuji3_Canker	Cripps Pink	Aztec Fuji	0.8847523687924199
+31	CP1_Canker	Fuji4_Canker	Cripps Pink	Aztec Fuji	0.7525703917747463
+32	CP1_Canker	Fuji5_Canker	Cripps Pink	Aztec Fuji	0.9379073986963242
+33	CP1_Canker	Fuji6_Canker	Cripps Pink	Aztec Fuji	0.5482158457092937
+34	CP1_Canker	Fuji1_Healthy	Cripps Pink	Aztec Fuji	0.9681473019286339
+35	CP1_Canker	Fuji2_Healthy	Cripps Pink	Aztec Fuji	0.9681473019286339
+36	CP1_Canker	Fuji3_Healthy	Cripps Pink	Aztec Fuji	0.9681473019286339
+37	CP1_Canker	Fuji4_Healthy	Cripps Pink	Aztec Fuji	0.9681473019286339
+38	CP1_Canker	Fuji5_Healthy	Cripps Pink	Aztec Fuji	0.9681473019286339
+39	CP1_Canker	Fuji6_Healthy	Cripps Pink	Aztec Fuji	0.966601706874538
+40	CP2_Canker	Fuji1_Canker	Cripps Pink	Aztec Fuji	0.8299173442644984
+41	CP2_Canker	Fuji2_Canker	Cripps Pink	Aztec Fuji	0.7490088031718298
+42	CP2_Canker	Fuji3_Canker	Cripps Pink	Aztec Fuji	0.8647268328741348
+43	CP2_Canker	Fuji4_Canker	Cripps Pink	Aztec Fuji	0.7389960352126873
+44	CP2_Canker	Fuji5_Canker	Cripps Pink	Aztec Fuji	0.9180834621329211
+45	CP2_Canker	Fuji6_Canker	Cripps Pink	Aztec Fuji	0.5175055439822592
+46	CP2_Canker	Fuji1_Healthy	Cripps Pink	Aztec Fuji	0.9490625629997984
+47	CP2_Canker	Fuji2_Healthy	Cripps Pink	Aztec Fuji	0.948726564074995
+48	CP2_Canker	Fuji3_Healthy	Cripps Pink	Aztec Fuji	0.9490625629997984
+49	CP2_Canker	Fuji4_Healthy	Cripps Pink	Aztec Fuji	0.9490625629997984
+50	CP2_Canker	Fuji5_Healthy	Cripps Pink	Aztec Fuji	0.9490625629997984
+51	CP2_Canker	Fuji6_Healthy	Cripps Pink	Aztec Fuji	0.944828976547275
+52	CP3_Canker	Fuji1_Canker	Cripps Pink	Aztec Fuji	0.8631140380350782
+53	CP3_Canker	Fuji2_Canker	Cripps Pink	Aztec Fuji	0.5818157381896378
+54	CP3_Canker	Fuji3_Canker	Cripps Pink	Aztec Fuji	0.675089039715073
+55	CP3_Canker	Fuji4_Canker	Cripps Pink	Aztec Fuji	0.5845037295880653
+56	CP3_Canker	Fuji5_Canker	Cripps Pink	Aztec Fuji	0.7046569450977757
+57	CP3_Canker	Fuji6_Canker	Cripps Pink	Aztec Fuji	0.5085679725824878
+58	CP3_Canker	Fuji1_Healthy	Cripps Pink	Aztec Fuji	0.7336200524158323
+59	CP3_Canker	Fuji2_Healthy	Cripps Pink	Aztec Fuji	0.7352328472548888
+60	CP3_Canker	Fuji3_Healthy	Cripps Pink	Aztec Fuji	0.7341576506955177
+61	CP3_Canker	Fuji4_Healthy	Cripps Pink	Aztec Fuji	0.7337544519857536
+62	CP3_Canker	Fuji5_Healthy	Cripps Pink	Aztec Fuji	0.7341576506955177
+63	CP3_Canker	Fuji6_Healthy	Cripps Pink	Aztec Fuji	0.7341576506955177
+64	CP4_Canker	Fuji1_Canker	Cripps Pink	Aztec Fuji	0.793360661245884
+65	CP4_Canker	Fuji2_Canker	Cripps Pink	Aztec Fuji	0.7604999664001075
+66	CP4_Canker	Fuji3_Canker	Cripps Pink	Aztec Fuji	0.8967811303003831
+67	CP4_Canker	Fuji4_Canker	Cripps Pink	Aztec Fuji	0.7580807741415228
+68	CP4_Canker	Fuji5_Canker	Cripps Pink	Aztec Fuji	0.9444929776224716
+69	CP4_Canker	Fuji6_Canker	Cripps Pink	Aztec Fuji	0.5767757543175862
+70	CP4_Canker	Fuji1_Healthy	Cripps Pink	Aztec Fuji	0.9861568442980982
+71	CP4_Canker	Fuji2_Healthy	Cripps Pink	Aztec Fuji	0.9861568442980982
+72	CP4_Canker	Fuji3_Healthy	Cripps Pink	Aztec Fuji	0.9861568442980982
+73	CP4_Canker	Fuji4_Healthy	Cripps Pink	Aztec Fuji	0.9861568442980982
+74	CP4_Canker	Fuji5_Healthy	Cripps Pink	Aztec Fuji	0.9861568442980982
+75	CP4_Canker	Fuji6_Healthy	Cripps Pink	Aztec Fuji	0.9826624554801424
+76	CP5_Canker	Fuji1_Canker	Cripps Pink	Aztec Fuji	0.7973254485585646
+77	CP5_Canker	Fuji2_Canker	Cripps Pink	Aztec Fuji	0.7615079631745179
+78	CP5_Canker	Fuji3_Canker	Cripps Pink	Aztec Fuji	0.8790403870707614
+79	CP5_Canker	Fuji4_Canker	Cripps Pink	Aztec Fuji	0.7482696055372623
+80	CP5_Canker	Fuji5_Canker	Cripps Pink	Aztec Fuji	0.9381089980512063
+81	CP5_Canker	Fuji6_Canker	Cripps Pink	Aztec Fuji	0.5363886835562126
+82	CP5_Canker	Fuji1_Healthy	Cripps Pink	Aztec Fuji	0.9724480881661178
+83	CP5_Canker	Fuji2_Healthy	Cripps Pink	Aztec Fuji	0.9724480881661178
+84	CP5_Canker	Fuji3_Healthy	Cripps Pink	Aztec Fuji	0.9724480881661178
+85	CP5_Canker	Fuji4_Healthy	Cripps Pink	Aztec Fuji	0.9724480881661178
+86	CP5_Canker	Fuji5_Healthy	Cripps Pink	Aztec Fuji	0.9724480881661178
+87	CP5_Canker	Fuji6_Healthy	Cripps Pink	Aztec Fuji	0.9692896982729655
+88	CP6_Canker	Fuji1_Canker	Cripps Pink	Aztec Fuji	0.8102278072710167
+89	CP6_Canker	Fuji2_Canker	Cripps Pink	Aztec Fuji	0.818560580606142
+90	CP6_Canker	Fuji3_Canker	Cripps Pink	Aztec Fuji	0.8430885021167932
+91	CP6_Canker	Fuji4_Canker	Cripps Pink	Aztec Fuji	0.8313957395336334
+92	CP6_Canker	Fuji5_Canker	Cripps Pink	Aztec Fuji	0.8301861434043412
+93	CP6_Canker	Fuji6_Canker	Cripps Pink	Aztec Fuji	0.7491432027417513
+94	CP6_Canker	Fuji1_Healthy	Cripps Pink	Aztec Fuji	0.8735972044889456
+95	CP6_Canker	Fuji2_Healthy	Cripps Pink	Aztec Fuji	0.8752099993280021
+96	CP6_Canker	Fuji3_Healthy	Cripps Pink	Aztec Fuji	0.8741348027686311
+97	CP6_Canker	Fuji4_Healthy	Cripps Pink	Aztec Fuji	0.873731604058867
+98	CP6_Canker	Fuji5_Healthy	Cripps Pink	Aztec Fuji	0.8741348027686311
+99	CP6_Canker	Fuji6_Healthy	Cripps Pink	Aztec Fuji	0.869430817821383
+100	CP1_Healthy	Fuji1_Canker	Cripps Pink	Aztec Fuji	0.9836032524695921
+101	CP1_Healthy	Fuji2_Canker	Cripps Pink	Aztec Fuji	0.6242860022847927
+102	CP1_Healthy	Fuji3_Canker	Cripps Pink	Aztec Fuji	0.1415899469121699
+103	CP1_Healthy	Fuji4_Canker	Cripps Pink	Aztec Fuji	0.33075734157650694
+104	CP1_Healthy	Fuji5_Canker	Cripps Pink	Aztec Fuji	0.0934077010953565
+105	CP1_Healthy	Fuji6_Canker	Cripps Pink	Aztec Fuji	0.6924937840198911
+106	CP1_Healthy	Fuji1_Healthy	Cripps Pink	Aztec Fuji	0.0006719978496068813
+107	CP1_Healthy	Fuji2_Healthy	Cripps Pink	Aztec Fuji	0.002284792688663396
+108	CP1_Healthy	Fuji3_Healthy	Cripps Pink	Aztec Fuji	0.0012095961292923863
+109	CP1_Healthy	Fuji4_Healthy	Cripps Pink	Aztec Fuji	0.0008063974195282575
+110	CP1_Healthy	Fuji5_Healthy	Cripps Pink	Aztec Fuji	0.0012095961292923863
+111	CP1_Healthy	Fuji6_Healthy	Cripps Pink	Aztec Fuji	0.01216316107788455
+112	CP2_Healthy	Fuji1_Canker	Cripps Pink	Aztec Fuji	0.9838720516094348
+113	CP2_Healthy	Fuji2_Canker	Cripps Pink	Aztec Fuji	0.6260331966937706
+114	CP2_Healthy	Fuji3_Canker	Cripps Pink	Aztec Fuji	0.14333714132114778
+115	CP2_Healthy	Fuji4_Canker	Cripps Pink	Aztec Fuji	0.33250453598548485
+116	CP2_Healthy	Fuji5_Canker	Cripps Pink	Aztec Fuji	0.09515489550433438
+117	CP2_Healthy	Fuji6_Canker	Cripps Pink	Aztec Fuji	0.694240978428869
+118	CP2_Healthy	Fuji1_Healthy	Cripps Pink	Aztec Fuji	0.0026207916134668367
+119	CP2_Healthy	Fuji2_Healthy	Cripps Pink	Aztec Fuji	0.0026207916134668367
+120	CP2_Healthy	Fuji3_Healthy	Cripps Pink	Aztec Fuji	0.0026207916134668367
+121	CP2_Healthy	Fuji4_Healthy	Cripps Pink	Aztec Fuji	0.0026207916134668367
+122	CP2_Healthy	Fuji5_Healthy	Cripps Pink	Aztec Fuji	0.0026207916134668367
+123	CP2_Healthy	Fuji6_Healthy	Cripps Pink	Aztec Fuji	0.01323835763725556
+124	CP1_Canker	Gala1_Canker	Cripps Pink	Gala	0.4603185269807137
+125	CP1_Canker	Gala2_Canker	Cripps Pink	Gala	0.45037295880653183
+126	CP1_Canker	Gala3_Canker	Cripps Pink	Gala	0.7344264498353605
+127	CP1_Canker	Gala4_Canker	Cripps Pink	Gala	0.8795107855654862
+128	CP1_Canker	Gala5_Canker	Cripps Pink	Gala	0.7010953564948592
+129	CP1_Canker	Gala6_Canker	Cripps Pink	Gala	0.6640010751965594
+130	CP1_Canker	Gala1_Healthy	Cripps Pink	Gala	0.9673409045091056
+131	CP1_Canker	Gala2_Healthy	Cripps Pink	Gala	0.9681473019286339
+132	CP2_Canker	Gala1_Canker	Cripps Pink	Gala	0.4444593777299913
+133	CP2_Canker	Gala2_Canker	Cripps Pink	Gala	0.4354546065452591
+134	CP2_Canker	Gala3_Canker	Cripps Pink	Gala	0.7187688999395202
+135	CP2_Canker	Gala4_Canker	Cripps Pink	Gala	0.858006854378066
+136	CP2_Canker	Gala5_Canker	Cripps Pink	Gala	0.6810026207916134
+137	CP2_Canker	Gala6_Canker	Cripps Pink	Gala	0.654593105302063
+138	CP2_Canker	Gala1_Healthy	Cripps Pink	Gala	0.9482561655802701
+139	CP2_Canker	Gala2_Healthy	Cripps Pink	Gala	0.9490625629997984
+140	CP3_Canker	Gala1_Canker	Cripps Pink	Gala	0.5212015321550971
+141	CP3_Canker	Gala2_Canker	Cripps Pink	Gala	0.6761642362744439
+142	CP3_Canker	Gala3_Canker	Cripps Pink	Gala	0.566695786573483
+143	CP3_Canker	Gala4_Canker	Cripps Pink	Gala	0.6697802567031785
+144	CP3_Canker	Gala5_Canker	Cripps Pink	Gala	0.5548014246354411
+145	CP3_Canker	Gala6_Canker	Cripps Pink	Gala	0.7881190780189503
+146	CP3_Canker	Gala1_Healthy	Cripps Pink	Gala	0.7350984476849675
+147	CP3_Canker	Gala2_Healthy	Cripps Pink	Gala	0.7330824541361468
+148	CP4_Canker	Gala1_Canker	Cripps Pink	Gala	0.5466030508702372
+149	CP4_Canker	Gala2_Canker	Cripps Pink	Gala	0.4967408104294066
+150	CP4_Canker	Gala3_Canker	Cripps Pink	Gala	0.7133257173577044
+151	CP4_Canker	Gala4_Canker	Cripps Pink	Gala	0.8842147705127343
+152	CP4_Canker	Gala5_Canker	Cripps Pink	Gala	0.7081513339157315
+153	CP4_Canker	Gala6_Canker	Cripps Pink	Gala	0.6221356091660507
+154	CP4_Canker	Gala1_Healthy	Cripps Pink	Gala	0.98535044687857
+155	CP4_Canker	Gala2_Healthy	Cripps Pink	Gala	0.9861568442980982
+156	CP5_Canker	Gala1_Canker	Cripps Pink	Gala	0.46905449902560314
+157	CP5_Canker	Gala2_Canker	Cripps Pink	Gala	0.415429070626974
+158	CP5_Canker	Gala3_Canker	Cripps Pink	Gala	0.6937033801491835
+159	CP5_Canker	Gala4_Canker	Cripps Pink	Gala	0.8698340165311471
+160	CP5_Canker	Gala5_Canker	Cripps Pink	Gala	0.7005577582151737
+161	CP5_Canker	Gala6_Canker	Cripps Pink	Gala	0.6213292117465224
+162	CP5_Canker	Gala1_Healthy	Cripps Pink	Gala	0.9716416907465896
+163	CP5_Canker	Gala2_Healthy	Cripps Pink	Gala	0.9724480881661178
+164	CP6_Canker	Gala1_Canker	Cripps Pink	Gala	0.8469860896445132
+165	CP6_Canker	Gala2_Canker	Cripps Pink	Gala	0.7039177474632081
+166	CP6_Canker	Gala3_Canker	Cripps Pink	Gala	0.7009609569249379
+167	CP6_Canker	Gala4_Canker	Cripps Pink	Gala	0.7886566762986359
+168	CP6_Canker	Gala5_Canker	Cripps Pink	Gala	0.8163429877024394
+169	CP6_Canker	Gala6_Canker	Cripps Pink	Gala	0.8126469995296015
+170	CP6_Canker	Gala1_Healthy	Cripps Pink	Gala	0.8744036019084739
+171	CP6_Canker	Gala2_Healthy	Cripps Pink	Gala	0.8735300047039849
+172	CP1_Healthy	Gala1_Canker	Cripps Pink	Gala	0.5991532827094953
+173	CP1_Healthy	Gala2_Canker	Cripps Pink	Gala	0.8895907533095894
+174	CP1_Healthy	Gala3_Canker	Cripps Pink	Gala	0.6526443115382031
+175	CP1_Healthy	Gala4_Canker	Cripps Pink	Gala	0.1942073785363887
+176	CP1_Healthy	Gala5_Canker	Cripps Pink	Gala	0.3680532222296889
+177	CP1_Healthy	Gala6_Canker	Cripps Pink	Gala	0.9858880451582555
+178	CP1_Healthy	Gala1_Healthy	Cripps Pink	Gala	0.005241583226933673
+179	CP1_Healthy	Gala2_Healthy	Cripps Pink	Gala	0.0014111954841744506
+180	CP2_Healthy	Gala1_Canker	Cripps Pink	Gala	0.6009004771184733
+181	CP2_Healthy	Gala2_Canker	Cripps Pink	Gala	0.8917411464283315
+182	CP2_Healthy	Gala3_Canker	Cripps Pink	Gala	0.6547947046569451
+183	CP2_Healthy	Gala4_Canker	Cripps Pink	Gala	0.19595457294536658
+184	CP2_Healthy	Gala5_Canker	Cripps Pink	Gala	0.36980041663866675
+185	CP2_Healthy	Gala6_Canker	Cripps Pink	Gala	0.9860224447281769
+186	CP2_Healthy	Gala1_Healthy	Cripps Pink	Gala	0.005241583226933673
+187	CP2_Healthy	Gala2_Healthy	Cripps Pink	Gala	0.0031583898931523417
+188	CP1_Canker	Nic1_Canker	Cripps Pink	Granniwinkle	0.863382837174921
+189	CP1_Canker	Nic2_Canker	Cripps Pink	Granniwinkle	0.6902761911161884
+190	CP1_Canker	Nic3_Canker	Cripps Pink	Granniwinkle	0.9638465156911498
+191	CP1_Canker	Nic4_Canker	Cripps Pink	Granniwinkle	0.9396545931053021
+192	CP1_Canker	Nic5_Canker	Cripps Pink	Granniwinkle	0.9565889389153954
+193	CP1_Canker	Nic6_Canker	Cripps Pink	Granniwinkle	0.894630737181641
+194	CP1_Canker	Nic1_Healthy	Cripps Pink	Granniwinkle	0.9681473019286339
+195	CP1_Canker	Nic2_Healthy	Cripps Pink	Granniwinkle	0.967676903433909
+196	CP2_Canker	Nic1_Canker	Cripps Pink	Granniwinkle	0.8434917008265573
+197	CP2_Canker	Nic2_Canker	Cripps Pink	Granniwinkle	0.6708554532625496
+198	CP2_Canker	Nic3_Canker	Cripps Pink	Granniwinkle	0.9462401720314495
+199	CP2_Canker	Nic4_Canker	Cripps Pink	Granniwinkle	0.9279618305221423
+200	CP2_Canker	Nic5_Canker	Cripps Pink	Granniwinkle	0.9352194072978967
+201	CP2_Canker	Nic6_Canker	Cripps Pink	Granniwinkle	0.8733956051340636
+202	CP2_Canker	Nic1_Healthy	Cripps Pink	Granniwinkle	0.9490625629997984
+203	CP2_Canker	Nic2_Healthy	Cripps Pink	Granniwinkle	0.9490625629997984
+204	CP3_Canker	Nic1_Canker	Cripps Pink	Granniwinkle	0.6587594919696257
+205	CP3_Canker	Nic2_Canker	Cripps Pink	Granniwinkle	0.5507694375377998
+206	CP3_Canker	Nic3_Canker	Cripps Pink	Granniwinkle	0.7334856528459109
+207	CP3_Canker	Nic4_Canker	Cripps Pink	Granniwinkle	0.723540084671729
+208	CP3_Canker	Nic5_Canker	Cripps Pink	Granniwinkle	0.7250856797258248
+209	CP3_Canker	Nic6_Canker	Cripps Pink	Granniwinkle	0.6808010214367314
+210	CP3_Canker	Nic1_Healthy	Cripps Pink	Granniwinkle	0.7352328472548888
+211	CP3_Canker	Nic2_Healthy	Cripps Pink	Granniwinkle	0.7352328472548888
+212	CP4_Canker	Nic1_Canker	Cripps Pink	Granniwinkle	0.8808547812647
+213	CP4_Canker	Nic2_Canker	Cripps Pink	Granniwinkle	0.714064914992272
+214	CP4_Canker	Nic3_Canker	Cripps Pink	Granniwinkle	0.98145285935085
+215	CP4_Canker	Nic4_Canker	Cripps Pink	Granniwinkle	0.9477857670855453
+216	CP4_Canker	Nic5_Canker	Cripps Pink	Granniwinkle	0.9711040924669041
+217	CP4_Canker	Nic6_Canker	Cripps Pink	Granniwinkle	0.9113634836368524
+218	CP4_Canker	Nic1_Healthy	Cripps Pink	Granniwinkle	0.9861568442980982
+219	CP4_Canker	Nic2_Healthy	Cripps Pink	Granniwinkle	0.9861568442980982
+220	CP5_Canker	Nic1_Canker	Cripps Pink	Granniwinkle	0.8668772259928769
+221	CP5_Canker	Nic2_Canker	Cripps Pink	Granniwinkle	0.6949129762784759
+222	CP5_Canker	Nic3_Canker	Cripps Pink	Granniwinkle	0.9645857133257174
+223	CP5_Canker	Nic4_Canker	Cripps Pink	Granniwinkle	0.9373698004166386
+224	CP5_Canker	Nic5_Canker	Cripps Pink	Granniwinkle	0.956252939990592
+225	CP5_Canker	Nic6_Canker	Cripps Pink	Granniwinkle	0.8973187285800686
+226	CP5_Canker	Nic1_Healthy	Cripps Pink	Granniwinkle	0.9724480881661178
+227	CP5_Canker	Nic2_Healthy	Cripps Pink	Granniwinkle	0.9724480881661178
+228	CP6_Canker	Nic1_Canker	Cripps Pink	Granniwinkle	0.858006854378066
+229	CP6_Canker	Nic2_Canker	Cripps Pink	Granniwinkle	0.8503460788925475
+230	CP6_Canker	Nic3_Canker	Cripps Pink	Granniwinkle	0.8690948188965796
+231	CP6_Canker	Nic4_Canker	Cripps Pink	Granniwinkle	0.8166117868422821
+232	CP6_Canker	Nic5_Canker	Cripps Pink	Granniwinkle	0.8549156642698743
+233	CP6_Canker	Nic6_Canker	Cripps Pink	Granniwinkle	0.8456420939452993
+234	CP6_Canker	Nic1_Healthy	Cripps Pink	Granniwinkle	0.8752099993280021
+235	CP6_Canker	Nic2_Healthy	Cripps Pink	Granniwinkle	0.8747396008332773
+236	CP1_Healthy	Nic1_Canker	Cripps Pink	Granniwinkle	0.10846045292655064
+237	CP1_Healthy	Nic2_Canker	Cripps Pink	Granniwinkle	0.33398293125462
+238	CP1_Healthy	Nic3_Canker	Cripps Pink	Granniwinkle	0.02042873462804919
+239	CP1_Healthy	Nic4_Canker	Cripps Pink	Granniwinkle	0.25945836973321684
+240	CP1_Healthy	Nic5_Canker	Cripps Pink	Granniwinkle	0.052886230764061556
+241	CP1_Healthy	Nic6_Canker	Cripps Pink	Granniwinkle	0.1193468180901821
+242	CP1_Healthy	Nic1_Healthy	Cripps Pink	Granniwinkle	0.002284792688663396
+243	CP1_Healthy	Nic2_Healthy	Cripps Pink	Granniwinkle	0.002284792688663396
+244	CP2_Healthy	Nic1_Canker	Cripps Pink	Granniwinkle	0.10846045292655064
+245	CP2_Healthy	Nic2_Canker	Cripps Pink	Granniwinkle	0.33398293125462
+246	CP2_Healthy	Nic3_Canker	Cripps Pink	Granniwinkle	0.02042873462804919
+247	CP2_Healthy	Nic4_Canker	Cripps Pink	Granniwinkle	0.25945836973321684
+248	CP2_Healthy	Nic5_Canker	Cripps Pink	Granniwinkle	0.052886230764061556
+249	CP2_Healthy	Nic6_Canker	Cripps Pink	Granniwinkle	0.1193468180901821
+250	CP2_Healthy	Nic1_Healthy	Cripps Pink	Granniwinkle	0.0026207916134668367
+251	CP2_Healthy	Nic2_Healthy	Cripps Pink	Granniwinkle	0.0026207916134668367
+252	CP1_Canker	HW1_Canker	Cripps Pink	Hewe's Crab	0.7282440696189773
+253	CP1_Canker	HW2_Canker	Cripps Pink	Hewe's Crab	0.9611585242927223
+254	CP1_Canker	HW3_Canker	Cripps Pink	Hewe's Crab	0.9357570055775821
+255	CP1_Canker	HW4_Canker	Cripps Pink	Hewe's Crab	0.8293797459848129
+256	CP1_Canker	HW5_Canker	Cripps Pink	Hewe's Crab	0.9610241247228009
+257	CP1_Canker	HW6_Canker	Cripps Pink	Hewe's Crab	0.627242792823063
+258	CP1_Canker	HW1_Healthy	Cripps Pink	Hewe's Crab	0.9681473019286339
+259	CP1_Canker	HW2_Healthy	Cripps Pink	Hewe's Crab	0.9681473019286339
+260	CP2_Canker	HW1_Canker	Cripps Pink	Hewe's Crab	0.714938512196761
+261	CP2_Canker	HW2_Canker	Cripps Pink	Hewe's Crab	0.9393857939654593
+262	CP2_Canker	HW3_Canker	Cripps Pink	Hewe's Crab	0.9172770647133929
+263	CP2_Canker	HW4_Canker	Cripps Pink	Hewe's Crab	0.8164773872723607
+264	CP2_Canker	HW5_Canker	Cripps Pink	Hewe's Crab	0.9383105974060884
+265	CP2_Canker	HW6_Canker	Cripps Pink	Hewe's Crab	0.6085612526039916
+266	CP2_Canker	HW1_Healthy	Cripps Pink	Hewe's Crab	0.9490625629997984
+267	CP2_Canker	HW2_Healthy	Cripps Pink	Hewe's Crab	0.9481217660103488
+268	CP3_Canker	HW1_Canker	Cripps Pink	Hewe's Crab	0.5682413816275788
+269	CP3_Canker	HW2_Canker	Cripps Pink	Hewe's Crab	0.7286472683287414
+270	CP3_Canker	HW3_Canker	Cripps Pink	Hewe's Crab	0.7150729117666823
+271	CP3_Canker	HW4_Canker	Cripps Pink	Hewe's Crab	0.6445131375579598
+272	CP3_Canker	HW5_Canker	Cripps Pink	Hewe's Crab	0.7330824541361468
+273	CP3_Canker	HW6_Canker	Cripps Pink	Hewe's Crab	0.5360526846314092
+274	CP3_Canker	HW1_Healthy	Cripps Pink	Hewe's Crab	0.7352328472548888
+275	CP3_Canker	HW2_Healthy	Cripps Pink	Hewe's Crab	0.7352328472548888
+276	CP4_Canker	HW1_Canker	Cripps Pink	Hewe's Crab	0.7386600362878839
+277	CP4_Canker	HW2_Canker	Cripps Pink	Hewe's Crab	0.9784960688125798
+278	CP4_Canker	HW3_Canker	Cripps Pink	Hewe's Crab	0.9568577380552382
+279	CP4_Canker	HW4_Canker	Cripps Pink	Hewe's Crab	0.8307909414689874
+280	CP4_Canker	HW5_Canker	Cripps Pink	Hewe's Crab	0.9715072911766682
+281	CP4_Canker	HW6_Canker	Cripps Pink	Hewe's Crab	0.6533835091727707
+282	CP4_Canker	HW1_Healthy	Cripps Pink	Hewe's Crab	0.9861568442980982
+283	CP4_Canker	HW2_Healthy	Cripps Pink	Hewe's Crab	0.9861568442980982
+284	CP5_Canker	HW1_Canker	Cripps Pink	Hewe's Crab	0.7305288623076406
+285	CP5_Canker	HW2_Canker	Cripps Pink	Hewe's Crab	0.9647873126805995
+286	CP5_Canker	HW3_Canker	Cripps Pink	Hewe's Crab	0.9383105974060884
+287	CP5_Canker	HW4_Canker	Cripps Pink	Hewe's Crab	0.8166789866272428
+288	CP5_Canker	HW5_Canker	Cripps Pink	Hewe's Crab	0.9645857133257174
+289	CP5_Canker	HW6_Canker	Cripps Pink	Hewe's Crab	0.6300651837914119
+290	CP5_Canker	HW1_Healthy	Cripps Pink	Hewe's Crab	0.9724480881661178
+291	CP5_Canker	HW2_Healthy	Cripps Pink	Hewe's Crab	0.9724480881661178
+292	CP6_Canker	HW1_Canker	Cripps Pink	Hewe's Crab	0.8257509575969357
+293	CP6_Canker	HW2_Canker	Cripps Pink	Hewe's Crab	0.8667428264229554
+294	CP6_Canker	HW3_Canker	Cripps Pink	Hewe's Crab	0.850883677172233
+295	CP6_Canker	HW4_Canker	Cripps Pink	Hewe's Crab	0.7751495195215375
+296	CP6_Canker	HW5_Canker	Cripps Pink	Hewe's Crab	0.8610980444862576
+297	CP6_Canker	HW6_Canker	Cripps Pink	Hewe's Crab	0.8360325246959209
+298	CP6_Canker	HW1_Healthy	Cripps Pink	Hewe's Crab	0.8752099993280021
+299	CP6_Canker	HW2_Healthy	Cripps Pink	Hewe's Crab	0.8752099993280021
+300	CP1_Healthy	HW1_Canker	Cripps Pink	Hewe's Crab	0.39479873664404275
+301	CP1_Healthy	HW2_Canker	Cripps Pink	Hewe's Crab	0.018211141724346482
+302	CP1_Healthy	HW3_Canker	Cripps Pink	Hewe's Crab	0.08386533163093877
+303	CP1_Healthy	HW4_Canker	Cripps Pink	Hewe's Crab	0.6930313822995766
+304	CP1_Healthy	HW5_Canker	Cripps Pink	Hewe's Crab	0.045292655063503794
+305	CP1_Healthy	HW6_Canker	Cripps Pink	Hewe's Crab	0.40917949062562997
+306	CP1_Healthy	HW1_Healthy	Cripps Pink	Hewe's Crab	0.002284792688663396
+307	CP1_Healthy	HW2_Healthy	Cripps Pink	Hewe's Crab	0.002284792688663396
+308	CP2_Healthy	HW1_Canker	Cripps Pink	Hewe's Crab	0.3933203413749076
+309	CP2_Healthy	HW2_Canker	Cripps Pink	Hewe's Crab	0.016262347960486527
+310	CP2_Healthy	HW3_Canker	Cripps Pink	Hewe's Crab	0.08231973657684295
+311	CP2_Healthy	HW4_Canker	Cripps Pink	Hewe's Crab	0.6916201868154022
+312	CP2_Healthy	HW5_Canker	Cripps Pink	Hewe's Crab	0.04334386129964384
+313	CP2_Healthy	HW6_Canker	Cripps Pink	Hewe's Crab	0.40723069686177005
+314	CP2_Healthy	HW1_Healthy	Cripps Pink	Hewe's Crab	0.0026207916134668367
+315	CP2_Healthy	HW2_Healthy	Cripps Pink	Hewe's Crab	0.0016799946240172031
+316	CP1_Canker	UN1_Canker	Cripps Pink	Unknown cultivar	0.7584167730663262
+317	CP1_Canker	UN2_Canker	Cripps Pink	Unknown cultivar	0.9600161279483905
+318	CP1_Canker	UN1_Healthy	Cripps Pink	Unknown cultivar	0.9670049055843021
+319	CP1_Canker	UN2_Healthy	Cripps Pink	Unknown cultivar	0.9681473019286339
+320	CP2_Canker	UN1_Canker	Cripps Pink	Unknown cultivar	0.7307976614474834
+321	CP2_Canker	UN2_Canker	Cripps Pink	Unknown cultivar	0.939251394395538
+322	CP2_Canker	UN1_Healthy	Cripps Pink	Unknown cultivar	0.9474497681607419
+323	CP2_Canker	UN2_Healthy	Cripps Pink	Unknown cultivar	0.9490625629997984
+324	CP3_Canker	UN1_Canker	Cripps Pink	Unknown cultivar	0.5884013171157852
+325	CP3_Canker	UN2_Canker	Cripps Pink	Unknown cultivar	0.7296552651031517
+326	CP3_Canker	UN1_Healthy	Cripps Pink	Unknown cultivar	0.7344936496203213
+327	CP3_Canker	UN2_Healthy	Cripps Pink	Unknown cultivar	0.7352328472548888
+328	CP4_Canker	UN1_Canker	Cripps Pink	Unknown cultivar	0.7523015926349036
+329	CP4_Canker	UN2_Canker	Cripps Pink	Unknown cultivar	0.9757408776291916
+330	CP4_Canker	UN1_Healthy	Cripps Pink	Unknown cultivar	0.9861568442980982
+331	CP4_Canker	UN2_Healthy	Cripps Pink	Unknown cultivar	0.9861568442980982
+332	CP5_Canker	UN1_Canker	Cripps Pink	Unknown cultivar	0.7438344197298569
+333	CP5_Canker	UN2_Canker	Cripps Pink	Unknown cultivar	0.9629057187017002
+334	CP5_Canker	UN1_Healthy	Cripps Pink	Unknown cultivar	0.9724480881661178
+335	CP5_Canker	UN2_Healthy	Cripps Pink	Unknown cultivar	0.9724480881661178
+336	CP6_Canker	UN1_Canker	Cripps Pink	Unknown cultivar	0.7861702842550904
+337	CP6_Canker	UN2_Canker	Cripps Pink	Unknown cultivar	0.8651300315838989
+338	CP6_Canker	UN1_Healthy	Cripps Pink	Unknown cultivar	0.8745380014783952
+339	CP6_Canker	UN2_Healthy	Cripps Pink	Unknown cultivar	0.8748740004031987
+340	CP1_Healthy	UN1_Canker	Cripps Pink	Unknown cultivar	0.41684026611114844
+341	CP1_Healthy	UN2_Canker	Cripps Pink	Unknown cultivar	0.11981721658490693
+342	CP1_Healthy	UN1_Healthy	Cripps Pink	Unknown cultivar	0.007459176130636382
+343	CP1_Healthy	UN2_Healthy	Cripps Pink	Unknown cultivar	0.006518379141186748
+344	CP2_Healthy	UN1_Canker	Cripps Pink	Unknown cultivar	0.4147570727773671
+345	CP2_Healthy	UN2_Canker	Cripps Pink	Unknown cultivar	0.1177340232511256
+346	CP2_Healthy	UN1_Healthy	Cripps Pink	Unknown cultivar	0.007459176130636382
+347	CP2_Healthy	UN2_Healthy	Cripps Pink	Unknown cultivar	0.006518379141186748
+0	Gala2_Canker	Gala1_Canker	Gala	Gala	0.38686916201868154
+1	Gala3_Canker	Gala1_Canker	Gala	Gala	0.42342584503729586
+2	Gala3_Canker	Gala2_Canker	Gala	Gala	0.5681741818426181
+3	Gala4_Canker	Gala1_Canker	Gala	Gala	0.5109871648410725
+4	Gala4_Canker	Gala2_Canker	Gala	Gala	0.775485518446341
+5	Gala4_Canker	Gala3_Canker	Gala	Gala	0.5332302936630603
+6	Gala5_Canker	Gala1_Canker	Gala	Gala	0.33895571534171093
+7	Gala5_Canker	Gala2_Canker	Gala	Gala	0.616020428734628
+8	Gala5_Canker	Gala3_Canker	Gala	Gala	0.43437940998588803
+9	Gala5_Canker	Gala4_Canker	Gala	Gala	0.27740071231772057
+10	Gala6_Canker	Gala1_Canker	Gala	Gala	0.6855050063839796
+11	Gala6_Canker	Gala2_Canker	Gala	Gala	0.6025132719575297
+12	Gala6_Canker	Gala3_Canker	Gala	Gala	0.7185001007996774
+13	Gala6_Canker	Gala4_Canker	Gala	Gala	0.8803171829850145
+14	Gala6_Canker	Gala5_Canker	Gala	Gala	0.6872522007929575
+15	Gala1_Healthy	Gala1_Canker	Gala	Gala	0.6004300786237484
+16	Gala1_Healthy	Gala2_Canker	Gala	Gala	0.8909347490088032
+17	Gala1_Healthy	Gala3_Canker	Gala	Gala	0.6539883072374169
+18	Gala1_Healthy	Gala4_Canker	Gala	Gala	0.19514817552583832
+19	Gala1_Healthy	Gala5_Canker	Gala	Gala	0.3689940192191385
+20	Gala1_Healthy	Gala6_Canker	Gala	Gala	0.9852160473086486
+21	Gala2_Healthy	Gala1_Canker	Gala	Gala	0.5987500839997312
+22	Gala2_Healthy	Gala2_Canker	Gala	Gala	0.8895907533095894
+23	Gala2_Healthy	Gala3_Canker	Gala	Gala	0.6526443115382031
+24	Gala2_Healthy	Gala4_Canker	Gala	Gala	0.19380417982662457
+25	Gala2_Healthy	Gala5_Canker	Gala	Gala	0.36765002351992476
+26	Gala2_Healthy	Gala6_Canker	Gala	Gala	0.9860224447281769
+27	Gala2_Healthy	Gala1_Healthy	Gala	Gala	0.005241583226933673
+28	Gala1_Canker	Fuji1_Canker	Gala	Aztec Fuji	0.8784355890061152
+29	Gala1_Canker	Fuji2_Canker	Gala	Aztec Fuji	0.42127545191855387
+30	Gala1_Canker	Fuji3_Canker	Gala	Aztec Fuji	0.5170351454875345
+31	Gala1_Canker	Fuji4_Canker	Gala	Aztec Fuji	0.38055238223237686
+32	Gala1_Canker	Fuji5_Canker	Gala	Aztec Fuji	0.5652173913043478
+33	Gala1_Canker	Fuji6_Canker	Gala	Aztec Fuji	0.278811907801895
+34	Gala1_Canker	Fuji1_Healthy	Gala	Aztec Fuji	0.5992876822794168
+35	Gala1_Canker	Fuji2_Healthy	Gala	Aztec Fuji	0.6009004771184733
+36	Gala1_Canker	Fuji3_Healthy	Gala	Aztec Fuji	0.5998252805591022
+37	Gala1_Canker	Fuji4_Healthy	Gala	Aztec Fuji	0.5994220818493381
+38	Gala1_Canker	Fuji5_Healthy	Gala	Aztec Fuji	0.5998252805591022
+39	Gala1_Canker	Fuji6_Healthy	Gala	Aztec Fuji	0.5988172837846919
+40	Gala2_Canker	Fuji1_Canker	Gala	Aztec Fuji	0.7908742692023385
+41	Gala2_Canker	Fuji2_Canker	Gala	Aztec Fuji	0.6719978496068812
+42	Gala2_Canker	Fuji3_Canker	Gala	Aztec Fuji	0.7999462401720314
+43	Gala2_Canker	Fuji4_Canker	Gala	Aztec Fuji	0.6640010751965594
+44	Gala2_Canker	Fuji5_Canker	Gala	Aztec Fuji	0.8406693098582084
+45	Gala2_Canker	Fuji6_Canker	Gala	Aztec Fuji	0.42342584503729586
+46	Gala2_Canker	Fuji1_Healthy	Gala	Aztec Fuji	0.890128351589275
+47	Gala2_Canker	Fuji2_Healthy	Gala	Aztec Fuji	0.8917411464283315
+48	Gala2_Canker	Fuji3_Healthy	Gala	Aztec Fuji	0.8906659498689604
+49	Gala2_Canker	Fuji4_Healthy	Gala	Aztec Fuji	0.8902627511591963
+50	Gala2_Canker	Fuji5_Healthy	Gala	Aztec Fuji	0.8906659498689604
+51	Gala2_Canker	Fuji6_Healthy	Gala	Aztec Fuji	0.8874403601908474
+52	Gala3_Canker	Fuji1_Canker	Gala	Aztec Fuji	0.8022982326456556
+53	Gala3_Canker	Fuji2_Canker	Gala	Aztec Fuji	0.4326322155769102
+54	Gala3_Canker	Fuji3_Canker	Gala	Aztec Fuji	0.5590350110879645
+55	Gala3_Canker	Fuji4_Canker	Gala	Aztec Fuji	0.4216114508433573
+56	Gala3_Canker	Fuji5_Canker	Gala	Aztec Fuji	0.5947180969020899
+57	Gala3_Canker	Fuji6_Canker	Gala	Aztec Fuji	0.4308178213829716
+58	Gala3_Canker	Fuji1_Healthy	Gala	Aztec Fuji	0.6531819098178886
+59	Gala3_Canker	Fuji2_Healthy	Gala	Aztec Fuji	0.6547947046569451
+60	Gala3_Canker	Fuji3_Healthy	Gala	Aztec Fuji	0.6537195080975741
+61	Gala3_Canker	Fuji4_Healthy	Gala	Aztec Fuji	0.6533163093878099
+62	Gala3_Canker	Fuji5_Healthy	Gala	Aztec Fuji	0.6537195080975741
+63	Gala3_Canker	Fuji6_Healthy	Gala	Aztec Fuji	0.6500907197096969
+64	Gala4_Canker	Fuji1_Canker	Gala	Aztec Fuji	0.8743364021235132
+65	Gala4_Canker	Fuji2_Canker	Gala	Aztec Fuji	0.5298031046300652
+66	Gala4_Canker	Fuji3_Canker	Gala	Aztec Fuji	0.10839325314158994
+67	Gala4_Canker	Fuji4_Canker	Gala	Aztec Fuji	0.24534641489147235
+68	Gala4_Canker	Fuji5_Canker	Gala	Aztec Fuji	0.13419797056649418
+69	Gala4_Canker	Fuji6_Canker	Gala	Aztec Fuji	0.5828237349640482
+70	Gala4_Canker	Fuji1_Healthy	Gala	Aztec Fuji	0.19434177810631006
+71	Gala4_Canker	Fuji2_Healthy	Gala	Aztec Fuji	0.19595457294536658
+72	Gala4_Canker	Fuji3_Healthy	Gala	Aztec Fuji	0.19487937638599556
+73	Gala4_Canker	Fuji4_Healthy	Gala	Aztec Fuji	0.19447617767623143
+74	Gala4_Canker	Fuji5_Healthy	Gala	Aztec Fuji	0.19487937638599556
+75	Gala4_Canker	Fuji6_Healthy	Gala	Aztec Fuji	0.19219138498756805
+76	Gala5_Canker	Fuji1_Canker	Gala	Aztec Fuji	0.854982864054835
+77	Gala5_Canker	Fuji2_Canker	Gala	Aztec Fuji	0.4074322962166521
+78	Gala5_Canker	Fuji3_Canker	Gala	Aztec Fuji	0.2806935017807943
+79	Gala5_Canker	Fuji4_Canker	Gala	Aztec Fuji	0.1437403400309119
+80	Gala5_Canker	Fuji5_Canker	Gala	Aztec Fuji	0.33532692695383376
+81	Gala5_Canker	Fuji6_Canker	Gala	Aztec Fuji	0.4170418654660305
+82	Gala5_Canker	Fuji1_Healthy	Gala	Aztec Fuji	0.36818762179961023
+83	Gala5_Canker	Fuji2_Healthy	Gala	Aztec Fuji	0.36980041663866675
+84	Gala5_Canker	Fuji3_Healthy	Gala	Aztec Fuji	0.36872522007929576
+85	Gala5_Canker	Fuji4_Healthy	Gala	Aztec Fuji	0.3683220213695316
+86	Gala5_Canker	Fuji5_Healthy	Gala	Aztec Fuji	0.36872522007929576
+87	Gala5_Canker	Fuji6_Healthy	Gala	Aztec Fuji	0.36650762717559304
+88	Gala6_Canker	Fuji1_Canker	Gala	Aztec Fuji	0.7155433102614072
+89	Gala6_Canker	Fuji2_Canker	Gala	Aztec Fuji	0.7655399502721592
+90	Gala6_Canker	Fuji3_Canker	Gala	Aztec Fuji	0.890128351589275
+91	Gala6_Canker	Fuji4_Canker	Gala	Aztec Fuji	0.7570055775821517
+92	Gala6_Canker	Fuji5_Canker	Gala	Aztec Fuji	0.9461729722464888
+93	Gala6_Canker	Fuji6_Canker	Gala	Aztec Fuji	0.6131980377662791
+94	Gala6_Canker	Fuji1_Healthy	Gala	Aztec Fuji	0.9860224447281769
+95	Gala6_Canker	Fuji2_Healthy	Gala	Aztec Fuji	0.9860224447281769
+96	Gala6_Canker	Fuji3_Healthy	Gala	Aztec Fuji	0.9860224447281769
+97	Gala6_Canker	Fuji4_Healthy	Gala	Aztec Fuji	0.9860224447281769
+98	Gala6_Canker	Fuji5_Healthy	Gala	Aztec Fuji	0.9858880451582555
+99	Gala6_Canker	Fuji6_Healthy	Gala	Aztec Fuji	0.9827968550500639
+100	Gala1_Healthy	Fuji1_Canker	Gala	Aztec Fuji	0.9830656541899065
+101	Gala1_Healthy	Fuji2_Canker	Gala	Aztec Fuji	0.6258315973388885
+102	Gala1_Healthy	Fuji3_Canker	Gala	Aztec Fuji	0.14253074390161952
+103	Gala1_Healthy	Fuji4_Canker	Gala	Aztec Fuji	0.33250453598548485
+104	Gala1_Healthy	Fuji5_Canker	Gala	Aztec Fuji	0.09502049593441302
+105	Gala1_Healthy	Fuji6_Canker	Gala	Aztec Fuji	0.6934345810093407
+106	Gala1_Healthy	Fuji1_Healthy	Gala	Aztec Fuji	0.005241583226933673
+107	Gala1_Healthy	Fuji2_Healthy	Gala	Aztec Fuji	0.005241583226933673
+108	Gala1_Healthy	Fuji3_Healthy	Gala	Aztec Fuji	0.005241583226933673
+109	Gala1_Healthy	Fuji4_Healthy	Gala	Aztec Fuji	0.005241583226933673
+110	Gala1_Healthy	Fuji5_Healthy	Gala	Aztec Fuji	0.005241583226933673
+111	Gala1_Healthy	Fuji6_Healthy	Gala	Aztec Fuji	0.01256635978764868
+112	Gala2_Healthy	Fuji1_Canker	Gala	Aztec Fuji	0.9836032524695921
+113	Gala2_Healthy	Fuji2_Canker	Gala	Aztec Fuji	0.6238828035750286
+114	Gala2_Healthy	Fuji3_Canker	Gala	Aztec Fuji	0.14118674820240576
+115	Gala2_Healthy	Fuji4_Canker	Gala	Aztec Fuji	0.3303541428667428
+116	Gala2_Healthy	Fuji5_Canker	Gala	Aztec Fuji	0.09300450238559237
+117	Gala2_Healthy	Fuji6_Canker	Gala	Aztec Fuji	0.692090585310127
+118	Gala2_Healthy	Fuji1_Healthy	Gala	Aztec Fuji	0.0015455950540958269
+119	Gala2_Healthy	Fuji2_Healthy	Gala	Aztec Fuji	0.0031583898931523417
+120	Gala2_Healthy	Fuji3_Healthy	Gala	Aztec Fuji	0.002083193333781332
+121	Gala2_Healthy	Fuji4_Healthy	Gala	Aztec Fuji	0.0016799946240172031
+122	Gala2_Healthy	Fuji5_Healthy	Gala	Aztec Fuji	0.002083193333781332
+123	Gala2_Healthy	Fuji6_Healthy	Gala	Aztec Fuji	0.01216316107788455
+124	Gala1_Canker	CP1_Canker	Gala	Cripps Pink	0.4603185269807137
+125	Gala1_Canker	CP2_Canker	Gala	Cripps Pink	0.4444593777299913
+126	Gala1_Canker	CP3_Canker	Gala	Cripps Pink	0.5212015321550971
+127	Gala1_Canker	CP4_Canker	Gala	Cripps Pink	0.5466030508702372
+128	Gala1_Canker	CP5_Canker	Gala	Cripps Pink	0.46905449902560314
+129	Gala1_Canker	CP6_Canker	Gala	Cripps Pink	0.8469860896445132
+130	Gala1_Canker	CP1_Healthy	Gala	Cripps Pink	0.5991532827094953
+131	Gala1_Canker	CP2_Healthy	Gala	Cripps Pink	0.6009004771184733
+132	Gala2_Canker	CP1_Canker	Gala	Cripps Pink	0.45037295880653183
+133	Gala2_Canker	CP2_Canker	Gala	Cripps Pink	0.4354546065452591
+134	Gala2_Canker	CP3_Canker	Gala	Cripps Pink	0.6761642362744439
+135	Gala2_Canker	CP4_Canker	Gala	Cripps Pink	0.4967408104294066
+136	Gala2_Canker	CP5_Canker	Gala	Cripps Pink	0.415429070626974
+137	Gala2_Canker	CP6_Canker	Gala	Cripps Pink	0.7039177474632081
+138	Gala2_Canker	CP1_Healthy	Gala	Cripps Pink	0.8895907533095894
+139	Gala2_Canker	CP2_Healthy	Gala	Cripps Pink	0.8917411464283315
+140	Gala3_Canker	CP1_Canker	Gala	Cripps Pink	0.7344264498353605
+141	Gala3_Canker	CP2_Canker	Gala	Cripps Pink	0.7187688999395202
+142	Gala3_Canker	CP3_Canker	Gala	Cripps Pink	0.566695786573483
+143	Gala3_Canker	CP4_Canker	Gala	Cripps Pink	0.7133257173577044
+144	Gala3_Canker	CP5_Canker	Gala	Cripps Pink	0.6937033801491835
+145	Gala3_Canker	CP6_Canker	Gala	Cripps Pink	0.7009609569249379
+146	Gala3_Canker	CP1_Healthy	Gala	Cripps Pink	0.6526443115382031
+147	Gala3_Canker	CP2_Healthy	Gala	Cripps Pink	0.6547947046569451
+148	Gala4_Canker	CP1_Canker	Gala	Cripps Pink	0.8795107855654862
+149	Gala4_Canker	CP2_Canker	Gala	Cripps Pink	0.858006854378066
+150	Gala4_Canker	CP3_Canker	Gala	Cripps Pink	0.6697802567031785
+151	Gala4_Canker	CP4_Canker	Gala	Cripps Pink	0.8842147705127343
+152	Gala4_Canker	CP5_Canker	Gala	Cripps Pink	0.8698340165311471
+153	Gala4_Canker	CP6_Canker	Gala	Cripps Pink	0.7886566762986359
+154	Gala4_Canker	CP1_Healthy	Gala	Cripps Pink	0.1942073785363887
+155	Gala4_Canker	CP2_Healthy	Gala	Cripps Pink	0.19595457294536658
+156	Gala5_Canker	CP1_Canker	Gala	Cripps Pink	0.7010953564948592
+157	Gala5_Canker	CP2_Canker	Gala	Cripps Pink	0.6810026207916134
+158	Gala5_Canker	CP3_Canker	Gala	Cripps Pink	0.5548014246354411
+159	Gala5_Canker	CP4_Canker	Gala	Cripps Pink	0.7081513339157315
+160	Gala5_Canker	CP5_Canker	Gala	Cripps Pink	0.7005577582151737
+161	Gala5_Canker	CP6_Canker	Gala	Cripps Pink	0.8163429877024394
+162	Gala5_Canker	CP1_Healthy	Gala	Cripps Pink	0.3680532222296889
+163	Gala5_Canker	CP2_Healthy	Gala	Cripps Pink	0.36980041663866675
+164	Gala6_Canker	CP1_Canker	Gala	Cripps Pink	0.6640010751965594
+165	Gala6_Canker	CP2_Canker	Gala	Cripps Pink	0.654593105302063
+166	Gala6_Canker	CP3_Canker	Gala	Cripps Pink	0.7881190780189503
+167	Gala6_Canker	CP4_Canker	Gala	Cripps Pink	0.6221356091660507
+168	Gala6_Canker	CP5_Canker	Gala	Cripps Pink	0.6213292117465224
+169	Gala6_Canker	CP6_Canker	Gala	Cripps Pink	0.8126469995296015
+170	Gala6_Canker	CP1_Healthy	Gala	Cripps Pink	0.9858880451582555
+171	Gala6_Canker	CP2_Healthy	Gala	Cripps Pink	0.9860224447281769
+172	Gala1_Healthy	CP1_Canker	Gala	Cripps Pink	0.9673409045091056
+173	Gala1_Healthy	CP2_Canker	Gala	Cripps Pink	0.9482561655802701
+174	Gala1_Healthy	CP3_Canker	Gala	Cripps Pink	0.7350984476849675
+175	Gala1_Healthy	CP4_Canker	Gala	Cripps Pink	0.98535044687857
+176	Gala1_Healthy	CP5_Canker	Gala	Cripps Pink	0.9716416907465896
+177	Gala1_Healthy	CP6_Canker	Gala	Cripps Pink	0.8744036019084739
+178	Gala1_Healthy	CP1_Healthy	Gala	Cripps Pink	0.005241583226933673
+179	Gala1_Healthy	CP2_Healthy	Gala	Cripps Pink	0.005241583226933673
+180	Gala2_Healthy	CP1_Canker	Gala	Cripps Pink	0.9681473019286339
+181	Gala2_Healthy	CP2_Canker	Gala	Cripps Pink	0.9490625629997984
+182	Gala2_Healthy	CP3_Canker	Gala	Cripps Pink	0.7330824541361468
+183	Gala2_Healthy	CP4_Canker	Gala	Cripps Pink	0.9861568442980982
+184	Gala2_Healthy	CP5_Canker	Gala	Cripps Pink	0.9724480881661178
+185	Gala2_Healthy	CP6_Canker	Gala	Cripps Pink	0.8735300047039849
+186	Gala2_Healthy	CP1_Healthy	Gala	Cripps Pink	0.0014111954841744506
+187	Gala2_Healthy	CP2_Healthy	Gala	Cripps Pink	0.0031583898931523417
+188	Gala1_Canker	Nic1_Canker	Gala	Granniwinkle	0.49573281365499633
+189	Gala1_Canker	Nic2_Canker	Gala	Granniwinkle	0.33136213964115313
+190	Gala1_Canker	Nic3_Canker	Gala	Granniwinkle	0.5976076876553995
+191	Gala1_Canker	Nic4_Canker	Gala	Granniwinkle	0.592970902493112
+192	Gala1_Canker	Nic5_Canker	Gala	Granniwinkle	0.5912909078690948
+193	Gala1_Canker	Nic6_Canker	Gala	Granniwinkle	0.5341038908675492
+194	Gala1_Canker	Nic1_Healthy	Gala	Granniwinkle	0.6009004771184733
+195	Gala1_Canker	Nic2_Healthy	Gala	Granniwinkle	0.6009004771184733
+196	Gala2_Canker	Nic1_Canker	Gala	Granniwinkle	0.7864390833949332
+197	Gala2_Canker	Nic2_Canker	Gala	Granniwinkle	0.6175660237887238
+198	Gala2_Canker	Nic3_Canker	Gala	Granniwinkle	0.8873731604058867
+199	Gala2_Canker	Nic4_Canker	Gala	Granniwinkle	0.8504132786775083
+200	Gala2_Canker	Nic5_Canker	Gala	Granniwinkle	0.8768227941670587
+201	Gala2_Canker	Nic6_Canker	Gala	Granniwinkle	0.8207781735098447
+202	Gala2_Canker	Nic1_Healthy	Gala	Granniwinkle	0.8917411464283315
+203	Gala2_Canker	Nic2_Healthy	Gala	Granniwinkle	0.8912707479336066
+204	Gala3_Canker	Nic1_Canker	Gala	Granniwinkle	0.5492910422686648
+205	Gala3_Canker	Nic2_Canker	Gala	Granniwinkle	0.44613937235400847
+206	Gala3_Canker	Nic3_Canker	Gala	Granniwinkle	0.6490827229352866
+207	Gala3_Canker	Nic4_Canker	Gala	Granniwinkle	0.6054700624958
+208	Gala3_Canker	Nic5_Canker	Gala	Granniwinkle	0.6387339560513406
+209	Gala3_Canker	Nic6_Canker	Gala	Granniwinkle	0.5825549358242054
+210	Gala3_Canker	Nic1_Healthy	Gala	Granniwinkle	0.6547947046569451
+211	Gala3_Canker	Nic2_Healthy	Gala	Granniwinkle	0.6544587057321417
+212	Gala4_Canker	Nic1_Canker	Gala	Granniwinkle	0.11686042604663666
+213	Gala4_Canker	Nic2_Canker	Gala	Granniwinkle	0.253813587796519
+214	Gala4_Canker	Nic3_Canker	Gala	Granniwinkle	0.19400577918150663
+215	Gala4_Canker	Nic4_Canker	Gala	Granniwinkle	0.2406424299442242
+216	Gala4_Canker	Nic5_Canker	Gala	Granniwinkle	0.18298501444795376
+217	Gala4_Canker	Nic6_Canker	Gala	Granniwinkle	0.13030038303877428
+218	Gala4_Canker	Nic1_Healthy	Gala	Granniwinkle	0.19595457294536658
+219	Gala4_Canker	Nic2_Healthy	Gala	Granniwinkle	0.1958201733754452
+220	Gala5_Canker	Nic1_Canker	Gala	Granniwinkle	0.26422955446542573
+221	Gala5_Canker	Nic2_Canker	Gala	Granniwinkle	0.10725085679725825
+222	Gala5_Canker	Nic3_Canker	Gala	Granniwinkle	0.36704522545527857
+223	Gala5_Canker	Nic4_Canker	Gala	Granniwinkle	0.35421006652778714
+224	Gala5_Canker	Nic5_Canker	Gala	Granniwinkle	0.35851085276527117
+225	Gala5_Canker	Nic6_Canker	Gala	Granniwinkle	0.2989046435051408
+226	Gala5_Canker	Nic1_Healthy	Gala	Granniwinkle	0.36980041663866675
+227	Gala5_Canker	Nic2_Healthy	Gala	Granniwinkle	0.36980041663866675
+228	Gala6_Canker	Nic1_Canker	Gala	Granniwinkle	0.8809891808346213
+229	Gala6_Canker	Nic2_Canker	Gala	Granniwinkle	0.7086217324104563
+230	Gala6_Canker	Nic3_Canker	Gala	Granniwinkle	0.9816544587057321
+231	Gala6_Canker	Nic4_Canker	Gala	Granniwinkle	0.9355554062227001
+232	Gala6_Canker	Nic5_Canker	Gala	Granniwinkle	0.9641153148309926
+233	Gala6_Canker	Nic6_Canker	Gala	Granniwinkle	0.9072642967542504
+234	Gala6_Canker	Nic1_Healthy	Gala	Granniwinkle	0.9860224447281769
+235	Gala6_Canker	Nic2_Healthy	Gala	Granniwinkle	0.9858208453732948
+236	Gala1_Healthy	Nic1_Canker	Gala	Granniwinkle	0.10846045292655064
+237	Gala1_Healthy	Nic2_Canker	Gala	Granniwinkle	0.3333109334050131
+238	Gala1_Healthy	Nic3_Canker	Gala	Granniwinkle	0.02042873462804919
+239	Gala1_Healthy	Nic4_Canker	Gala	Granniwinkle	0.2586519723136886
+240	Gala1_Healthy	Nic5_Canker	Gala	Granniwinkle	0.0526174316242188
+241	Gala1_Healthy	Nic6_Canker	Gala	Granniwinkle	0.11921241852026074
+242	Gala1_Healthy	Nic1_Healthy	Gala	Granniwinkle	0.005241583226933673
+243	Gala1_Healthy	Nic2_Healthy	Gala	Granniwinkle	0.005241583226933673
+244	Gala2_Healthy	Nic1_Canker	Gala	Granniwinkle	0.10846045292655064
+245	Gala2_Healthy	Nic2_Canker	Gala	Granniwinkle	0.33398293125462
+246	Gala2_Healthy	Nic3_Canker	Gala	Granniwinkle	0.02042873462804919
+247	Gala2_Healthy	Nic4_Canker	Gala	Granniwinkle	0.25945836973321684
+248	Gala2_Healthy	Nic5_Canker	Gala	Granniwinkle	0.052886230764061556
+249	Gala2_Healthy	Nic6_Canker	Gala	Granniwinkle	0.1193468180901821
+250	Gala2_Healthy	Nic1_Healthy	Gala	Granniwinkle	0.0031583898931523417
+251	Gala2_Healthy	Nic2_Healthy	Gala	Granniwinkle	0.0031583898931523417
+252	Gala1_Canker	HW1_Canker	Gala	Hewe's Crab	0.35844365298031045
+253	Gala1_Canker	HW2_Canker	Gala	Hewe's Crab	0.5933741012028761
+254	Gala1_Canker	HW3_Canker	Gala	Hewe's Crab	0.5742893622740407
+255	Gala1_Canker	HW4_Canker	Gala	Hewe's Crab	0.5787917478664069
+256	Gala1_Canker	HW5_Canker	Gala	Hewe's Crab	0.5951884953968147
+257	Gala1_Canker	HW6_Canker	Gala	Hewe's Crab	0.26019756736778443
+258	Gala1_Canker	HW1_Healthy	Gala	Hewe's Crab	0.6009004771184733
+259	Gala1_Canker	HW2_Healthy	Gala	Hewe's Crab	0.6009004771184733
+260	Gala2_Canker	HW1_Canker	Gala	Hewe's Crab	0.6435051407835495
+261	Gala2_Canker	HW2_Canker	Gala	Hewe's Crab	0.8836099724480881
+262	Gala2_Canker	HW3_Canker	Gala	Hewe's Crab	0.850883677172233
+263	Gala2_Canker	HW4_Canker	Gala	Hewe's Crab	0.7248168805859821
+264	Gala2_Canker	HW5_Canker	Gala	Hewe's Crab	0.8816611786842282
+265	Gala2_Canker	HW6_Canker	Gala	Hewe's Crab	0.5433774611921242
+266	Gala2_Canker	HW1_Healthy	Gala	Hewe's Crab	0.8917411464283315
+267	Gala2_Canker	HW2_Healthy	Gala	Hewe's Crab	0.8917411464283315
+268	Gala3_Canker	HW1_Canker	Gala	Hewe's Crab	0.4001747194408978
+269	Gala3_Canker	HW2_Canker	Gala	Hewe's Crab	0.6468651300315839
+270	Gala3_Canker	HW3_Canker	Gala	Hewe's Crab	0.6136012364760433
+271	Gala3_Canker	HW4_Canker	Gala	Hewe's Crab	0.5257039177474632
+272	Gala3_Canker	HW5_Canker	Gala	Hewe's Crab	0.6461259323970163
+273	Gala3_Canker	HW6_Canker	Gala	Hewe's Crab	0.43323701364155637
+274	Gala3_Canker	HW1_Healthy	Gala	Hewe's Crab	0.6547947046569451
+275	Gala3_Canker	HW2_Healthy	Gala	Hewe's Crab	0.6547947046569451
+276	Gala4_Canker	HW1_Canker	Gala	Hewe's Crab	0.3077078153349909
+277	Gala4_Canker	HW2_Canker	Gala	Hewe's Crab	0.18809219810496605
+278	Gala4_Canker	HW3_Canker	Gala	Hewe's Crab	0.16846986089644514
+279	Gala4_Canker	HW4_Canker	Gala	Hewe's Crab	0.5848397285128688
+280	Gala4_Canker	HW5_Canker	Gala	Hewe's Crab	0.18923459444929777
+281	Gala4_Canker	HW6_Canker	Gala	Hewe's Crab	0.3187957798535045
+282	Gala4_Canker	HW1_Healthy	Gala	Hewe's Crab	0.19595457294536658
+283	Gala4_Canker	HW2_Healthy	Gala	Hewe's Crab	0.19595457294536658
+284	Gala5_Canker	HW1_Canker	Gala	Hewe's Crab	0.16685706605738862
+285	Gala5_Canker	HW2_Canker	Gala	Hewe's Crab	0.3625428398629124
+286	Gala5_Canker	HW3_Canker	Gala	Hewe's Crab	0.341307707815335
+287	Gala5_Canker	HW4_Canker	Gala	Hewe's Crab	0.5738861635642766
+288	Gala5_Canker	HW5_Canker	Gala	Hewe's Crab	0.36469323298165446
+289	Gala5_Canker	HW6_Canker	Gala	Hewe's Crab	0.15072911766682345
+290	Gala5_Canker	HW1_Healthy	Gala	Hewe's Crab	0.36980041663866675
+291	Gala5_Canker	HW2_Healthy	Gala	Hewe's Crab	0.36980041663866675
+292	Gala6_Canker	HW1_Canker	Gala	Hewe's Crab	0.7393320341374907
+293	Gala6_Canker	HW2_Canker	Gala	Hewe's Crab	0.9779584705328943
+294	Gala6_Canker	HW3_Canker	Gala	Hewe's Crab	0.9445601774074323
+295	Gala6_Canker	HW4_Canker	Gala	Hewe's Crab	0.8179557825414958
+296	Gala6_Canker	HW5_Canker	Gala	Hewe's Crab	0.973052886230764
+297	Gala6_Canker	HW6_Canker	Gala	Hewe's Crab	0.6788522276728715
+298	Gala6_Canker	HW1_Healthy	Gala	Hewe's Crab	0.9860224447281769
+299	Gala6_Canker	HW2_Healthy	Gala	Hewe's Crab	0.9860224447281769
+300	Gala1_Healthy	HW1_Canker	Gala	Hewe's Crab	0.39479873664404275
+301	Gala1_Healthy	HW2_Canker	Gala	Hewe's Crab	0.018211141724346482
+302	Gala1_Healthy	HW3_Canker	Gala	Hewe's Crab	0.08386533163093877
+303	Gala1_Healthy	HW4_Canker	Gala	Hewe's Crab	0.6927625831597339
+304	Gala1_Healthy	HW5_Canker	Gala	Hewe's Crab	0.04515825549358242
+305	Gala1_Healthy	HW6_Canker	Gala	Hewe's Crab	0.40837309320610177
+306	Gala1_Healthy	HW1_Healthy	Gala	Hewe's Crab	0.005241583226933673
+307	Gala1_Healthy	HW2_Healthy	Gala	Hewe's Crab	0.005241583226933673
+308	Gala2_Healthy	HW1_Canker	Gala	Hewe's Crab	0.39479873664404275
+309	Gala2_Healthy	HW2_Canker	Gala	Hewe's Crab	0.018211141724346482
+310	Gala2_Healthy	HW3_Canker	Gala	Hewe's Crab	0.08386533163093877
+311	Gala2_Healthy	HW4_Canker	Gala	Hewe's Crab	0.6935689805792622
+312	Gala2_Healthy	HW5_Canker	Gala	Hewe's Crab	0.045292655063503794
+313	Gala2_Healthy	HW6_Canker	Gala	Hewe's Crab	0.40917949062562997
+314	Gala2_Healthy	HW1_Healthy	Gala	Hewe's Crab	0.0031583898931523417
+315	Gala2_Healthy	HW2_Healthy	Gala	Hewe's Crab	0.0031583898931523417
+316	Gala1_Canker	UN1_Canker	Gala	Unknown cultivar	0.396680330622942
+317	Gala1_Canker	UN2_Canker	Gala	Unknown cultivar	0.5929037027081513
+318	Gala1_Canker	UN1_Healthy	Gala	Unknown cultivar	0.6009004771184733
+319	Gala1_Canker	UN2_Healthy	Gala	Unknown cultivar	0.6009004771184733
+320	Gala2_Canker	UN1_Canker	Gala	Unknown cultivar	0.6417579463745716
+321	Gala2_Canker	UN2_Canker	Gala	Unknown cultivar	0.8824675761037565
+322	Gala2_Canker	UN1_Healthy	Gala	Unknown cultivar	0.8910019487937638
+323	Gala2_Canker	UN2_Healthy	Gala	Unknown cultivar	0.8910019487937638
+324	Gala3_Canker	UN1_Canker	Gala	Unknown cultivar	0.40427390632349974
+325	Gala3_Canker	UN2_Canker	Gala	Unknown cultivar	0.6430347422888246
+326	Gala3_Canker	UN1_Healthy	Gala	Unknown cultivar	0.6531819098178886
+327	Gala3_Canker	UN2_Healthy	Gala	Unknown cultivar	0.6531819098178886
+328	Gala4_Canker	UN1_Canker	Gala	Unknown cultivar	0.31436059404609906
+329	Gala4_Canker	UN2_Canker	Gala	Unknown cultivar	0.18930179423425844
+330	Gala4_Canker	UN1_Healthy	Gala	Unknown cultivar	0.195215375310799
+331	Gala4_Canker	UN2_Healthy	Gala	Unknown cultivar	0.19595457294536658
+332	Gala5_Canker	UN1_Canker	Gala	Unknown cultivar	0.21288891875545998
+333	Gala5_Canker	UN2_Canker	Gala	Unknown cultivar	0.36261003964787314
+334	Gala5_Canker	UN1_Healthy	Gala	Unknown cultivar	0.36906121900409916
+335	Gala5_Canker	UN2_Healthy	Gala	Unknown cultivar	0.36980041663866675
+336	Gala6_Canker	UN1_Canker	Gala	Unknown cultivar	0.722263288757476
+337	Gala6_Canker	UN2_Canker	Gala	Unknown cultivar	0.9759424769840737
+338	Gala6_Canker	UN1_Healthy	Gala	Unknown cultivar	0.9860224447281769
+339	Gala6_Canker	UN2_Healthy	Gala	Unknown cultivar	0.9860224447281769
+340	Gala1_Healthy	UN1_Canker	Gala	Unknown cultivar	0.4160338686916202
+341	Gala1_Healthy	UN2_Canker	Gala	Unknown cultivar	0.11981721658490693
+342	Gala1_Healthy	UN1_Healthy	Gala	Unknown cultivar	0.007459176130636382
+343	Gala1_Healthy	UN2_Healthy	Gala	Unknown cultivar	0.006518379141186748
+344	Gala2_Healthy	UN1_Canker	Gala	Unknown cultivar	0.41684026611114844
+345	Gala2_Healthy	UN2_Canker	Gala	Unknown cultivar	0.11981721658490693
+346	Gala2_Healthy	UN1_Healthy	Gala	Unknown cultivar	0.007459176130636382
+347	Gala2_Healthy	UN2_Healthy	Gala	Unknown cultivar	0.006518379141186748
+0	Nic2_Canker	Nic1_Canker	Granniwinkle	Granniwinkle	0.2287480680061824
+1	Nic3_Canker	Nic1_Canker	Granniwinkle	Granniwinkle	0.10678045830253344
+2	Nic3_Canker	Nic2_Canker	Granniwinkle	Granniwinkle	0.33189973792083866
+3	Nic4_Canker	Nic1_Canker	Granniwinkle	Granniwinkle	0.25549358242053627
+4	Nic4_Canker	Nic2_Canker	Granniwinkle	Granniwinkle	0.3219541697466568
+5	Nic4_Canker	Nic3_Canker	Granniwinkle	Granniwinkle	0.25663597876486793
+6	Nic5_Canker	Nic1_Canker	Granniwinkle	Granniwinkle	0.10026207916134669
+7	Nic5_Canker	Nic2_Canker	Granniwinkle	Granniwinkle	0.3237685639405954
+8	Nic5_Canker	Nic3_Canker	Granniwinkle	Granniwinkle	0.049660641085948524
+9	Nic5_Canker	Nic4_Canker	Granniwinkle	Granniwinkle	0.24601841274107922
+10	Nic6_Canker	Nic1_Canker	Granniwinkle	Granniwinkle	0.0549022243128822
+11	Nic6_Canker	Nic2_Canker	Granniwinkle	Granniwinkle	0.2602647671527451
+12	Nic6_Canker	Nic3_Canker	Granniwinkle	Granniwinkle	0.11397083529332706
+13	Nic6_Canker	Nic4_Canker	Granniwinkle	Granniwinkle	0.24084402929910625
+14	Nic6_Canker	Nic5_Canker	Granniwinkle	Granniwinkle	0.10819165378670788
+15	Nic1_Healthy	Nic1_Canker	Granniwinkle	Granniwinkle	0.10846045292655064
+16	Nic1_Healthy	Nic2_Canker	Granniwinkle	Granniwinkle	0.33398293125462
+17	Nic1_Healthy	Nic3_Canker	Granniwinkle	Granniwinkle	0.02042873462804919
+18	Nic1_Healthy	Nic4_Canker	Granniwinkle	Granniwinkle	0.25945836973321684
+19	Nic1_Healthy	Nic5_Canker	Granniwinkle	Granniwinkle	0.052886230764061556
+20	Nic1_Healthy	Nic6_Canker	Granniwinkle	Granniwinkle	0.1193468180901821
+21	Nic2_Healthy	Nic1_Canker	Granniwinkle	Granniwinkle	0.10846045292655064
+22	Nic2_Healthy	Nic2_Canker	Granniwinkle	Granniwinkle	0.33398293125462
+23	Nic2_Healthy	Nic3_Canker	Granniwinkle	Granniwinkle	0.02042873462804919
+24	Nic2_Healthy	Nic4_Canker	Granniwinkle	Granniwinkle	0.25898797123849204
+25	Nic2_Healthy	Nic5_Canker	Granniwinkle	Granniwinkle	0.052886230764061556
+26	Nic2_Healthy	Nic6_Canker	Granniwinkle	Granniwinkle	0.1193468180901821
+27	Nic2_Healthy	Nic1_Healthy	Granniwinkle	Granniwinkle	0.0004703984947248169
+28	Nic1_Canker	Fuji1_Canker	Granniwinkle	Aztec Fuji	0.8897923526644714
+29	Nic1_Canker	Fuji2_Canker	Granniwinkle	Aztec Fuji	0.520798333445333
+30	Nic1_Canker	Fuji3_Canker	Granniwinkle	Aztec Fuji	0.06592298904643505
+31	Nic1_Canker	Fuji4_Canker	Granniwinkle	Aztec Fuji	0.22800887037161482
+32	Nic1_Canker	Fuji5_Canker	Granniwinkle	Aztec Fuji	0.08218533700692157
+33	Nic1_Canker	Fuji6_Canker	Granniwinkle	Aztec Fuji	0.5893421141052348
+34	Nic1_Canker	Fuji1_Healthy	Granniwinkle	Aztec Fuji	0.10846045292655064
+35	Nic1_Canker	Fuji2_Healthy	Granniwinkle	Aztec Fuji	0.10846045292655064
+36	Nic1_Canker	Fuji3_Healthy	Granniwinkle	Aztec Fuji	0.10846045292655064
+37	Nic1_Canker	Fuji4_Healthy	Granniwinkle	Aztec Fuji	0.10846045292655064
+38	Nic1_Canker	Fuji5_Healthy	Granniwinkle	Aztec Fuji	0.10846045292655064
+39	Nic1_Canker	Fuji6_Healthy	Granniwinkle	Aztec Fuji	0.10799005443182581
+40	Nic2_Canker	Fuji1_Canker	Granniwinkle	Aztec Fuji	0.8725220079295746
+41	Nic2_Canker	Fuji2_Canker	Granniwinkle	Aztec Fuji	0.42806263019958335
+42	Nic2_Canker	Fuji3_Canker	Granniwinkle	Aztec Fuji	0.24655601102076474
+43	Nic2_Canker	Fuji4_Canker	Granniwinkle	Aztec Fuji	0.12895638733956052
+44	Nic2_Canker	Fuji5_Canker	Granniwinkle	Aztec Fuji	0.3061622202808951
+45	Nic2_Canker	Fuji6_Canker	Granniwinkle	Aztec Fuji	0.41468987299240645
+46	Nic2_Canker	Fuji1_Healthy	Granniwinkle	Aztec Fuji	0.33398293125462
+47	Nic2_Canker	Fuji2_Healthy	Granniwinkle	Aztec Fuji	0.33398293125462
+48	Nic2_Canker	Fuji3_Healthy	Granniwinkle	Aztec Fuji	0.33398293125462
+49	Nic2_Canker	Fuji4_Healthy	Granniwinkle	Aztec Fuji	0.33398293125462
+50	Nic2_Canker	Fuji5_Healthy	Granniwinkle	Aztec Fuji	0.33398293125462
+51	Nic2_Canker	Fuji6_Healthy	Granniwinkle	Aztec Fuji	0.3323029366306028
+52	Nic3_Canker	Fuji1_Canker	Granniwinkle	Aztec Fuji	0.9802432632215576
+53	Nic3_Canker	Fuji2_Canker	Granniwinkle	Aztec Fuji	0.6173644244338418
+54	Nic3_Canker	Fuji3_Canker	Granniwinkle	Aztec Fuji	0.1420603454068947
+55	Nic3_Canker	Fuji4_Canker	Granniwinkle	Aztec Fuji	0.3288757475976077
+56	Nic3_Canker	Fuji5_Canker	Granniwinkle	Aztec Fuji	0.09300450238559237
+57	Nic3_Canker	Fuji6_Canker	Granniwinkle	Aztec Fuji	0.6922249848800484
+58	Nic3_Canker	Fuji1_Healthy	Granniwinkle	Aztec Fuji	0.02042873462804919
+59	Nic3_Canker	Fuji2_Healthy	Granniwinkle	Aztec Fuji	0.02042873462804919
+60	Nic3_Canker	Fuji3_Healthy	Granniwinkle	Aztec Fuji	0.02042873462804919
+61	Nic3_Canker	Fuji4_Healthy	Granniwinkle	Aztec Fuji	0.02042873462804919
+62	Nic3_Canker	Fuji5_Healthy	Granniwinkle	Aztec Fuji	0.02042873462804919
+63	Nic3_Canker	Fuji6_Healthy	Granniwinkle	Aztec Fuji	0.02042873462804919
+64	Nic4_Canker	Fuji1_Canker	Granniwinkle	Aztec Fuji	0.920704253746388
+65	Nic4_Canker	Fuji2_Canker	Granniwinkle	Aztec Fuji	0.6133996371211612
+66	Nic4_Canker	Fuji3_Canker	Granniwinkle	Aztec Fuji	0.24978160069887775
+67	Nic4_Canker	Fuji4_Canker	Granniwinkle	Aztec Fuji	0.31872858006854377
+68	Nic4_Canker	Fuji5_Canker	Granniwinkle	Aztec Fuji	0.24595121295611855
+69	Nic4_Canker	Fuji6_Canker	Granniwinkle	Aztec Fuji	0.6535851085276527
+70	Nic4_Canker	Fuji1_Healthy	Granniwinkle	Aztec Fuji	0.25945836973321684
+71	Nic4_Canker	Fuji2_Healthy	Granniwinkle	Aztec Fuji	0.25945836973321684
+72	Nic4_Canker	Fuji3_Healthy	Granniwinkle	Aztec Fuji	0.25945836973321684
+73	Nic4_Canker	Fuji4_Healthy	Granniwinkle	Aztec Fuji	0.25945836973321684
+74	Nic4_Canker	Fuji5_Healthy	Granniwinkle	Aztec Fuji	0.25945836973321684
+75	Nic4_Canker	Fuji6_Healthy	Granniwinkle	Aztec Fuji	0.2552247832806935
+76	Nic5_Canker	Fuji1_Canker	Granniwinkle	Aztec Fuji	0.9648545124655601
+77	Nic5_Canker	Fuji2_Canker	Granniwinkle	Aztec Fuji	0.6110476446475371
+78	Nic5_Canker	Fuji3_Canker	Granniwinkle	Aztec Fuji	0.13399637121161212
+79	Nic5_Canker	Fuji4_Canker	Granniwinkle	Aztec Fuji	0.3207445736173644
+80	Nic5_Canker	Fuji5_Canker	Granniwinkle	Aztec Fuji	0.08581412539479874
+81	Nic5_Canker	Fuji6_Canker	Granniwinkle	Aztec Fuji	0.6797258248773604
+82	Nic5_Canker	Fuji1_Healthy	Granniwinkle	Aztec Fuji	0.052886230764061556
+83	Nic5_Canker	Fuji2_Healthy	Granniwinkle	Aztec Fuji	0.052886230764061556
+84	Nic5_Canker	Fuji3_Healthy	Granniwinkle	Aztec Fuji	0.052886230764061556
+85	Nic5_Canker	Fuji4_Healthy	Granniwinkle	Aztec Fuji	0.052886230764061556
+86	Nic5_Canker	Fuji5_Healthy	Granniwinkle	Aztec Fuji	0.052886230764061556
+87	Nic5_Canker	Fuji6_Healthy	Granniwinkle	Aztec Fuji	0.0526174316242188
+88	Nic6_Canker	Fuji1_Canker	Granniwinkle	Aztec Fuji	0.8998723204085747
+89	Nic6_Canker	Fuji2_Canker	Granniwinkle	Aztec Fuji	0.5540622270008736
+90	Nic6_Canker	Fuji3_Canker	Granniwinkle	Aztec Fuji	0.07566695786573482
+91	Nic6_Canker	Fuji4_Canker	Granniwinkle	Aztec Fuji	0.2662455480142464
+92	Nic6_Canker	Fuji5_Canker	Granniwinkle	Aztec Fuji	0.09031651098716484
+93	Nic6_Canker	Fuji6_Canker	Granniwinkle	Aztec Fuji	0.6174988240037632
+94	Nic6_Canker	Fuji1_Healthy	Granniwinkle	Aztec Fuji	0.1193468180901821
+95	Nic6_Canker	Fuji2_Healthy	Granniwinkle	Aztec Fuji	0.1193468180901821
+96	Nic6_Canker	Fuji3_Healthy	Granniwinkle	Aztec Fuji	0.1193468180901821
+97	Nic6_Canker	Fuji4_Healthy	Granniwinkle	Aztec Fuji	0.1193468180901821
+98	Nic6_Canker	Fuji5_Healthy	Granniwinkle	Aztec Fuji	0.11860762045561454
+99	Nic6_Canker	Fuji6_Healthy	Granniwinkle	Aztec Fuji	0.11578522948726563
+100	Nic1_Healthy	Fuji1_Canker	Granniwinkle	Aztec Fuji	0.9838720516094348
+101	Nic1_Healthy	Fuji2_Canker	Granniwinkle	Aztec Fuji	0.6260331966937706
+102	Nic1_Healthy	Fuji3_Canker	Granniwinkle	Aztec Fuji	0.14333714132114778
+103	Nic1_Healthy	Fuji4_Canker	Granniwinkle	Aztec Fuji	0.33250453598548485
+104	Nic1_Healthy	Fuji5_Canker	Granniwinkle	Aztec Fuji	0.09515489550433438
+105	Nic1_Healthy	Fuji6_Canker	Granniwinkle	Aztec Fuji	0.694240978428869
+106	Nic1_Healthy	Fuji1_Healthy	Granniwinkle	Aztec Fuji	0.001612794839056515
+107	Nic1_Healthy	Fuji2_Healthy	Granniwinkle	Aztec Fuji	0.0012767959142530743
+108	Nic1_Healthy	Fuji3_Healthy	Granniwinkle	Aztec Fuji	0.0014111954841744506
+109	Nic1_Healthy	Fuji4_Healthy	Granniwinkle	Aztec Fuji	0.0014783952691351388
+110	Nic1_Healthy	Fuji5_Healthy	Granniwinkle	Aztec Fuji	0.0018143941939385794
+111	Nic1_Healthy	Fuji6_Healthy	Granniwinkle	Aztec Fuji	0.01323835763725556
+112	Nic2_Healthy	Fuji1_Canker	Granniwinkle	Aztec Fuji	0.9834016531147101
+113	Nic2_Healthy	Fuji2_Canker	Granniwinkle	Aztec Fuji	0.6260331966937706
+114	Nic2_Healthy	Fuji3_Canker	Granniwinkle	Aztec Fuji	0.14333714132114778
+115	Nic2_Healthy	Fuji4_Canker	Granniwinkle	Aztec Fuji	0.33250453598548485
+116	Nic2_Healthy	Fuji5_Canker	Granniwinkle	Aztec Fuji	0.09515489550433438
+117	Nic2_Healthy	Fuji6_Canker	Granniwinkle	Aztec Fuji	0.6937705799341443
+118	Nic2_Healthy	Fuji1_Healthy	Granniwinkle	Aztec Fuji	0.001612794839056515
+119	Nic2_Healthy	Fuji2_Healthy	Granniwinkle	Aztec Fuji	0.0012767959142530743
+120	Nic2_Healthy	Fuji3_Healthy	Granniwinkle	Aztec Fuji	0.0014111954841744506
+121	Nic2_Healthy	Fuji4_Healthy	Granniwinkle	Aztec Fuji	0.0014783952691351388
+122	Nic2_Healthy	Fuji5_Healthy	Granniwinkle	Aztec Fuji	0.0018143941939385794
+123	Nic2_Healthy	Fuji6_Healthy	Granniwinkle	Aztec Fuji	0.01323835763725556
+124	Nic1_Canker	CP1_Canker	Granniwinkle	Cripps Pink	0.863382837174921
+125	Nic1_Canker	CP2_Canker	Granniwinkle	Cripps Pink	0.8434917008265573
+126	Nic1_Canker	CP3_Canker	Granniwinkle	Cripps Pink	0.6587594919696257
+127	Nic1_Canker	CP4_Canker	Granniwinkle	Cripps Pink	0.8808547812647
+128	Nic1_Canker	CP5_Canker	Granniwinkle	Cripps Pink	0.8668772259928769
+129	Nic1_Canker	CP6_Canker	Granniwinkle	Cripps Pink	0.858006854378066
+130	Nic1_Canker	CP1_Healthy	Granniwinkle	Cripps Pink	0.10846045292655064
+131	Nic1_Canker	CP2_Healthy	Granniwinkle	Cripps Pink	0.10846045292655064
+132	Nic2_Canker	CP1_Canker	Granniwinkle	Cripps Pink	0.6902761911161884
+133	Nic2_Canker	CP2_Canker	Granniwinkle	Cripps Pink	0.6708554532625496
+134	Nic2_Canker	CP3_Canker	Granniwinkle	Cripps Pink	0.5507694375377998
+135	Nic2_Canker	CP4_Canker	Granniwinkle	Cripps Pink	0.714064914992272
+136	Nic2_Canker	CP5_Canker	Granniwinkle	Cripps Pink	0.6949129762784759
+137	Nic2_Canker	CP6_Canker	Granniwinkle	Cripps Pink	0.8503460788925475
+138	Nic2_Canker	CP1_Healthy	Granniwinkle	Cripps Pink	0.33398293125462
+139	Nic2_Canker	CP2_Healthy	Granniwinkle	Cripps Pink	0.33398293125462
+140	Nic3_Canker	CP1_Canker	Granniwinkle	Cripps Pink	0.9638465156911498
+141	Nic3_Canker	CP2_Canker	Granniwinkle	Cripps Pink	0.9462401720314495
+142	Nic3_Canker	CP3_Canker	Granniwinkle	Cripps Pink	0.7334856528459109
+143	Nic3_Canker	CP4_Canker	Granniwinkle	Cripps Pink	0.98145285935085
+144	Nic3_Canker	CP5_Canker	Granniwinkle	Cripps Pink	0.9645857133257174
+145	Nic3_Canker	CP6_Canker	Granniwinkle	Cripps Pink	0.8690948188965796
+146	Nic3_Canker	CP1_Healthy	Granniwinkle	Cripps Pink	0.02042873462804919
+147	Nic3_Canker	CP2_Healthy	Granniwinkle	Cripps Pink	0.02042873462804919
+148	Nic4_Canker	CP1_Canker	Granniwinkle	Cripps Pink	0.9396545931053021
+149	Nic4_Canker	CP2_Canker	Granniwinkle	Cripps Pink	0.9279618305221423
+150	Nic4_Canker	CP3_Canker	Granniwinkle	Cripps Pink	0.723540084671729
+151	Nic4_Canker	CP4_Canker	Granniwinkle	Cripps Pink	0.9477857670855453
+152	Nic4_Canker	CP5_Canker	Granniwinkle	Cripps Pink	0.9373698004166386
+153	Nic4_Canker	CP6_Canker	Granniwinkle	Cripps Pink	0.8166117868422821
+154	Nic4_Canker	CP1_Healthy	Granniwinkle	Cripps Pink	0.25945836973321684
+155	Nic4_Canker	CP2_Healthy	Granniwinkle	Cripps Pink	0.25945836973321684
+156	Nic5_Canker	CP1_Canker	Granniwinkle	Cripps Pink	0.9565889389153954
+157	Nic5_Canker	CP2_Canker	Granniwinkle	Cripps Pink	0.9352194072978967
+158	Nic5_Canker	CP3_Canker	Granniwinkle	Cripps Pink	0.7250856797258248
+159	Nic5_Canker	CP4_Canker	Granniwinkle	Cripps Pink	0.9711040924669041
+160	Nic5_Canker	CP5_Canker	Granniwinkle	Cripps Pink	0.956252939990592
+161	Nic5_Canker	CP6_Canker	Granniwinkle	Cripps Pink	0.8549156642698743
+162	Nic5_Canker	CP1_Healthy	Granniwinkle	Cripps Pink	0.052886230764061556
+163	Nic5_Canker	CP2_Healthy	Granniwinkle	Cripps Pink	0.052886230764061556
+164	Nic6_Canker	CP1_Canker	Granniwinkle	Cripps Pink	0.894630737181641
+165	Nic6_Canker	CP2_Canker	Granniwinkle	Cripps Pink	0.8733956051340636
+166	Nic6_Canker	CP3_Canker	Granniwinkle	Cripps Pink	0.6808010214367314
+167	Nic6_Canker	CP4_Canker	Granniwinkle	Cripps Pink	0.9113634836368524
+168	Nic6_Canker	CP5_Canker	Granniwinkle	Cripps Pink	0.8973187285800686
+169	Nic6_Canker	CP6_Canker	Granniwinkle	Cripps Pink	0.8456420939452993
+170	Nic6_Canker	CP1_Healthy	Granniwinkle	Cripps Pink	0.1193468180901821
+171	Nic6_Canker	CP2_Healthy	Granniwinkle	Cripps Pink	0.1193468180901821
+172	Nic1_Healthy	CP1_Canker	Granniwinkle	Cripps Pink	0.9681473019286339
+173	Nic1_Healthy	CP2_Canker	Granniwinkle	Cripps Pink	0.9490625629997984
+174	Nic1_Healthy	CP3_Canker	Granniwinkle	Cripps Pink	0.7352328472548888
+175	Nic1_Healthy	CP4_Canker	Granniwinkle	Cripps Pink	0.9861568442980982
+176	Nic1_Healthy	CP5_Canker	Granniwinkle	Cripps Pink	0.9724480881661178
+177	Nic1_Healthy	CP6_Canker	Granniwinkle	Cripps Pink	0.8752099993280021
+178	Nic1_Healthy	CP1_Healthy	Granniwinkle	Cripps Pink	0.002284792688663396
+179	Nic1_Healthy	CP2_Healthy	Granniwinkle	Cripps Pink	0.0026207916134668367
+180	Nic2_Healthy	CP1_Canker	Granniwinkle	Cripps Pink	0.967676903433909
+181	Nic2_Healthy	CP2_Canker	Granniwinkle	Cripps Pink	0.9490625629997984
+182	Nic2_Healthy	CP3_Canker	Granniwinkle	Cripps Pink	0.7352328472548888
+183	Nic2_Healthy	CP4_Canker	Granniwinkle	Cripps Pink	0.9861568442980982
+184	Nic2_Healthy	CP5_Canker	Granniwinkle	Cripps Pink	0.9724480881661178
+185	Nic2_Healthy	CP6_Canker	Granniwinkle	Cripps Pink	0.8747396008332773
+186	Nic2_Healthy	CP1_Healthy	Granniwinkle	Cripps Pink	0.002284792688663396
+187	Nic2_Healthy	CP2_Healthy	Granniwinkle	Cripps Pink	0.0026207916134668367
+188	Nic1_Canker	Gala1_Canker	Granniwinkle	Gala	0.49573281365499633
+189	Nic1_Canker	Gala2_Canker	Granniwinkle	Gala	0.7864390833949332
+190	Nic1_Canker	Gala3_Canker	Granniwinkle	Gala	0.5492910422686648
+191	Nic1_Canker	Gala4_Canker	Granniwinkle	Gala	0.11686042604663666
+192	Nic1_Canker	Gala5_Canker	Granniwinkle	Gala	0.26422955446542573
+193	Nic1_Canker	Gala6_Canker	Granniwinkle	Gala	0.8809891808346213
+194	Nic1_Canker	Gala1_Healthy	Granniwinkle	Gala	0.10846045292655064
+195	Nic1_Canker	Gala2_Healthy	Granniwinkle	Gala	0.10846045292655064
+196	Nic2_Canker	Gala1_Canker	Granniwinkle	Gala	0.33136213964115313
+197	Nic2_Canker	Gala2_Canker	Granniwinkle	Gala	0.6175660237887238
+198	Nic2_Canker	Gala3_Canker	Granniwinkle	Gala	0.44613937235400847
+199	Nic2_Canker	Gala4_Canker	Granniwinkle	Gala	0.253813587796519
+200	Nic2_Canker	Gala5_Canker	Granniwinkle	Gala	0.10725085679725825
+201	Nic2_Canker	Gala6_Canker	Granniwinkle	Gala	0.7086217324104563
+202	Nic2_Canker	Gala1_Healthy	Granniwinkle	Gala	0.3333109334050131
+203	Nic2_Canker	Gala2_Healthy	Granniwinkle	Gala	0.33398293125462
+204	Nic3_Canker	Gala1_Canker	Granniwinkle	Gala	0.5976076876553995
+205	Nic3_Canker	Gala2_Canker	Granniwinkle	Gala	0.8873731604058867
+206	Nic3_Canker	Gala3_Canker	Granniwinkle	Gala	0.6490827229352866
+207	Nic3_Canker	Gala4_Canker	Granniwinkle	Gala	0.19400577918150663
+208	Nic3_Canker	Gala5_Canker	Granniwinkle	Gala	0.36704522545527857
+209	Nic3_Canker	Gala6_Canker	Granniwinkle	Gala	0.9816544587057321
+210	Nic3_Canker	Gala1_Healthy	Granniwinkle	Gala	0.02042873462804919
+211	Nic3_Canker	Gala2_Healthy	Granniwinkle	Gala	0.02042873462804919
+212	Nic4_Canker	Gala1_Canker	Granniwinkle	Gala	0.592970902493112
+213	Nic4_Canker	Gala2_Canker	Granniwinkle	Gala	0.8504132786775083
+214	Nic4_Canker	Gala3_Canker	Granniwinkle	Gala	0.6054700624958
+215	Nic4_Canker	Gala4_Canker	Granniwinkle	Gala	0.2406424299442242
+216	Nic4_Canker	Gala5_Canker	Granniwinkle	Gala	0.35421006652778714
+217	Nic4_Canker	Gala6_Canker	Granniwinkle	Gala	0.9355554062227001
+218	Nic4_Canker	Gala1_Healthy	Granniwinkle	Gala	0.2586519723136886
+219	Nic4_Canker	Gala2_Healthy	Granniwinkle	Gala	0.25945836973321684
+220	Nic5_Canker	Gala1_Canker	Granniwinkle	Gala	0.5912909078690948
+221	Nic5_Canker	Gala2_Canker	Granniwinkle	Gala	0.8768227941670587
+222	Nic5_Canker	Gala3_Canker	Granniwinkle	Gala	0.6387339560513406
+223	Nic5_Canker	Gala4_Canker	Granniwinkle	Gala	0.18298501444795376
+224	Nic5_Canker	Gala5_Canker	Granniwinkle	Gala	0.35851085276527117
+225	Nic5_Canker	Gala6_Canker	Granniwinkle	Gala	0.9641153148309926
+226	Nic5_Canker	Gala1_Healthy	Granniwinkle	Gala	0.0526174316242188
+227	Nic5_Canker	Gala2_Healthy	Granniwinkle	Gala	0.052886230764061556
+228	Nic6_Canker	Gala1_Canker	Granniwinkle	Gala	0.5341038908675492
+229	Nic6_Canker	Gala2_Canker	Granniwinkle	Gala	0.8207781735098447
+230	Nic6_Canker	Gala3_Canker	Granniwinkle	Gala	0.5825549358242054
+231	Nic6_Canker	Gala4_Canker	Granniwinkle	Gala	0.13030038303877428
+232	Nic6_Canker	Gala5_Canker	Granniwinkle	Gala	0.2989046435051408
+233	Nic6_Canker	Gala6_Canker	Granniwinkle	Gala	0.9072642967542504
+234	Nic6_Canker	Gala1_Healthy	Granniwinkle	Gala	0.11921241852026074
+235	Nic6_Canker	Gala2_Healthy	Granniwinkle	Gala	0.1193468180901821
+236	Nic1_Healthy	Gala1_Canker	Granniwinkle	Gala	0.6009004771184733
+237	Nic1_Healthy	Gala2_Canker	Granniwinkle	Gala	0.8917411464283315
+238	Nic1_Healthy	Gala3_Canker	Granniwinkle	Gala	0.6547947046569451
+239	Nic1_Healthy	Gala4_Canker	Granniwinkle	Gala	0.19595457294536658
+240	Nic1_Healthy	Gala5_Canker	Granniwinkle	Gala	0.36980041663866675
+241	Nic1_Healthy	Gala6_Canker	Granniwinkle	Gala	0.9860224447281769
+242	Nic1_Healthy	Gala1_Healthy	Granniwinkle	Gala	0.005241583226933673
+243	Nic1_Healthy	Gala2_Healthy	Granniwinkle	Gala	0.0031583898931523417
+244	Nic2_Healthy	Gala1_Canker	Granniwinkle	Gala	0.6009004771184733
+245	Nic2_Healthy	Gala2_Canker	Granniwinkle	Gala	0.8912707479336066
+246	Nic2_Healthy	Gala3_Canker	Granniwinkle	Gala	0.6544587057321417
+247	Nic2_Healthy	Gala4_Canker	Granniwinkle	Gala	0.1958201733754452
+248	Nic2_Healthy	Gala5_Canker	Granniwinkle	Gala	0.36980041663866675
+249	Nic2_Healthy	Gala6_Canker	Granniwinkle	Gala	0.9858208453732948
+250	Nic2_Healthy	Gala1_Healthy	Granniwinkle	Gala	0.005241583226933673
+251	Nic2_Healthy	Gala2_Healthy	Granniwinkle	Gala	0.0031583898931523417
+252	Nic1_Canker	HW1_Canker	Granniwinkle	Hewe's Crab	0.2915798669444258
+253	Nic1_Canker	HW2_Canker	Granniwinkle	Hewe's Crab	0.10106847658087494
+254	Nic1_Canker	HW3_Canker	Granniwinkle	Hewe's Crab	0.08332773335125328
+255	Nic1_Canker	HW4_Canker	Granniwinkle	Hewe's Crab	0.5962636919561858
+256	Nic1_Canker	HW5_Canker	Granniwinkle	Hewe's Crab	0.10678045830253344
+257	Nic1_Canker	HW6_Canker	Granniwinkle	Hewe's Crab	0.30522142329144547
+258	Nic1_Canker	HW1_Healthy	Granniwinkle	Hewe's Crab	0.10846045292655064
+259	Nic1_Canker	HW2_Healthy	Granniwinkle	Hewe's Crab	0.10846045292655064
+260	Nic2_Canker	HW1_Canker	Granniwinkle	Hewe's Crab	0.17014985552046233
+261	Nic2_Canker	HW2_Canker	Granniwinkle	Hewe's Crab	0.3265909549089443
+262	Nic2_Canker	HW3_Canker	Granniwinkle	Hewe's Crab	0.3069686177004234
+263	Nic2_Canker	HW4_Canker	Granniwinkle	Hewe's Crab	0.5818829379745984
+264	Nic2_Canker	HW5_Canker	Granniwinkle	Hewe's Crab	0.3323029366306028
+265	Nic2_Canker	HW6_Canker	Granniwinkle	Hewe's Crab	0.13715476110476446
+266	Nic2_Canker	HW1_Healthy	Granniwinkle	Hewe's Crab	0.33398293125462
+267	Nic2_Canker	HW2_Healthy	Granniwinkle	Hewe's Crab	0.33398293125462
+268	Nic3_Canker	HW1_Canker	Granniwinkle	Hewe's Crab	0.3905651501915194
+269	Nic3_Canker	HW2_Canker	Granniwinkle	Hewe's Crab	0.019487937638599555
+270	Nic3_Canker	HW3_Canker	Granniwinkle	Hewe's Crab	0.08144613937235401
+271	Nic3_Canker	HW4_Canker	Granniwinkle	Hewe's Crab	0.6898729924064243
+272	Nic3_Canker	HW5_Canker	Granniwinkle	Hewe's Crab	0.04408305893421141
+273	Nic3_Canker	HW6_Canker	Granniwinkle	Hewe's Crab	0.40588670116255626
+274	Nic3_Canker	HW1_Healthy	Granniwinkle	Hewe's Crab	0.02042873462804919
+275	Nic3_Canker	HW2_Healthy	Granniwinkle	Hewe's Crab	0.02042873462804919
+276	Nic4_Canker	HW1_Canker	Granniwinkle	Hewe's Crab	0.3624084402929911
+277	Nic4_Canker	HW2_Canker	Granniwinkle	Hewe's Crab	0.25542638263557554
+278	Nic4_Canker	HW3_Canker	Granniwinkle	Hewe's Crab	0.24205362542839862
+279	Nic4_Canker	HW4_Canker	Granniwinkle	Hewe's Crab	0.6443787379880385
+280	Nic4_Canker	HW5_Canker	Granniwinkle	Hewe's Crab	0.2490424030643102
+281	Nic4_Canker	HW6_Canker	Granniwinkle	Hewe's Crab	0.38969155298703045
+282	Nic4_Canker	HW1_Healthy	Granniwinkle	Hewe's Crab	0.25945836973321684
+283	Nic4_Canker	HW2_Healthy	Granniwinkle	Hewe's Crab	0.25945836973321684
+284	Nic5_Canker	HW1_Canker	Granniwinkle	Hewe's Crab	0.38444996976009677
+285	Nic5_Canker	HW2_Canker	Granniwinkle	Hewe's Crab	0.04650225119279618
+286	Nic5_Canker	HW3_Canker	Granniwinkle	Hewe's Crab	0.07479336066124588
+287	Nic5_Canker	HW4_Canker	Granniwinkle	Hewe's Crab	0.6767018345541295
+288	Nic5_Canker	HW5_Canker	Granniwinkle	Hewe's Crab	0.049727840870909215
+289	Nic5_Canker	HW6_Canker	Granniwinkle	Hewe's Crab	0.397755527182313
+290	Nic5_Canker	HW1_Healthy	Granniwinkle	Hewe's Crab	0.052886230764061556
+291	Nic5_Canker	HW2_Healthy	Granniwinkle	Hewe's Crab	0.052886230764061556
+292	Nic6_Canker	HW1_Canker	Granniwinkle	Hewe's Crab	0.3252469592097305
+293	Nic6_Canker	HW2_Canker	Granniwinkle	Hewe's Crab	0.1114844432497816
+294	Nic6_Canker	HW3_Canker	Granniwinkle	Hewe's Crab	0.09058531012700759
+295	Nic6_Canker	HW4_Canker	Granniwinkle	Hewe's Crab	0.61817082185337
+296	Nic6_Canker	HW5_Canker	Granniwinkle	Hewe's Crab	0.1154492305624622
+297	Nic6_Canker	HW6_Canker	Granniwinkle	Hewe's Crab	0.3396277131913178
+298	Nic6_Canker	HW1_Healthy	Granniwinkle	Hewe's Crab	0.1193468180901821
+299	Nic6_Canker	HW2_Healthy	Granniwinkle	Hewe's Crab	0.1193468180901821
+300	Nic1_Healthy	HW1_Canker	Granniwinkle	Hewe's Crab	0.39479873664404275
+301	Nic1_Healthy	HW2_Canker	Granniwinkle	Hewe's Crab	0.018211141724346482
+302	Nic1_Healthy	HW3_Canker	Granniwinkle	Hewe's Crab	0.08386533163093877
+303	Nic1_Healthy	HW4_Canker	Granniwinkle	Hewe's Crab	0.6935689805792622
+304	Nic1_Healthy	HW5_Canker	Granniwinkle	Hewe's Crab	0.045292655063503794
+305	Nic1_Healthy	HW6_Canker	Granniwinkle	Hewe's Crab	0.40917949062562997
+306	Nic1_Healthy	HW1_Healthy	Granniwinkle	Hewe's Crab	0.0010079967744103218
+307	Nic1_Healthy	HW2_Healthy	Granniwinkle	Hewe's Crab	0.0009407969894496338
+308	Nic2_Healthy	HW1_Canker	Granniwinkle	Hewe's Crab	0.39479873664404275
+309	Nic2_Healthy	HW2_Canker	Granniwinkle	Hewe's Crab	0.018211141724346482
+310	Nic2_Healthy	HW3_Canker	Granniwinkle	Hewe's Crab	0.08386533163093877
+311	Nic2_Healthy	HW4_Canker	Granniwinkle	Hewe's Crab	0.6930985820845373
+312	Nic2_Healthy	HW5_Canker	Granniwinkle	Hewe's Crab	0.045292655063503794
+313	Nic2_Healthy	HW6_Canker	Granniwinkle	Hewe's Crab	0.40917949062562997
+314	Nic2_Healthy	HW1_Healthy	Granniwinkle	Hewe's Crab	0.0010079967744103218
+315	Nic2_Healthy	HW2_Healthy	Granniwinkle	Hewe's Crab	0.0009407969894496338
+316	Nic1_Canker	UN1_Canker	Granniwinkle	Unknown cultivar	0.31140380350782876
+317	Nic1_Canker	UN2_Canker	Granniwinkle	Unknown cultivar	0.1143740340030912
+318	Nic1_Canker	UN1_Healthy	Granniwinkle	Unknown cultivar	0.10846045292655064
+319	Nic1_Canker	UN2_Healthy	Granniwinkle	Unknown cultivar	0.10846045292655064
+320	Nic2_Canker	UN1_Canker	Granniwinkle	Unknown cultivar	0.22444728176869835
+321	Nic2_Canker	UN2_Canker	Granniwinkle	Unknown cultivar	0.32833814931792216
+322	Nic2_Canker	UN1_Healthy	Granniwinkle	Unknown cultivar	0.33357973254485584
+323	Nic2_Canker	UN2_Healthy	Granniwinkle	Unknown cultivar	0.33357973254485584
+324	Nic3_Canker	UN1_Canker	Granniwinkle	Unknown cultivar	0.41321147772327127
+325	Nic3_Canker	UN2_Canker	Granniwinkle	Unknown cultivar	0.11665882669175459
+326	Nic3_Canker	UN1_Healthy	Granniwinkle	Unknown cultivar	0.02042873462804919
+327	Nic3_Canker	UN2_Healthy	Granniwinkle	Unknown cultivar	0.02042873462804919
+328	Nic4_Canker	UN1_Canker	Granniwinkle	Unknown cultivar	0.3849875680397823
+329	Nic4_Canker	UN2_Canker	Granniwinkle	Unknown cultivar	0.25374638801155835
+330	Nic4_Canker	UN1_Healthy	Granniwinkle	Unknown cultivar	0.2575095759693569
+331	Nic4_Canker	UN2_Healthy	Granniwinkle	Unknown cultivar	0.25945836973321684
+332	Nic5_Canker	UN1_Canker	Granniwinkle	Unknown cultivar	0.4002419192258585
+333	Nic5_Canker	UN2_Canker	Granniwinkle	Unknown cultivar	0.11363483636852362
+334	Nic5_Canker	UN1_Healthy	Granniwinkle	Unknown cultivar	0.052886230764061556
+335	Nic5_Canker	UN2_Healthy	Granniwinkle	Unknown cultivar	0.052886230764061556
+336	Nic6_Canker	UN1_Canker	Granniwinkle	Unknown cultivar	0.347557287816679
+337	Nic6_Canker	UN2_Canker	Granniwinkle	Unknown cultivar	0.11403803507828775
+338	Nic6_Canker	UN1_Healthy	Granniwinkle	Unknown cultivar	0.11813722196088973
+339	Nic6_Canker	UN2_Healthy	Granniwinkle	Unknown cultivar	0.11813722196088973
+340	Nic1_Healthy	UN1_Canker	Granniwinkle	Unknown cultivar	0.41684026611114844
+341	Nic1_Healthy	UN2_Canker	Granniwinkle	Unknown cultivar	0.11981721658490693
+342	Nic1_Healthy	UN1_Healthy	Granniwinkle	Unknown cultivar	0.007459176130636382
+343	Nic1_Healthy	UN2_Healthy	Granniwinkle	Unknown cultivar	0.006518379141186748
+344	Nic2_Healthy	UN1_Canker	Granniwinkle	Unknown cultivar	0.41684026611114844
+345	Nic2_Healthy	UN2_Canker	Granniwinkle	Unknown cultivar	0.11981721658490693
+346	Nic2_Healthy	UN1_Healthy	Granniwinkle	Unknown cultivar	0.007459176130636382
+347	Nic2_Healthy	UN2_Healthy	Granniwinkle	Unknown cultivar	0.006518379141186748
+0	HW2_Canker	HW1_Canker	Hewe's Crab	Hewe's Crab	0.3831731738458437
+1	HW3_Canker	HW1_Canker	Hewe's Crab	Hewe's Crab	0.3542772663127478
+2	HW3_Canker	HW2_Canker	Hewe's Crab	Hewe's Crab	0.07297896646730731
+3	HW4_Canker	HW1_Canker	Hewe's Crab	Hewe's Crab	0.5581614138834756
+4	HW4_Canker	HW2_Canker	Hewe's Crab	Hewe's Crab	0.6814730192863383
+5	HW4_Canker	HW3_Canker	Hewe's Crab	Hewe's Crab	0.6551307035817485
+6	HW5_Canker	HW1_Canker	Hewe's Crab	Hewe's Crab	0.38008198373765206
+7	HW5_Canker	HW2_Canker	Hewe's Crab	Hewe's Crab	0.036758282373496404
+8	HW5_Canker	HW3_Canker	Hewe's Crab	Hewe's Crab	0.0769437537799879
+9	HW5_Canker	HW4_Canker	Hewe's Crab	Hewe's Crab	0.6754250386398764
+10	HW6_Canker	HW1_Canker	Hewe's Crab	Hewe's Crab	0.16746186412203481
+11	HW6_Canker	HW2_Canker	Hewe's Crab	Hewe's Crab	0.39466433707412135
+12	HW6_Canker	HW3_Canker	Hewe's Crab	Hewe's Crab	0.3781331899737921
+13	HW6_Canker	HW4_Canker	Hewe's Crab	Hewe's Crab	0.5611854042067065
+14	HW6_Canker	HW5_Canker	Hewe's Crab	Hewe's Crab	0.39284994288018277
+15	HW1_Healthy	HW1_Canker	Hewe's Crab	Hewe's Crab	0.3942611383643572
+16	HW1_Healthy	HW2_Canker	Hewe's Crab	Hewe's Crab	0.017673543444660978
+17	HW1_Healthy	HW3_Canker	Hewe's Crab	Hewe's Crab	0.08332773335125328
+18	HW1_Healthy	HW4_Canker	Hewe's Crab	Hewe's Crab	0.6930313822995766
+19	HW1_Healthy	HW5_Canker	Hewe's Crab	Hewe's Crab	0.04475505678381829
+20	HW1_Healthy	HW6_Canker	Hewe's Crab	Hewe's Crab	0.4086418923459445
+21	HW2_Healthy	HW1_Canker	Hewe's Crab	Hewe's Crab	0.3938579396545931
+22	HW2_Healthy	HW2_Canker	Hewe's Crab	Hewe's Crab	0.017270344734896848
+23	HW2_Healthy	HW3_Canker	Hewe's Crab	Hewe's Crab	0.08292453464148915
+24	HW2_Healthy	HW4_Canker	Hewe's Crab	Hewe's Crab	0.6926281835898125
+25	HW2_Healthy	HW5_Canker	Hewe's Crab	Hewe's Crab	0.04435185807405416
+26	HW2_Healthy	HW6_Canker	Hewe's Crab	Hewe's Crab	0.40823869363618037
+27	HW2_Healthy	HW1_Healthy	Hewe's Crab	Hewe's Crab	0.0010079967744103218
+28	HW1_Canker	Fuji1_Canker	Hewe's Crab	Aztec Fuji	0.8664740272831127
+29	HW1_Canker	Fuji2_Canker	Hewe's Crab	Aztec Fuji	0.41455547342248505
+30	HW1_Canker	Fuji3_Canker	Hewe's Crab	Aztec Fuji	0.3124118002822391
+31	HW1_Canker	Fuji4_Canker	Hewe's Crab	Aztec Fuji	0.1657818694980176
+32	HW1_Canker	Fuji5_Canker	Hewe's Crab	Aztec Fuji	0.36308043814259794
+33	HW1_Canker	Fuji6_Canker	Hewe's Crab	Aztec Fuji	0.45682413816275785
+34	HW1_Canker	Fuji1_Healthy	Hewe's Crab	Aztec Fuji	0.39479873664404275
+35	HW1_Canker	Fuji2_Healthy	Hewe's Crab	Aztec Fuji	0.39479873664404275
+36	HW1_Canker	Fuji3_Healthy	Hewe's Crab	Aztec Fuji	0.39479873664404275
+37	HW1_Canker	Fuji4_Healthy	Hewe's Crab	Aztec Fuji	0.39479873664404275
+38	HW1_Canker	Fuji5_Healthy	Hewe's Crab	Aztec Fuji	0.39479873664404275
+39	HW1_Canker	Fuji6_Healthy	Hewe's Crab	Aztec Fuji	0.3935219407297897
+40	HW2_Canker	Fuji1_Canker	Hewe's Crab	Aztec Fuji	0.9757408776291916
+41	HW2_Canker	Fuji2_Canker	Hewe's Crab	Aztec Fuji	0.6187756199180162
+42	HW2_Canker	Fuji3_Canker	Hewe's Crab	Aztec Fuji	0.13574356562059
+43	HW2_Canker	Fuji4_Canker	Hewe's Crab	Aztec Fuji	0.3252469592097305
+44	HW2_Canker	Fuji5_Canker	Hewe's Crab	Aztec Fuji	0.08776291915865869
+45	HW2_Canker	Fuji6_Canker	Hewe's Crab	Aztec Fuji	0.6866474027283113
+46	HW2_Canker	Fuji1_Healthy	Hewe's Crab	Aztec Fuji	0.018211141724346482
+47	HW2_Canker	Fuji2_Healthy	Hewe's Crab	Aztec Fuji	0.018211141724346482
+48	HW2_Canker	Fuji3_Healthy	Hewe's Crab	Aztec Fuji	0.018211141724346482
+49	HW2_Canker	Fuji4_Healthy	Hewe's Crab	Aztec Fuji	0.018211141724346482
+50	HW2_Canker	Fuji5_Healthy	Hewe's Crab	Aztec Fuji	0.018211141724346482
+51	HW2_Canker	Fuji6_Healthy	Hewe's Crab	Aztec Fuji	0.017875142799543043
+52	HW3_Canker	Fuji1_Canker	Hewe's Crab	Aztec Fuji	0.944828976547275
+53	HW3_Canker	Fuji2_Canker	Hewe's Crab	Aztec Fuji	0.5963308917411464
+54	HW3_Canker	Fuji3_Canker	Hewe's Crab	Aztec Fuji	0.1165916269067939
+55	HW3_Canker	Fuji4_Canker	Hewe's Crab	Aztec Fuji	0.3028022310328607
+56	HW3_Canker	Fuji5_Canker	Hewe's Crab	Aztec Fuji	0.07519655937101001
+57	HW3_Canker	Fuji6_Canker	Hewe's Crab	Aztec Fuji	0.6650090719709697
+58	HW3_Canker	Fuji1_Healthy	Hewe's Crab	Aztec Fuji	0.08386533163093877
+59	HW3_Canker	Fuji2_Healthy	Hewe's Crab	Aztec Fuji	0.08386533163093877
+60	HW3_Canker	Fuji3_Healthy	Hewe's Crab	Aztec Fuji	0.08386533163093877
+61	HW3_Canker	Fuji4_Healthy	Hewe's Crab	Aztec Fuji	0.08386533163093877
+62	HW3_Canker	Fuji5_Healthy	Hewe's Crab	Aztec Fuji	0.08386533163093877
+63	HW3_Canker	Fuji6_Healthy	Hewe's Crab	Aztec Fuji	0.08299173442644983
+64	HW4_Canker	Fuji1_Canker	Hewe's Crab	Aztec Fuji	0.816208588132518
+65	HW4_Canker	Fuji2_Canker	Hewe's Crab	Aztec Fuji	0.5685773805523823
+66	HW4_Canker	Fuji3_Canker	Hewe's Crab	Aztec Fuji	0.6070828573348566
+67	HW4_Canker	Fuji4_Canker	Hewe's Crab	Aztec Fuji	0.5710637725959277
+68	HW4_Canker	Fuji5_Canker	Hewe's Crab	Aztec Fuji	0.656743498420805
+69	HW4_Canker	Fuji6_Canker	Hewe's Crab	Aztec Fuji	0.5371950809757409
+70	HW4_Canker	Fuji1_Healthy	Hewe's Crab	Aztec Fuji	0.6935689805792622
+71	HW4_Canker	Fuji2_Healthy	Hewe's Crab	Aztec Fuji	0.6935689805792622
+72	HW4_Canker	Fuji3_Healthy	Hewe's Crab	Aztec Fuji	0.6935689805792622
+73	HW4_Canker	Fuji4_Healthy	Hewe's Crab	Aztec Fuji	0.6935689805792622
+74	HW4_Canker	Fuji5_Healthy	Hewe's Crab	Aztec Fuji	0.6935689805792622
+75	HW4_Canker	Fuji6_Healthy	Hewe's Crab	Aztec Fuji	0.6911497883206774
+76	HW5_Canker	Fuji1_Canker	Hewe's Crab	Aztec Fuji	0.9670721053692628
+77	HW5_Canker	Fuji2_Canker	Hewe's Crab	Aztec Fuji	0.6225388078758148
+78	HW5_Canker	Fuji3_Canker	Hewe's Crab	Aztec Fuji	0.1409851488475237
+79	HW5_Canker	Fuji4_Canker	Hewe's Crab	Aztec Fuji	0.32921174652241114
+80	HW5_Canker	Fuji5_Canker	Hewe's Crab	Aztec Fuji	0.09199650561118204
+81	HW5_Canker	Fuji6_Canker	Hewe's Crab	Aztec Fuji	0.6837578119750016
+82	HW5_Canker	Fuji1_Healthy	Hewe's Crab	Aztec Fuji	0.045292655063503794
+83	HW5_Canker	Fuji2_Healthy	Hewe's Crab	Aztec Fuji	0.045292655063503794
+84	HW5_Canker	Fuji3_Healthy	Hewe's Crab	Aztec Fuji	0.045292655063503794
+85	HW5_Canker	Fuji4_Healthy	Hewe's Crab	Aztec Fuji	0.045292655063503794
+86	HW5_Canker	Fuji5_Healthy	Hewe's Crab	Aztec Fuji	0.045292655063503794
+87	HW5_Canker	Fuji6_Healthy	Hewe's Crab	Aztec Fuji	0.04435185807405416
+88	HW6_Canker	Fuji1_Canker	Hewe's Crab	Aztec Fuji	0.8688932195416975
+89	HW6_Canker	Fuji2_Canker	Hewe's Crab	Aztec Fuji	0.42356024460721725
+90	HW6_Canker	Fuji3_Canker	Hewe's Crab	Aztec Fuji	0.3267253544788657
+91	HW6_Canker	Fuji4_Canker	Hewe's Crab	Aztec Fuji	0.19219138498756805
+92	HW6_Canker	Fuji5_Canker	Hewe's Crab	Aztec Fuji	0.3732948054566225
+93	HW6_Canker	Fuji6_Canker	Hewe's Crab	Aztec Fuji	0.35568846179692226
+94	HW6_Canker	Fuji1_Healthy	Hewe's Crab	Aztec Fuji	0.40917949062562997
+95	HW6_Canker	Fuji2_Healthy	Hewe's Crab	Aztec Fuji	0.40917949062562997
+96	HW6_Canker	Fuji3_Healthy	Hewe's Crab	Aztec Fuji	0.40917949062562997
+97	HW6_Canker	Fuji4_Healthy	Hewe's Crab	Aztec Fuji	0.40917949062562997
+98	HW6_Canker	Fuji5_Healthy	Hewe's Crab	Aztec Fuji	0.40917949062562997
+99	HW6_Canker	Fuji6_Healthy	Hewe's Crab	Aztec Fuji	0.4075666957865735
+100	HW1_Healthy	Fuji1_Canker	Hewe's Crab	Aztec Fuji	0.9838720516094348
+101	HW1_Healthy	Fuji2_Canker	Hewe's Crab	Aztec Fuji	0.6260331966937706
+102	HW1_Healthy	Fuji3_Canker	Hewe's Crab	Aztec Fuji	0.14333714132114778
+103	HW1_Healthy	Fuji4_Canker	Hewe's Crab	Aztec Fuji	0.33250453598548485
+104	HW1_Healthy	Fuji5_Canker	Hewe's Crab	Aztec Fuji	0.09515489550433438
+105	HW1_Healthy	Fuji6_Canker	Hewe's Crab	Aztec Fuji	0.694240978428869
+106	HW1_Healthy	Fuji1_Healthy	Hewe's Crab	Aztec Fuji	0.001612794839056515
+107	HW1_Healthy	Fuji2_Healthy	Hewe's Crab	Aztec Fuji	0.0012767959142530743
+108	HW1_Healthy	Fuji3_Healthy	Hewe's Crab	Aztec Fuji	0.0014111954841744506
+109	HW1_Healthy	Fuji4_Healthy	Hewe's Crab	Aztec Fuji	0.0014783952691351388
+110	HW1_Healthy	Fuji5_Healthy	Hewe's Crab	Aztec Fuji	0.0018143941939385794
+111	HW1_Healthy	Fuji6_Healthy	Hewe's Crab	Aztec Fuji	0.01323835763725556
+112	HW2_Healthy	Fuji1_Canker	Hewe's Crab	Aztec Fuji	0.9838720516094348
+113	HW2_Healthy	Fuji2_Canker	Hewe's Crab	Aztec Fuji	0.6260331966937706
+114	HW2_Healthy	Fuji3_Canker	Hewe's Crab	Aztec Fuji	0.14333714132114778
+115	HW2_Healthy	Fuji4_Canker	Hewe's Crab	Aztec Fuji	0.33250453598548485
+116	HW2_Healthy	Fuji5_Canker	Hewe's Crab	Aztec Fuji	0.09515489550433438
+117	HW2_Healthy	Fuji6_Canker	Hewe's Crab	Aztec Fuji	0.694240978428869
+118	HW2_Healthy	Fuji1_Healthy	Hewe's Crab	Aztec Fuji	0.001612794839056515
+119	HW2_Healthy	Fuji2_Healthy	Hewe's Crab	Aztec Fuji	0.0012767959142530743
+120	HW2_Healthy	Fuji3_Healthy	Hewe's Crab	Aztec Fuji	0.0014111954841744506
+121	HW2_Healthy	Fuji4_Healthy	Hewe's Crab	Aztec Fuji	0.0014783952691351388
+122	HW2_Healthy	Fuji5_Healthy	Hewe's Crab	Aztec Fuji	0.0018143941939385794
+123	HW2_Healthy	Fuji6_Healthy	Hewe's Crab	Aztec Fuji	0.01323835763725556
+124	HW1_Canker	CP1_Canker	Hewe's Crab	Cripps Pink	0.7282440696189773
+125	HW1_Canker	CP2_Canker	Hewe's Crab	Cripps Pink	0.714938512196761
+126	HW1_Canker	CP3_Canker	Hewe's Crab	Cripps Pink	0.5682413816275788
+127	HW1_Canker	CP4_Canker	Hewe's Crab	Cripps Pink	0.7386600362878839
+128	HW1_Canker	CP5_Canker	Hewe's Crab	Cripps Pink	0.7305288623076406
+129	HW1_Canker	CP6_Canker	Hewe's Crab	Cripps Pink	0.8257509575969357
+130	HW1_Canker	CP1_Healthy	Hewe's Crab	Cripps Pink	0.39479873664404275
+131	HW1_Canker	CP2_Healthy	Hewe's Crab	Cripps Pink	0.3933203413749076
+132	HW2_Canker	CP1_Canker	Hewe's Crab	Cripps Pink	0.9611585242927223
+133	HW2_Canker	CP2_Canker	Hewe's Crab	Cripps Pink	0.9393857939654593
+134	HW2_Canker	CP3_Canker	Hewe's Crab	Cripps Pink	0.7286472683287414
+135	HW2_Canker	CP4_Canker	Hewe's Crab	Cripps Pink	0.9784960688125798
+136	HW2_Canker	CP5_Canker	Hewe's Crab	Cripps Pink	0.9647873126805995
+137	HW2_Canker	CP6_Canker	Hewe's Crab	Cripps Pink	0.8667428264229554
+138	HW2_Canker	CP1_Healthy	Hewe's Crab	Cripps Pink	0.018211141724346482
+139	HW2_Canker	CP2_Healthy	Hewe's Crab	Cripps Pink	0.016262347960486527
+140	HW3_Canker	CP1_Canker	Hewe's Crab	Cripps Pink	0.9357570055775821
+141	HW3_Canker	CP2_Canker	Hewe's Crab	Cripps Pink	0.9172770647133929
+142	HW3_Canker	CP3_Canker	Hewe's Crab	Cripps Pink	0.7150729117666823
+143	HW3_Canker	CP4_Canker	Hewe's Crab	Cripps Pink	0.9568577380552382
+144	HW3_Canker	CP5_Canker	Hewe's Crab	Cripps Pink	0.9383105974060884
+145	HW3_Canker	CP6_Canker	Hewe's Crab	Cripps Pink	0.850883677172233
+146	HW3_Canker	CP1_Healthy	Hewe's Crab	Cripps Pink	0.08386533163093877
+147	HW3_Canker	CP2_Healthy	Hewe's Crab	Cripps Pink	0.08231973657684295
+148	HW4_Canker	CP1_Canker	Hewe's Crab	Cripps Pink	0.8293797459848129
+149	HW4_Canker	CP2_Canker	Hewe's Crab	Cripps Pink	0.8164773872723607
+150	HW4_Canker	CP3_Canker	Hewe's Crab	Cripps Pink	0.6445131375579598
+151	HW4_Canker	CP4_Canker	Hewe's Crab	Cripps Pink	0.8307909414689874
+152	HW4_Canker	CP5_Canker	Hewe's Crab	Cripps Pink	0.8166789866272428
+153	HW4_Canker	CP6_Canker	Hewe's Crab	Cripps Pink	0.7751495195215375
+154	HW4_Canker	CP1_Healthy	Hewe's Crab	Cripps Pink	0.6930313822995766
+155	HW4_Canker	CP2_Healthy	Hewe's Crab	Cripps Pink	0.6916201868154022
+156	HW5_Canker	CP1_Canker	Hewe's Crab	Cripps Pink	0.9610241247228009
+157	HW5_Canker	CP2_Canker	Hewe's Crab	Cripps Pink	0.9383105974060884
+158	HW5_Canker	CP3_Canker	Hewe's Crab	Cripps Pink	0.7330824541361468
+159	HW5_Canker	CP4_Canker	Hewe's Crab	Cripps Pink	0.9715072911766682
+160	HW5_Canker	CP5_Canker	Hewe's Crab	Cripps Pink	0.9645857133257174
+161	HW5_Canker	CP6_Canker	Hewe's Crab	Cripps Pink	0.8610980444862576
+162	HW5_Canker	CP1_Healthy	Hewe's Crab	Cripps Pink	0.045292655063503794
+163	HW5_Canker	CP2_Healthy	Hewe's Crab	Cripps Pink	0.04334386129964384
+164	HW6_Canker	CP1_Canker	Hewe's Crab	Cripps Pink	0.627242792823063
+165	HW6_Canker	CP2_Canker	Hewe's Crab	Cripps Pink	0.6085612526039916
+166	HW6_Canker	CP3_Canker	Hewe's Crab	Cripps Pink	0.5360526846314092
+167	HW6_Canker	CP4_Canker	Hewe's Crab	Cripps Pink	0.6533835091727707
+168	HW6_Canker	CP5_Canker	Hewe's Crab	Cripps Pink	0.6300651837914119
+169	HW6_Canker	CP6_Canker	Hewe's Crab	Cripps Pink	0.8360325246959209
+170	HW6_Canker	CP1_Healthy	Hewe's Crab	Cripps Pink	0.40917949062562997
+171	HW6_Canker	CP2_Healthy	Hewe's Crab	Cripps Pink	0.40723069686177005
+172	HW1_Healthy	CP1_Canker	Hewe's Crab	Cripps Pink	0.9681473019286339
+173	HW1_Healthy	CP2_Canker	Hewe's Crab	Cripps Pink	0.9490625629997984
+174	HW1_Healthy	CP3_Canker	Hewe's Crab	Cripps Pink	0.7352328472548888
+175	HW1_Healthy	CP4_Canker	Hewe's Crab	Cripps Pink	0.9861568442980982
+176	HW1_Healthy	CP5_Canker	Hewe's Crab	Cripps Pink	0.9724480881661178
+177	HW1_Healthy	CP6_Canker	Hewe's Crab	Cripps Pink	0.8752099993280021
+178	HW1_Healthy	CP1_Healthy	Hewe's Crab	Cripps Pink	0.002284792688663396
+179	HW1_Healthy	CP2_Healthy	Hewe's Crab	Cripps Pink	0.0026207916134668367
+180	HW2_Healthy	CP1_Canker	Hewe's Crab	Cripps Pink	0.9681473019286339
+181	HW2_Healthy	CP2_Canker	Hewe's Crab	Cripps Pink	0.9481217660103488
+182	HW2_Healthy	CP3_Canker	Hewe's Crab	Cripps Pink	0.7352328472548888
+183	HW2_Healthy	CP4_Canker	Hewe's Crab	Cripps Pink	0.9861568442980982
+184	HW2_Healthy	CP5_Canker	Hewe's Crab	Cripps Pink	0.9724480881661178
+185	HW2_Healthy	CP6_Canker	Hewe's Crab	Cripps Pink	0.8752099993280021
+186	HW2_Healthy	CP1_Healthy	Hewe's Crab	Cripps Pink	0.002284792688663396
+187	HW2_Healthy	CP2_Healthy	Hewe's Crab	Cripps Pink	0.0016799946240172031
+188	HW1_Canker	Gala1_Canker	Hewe's Crab	Gala	0.35844365298031045
+189	HW1_Canker	Gala2_Canker	Hewe's Crab	Gala	0.6435051407835495
+190	HW1_Canker	Gala3_Canker	Hewe's Crab	Gala	0.4001747194408978
+191	HW1_Canker	Gala4_Canker	Hewe's Crab	Gala	0.3077078153349909
+192	HW1_Canker	Gala5_Canker	Hewe's Crab	Gala	0.16685706605738862
+193	HW1_Canker	Gala6_Canker	Hewe's Crab	Gala	0.7393320341374907
+194	HW1_Canker	Gala1_Healthy	Hewe's Crab	Gala	0.39479873664404275
+195	HW1_Canker	Gala2_Healthy	Hewe's Crab	Gala	0.39479873664404275
+196	HW2_Canker	Gala1_Canker	Hewe's Crab	Gala	0.5933741012028761
+197	HW2_Canker	Gala2_Canker	Hewe's Crab	Gala	0.8836099724480881
+198	HW2_Canker	Gala3_Canker	Hewe's Crab	Gala	0.6468651300315839
+199	HW2_Canker	Gala4_Canker	Hewe's Crab	Gala	0.18809219810496605
+200	HW2_Canker	Gala5_Canker	Hewe's Crab	Gala	0.3625428398629124
+201	HW2_Canker	Gala6_Canker	Hewe's Crab	Gala	0.9779584705328943
+202	HW2_Canker	Gala1_Healthy	Hewe's Crab	Gala	0.018211141724346482
+203	HW2_Canker	Gala2_Healthy	Hewe's Crab	Gala	0.018211141724346482
+204	HW3_Canker	Gala1_Canker	Hewe's Crab	Gala	0.5742893622740407
+205	HW3_Canker	Gala2_Canker	Hewe's Crab	Gala	0.850883677172233
+206	HW3_Canker	Gala3_Canker	Hewe's Crab	Gala	0.6136012364760433
+207	HW3_Canker	Gala4_Canker	Hewe's Crab	Gala	0.16846986089644514
+208	HW3_Canker	Gala5_Canker	Hewe's Crab	Gala	0.341307707815335
+209	HW3_Canker	Gala6_Canker	Hewe's Crab	Gala	0.9445601774074323
+210	HW3_Canker	Gala1_Healthy	Hewe's Crab	Gala	0.08386533163093877
+211	HW3_Canker	Gala2_Healthy	Hewe's Crab	Gala	0.08386533163093877
+212	HW4_Canker	Gala1_Canker	Hewe's Crab	Gala	0.5787917478664069
+213	HW4_Canker	Gala2_Canker	Hewe's Crab	Gala	0.7248168805859821
+214	HW4_Canker	Gala3_Canker	Hewe's Crab	Gala	0.5257039177474632
+215	HW4_Canker	Gala4_Canker	Hewe's Crab	Gala	0.5848397285128688
+216	HW4_Canker	Gala5_Canker	Hewe's Crab	Gala	0.5738861635642766
+217	HW4_Canker	Gala6_Canker	Hewe's Crab	Gala	0.8179557825414958
+218	HW4_Canker	Gala1_Healthy	Hewe's Crab	Gala	0.6927625831597339
+219	HW4_Canker	Gala2_Healthy	Hewe's Crab	Gala	0.6935689805792622
+220	HW5_Canker	Gala1_Canker	Hewe's Crab	Gala	0.5951884953968147
+221	HW5_Canker	Gala2_Canker	Hewe's Crab	Gala	0.8816611786842282
+222	HW5_Canker	Gala3_Canker	Hewe's Crab	Gala	0.6461259323970163
+223	HW5_Canker	Gala4_Canker	Hewe's Crab	Gala	0.18923459444929777
+224	HW5_Canker	Gala5_Canker	Hewe's Crab	Gala	0.36469323298165446
+225	HW5_Canker	Gala6_Canker	Hewe's Crab	Gala	0.973052886230764
+226	HW5_Canker	Gala1_Healthy	Hewe's Crab	Gala	0.04515825549358242
+227	HW5_Canker	Gala2_Healthy	Hewe's Crab	Gala	0.045292655063503794
+228	HW6_Canker	Gala1_Canker	Hewe's Crab	Gala	0.26019756736778443
+229	HW6_Canker	Gala2_Canker	Hewe's Crab	Gala	0.5433774611921242
+230	HW6_Canker	Gala3_Canker	Hewe's Crab	Gala	0.43323701364155637
+231	HW6_Canker	Gala4_Canker	Hewe's Crab	Gala	0.3187957798535045
+232	HW6_Canker	Gala5_Canker	Hewe's Crab	Gala	0.15072911766682345
+233	HW6_Canker	Gala6_Canker	Hewe's Crab	Gala	0.6788522276728715
+234	HW6_Canker	Gala1_Healthy	Hewe's Crab	Gala	0.40837309320610177
+235	HW6_Canker	Gala2_Healthy	Hewe's Crab	Gala	0.40917949062562997
+236	HW1_Healthy	Gala1_Canker	Hewe's Crab	Gala	0.6009004771184733
+237	HW1_Healthy	Gala2_Canker	Hewe's Crab	Gala	0.8917411464283315
+238	HW1_Healthy	Gala3_Canker	Hewe's Crab	Gala	0.6547947046569451
+239	HW1_Healthy	Gala4_Canker	Hewe's Crab	Gala	0.19595457294536658
+240	HW1_Healthy	Gala5_Canker	Hewe's Crab	Gala	0.36980041663866675
+241	HW1_Healthy	Gala6_Canker	Hewe's Crab	Gala	0.9860224447281769
+242	HW1_Healthy	Gala1_Healthy	Hewe's Crab	Gala	0.005241583226933673
+243	HW1_Healthy	Gala2_Healthy	Hewe's Crab	Gala	0.0031583898931523417
+244	HW2_Healthy	Gala1_Canker	Hewe's Crab	Gala	0.6009004771184733
+245	HW2_Healthy	Gala2_Canker	Hewe's Crab	Gala	0.8917411464283315
+246	HW2_Healthy	Gala3_Canker	Hewe's Crab	Gala	0.6547947046569451
+247	HW2_Healthy	Gala4_Canker	Hewe's Crab	Gala	0.19595457294536658
+248	HW2_Healthy	Gala5_Canker	Hewe's Crab	Gala	0.36980041663866675
+249	HW2_Healthy	Gala6_Canker	Hewe's Crab	Gala	0.9860224447281769
+250	HW2_Healthy	Gala1_Healthy	Hewe's Crab	Gala	0.005241583226933673
+251	HW2_Healthy	Gala2_Healthy	Hewe's Crab	Gala	0.0031583898931523417
+252	HW1_Canker	Nic1_Canker	Hewe's Crab	Granniwinkle	0.2915798669444258
+253	HW1_Canker	Nic2_Canker	Hewe's Crab	Granniwinkle	0.17014985552046233
+254	HW1_Canker	Nic3_Canker	Hewe's Crab	Granniwinkle	0.3905651501915194
+255	HW1_Canker	Nic4_Canker	Hewe's Crab	Granniwinkle	0.3624084402929911
+256	HW1_Canker	Nic5_Canker	Hewe's Crab	Granniwinkle	0.38444996976009677
+257	HW1_Canker	Nic6_Canker	Hewe's Crab	Granniwinkle	0.3252469592097305
+258	HW1_Canker	Nic1_Healthy	Hewe's Crab	Granniwinkle	0.39479873664404275
+259	HW1_Canker	Nic2_Healthy	Hewe's Crab	Granniwinkle	0.39479873664404275
+260	HW2_Canker	Nic1_Canker	Hewe's Crab	Granniwinkle	0.10106847658087494
+261	HW2_Canker	Nic2_Canker	Hewe's Crab	Granniwinkle	0.3265909549089443
+262	HW2_Canker	Nic3_Canker	Hewe's Crab	Granniwinkle	0.019487937638599555
+263	HW2_Canker	Nic4_Canker	Hewe's Crab	Granniwinkle	0.25542638263557554
+264	HW2_Canker	Nic5_Canker	Hewe's Crab	Granniwinkle	0.04650225119279618
+265	HW2_Canker	Nic6_Canker	Hewe's Crab	Granniwinkle	0.1114844432497816
+266	HW2_Canker	Nic1_Healthy	Hewe's Crab	Granniwinkle	0.018211141724346482
+267	HW2_Canker	Nic2_Healthy	Hewe's Crab	Granniwinkle	0.018211141724346482
+268	HW3_Canker	Nic1_Canker	Hewe's Crab	Granniwinkle	0.08332773335125328
+269	HW3_Canker	Nic2_Canker	Hewe's Crab	Granniwinkle	0.3069686177004234
+270	HW3_Canker	Nic3_Canker	Hewe's Crab	Granniwinkle	0.08144613937235401
+271	HW3_Canker	Nic4_Canker	Hewe's Crab	Granniwinkle	0.24205362542839862
+272	HW3_Canker	Nic5_Canker	Hewe's Crab	Granniwinkle	0.07479336066124588
+273	HW3_Canker	Nic6_Canker	Hewe's Crab	Granniwinkle	0.09058531012700759
+274	HW3_Canker	Nic1_Healthy	Hewe's Crab	Granniwinkle	0.08386533163093877
+275	HW3_Canker	Nic2_Healthy	Hewe's Crab	Granniwinkle	0.08386533163093877
+276	HW4_Canker	Nic1_Canker	Hewe's Crab	Granniwinkle	0.5962636919561858
+277	HW4_Canker	Nic2_Canker	Hewe's Crab	Granniwinkle	0.5818829379745984
+278	HW4_Canker	Nic3_Canker	Hewe's Crab	Granniwinkle	0.6898729924064243
+279	HW4_Canker	Nic4_Canker	Hewe's Crab	Granniwinkle	0.6443787379880385
+280	HW4_Canker	Nic5_Canker	Hewe's Crab	Granniwinkle	0.6767018345541295
+281	HW4_Canker	Nic6_Canker	Hewe's Crab	Granniwinkle	0.61817082185337
+282	HW4_Canker	Nic1_Healthy	Hewe's Crab	Granniwinkle	0.6935689805792622
+283	HW4_Canker	Nic2_Healthy	Hewe's Crab	Granniwinkle	0.6930985820845373
+284	HW5_Canker	Nic1_Canker	Hewe's Crab	Granniwinkle	0.10678045830253344
+285	HW5_Canker	Nic2_Canker	Hewe's Crab	Granniwinkle	0.3323029366306028
+286	HW5_Canker	Nic3_Canker	Hewe's Crab	Granniwinkle	0.04408305893421141
+287	HW5_Canker	Nic4_Canker	Hewe's Crab	Granniwinkle	0.2490424030643102
+288	HW5_Canker	Nic5_Canker	Hewe's Crab	Granniwinkle	0.049727840870909215
+289	HW5_Canker	Nic6_Canker	Hewe's Crab	Granniwinkle	0.1154492305624622
+290	HW5_Canker	Nic1_Healthy	Hewe's Crab	Granniwinkle	0.045292655063503794
+291	HW5_Canker	Nic2_Healthy	Hewe's Crab	Granniwinkle	0.045292655063503794
+292	HW6_Canker	Nic1_Canker	Hewe's Crab	Granniwinkle	0.30522142329144547
+293	HW6_Canker	Nic2_Canker	Hewe's Crab	Granniwinkle	0.13715476110476446
+294	HW6_Canker	Nic3_Canker	Hewe's Crab	Granniwinkle	0.40588670116255626
+295	HW6_Canker	Nic4_Canker	Hewe's Crab	Granniwinkle	0.38969155298703045
+296	HW6_Canker	Nic5_Canker	Hewe's Crab	Granniwinkle	0.397755527182313
+297	HW6_Canker	Nic6_Canker	Hewe's Crab	Granniwinkle	0.3396277131913178
+298	HW6_Canker	Nic1_Healthy	Hewe's Crab	Granniwinkle	0.40917949062562997
+299	HW6_Canker	Nic2_Healthy	Hewe's Crab	Granniwinkle	0.40917949062562997
+300	HW1_Healthy	Nic1_Canker	Hewe's Crab	Granniwinkle	0.10846045292655064
+301	HW1_Healthy	Nic2_Canker	Hewe's Crab	Granniwinkle	0.33398293125462
+302	HW1_Healthy	Nic3_Canker	Hewe's Crab	Granniwinkle	0.02042873462804919
+303	HW1_Healthy	Nic4_Canker	Hewe's Crab	Granniwinkle	0.25945836973321684
+304	HW1_Healthy	Nic5_Canker	Hewe's Crab	Granniwinkle	0.052886230764061556
+305	HW1_Healthy	Nic6_Canker	Hewe's Crab	Granniwinkle	0.1193468180901821
+306	HW1_Healthy	Nic1_Healthy	Hewe's Crab	Granniwinkle	0.0010079967744103218
+307	HW1_Healthy	Nic2_Healthy	Hewe's Crab	Granniwinkle	0.0010079967744103218
+308	HW2_Healthy	Nic1_Canker	Hewe's Crab	Granniwinkle	0.10846045292655064
+309	HW2_Healthy	Nic2_Canker	Hewe's Crab	Granniwinkle	0.33398293125462
+310	HW2_Healthy	Nic3_Canker	Hewe's Crab	Granniwinkle	0.02042873462804919
+311	HW2_Healthy	Nic4_Canker	Hewe's Crab	Granniwinkle	0.25945836973321684
+312	HW2_Healthy	Nic5_Canker	Hewe's Crab	Granniwinkle	0.052886230764061556
+313	HW2_Healthy	Nic6_Canker	Hewe's Crab	Granniwinkle	0.1193468180901821
+314	HW2_Healthy	Nic1_Healthy	Hewe's Crab	Granniwinkle	0.0009407969894496338
+315	HW2_Healthy	Nic2_Healthy	Hewe's Crab	Granniwinkle	0.0009407969894496338
+316	HW1_Canker	UN1_Canker	Hewe's Crab	Unknown cultivar	0.199314562193401
+317	HW1_Canker	UN2_Canker	Hewe's Crab	Unknown cultivar	0.37994758416773067
+318	HW1_Canker	UN1_Healthy	Hewe's Crab	Unknown cultivar	0.3937907398696324
+319	HW1_Canker	UN2_Healthy	Hewe's Crab	Unknown cultivar	0.39479873664404275
+320	HW2_Canker	UN1_Canker	Hewe's Crab	Unknown cultivar	0.4017203144949936
+321	HW2_Canker	UN2_Canker	Hewe's Crab	Unknown cultivar	0.11081244540017472
+322	HW2_Canker	UN1_Healthy	Hewe's Crab	Unknown cultivar	0.017068745380014783
+323	HW2_Canker	UN2_Healthy	Hewe's Crab	Unknown cultivar	0.018009542369464417
+324	HW3_Canker	UN1_Canker	Hewe's Crab	Unknown cultivar	0.3814259794368658
+325	HW3_Canker	UN2_Canker	Hewe's Crab	Unknown cultivar	0.11121564410993885
+326	HW3_Canker	UN1_Healthy	Hewe's Crab	Unknown cultivar	0.08292453464148915
+327	HW3_Canker	UN2_Healthy	Hewe's Crab	Unknown cultivar	0.08386533163093877
+328	HW4_Canker	UN1_Canker	Hewe's Crab	Unknown cultivar	0.5316174988240038
+329	HW4_Canker	UN2_Canker	Hewe's Crab	Unknown cultivar	0.6484779248706404
+330	HW4_Canker	UN1_Healthy	Hewe's Crab	Unknown cultivar	0.6915529870304415
+331	HW4_Canker	UN2_Healthy	Hewe's Crab	Unknown cultivar	0.6932329816544587
+332	HW5_Canker	UN1_Canker	Hewe's Crab	Unknown cultivar	0.4012499160002688
+333	HW5_Canker	UN2_Canker	Hewe's Crab	Unknown cultivar	0.11141724346482092
+334	HW5_Canker	UN1_Healthy	Hewe's Crab	Unknown cultivar	0.04435185807405416
+335	HW5_Canker	UN2_Healthy	Hewe's Crab	Unknown cultivar	0.045292655063503794
+336	HW6_Canker	UN1_Canker	Hewe's Crab	Unknown cultivar	0.20072575767757544
+337	HW6_Canker	UN2_Canker	Hewe's Crab	Unknown cultivar	0.3954707344936496
+338	HW6_Canker	UN1_Healthy	Hewe's Crab	Unknown cultivar	0.40823869363618037
+339	HW6_Canker	UN2_Healthy	Hewe's Crab	Unknown cultivar	0.40917949062562997
+340	HW1_Healthy	UN1_Canker	Hewe's Crab	Unknown cultivar	0.4163026678314629
+341	HW1_Healthy	UN2_Canker	Hewe's Crab	Unknown cultivar	0.11927961830522142
+342	HW1_Healthy	UN1_Healthy	Hewe's Crab	Unknown cultivar	0.0069215778509508765
+343	HW1_Healthy	UN2_Healthy	Hewe's Crab	Unknown cultivar	0.006518379141186748
+344	HW2_Healthy	UN1_Canker	Hewe's Crab	Unknown cultivar	0.4158994691216988
+345	HW2_Healthy	UN2_Canker	Hewe's Crab	Unknown cultivar	0.11887641959545729
+346	HW2_Healthy	UN1_Healthy	Hewe's Crab	Unknown cultivar	0.007459176130636382
+347	HW2_Healthy	UN2_Healthy	Hewe's Crab	Unknown cultivar	0.006518379141186748
+0	UN2_Canker	UN1_Canker	Unknown cultivar	Unknown cultivar	0.40104831664538676
+1	UN1_Healthy	UN1_Canker	Unknown cultivar	Unknown cultivar	0.4158994691216988
+2	UN1_Healthy	UN2_Canker	Unknown cultivar	Unknown cultivar	0.11887641959545729
+3	UN2_Healthy	UN1_Canker	Unknown cultivar	Unknown cultivar	0.41684026611114844
+4	UN2_Healthy	UN2_Canker	Unknown cultivar	Unknown cultivar	0.11981721658490693
+5	UN2_Healthy	UN1_Healthy	Unknown cultivar	Unknown cultivar	0.005174383441972985
+6	UN1_Canker	Fuji1_Canker	Unknown cultivar	Aztec Fuji	0.8264229554465425
+7	UN1_Canker	Fuji2_Canker	Unknown cultivar	Aztec Fuji	0.42080505342382907
+8	UN1_Canker	Fuji3_Canker	Unknown cultivar	Aztec Fuji	0.3310261407163497
+9	UN1_Canker	Fuji4_Canker	Unknown cultivar	Aztec Fuji	0.2013977555271823
+10	UN1_Canker	Fuji5_Canker	Unknown cultivar	Aztec Fuji	0.38223237685639405
+11	UN1_Canker	Fuji6_Canker	Unknown cultivar	Aztec Fuji	0.45635373966803305
+12	UN1_Canker	Fuji1_Healthy	Unknown cultivar	Aztec Fuji	0.41684026611114844
+13	UN1_Canker	Fuji2_Healthy	Unknown cultivar	Aztec Fuji	0.41684026611114844
+14	UN1_Canker	Fuji3_Healthy	Unknown cultivar	Aztec Fuji	0.41684026611114844
+15	UN1_Canker	Fuji4_Healthy	Unknown cultivar	Aztec Fuji	0.41684026611114844
+16	UN1_Canker	Fuji5_Healthy	Unknown cultivar	Aztec Fuji	0.41684026611114844
+17	UN1_Canker	Fuji6_Healthy	Unknown cultivar	Aztec Fuji	0.4147570727773671
+18	UN2_Canker	Fuji1_Canker	Unknown cultivar	Aztec Fuji	0.9746656810698205
+19	UN2_Canker	Fuji2_Canker	Unknown cultivar	Aztec Fuji	0.6160876285195888
+20	UN2_Canker	Fuji3_Canker	Unknown cultivar	Aztec Fuji	0.13782675895437135
+21	UN2_Canker	Fuji4_Canker	Unknown cultivar	Aztec Fuji	0.32215576910153887
+22	UN2_Canker	Fuji5_Canker	Unknown cultivar	Aztec Fuji	0.11491163228277669
+23	UN2_Canker	Fuji6_Canker	Unknown cultivar	Aztec Fuji	0.6855050063839796
+24	UN2_Canker	Fuji1_Healthy	Unknown cultivar	Aztec Fuji	0.11981721658490693
+25	UN2_Canker	Fuji2_Healthy	Unknown cultivar	Aztec Fuji	0.11981721658490693
+26	UN2_Canker	Fuji3_Healthy	Unknown cultivar	Aztec Fuji	0.11981721658490693
+27	UN2_Canker	Fuji4_Healthy	Unknown cultivar	Aztec Fuji	0.11981721658490693
+28	UN2_Canker	Fuji5_Healthy	Unknown cultivar	Aztec Fuji	0.11981721658490693
+29	UN2_Canker	Fuji6_Healthy	Unknown cultivar	Aztec Fuji	0.11981721658490693
+30	UN1_Healthy	Fuji1_Canker	Unknown cultivar	Aztec Fuji	0.9825280559102211
+31	UN1_Healthy	Fuji2_Canker	Unknown cultivar	Aztec Fuji	0.6260331966937706
+32	UN1_Healthy	Fuji3_Canker	Unknown cultivar	Aztec Fuji	0.14333714132114778
+33	UN1_Healthy	Fuji4_Canker	Unknown cultivar	Aztec Fuji	0.33250453598548485
+34	UN1_Healthy	Fuji5_Canker	Unknown cultivar	Aztec Fuji	0.09515489550433438
+35	UN1_Healthy	Fuji6_Canker	Unknown cultivar	Aztec Fuji	0.691216988105638
+36	UN1_Healthy	Fuji1_Healthy	Unknown cultivar	Aztec Fuji	0.007459176130636382
+37	UN1_Healthy	Fuji2_Healthy	Unknown cultivar	Aztec Fuji	0.007459176130636382
+38	UN1_Healthy	Fuji3_Healthy	Unknown cultivar	Aztec Fuji	0.007459176130636382
+39	UN1_Healthy	Fuji4_Healthy	Unknown cultivar	Aztec Fuji	0.007459176130636382
+40	UN1_Healthy	Fuji5_Healthy	Unknown cultivar	Aztec Fuji	0.007459176130636382
+41	UN1_Healthy	Fuji6_Healthy	Unknown cultivar	Aztec Fuji	0.012028761507963174
+42	UN2_Healthy	Fuji1_Canker	Unknown cultivar	Aztec Fuji	0.9838720516094348
+43	UN2_Healthy	Fuji2_Canker	Unknown cultivar	Aztec Fuji	0.6260331966937706
+44	UN2_Healthy	Fuji3_Canker	Unknown cultivar	Aztec Fuji	0.14333714132114778
+45	UN2_Healthy	Fuji4_Canker	Unknown cultivar	Aztec Fuji	0.33250453598548485
+46	UN2_Healthy	Fuji5_Canker	Unknown cultivar	Aztec Fuji	0.09515489550433438
+47	UN2_Healthy	Fuji6_Canker	Unknown cultivar	Aztec Fuji	0.6918217861702842
+48	UN2_Healthy	Fuji1_Healthy	Unknown cultivar	Aztec Fuji	0.006518379141186748
+49	UN2_Healthy	Fuji2_Healthy	Unknown cultivar	Aztec Fuji	0.006518379141186748
+50	UN2_Healthy	Fuji3_Healthy	Unknown cultivar	Aztec Fuji	0.006518379141186748
+51	UN2_Healthy	Fuji4_Healthy	Unknown cultivar	Aztec Fuji	0.006518379141186748
+52	UN2_Healthy	Fuji5_Healthy	Unknown cultivar	Aztec Fuji	0.006518379141186748
+53	UN2_Healthy	Fuji6_Healthy	Unknown cultivar	Aztec Fuji	0.01323835763725556
+54	UN1_Canker	CP1_Canker	Unknown cultivar	Cripps Pink	0.7584167730663262
+55	UN1_Canker	CP2_Canker	Unknown cultivar	Cripps Pink	0.7307976614474834
+56	UN1_Canker	CP3_Canker	Unknown cultivar	Cripps Pink	0.5884013171157852
+57	UN1_Canker	CP4_Canker	Unknown cultivar	Cripps Pink	0.7523015926349036
+58	UN1_Canker	CP5_Canker	Unknown cultivar	Cripps Pink	0.7438344197298569
+59	UN1_Canker	CP6_Canker	Unknown cultivar	Cripps Pink	0.7861702842550904
+60	UN1_Canker	CP1_Healthy	Unknown cultivar	Cripps Pink	0.41684026611114844
+61	UN1_Canker	CP2_Healthy	Unknown cultivar	Cripps Pink	0.4147570727773671
+62	UN2_Canker	CP1_Canker	Unknown cultivar	Cripps Pink	0.9600161279483905
+63	UN2_Canker	CP2_Canker	Unknown cultivar	Cripps Pink	0.939251394395538
+64	UN2_Canker	CP3_Canker	Unknown cultivar	Cripps Pink	0.7296552651031517
+65	UN2_Canker	CP4_Canker	Unknown cultivar	Cripps Pink	0.9757408776291916
+66	UN2_Canker	CP5_Canker	Unknown cultivar	Cripps Pink	0.9629057187017002
+67	UN2_Canker	CP6_Canker	Unknown cultivar	Cripps Pink	0.8651300315838989
+68	UN2_Canker	CP1_Healthy	Unknown cultivar	Cripps Pink	0.11981721658490693
+69	UN2_Canker	CP2_Healthy	Unknown cultivar	Cripps Pink	0.1177340232511256
+70	UN1_Healthy	CP1_Canker	Unknown cultivar	Cripps Pink	0.9670049055843021
+71	UN1_Healthy	CP2_Canker	Unknown cultivar	Cripps Pink	0.9474497681607419
+72	UN1_Healthy	CP3_Canker	Unknown cultivar	Cripps Pink	0.7344936496203213
+73	UN1_Healthy	CP4_Canker	Unknown cultivar	Cripps Pink	0.9861568442980982
+74	UN1_Healthy	CP5_Canker	Unknown cultivar	Cripps Pink	0.9724480881661178
+75	UN1_Healthy	CP6_Canker	Unknown cultivar	Cripps Pink	0.8745380014783952
+76	UN1_Healthy	CP1_Healthy	Unknown cultivar	Cripps Pink	0.007459176130636382
+77	UN1_Healthy	CP2_Healthy	Unknown cultivar	Cripps Pink	0.007459176130636382
+78	UN2_Healthy	CP1_Canker	Unknown cultivar	Cripps Pink	0.9681473019286339
+79	UN2_Healthy	CP2_Canker	Unknown cultivar	Cripps Pink	0.9490625629997984
+80	UN2_Healthy	CP3_Canker	Unknown cultivar	Cripps Pink	0.7352328472548888
+81	UN2_Healthy	CP4_Canker	Unknown cultivar	Cripps Pink	0.9861568442980982
+82	UN2_Healthy	CP5_Canker	Unknown cultivar	Cripps Pink	0.9724480881661178
+83	UN2_Healthy	CP6_Canker	Unknown cultivar	Cripps Pink	0.8748740004031987
+84	UN2_Healthy	CP1_Healthy	Unknown cultivar	Cripps Pink	0.006518379141186748
+85	UN2_Healthy	CP2_Healthy	Unknown cultivar	Cripps Pink	0.006518379141186748
+86	UN1_Canker	Gala1_Canker	Unknown cultivar	Gala	0.396680330622942
+87	UN1_Canker	Gala2_Canker	Unknown cultivar	Gala	0.6417579463745716
+88	UN1_Canker	Gala3_Canker	Unknown cultivar	Gala	0.40427390632349974
+89	UN1_Canker	Gala4_Canker	Unknown cultivar	Gala	0.31436059404609906
+90	UN1_Canker	Gala5_Canker	Unknown cultivar	Gala	0.21288891875545998
+91	UN1_Canker	Gala6_Canker	Unknown cultivar	Gala	0.722263288757476
+92	UN1_Canker	Gala1_Healthy	Unknown cultivar	Gala	0.4160338686916202
+93	UN1_Canker	Gala2_Healthy	Unknown cultivar	Gala	0.41684026611114844
+94	UN2_Canker	Gala1_Canker	Unknown cultivar	Gala	0.5929037027081513
+95	UN2_Canker	Gala2_Canker	Unknown cultivar	Gala	0.8824675761037565
+96	UN2_Canker	Gala3_Canker	Unknown cultivar	Gala	0.6430347422888246
+97	UN2_Canker	Gala4_Canker	Unknown cultivar	Gala	0.18930179423425844
+98	UN2_Canker	Gala5_Canker	Unknown cultivar	Gala	0.36261003964787314
+99	UN2_Canker	Gala6_Canker	Unknown cultivar	Gala	0.9759424769840737
+100	UN2_Canker	Gala1_Healthy	Unknown cultivar	Gala	0.11981721658490693
+101	UN2_Canker	Gala2_Healthy	Unknown cultivar	Gala	0.11981721658490693
+102	UN1_Healthy	Gala1_Canker	Unknown cultivar	Gala	0.6009004771184733
+103	UN1_Healthy	Gala2_Canker	Unknown cultivar	Gala	0.8910019487937638
+104	UN1_Healthy	Gala3_Canker	Unknown cultivar	Gala	0.6531819098178886
+105	UN1_Healthy	Gala4_Canker	Unknown cultivar	Gala	0.195215375310799
+106	UN1_Healthy	Gala5_Canker	Unknown cultivar	Gala	0.36906121900409916
+107	UN1_Healthy	Gala6_Canker	Unknown cultivar	Gala	0.9860224447281769
+108	UN1_Healthy	Gala1_Healthy	Unknown cultivar	Gala	0.007459176130636382
+109	UN1_Healthy	Gala2_Healthy	Unknown cultivar	Gala	0.007459176130636382
+110	UN2_Healthy	Gala1_Canker	Unknown cultivar	Gala	0.6009004771184733
+111	UN2_Healthy	Gala2_Canker	Unknown cultivar	Gala	0.8910019487937638
+112	UN2_Healthy	Gala3_Canker	Unknown cultivar	Gala	0.6531819098178886
+113	UN2_Healthy	Gala4_Canker	Unknown cultivar	Gala	0.19595457294536658
+114	UN2_Healthy	Gala5_Canker	Unknown cultivar	Gala	0.36980041663866675
+115	UN2_Healthy	Gala6_Canker	Unknown cultivar	Gala	0.9860224447281769
+116	UN2_Healthy	Gala1_Healthy	Unknown cultivar	Gala	0.006518379141186748
+117	UN2_Healthy	Gala2_Healthy	Unknown cultivar	Gala	0.006518379141186748
+118	UN1_Canker	Nic1_Canker	Unknown cultivar	Granniwinkle	0.31140380350782876
+119	UN1_Canker	Nic2_Canker	Unknown cultivar	Granniwinkle	0.22444728176869835
+120	UN1_Canker	Nic3_Canker	Unknown cultivar	Granniwinkle	0.41321147772327127
+121	UN1_Canker	Nic4_Canker	Unknown cultivar	Granniwinkle	0.3849875680397823
+122	UN1_Canker	Nic5_Canker	Unknown cultivar	Granniwinkle	0.4002419192258585
+123	UN1_Canker	Nic6_Canker	Unknown cultivar	Granniwinkle	0.347557287816679
+124	UN1_Canker	Nic1_Healthy	Unknown cultivar	Granniwinkle	0.41684026611114844
+125	UN1_Canker	Nic2_Healthy	Unknown cultivar	Granniwinkle	0.41684026611114844
+126	UN2_Canker	Nic1_Canker	Unknown cultivar	Granniwinkle	0.1143740340030912
+127	UN2_Canker	Nic2_Canker	Unknown cultivar	Granniwinkle	0.32833814931792216
+128	UN2_Canker	Nic3_Canker	Unknown cultivar	Granniwinkle	0.11665882669175459
+129	UN2_Canker	Nic4_Canker	Unknown cultivar	Granniwinkle	0.25374638801155835
+130	UN2_Canker	Nic5_Canker	Unknown cultivar	Granniwinkle	0.11363483636852362
+131	UN2_Canker	Nic6_Canker	Unknown cultivar	Granniwinkle	0.11403803507828775
+132	UN2_Canker	Nic1_Healthy	Unknown cultivar	Granniwinkle	0.11981721658490693
+133	UN2_Canker	Nic2_Healthy	Unknown cultivar	Granniwinkle	0.11981721658490693
+134	UN1_Healthy	Nic1_Canker	Unknown cultivar	Granniwinkle	0.10846045292655064
+135	UN1_Healthy	Nic2_Canker	Unknown cultivar	Granniwinkle	0.33357973254485584
+136	UN1_Healthy	Nic3_Canker	Unknown cultivar	Granniwinkle	0.02042873462804919
+137	UN1_Healthy	Nic4_Canker	Unknown cultivar	Granniwinkle	0.2575095759693569
+138	UN1_Healthy	Nic5_Canker	Unknown cultivar	Granniwinkle	0.052886230764061556
+139	UN1_Healthy	Nic6_Canker	Unknown cultivar	Granniwinkle	0.11813722196088973
+140	UN1_Healthy	Nic1_Healthy	Unknown cultivar	Granniwinkle	0.007459176130636382
+141	UN1_Healthy	Nic2_Healthy	Unknown cultivar	Granniwinkle	0.007459176130636382
+142	UN2_Healthy	Nic1_Canker	Unknown cultivar	Granniwinkle	0.10846045292655064
+143	UN2_Healthy	Nic2_Canker	Unknown cultivar	Granniwinkle	0.33357973254485584
+144	UN2_Healthy	Nic3_Canker	Unknown cultivar	Granniwinkle	0.02042873462804919
+145	UN2_Healthy	Nic4_Canker	Unknown cultivar	Granniwinkle	0.25945836973321684
+146	UN2_Healthy	Nic5_Canker	Unknown cultivar	Granniwinkle	0.052886230764061556
+147	UN2_Healthy	Nic6_Canker	Unknown cultivar	Granniwinkle	0.11813722196088973
+148	UN2_Healthy	Nic1_Healthy	Unknown cultivar	Granniwinkle	0.006518379141186748
+149	UN2_Healthy	Nic2_Healthy	Unknown cultivar	Granniwinkle	0.006518379141186748
+150	UN1_Canker	HW1_Canker	Unknown cultivar	Hewe's Crab	0.199314562193401
+151	UN1_Canker	HW2_Canker	Unknown cultivar	Hewe's Crab	0.4017203144949936
+152	UN1_Canker	HW3_Canker	Unknown cultivar	Hewe's Crab	0.3814259794368658
+153	UN1_Canker	HW4_Canker	Unknown cultivar	Hewe's Crab	0.5316174988240038
+154	UN1_Canker	HW5_Canker	Unknown cultivar	Hewe's Crab	0.4012499160002688
+155	UN1_Canker	HW6_Canker	Unknown cultivar	Hewe's Crab	0.20072575767757544
+156	UN1_Canker	HW1_Healthy	Unknown cultivar	Hewe's Crab	0.4163026678314629
+157	UN1_Canker	HW2_Healthy	Unknown cultivar	Hewe's Crab	0.4158994691216988
+158	UN2_Canker	HW1_Canker	Unknown cultivar	Hewe's Crab	0.37994758416773067
+159	UN2_Canker	HW2_Canker	Unknown cultivar	Hewe's Crab	0.11081244540017472
+160	UN2_Canker	HW3_Canker	Unknown cultivar	Hewe's Crab	0.11121564410993885
+161	UN2_Canker	HW4_Canker	Unknown cultivar	Hewe's Crab	0.6484779248706404
+162	UN2_Canker	HW5_Canker	Unknown cultivar	Hewe's Crab	0.11141724346482092
+163	UN2_Canker	HW6_Canker	Unknown cultivar	Hewe's Crab	0.3954707344936496
+164	UN2_Canker	HW1_Healthy	Unknown cultivar	Hewe's Crab	0.11927961830522142
+165	UN2_Canker	HW2_Healthy	Unknown cultivar	Hewe's Crab	0.11887641959545729
+166	UN1_Healthy	HW1_Canker	Unknown cultivar	Hewe's Crab	0.3937907398696324
+167	UN1_Healthy	HW2_Canker	Unknown cultivar	Hewe's Crab	0.017068745380014783
+168	UN1_Healthy	HW3_Canker	Unknown cultivar	Hewe's Crab	0.08292453464148915
+169	UN1_Healthy	HW4_Canker	Unknown cultivar	Hewe's Crab	0.6915529870304415
+170	UN1_Healthy	HW5_Canker	Unknown cultivar	Hewe's Crab	0.04435185807405416
+171	UN1_Healthy	HW6_Canker	Unknown cultivar	Hewe's Crab	0.40823869363618037
+172	UN1_Healthy	HW1_Healthy	Unknown cultivar	Hewe's Crab	0.0069215778509508765
+173	UN1_Healthy	HW2_Healthy	Unknown cultivar	Hewe's Crab	0.007459176130636382
+174	UN2_Healthy	HW1_Canker	Unknown cultivar	Hewe's Crab	0.39479873664404275
+175	UN2_Healthy	HW2_Canker	Unknown cultivar	Hewe's Crab	0.018009542369464417
+176	UN2_Healthy	HW3_Canker	Unknown cultivar	Hewe's Crab	0.08386533163093877
+177	UN2_Healthy	HW4_Canker	Unknown cultivar	Hewe's Crab	0.6932329816544587
+178	UN2_Healthy	HW5_Canker	Unknown cultivar	Hewe's Crab	0.045292655063503794
+179	UN2_Healthy	HW6_Canker	Unknown cultivar	Hewe's Crab	0.40917949062562997
+180	UN2_Healthy	HW1_Healthy	Unknown cultivar	Hewe's Crab	0.006518379141186748
+181	UN2_Healthy	HW2_Healthy	Unknown cultivar	Hewe's Crab	0.006518379141186748

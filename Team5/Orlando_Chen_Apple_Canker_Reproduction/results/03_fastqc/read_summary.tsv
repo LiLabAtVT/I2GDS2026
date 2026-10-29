@@ -1,0 +1,49 @@
+sample_id	reads	mean_len	median_len	min_len	max_len	pct_1000_1600	pct_gt1600	mean_readQ	pct_readQ_ge30	cultivar	health_status	platform
+Fuji1_Canker	113225	1475.38	1463.0	451	3083	98.24	1.74	86.8	100.0	Aztec Fuji	Canker	Sequel
+Fuji2_Canker	67991	1574.41	1502.0	125	3324	72.15	27.83	86.49	100.0	Aztec Fuji	Canker	Sequel
+Fuji3_Canker	54810	1633.65	1502.0	125	4366	51.14	48.82	86.45	100.0	Aztec Fuji	Canker	Sequel
+Fuji4_Canker	64440	1577.25	1487.0	172	3381	68.28	31.63	86.58	100.0	Aztec Fuji	Canker	Sequel
+Fuji5_Canker	75002	1566.26	1452.0	125	3384	69.21	30.75	86.55	100.0	Aztec Fuji	Canker	Sequel
+Fuji6_Canker	64865	1511.57	1496.0	244	3353	88.77	10.85	86.75	100.0	Aztec Fuji	Canker	Sequel
+CP1_Canker	98978	1499.75	1501.0	310	3361	98.85	1.13	86.72	100.0	Cripps Pink	Canker	Sequel
+CP2_Canker	98392	1511.1	1501.0	302	3369	95.15	4.81	86.68	100.0	Cripps Pink	Canker	Sequel
+CP3_Canker	52737	1523.1	1495.0	317	4469	86.17	13.81	86.77	100.0	Cripps Pink	Canker	Sequel
+CP4_Canker	117157	1494.81	1501.0	70	3052	99.1	0.87	86.72	100.0	Cripps Pink	Canker	Sequel
+CP5_Canker	95049	1495.28	1501.0	125	3361	98.27	1.69	86.78	100.0	Cripps Pink	Canker	Sequel
+CP6_Canker	117612	1482.71	1480.0	505	3311	97.54	2.41	86.76	100.0	Cripps Pink	Canker	Sequel
+Gala1_Canker	79134	1527.91	1501.0	281	3689	84.6	14.93	86.77	100.0	Gala	Canker	Sequel
+Gala2_Canker	80422	1498.8	1499.0	282	3356	93.53	5.76	86.78	100.0	Gala	Canker	Sequel
+Gala3_Canker	86744	1540.81	1496.0	69	3874	81.0	18.83	86.76	100.0	Gala	Canker	Sequel
+Gala4_Canker	68301	1569.2	1453.0	280	3361	69.1	30.86	86.53	100.0	Gala	Canker	Sequel
+Gala5_Canker	50389	1554.17	1475.0	125	3310	74.99	24.91	86.54	100.0	Gala	Canker	Sequel
+Gala6_Canker	100485	1485.86	1490.0	388	3357	99.26	0.71	86.78	100.0	Gala	Canker	Sequel
+Nic1_Canker	80418	1513.57	1452.0	232	3560	84.42	15.55	86.7	100.0	Granniwinkle	Canker	Sequel
+Nic2_Canker	79640	1535.47	1454.0	125	3340	80.57	19.4	86.56	100.0	Granniwinkle	Canker	Sequel
+Nic3_Canker	83862	1563.06	1452.0	270	3681	69.9	30.07	86.58	100.0	Granniwinkle	Canker	Sequel
+Nic4_Canker	92499	1525.62	1452.0	282	3362	81.17	18.81	86.7	100.0	Granniwinkle	Canker	Sequel
+Nic5_Canker	75497	1528.71	1451.0	461	3344	79.43	20.54	86.67	100.0	Granniwinkle	Canker	Sequel
+Nic6_Canker	73802	1499.29	1451.0	217	3362	88.17	11.82	86.82	100.0	Granniwinkle	Canker	Sequel
+HW1_Canker	104457	1546.37	1470.0	233	3690	77.94	22.04	86.63	100.0	Hewe's Crab	Canker	Sequel IIe
+HW2_Canker	108831	1571.44	1452.0	275	3371	67.55	32.43	86.51	100.0	Hewe's Crab	Canker	Sequel IIe
+HW3_Canker	110199	1558.26	1452.0	530	3348	71.71	28.28	86.57	100.0	Hewe's Crab	Canker	Sequel IIe
+HW4_Canker	104870	1534.43	1501.0	70	3353	83.91	16.08	86.57	100.0	Hewe's Crab	Canker	Sequel IIe
+HW5_Canker	98404	1525.39	1452.0	206	3363	80.09	19.86	86.65	100.0	Hewe's Crab	Canker	Sequel IIe
+HW6_Canker	105356	1556.05	1498.0	318	3322	75.31	24.66	86.58	100.0	Hewe's Crab	Canker	Sequel IIe
+UN1_Canker	108556	1538.41	1457.0	103	3362	79.7	20.28	86.66	100.0	Unknown cultivar	Canker	Sequel
+UN2_Canker	95626	1541.76	1452.0	526	3680	76.71	23.29	86.59	100.0	Unknown cultivar	Canker	Sequel
+Fuji1_Healthy	39934	1543.65	1452.0	1400	3376	74.96	25.04	85.17	100.0	Aztec Fuji	Healthy	Sequel
+Fuji2_Healthy	44085	1543.78	1451.0	1349	3355	74.89	25.11	85.19	100.0	Aztec Fuji	Healthy	Sequel
+Fuji3_Healthy	44820	1548.24	1452.0	1007	3352	73.65	26.35	85.19	100.0	Aztec Fuji	Healthy	Sequel
+Fuji4_Healthy	48689	1529.41	1451.0	1380	3384	78.77	21.23	85.25	100.0	Aztec Fuji	Healthy	Sequel
+Fuji5_Healthy	45972	1542.75	1452.0	1383	4549	75.19	24.81	85.23	100.0	Aztec Fuji	Healthy	Sequel
+Fuji6_Healthy	51677	1524.6	1451.0	1400	3346	80.17	19.83	85.29	100.0	Aztec Fuji	Healthy	Sequel
+CP1_Healthy	46713	1534.83	1451.0	656	3362	77.32	22.68	85.32	100.0	Cripps Pink	Healthy	Sequel
+CP2_Healthy	46977	1524.29	1451.0	1369	3345	80.17	19.83	85.41	100.0	Cripps Pink	Healthy	Sequel
+Gala1_Healthy	48353	1539.87	1452.0	1388	3387	75.96	24.04	85.29	100.0	Gala	Healthy	Sequel
+Gala2_Healthy	47393	1531.7	1451.0	1324	3378	78.18	21.82	85.19	100.0	Gala	Healthy	Sequel
+Nic1_Healthy	48657	1531.23	1451.0	1129	3372	78.34	21.66	85.25	100.0	Granniwinkle	Healthy	Sequel
+Nic2_Healthy	43786	1529.86	1451.0	1390	3680	78.71	21.29	85.26	100.0	Granniwinkle	Healthy	Sequel
+HW1_Healthy	41240	1509.43	1451.0	1221	3338	84.22	15.78	85.41	100.0	Hewe's Crab	Healthy	Sequel IIe
+HW2_Healthy	49189	1523.95	1451.0	1224	3016	80.24	19.76	85.37	100.0	Hewe's Crab	Healthy	Sequel IIe
+UN1_Healthy	35672	1539.76	1451.0	1367	3351	76.01	23.99	85.25	100.0	Unknown cultivar	Healthy	Sequel
+UN2_Healthy	38500	1528.28	1451.0	1386	4875	79.18	20.82	85.33	100.0	Unknown cultivar	Healthy	Sequel

@@ -1,0 +1,50 @@
+sample-id	run	biosample	cultivar	replicate	health_status	platform	raw_reads
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	numeric
+Fuji1_Canker	SRR36091169	SAMN52904113	Aztec Fuji	1	Canker	Sequel	113225
+Fuji2_Canker	SRR36091168	SAMN52904114	Aztec Fuji	2	Canker	Sequel	67991
+Fuji3_Canker	SRR36091167	SAMN52904115	Aztec Fuji	3	Canker	Sequel	54810
+Fuji4_Canker	SRR36091166	SAMN52904116	Aztec Fuji	4	Canker	Sequel	64440
+Fuji5_Canker	SRR36091165	SAMN52904117	Aztec Fuji	5	Canker	Sequel	75002
+Fuji6_Canker	SRR36091164	SAMN52904118	Aztec Fuji	6	Canker	Sequel	64865
+CP1_Canker	SRR36091176	SAMN52904107	Cripps Pink	1	Canker	Sequel	98978
+CP2_Canker	SRR36091175	SAMN52904108	Cripps Pink	2	Canker	Sequel	98392
+CP3_Canker	SRR36091174	SAMN52904109	Cripps Pink	3	Canker	Sequel	52737
+CP4_Canker	SRR36091173	SAMN52904110	Cripps Pink	4	Canker	Sequel	117157
+CP5_Canker	SRR36091171	SAMN52904111	Cripps Pink	5	Canker	Sequel	95049
+CP6_Canker	SRR36091170	SAMN52904112	Cripps Pink	6	Canker	Sequel	117612
+Gala1_Canker	SRR36091163	SAMN52904119	Gala	1	Canker	Sequel	79134
+Gala2_Canker	SRR36091162	SAMN52904120	Gala	2	Canker	Sequel	80422
+Gala3_Canker	SRR36091160	SAMN52904121	Gala	3	Canker	Sequel	86744
+Gala4_Canker	SRR36091158	SAMN52904122	Gala	4	Canker	Sequel	68301
+Gala5_Canker	SRR36091157	SAMN52904123	Gala	5	Canker	Sequel	50389
+Gala6_Canker	SRR36091159	SAMN52904124	Gala	6	Canker	Sequel	100485
+Nic1_Canker	SRR36091155	SAMN52904131	Granniwinkle	1	Canker	Sequel	80418
+Nic2_Canker	SRR36091154	SAMN52904132	Granniwinkle	2	Canker	Sequel	79640
+Nic3_Canker	SRR36091153	SAMN52904133	Granniwinkle	3	Canker	Sequel	83862
+Nic4_Canker	SRR36091152	SAMN52904134	Granniwinkle	4	Canker	Sequel	92499
+Nic5_Canker	SRR36091151	SAMN52904135	Granniwinkle	5	Canker	Sequel	75497
+Nic6_Canker	SRR36091150	SAMN52904136	Granniwinkle	6	Canker	Sequel	73802
+HW1_Canker	SRR36103839	SAMN52904125	Hewe's Crab	1	Canker	Sequel IIe	104457
+HW2_Canker	SRR36103838	SAMN52904126	Hewe's Crab	2	Canker	Sequel IIe	108831
+HW3_Canker	SRR36103837	SAMN52904127	Hewe's Crab	3	Canker	Sequel IIe	110199
+HW4_Canker	SRR36103836	SAMN52904128	Hewe's Crab	4	Canker	Sequel IIe	104870
+HW5_Canker	SRR36103835	SAMN52904129	Hewe's Crab	5	Canker	Sequel IIe	98404
+HW6_Canker	SRR36103834	SAMN52904130	Hewe's Crab	6	Canker	Sequel IIe	105356
+UN1_Canker	SRR36091149	SAMN52904137	Unknown cultivar	1	Canker	Sequel	108556
+UN2_Canker	SRR36091148	SAMN52904138	Unknown cultivar	2	Canker	Sequel	95626
+Fuji1_Healthy	SRR36091182	SAMN52904091	Aztec Fuji	1	Healthy	Sequel	39934
+Fuji2_Healthy	SRR36091181	SAMN52904092	Aztec Fuji	2	Healthy	Sequel	44085
+Fuji3_Healthy	SRR36091172	SAMN52904093	Aztec Fuji	3	Healthy	Sequel	44820
+Fuji4_Healthy	SRR36091161	SAMN52904094	Aztec Fuji	4	Healthy	Sequel	48689
+Fuji5_Healthy	SRR36091156	SAMN52904095	Aztec Fuji	5	Healthy	Sequel	45972
+Fuji6_Healthy	SRR36091147	SAMN52904096	Aztec Fuji	6	Healthy	Sequel	51677
+CP1_Healthy	SRR36091146	SAMN52904097	Cripps Pink	1	Healthy	Sequel	46713
+CP2_Healthy	SRR36091145	SAMN52904098	Cripps Pink	2	Healthy	Sequel	46977
+Gala1_Healthy	SRR36091144	SAMN52904099	Gala	1	Healthy	Sequel	48353
+Gala2_Healthy	SRR36091143	SAMN52904100	Gala	2	Healthy	Sequel	47393
+Nic1_Healthy	SRR36091179	SAMN52904101	Granniwinkle	1	Healthy	Sequel	48657
+Nic2_Healthy	SRR36091180	SAMN52904102	Granniwinkle	2	Healthy	Sequel	43786
+HW1_Healthy	SRR36103841	SAMN52904103	Hewe's Crab	1	Healthy	Sequel IIe	41240
+HW2_Healthy	SRR36103840	SAMN52904104	Hewe's Crab	2	Healthy	Sequel IIe	49189
+UN1_Healthy	SRR36091178	SAMN52904105	Unknown cultivar	1	Healthy	Sequel	35672
+UN2_Healthy	SRR36091177	SAMN52904106	Unknown cultivar	2	Healthy	Sequel	38500

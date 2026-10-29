@@ -1,0 +1,17 @@
+Parameter	canker_T5 ours	canker_T5 paper	canker_T0 ours	canker_T0 paper	healthy_T1 ours	healthy_T1 paper
+Nodes	  138	160	    6	17	    2	51
+Links	  251	1586	    7	27	    1	698
+R square of power-law	0.7196	0.033	   NA	0.913	   NA	0.0007
+Average degree (avgK)	3.638	19.825	2.333	3.176	    1	27.372
+Average clustering coefficient (avgCC)	0.2665	0.267	    1	0.439	  NaN	0.701
+Average path distance (GD)	4.515	2.032	    1	1.990	    1	1.456
+Geodesic efficiency (E)	0.2377	0.5361	0.4667	0.588	    1	0.773
+Harmonic geodesic distance (HD)	4.207	1.865	2.143	1.700	    1	1.293
+Maximal degree	   13	39	    3	11	    1	45
+Nodes with maximal degree	ASV0142-Mucilaginibacter	ASV451-Mucilaginibacter	ASV0001-Erwinia amylovora; ASV0002-Erwinia amylovora; ASV0003-Erwinia amylovora; ASV0004-Erwinia amylovora	ASV1032-E. amylovora	ASV0242-1174-901-12; ASV0773-Methylobacterium-Methylorubrum	ASV1308-Bacillus
+Centralization of degree (CD)	0.06834	0.120	0.1333	0.489	0	0.352
+Nodes with maximal betweenness	ASV0194-Sphingomonas	ASV345-Nocardioides	ASV0001-Erwinia amylovora	ASV1032-E. amylovora	ASV0242-1174-901-12	ASV1308-Bacillus
+Centralization of betweenness (CB)	0.1189	0.0160	0	0.411	  NaN	0.0241
+Density (D)	0.02655	0.124	0.4667	0.198	    1	0.547
+Transitivity (Trans)	0.2647	0.276	    1	0.381	  NaN	0.677
+Connectedness (Con)	0.8878	1	0.4667	0.780	    1	1

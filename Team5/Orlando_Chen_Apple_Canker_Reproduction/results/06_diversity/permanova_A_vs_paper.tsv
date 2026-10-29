@@ -1,0 +1,6 @@
+	Our R2	Our F	Our P	Paper R2	Paper F	Paper P
+health_status	21.5%	16.33	0.001	17.2%	9.35	0.001
+cultivar	22.6%	3.43	0.002	n.s.	-	0.223
+health_status:cultivar	8.3%	1.26	0.263	12.4%	1.43	0.016
+Residuals	47.5%					
+Total	100.0%					
