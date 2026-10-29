@@ -145,10 +145,48 @@ On codeburn's dashboard, **Exploration** (Claude reading files to understand the
 
 ---
 
-## Links
+## References
 
-- graphify: `pip install graphifyy` · [app.graphify.com](https://app.graphify.com)
-- codeburn: `npx codeburn` (npm)
-- Ponytail: [github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-- GitDiagram: [gitdiagram.com](https://gitdiagram.com)
-- Claude Code docs: [docs.claude.com/en/docs/claude-code](https://docs.claude.com/en/docs/claude-code)
+### Official sources for the token tools
+
+| Tool | Version we used | Official source | License |
+|---|---|---|---|
+| Claude Code | 2.1.311 | Anthropic. *Claude Code documentation.* [code.claude.com/docs/en/overview](https://code.claude.com/docs/en/overview) | Proprietary |
+| `/context`, `/usage`, `/clear`, `/compact` | built in | Anthropic. *Slash commands.* [code.claude.com/docs/en/slash-commands](https://code.claude.com/docs/en/slash-commands) · *Manage costs effectively.* [code.claude.com/docs/en/costs](https://code.claude.com/docs/en/costs) | Proprietary |
+| Permissions | built in | Anthropic. *Identity and access management.* [code.claude.com/docs/en/iam](https://code.claude.com/docs/en/iam) · *Settings.* [code.claude.com/docs/en/settings](https://code.claude.com/docs/en/settings) | Proprietary |
+| Hooks and plugins | built in | Anthropic. *Hooks.* [code.claude.com/docs/en/hooks](https://code.claude.com/docs/en/hooks) · *Plugins.* [code.claude.com/docs/en/plugins](https://code.claude.com/docs/en/plugins) | Proprietary |
+| graphify (`graphifyy`) | 0.9.91 | Graphify Labs. [github.com/Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) · [docs.graphify.com](https://docs.graphify.com) · [pypi.org/project/graphifyy](https://pypi.org/project/graphifyy/) | Apache-2.0 |
+| codeburn | 0.9.27 | AgentSeal. [github.com/getagentseal/codeburn](https://github.com/getagentseal/codeburn) | MIT |
+| Ponytail | 5.0.0 | Gebert, D. [github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | MIT |
+| GitDiagram | website | Khaleel, A. [gitdiagram.com](https://gitdiagram.com) · [github.com/ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | MIT |
+
+### The paper this project reproduces
+
+BakhshiGanje, M., Jo, E. J., Li, S., Kong, H. G., Park, D.-H., and Aćimović, S. G. 2026. Fire blight canker microbiome: Insights into the key ecological niche for *Erwinia amylovora*. *Phytobiomes Journal* 10:277-292. [https://doi.org/10.1094/PBIOMES-10-25-0086-R](https://doi.org/10.1094/PBIOMES-10-25-0086-R)
+
+Raw reads: NCBI BioProject [PRJNA1348523](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1348523).
+
+### Software and methods used in the paper
+
+These are the tools the paper used for its analysis, which the scripts in [`scripts/`](scripts/) reproduce. Each citation is copied from the paper's reference list.
+
+| Step | Tool | Citation |
+|---|---|---|
+| Read quality control | FastQC | Andrews, S. 2010. FastQC: A quality control tool for high throughput sequence data. [bioinformatics.babraham.ac.uk/projects/fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) |
+| Processing, diversity, taxonomy | QIIME 2 (v2024.10) | Bolyen, E., Rideout, J. R., Dillon, M. R., Bokulich, N. A., et al. 2019. Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2. *Nat. Biotechnol.* 37:852-857. |
+| Denoising and chimera removal | DADA2 | Callahan, B. J., McMurdie, P. J., Rosen, M. J., Han, A. W., Johnson, A. J. A., and Holmes, S. P. 2016. DADA2: High-resolution sample inference from Illumina amplicon data. *Nat. Methods* 13:581-583. |
+| Taxonomy reference | SILVA 138 | SILVA 138 reference taxonomy, from QIIME 2 data resources ([docs.qiime2.org](https://docs.qiime2.org/2019.1/data-resources/)) |
+| Beta diversity | Bray–Curtis index | Somerfield, P. J. 2008. Identification of the Bray–Curtis similarity index: Comment on Yoshioka (2008). *Mar. Ecol. Prog. Ser.* 372:303-306. |
+| Statistics | R | R Core Team. 2020. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. [r-project.org](https://www.r-project.org/) |
+| Classification | randomForest | Liaw, A., and Wiener, M. 2002. Classification and regression by randomForest. *R News* 2:18-22. |
+| Functional prediction | FAPROTAX | Louca, S., Parfrey, L. W., and Doebeli, M. 2016. Decoupling function and taxonomy in the global ocean microbiome. *Science* 353:1272-1277. |
+| FAPROTAX in R | microeco | Liu, C., Cui, Y., Li, X., and Yao, M. 2021. microeco: An R package for data mining in microbial community ecology. *FEMS Microbiol. Ecol.* 97:fiaa255. |
+| Community clustering | Dirichlet-multinomial mixtures | Holmes, I., Harris, K., and Quince, C. 2012. Dirichlet multinomial mixtures: Generative models for microbial metagenomics. *PLoS One* 7:e30126. |
+| Biomarker taxa | LEfSe | Segata, N., Izard, J., Waldron, L., Gevers, D., Miropolsky, L., Garrett, W. S., and Huttenhower, C. 2011. Metagenomic biomarker discovery and explanation. *Genome Biol.* 12:R60. |
+| Co-occurrence correlations | SparCC | Friedman, J., and Alm, E. J. 2012. Inferring correlation networks from genomic survey data. *PLoS Comput. Biol.* 8:e1002687. |
+| Network analysis | MENAP | Deng, Y., Jiang, Y.-H., Yang, Y., He, Z., Luo, F., and Zhou, J. 2012. Molecular ecological network analyses. *BMC Bioinf.* 13:113. |
+| Network analysis | iNAP | Feng, K., Peng, X., Zhang, Z., Gu, S., He, Q., Shen, W., Wang, Z., Wang, D., Hu, Q., Li, Y., Wang, S., and Deng, Y. 2022. iNAP: An integrated network analysis pipeline for microbiome studies. *iMeta* 1:e13. |
+| Network drawing | Cytoscape | Shannon, P., Markiel, A., Ozier, O., Baliga, N. S., Wang, J. T., Ramage, D., Amin, N., Schwikowski, B., and Ideker, T. 2003. Cytoscape: A software environment for integrated models of biomolecular interaction networks. *Genome Res.* 13:2498-2504. |
+| Network drawing | Gephi | Bastian, M., Heymann, S., and Jacomy, M. 2009. Gephi: An open source software for exploring and manipulating networks. *Proc. Int. AAAI Conf. Web Soc. Media* 3:361-362. |
+
+The paper also names the R packages ggplot2, microbiome, DirichletMultinomial, reshape2, magrittr and dplyr, and mentions PICRUSt2, but it gives no citation for them.
