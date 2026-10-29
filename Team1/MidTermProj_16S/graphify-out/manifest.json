@@ -1,9 +1,9 @@
 {
   ".claude/settings.json": {
-    "mtime": 1792021668.265545,
-    "seen": 1792021981.9140263,
-    "ast_hash": "0bea751cda88869c643edf1a896794e4",
-    "semantic_hash": "0bea751cda88869c643edf1a896794e4"
+    "mtime": 1793110603.882415,
+    "seen": 1793110604.8205361,
+    "ast_hash": "03a1b1b15d2ef2622e1e8d0ed7b0f2ad",
+    "semantic_hash": ""
   },
   "scripts/01_download.sh": {
     "mtime": 1791473415.7953415,
@@ -76,5 +76,47 @@
     "seen": 1792021981.9140518,
     "ast_hash": "665b5a96bb4fdd83b61f4595f8a7b7ed",
     "semantic_hash": "665b5a96bb4fdd83b61f4595f8a7b7ed"
+  },
+  "TOKEN_USAGE_GUIDE.md": {
+    "mtime": 1793109942.0806391,
+    "seen": 1793110604.820559,
+    "ast_hash": "ce1eee2a976157476a9fd36903e8253c",
+    "semantic_hash": ""
+  },
+  "graph.html": {
+    "mtime": 1792022244.6246655,
+    "seen": 1793110604.820561,
+    "ast_hash": "a6ddfcb9d953ff562c77ed4ba7505773",
+    "semantic_hash": ""
+  },
+  "tools/codeburn.md": {
+    "mtime": 1793110580.9090376,
+    "seen": 1793110604.8205643,
+    "ast_hash": "10ec2b0740058bbe644639875506e84d",
+    "semantic_hash": ""
+  },
+  "tools/context_usage.md": {
+    "mtime": 1793110580.914744,
+    "seen": 1793110604.8205657,
+    "ast_hash": "42aba54eead9928844048d1bbd27af7a",
+    "semantic_hash": ""
+  },
+  "tools/graphify.md": {
+    "mtime": 1793110580.9120502,
+    "seen": 1793110604.820567,
+    "ast_hash": "6dc8ea2e35b3ac38f4899ff599baad01",
+    "semantic_hash": ""
+  },
+  "tools/permissions.md": {
+    "mtime": 1793110580.9199798,
+    "seen": 1793110604.820568,
+    "ast_hash": "2128278672a9774fcb02c2396a1138ca",
+    "semantic_hash": ""
+  },
+  "tools/ponytail.md": {
+    "mtime": 1793110580.9173355,
+    "seen": 1793110604.8205695,
+    "ast_hash": "e3188fa362f628348fb4c10685e6263c",
+    "semantic_hash": ""
   }
 }

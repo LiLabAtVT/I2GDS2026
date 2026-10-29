@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "/home/kamals/.local/bin/graphify hook-guard search",
+            "command": "/home/kamals/.venvs/graphify/bin/graphify hook-guard search",
             "timeout": 10
           }
         ]
@@ -16,7 +16,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "/home/kamals/.local/bin/graphify hook-guard read",
+            "command": "/home/kamals/.venvs/graphify/bin/graphify hook-guard read",
             "timeout": 10
           }
         ]
