@@ -37,7 +37,6 @@ scripts/        every analysis script, numbered by step (*.sh are Slurm job scri
 pdf/            one PDF report per step + the summary report
 results/        result tables (.tsv/.csv), ASV sequences (.fasta), QIIME 2 visualizations (.qzv)
 raw_data/       sample metadata only (sample_metadata.tsv, SraRunInfo.csv, SRR_Acc_List.txt, ...)
-presentation/   DADA2 Q&A presentation: transcripts (short + full) and slide sources
 REPRODUCTION_SUMMARY.md
 ```
 
