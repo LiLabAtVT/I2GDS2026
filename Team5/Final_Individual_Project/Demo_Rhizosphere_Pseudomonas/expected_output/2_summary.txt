@@ -1,0 +1,52 @@
+PART 2 - PSEUDOMONAS VARIANTS
+
+2a BLAST: 69 variants named (>= 95% query coverage; ties within 0.25% identity); 3 tie with a non-Pseudomonas type strain
+   asv identity n_tied
+  ASV1      100      5
+  ASV2      100      8
+  ASV3      100      2
+  ASV4      100      6
+  ASV5      100      2
+  ASV6      100      4
+  ASV7      100      2
+ ASV10      100     12
+                                                     closest
+ P. silesiensis, P. gregormendelii, P. prosekii, P. mandelii
+      P. fjordensis, P. lactis, P. paralactis, P. paracarnis
+                                 P. corrugata, P. kilonensis
+      P. germanica, P. rustica, P. yamanorum, P. atagonensis
+                                  P. glycinae, P. kribbensis
+        P. arenae, P. rhodesiae, P. marginalis, P. grimontii
+                               P. frigoris, P. svalbardensis
+  P. allii, P. kitaguniensis, P. kairouanensis, P. trivialis
+
+2b Pseudomonas, % of all reads:
+     site compartment  n mean_pct median_pct min_pct max_pct
+ Kentland        Bulk 24     0.41       0.20    0.09    1.68
+ Kentland Rhizosphere 24    33.39      35.08    2.04   54.96
+   Warsaw        Bulk 23     0.48       0.13    0.02    2.91
+   Warsaw Rhizosphere 23    19.79      20.93    0.51   42.28
+
+2c Winner (most abundant Pseudomonas ASV) per rhizosphere plot:
+     site plots distinct_winners top_winner top_winner_plots
+ Kentland    24                9       ASV1                7
+   Warsaw    23                7       ASV3               12
+ median_winner_share winner_found_in_own_bulk plots_with_bulk
+               69.15                        1              24
+               23.70                        4              22
+
+2d Dominant Pseudomonas ASV in bulk soil (Pseudomonas is rare in bulk soil: see median reads):
+     site bulk_plots median_pse_reads
+ Kentland         24              162
+   Warsaw         23              102
+                                                      dominant_counts
+                                                              ASV3:24
+ ASV36:7, ASV41:7, ASV9:3, ASV3:2, ASV1:1, ASV139:1, ASV208:1, ASV5:1
+ ASV3_detected
+            24
+             5
+
+2e PERMANOVA, Pseudomonas variant composition ~ genotype (Bray-Curtis, samples with >= 200 Pseudomonas reads, 999 permutations within block):
+     site samples    R2     p
+ Kentland      24 0.214 0.521
+   Warsaw      23 0.224 0.547

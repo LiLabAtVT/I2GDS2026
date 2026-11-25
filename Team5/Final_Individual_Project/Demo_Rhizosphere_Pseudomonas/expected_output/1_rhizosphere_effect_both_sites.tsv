@@ -1,0 +1,542 @@
+genus	phylum	ancombc2_lfc_Kentland	ancombc2_lfc_Warsaw	ancombc2_sig_Kentland	ancombc2_sig_Warsaw	category
+0319-6G20	Bdellovibrionota	-0.761596525483802	0.331238574357957	TRUE	FALSE	Significant at one site
+11-24	Acidobacteriota	-1.20376314208325	0.655884236955094	TRUE	TRUE	Opposite directions
+1921-2	Chloroflexi	0.182144209221826	1.75421885370581	FALSE	TRUE	Significant at one site
+1921-3	Chloroflexi	-0.358318720999535	0.414755870288432	TRUE	FALSE	Significant at one site
+1959-1	Chloroflexi	-0.48509846269963	-1.43396507713927	TRUE	TRUE	Depleted at both
+4-29-1	Nitrospirota	0.392965327166192	0.172571466193709	FALSE	FALSE	Not significant
+67-14	Actinobacteriota	-0.876931929067721	-0.36135611154729	TRUE	TRUE	Depleted at both
+A0839	Proteobacteria	-1.4734843845279	1.91327628097512	TRUE	TRUE	Opposite directions
+A21b	Proteobacteria	-0.993821276979917	-1.68480396336457	TRUE	TRUE	Depleted at both
+A4b	Chloroflexi	-0.737310444385419	0.348524988970156	TRUE	FALSE	Significant at one site
+AB1	Proteobacteria	-0.996575447673687	0.898179703940686	TRUE	TRUE	Opposite directions
+Abditibacterium	Abditibacteriota	0.172327666943714	-2.56066327327505	FALSE	TRUE	Significant at one site
+Acetobacteraceae (unclassified)	Proteobacteria	-0.325907082763909	-0.425958863572251	TRUE	FALSE	Significant at one site
+Acidibacter	Proteobacteria	-1.78357503958022	-0.456109721155868	TRUE	FALSE	Significant at one site
+Acidimicrobiaceae (unclassified)	Actinobacteriota	-0.483715066982375	-0.995776221791891	FALSE	FALSE	Not significant
+Acidimicrobiia (unclassified)	Actinobacteriota	-0.734044562838907	-1.04718310174985	TRUE	TRUE	Depleted at both
+Acidipila-Silvibacterium	Acidobacteriota	-0.600340835146787	-0.5018393760415	TRUE	FALSE	Significant at one site
+Acidobacteriaceae_(Subgroup_1) (unclassified)	Acidobacteriota	-1.08091711118384	-2.24178068285304	TRUE	TRUE	Depleted at both
+Acidobacteriae (unclassified)	Acidobacteriota	-1.2488522047327	0.35659253818529	TRUE	FALSE	Significant at one site
+Acidobacteriales (unclassified)	Acidobacteriota	-0.583948424139709	-1.19013608570303	TRUE	TRUE	Depleted at both
+Acidobacteriota (unclassified)	Acidobacteriota	-0.197785366748635	-0.980279870940843	FALSE	FALSE	Not significant
+Acidothermus	Actinobacteriota	-0.607994520358695	-1.49297033516491	TRUE	TRUE	Depleted at both
+Acinetobacter	Proteobacteria	-0.16544651363837	1.28124831193394	FALSE	FALSE	Not significant
+Actinoallomurus	Actinobacteriota	-0.319427171049367	-0.328758711877551	FALSE	FALSE	Not significant
+Actinocorallia	Actinobacteriota	-0.807521586281501	0.138081115810485	TRUE	FALSE	Significant at one site
+Actinomadura	Actinobacteriota	-0.0637967528532822	-0.800889171356791	FALSE	FALSE	Not significant
+Actinomycetospora	Actinobacteriota	0.442264662947898	-0.879607001818735	FALSE	FALSE	Not significant
+Actinophytocola	Actinobacteriota	0.295416812523747	-0.0867017756194248	FALSE	FALSE	Not significant
+AD3	Chloroflexi	-0.557221003828489	-1.61812166407311	TRUE	TRUE	Depleted at both
+Adhaeribacter	Bacteroidota	-0.704501762427757	0.132946184875933	TRUE	FALSE	Significant at one site
+ADurb.Bin063-1	Verrucomicrobiota	-0.998069378133712	-0.284628637233016	TRUE	FALSE	Significant at one site
+Aeromicrobium	Actinobacteriota	-0.181100736798764	-1.34390197699168	FALSE	TRUE	Significant at one site
+Agromyces	Actinobacteriota	-0.221847485010178	0.518558075039632	FALSE	TRUE	Significant at one site
+Ahniella	Proteobacteria	-0.460083236489824	0.229371613665219	TRUE	FALSE	Significant at one site
+AKIW659	Acidobacteriota	-0.41326090920192	-0.529438875422604	TRUE	FALSE	Significant at one site
+AKIW781	Chloroflexi	-0.395313631709879	-2.06958971061161	FALSE	TRUE	Significant at one site
+AKYG1722	Chloroflexi	-0.757132600196526	0.419866216840262	TRUE	FALSE	Significant at one site
+AKYG587	Planctomycetota	-2.02261870860176	3.20786702775113	TRUE	TRUE	Opposite directions
+AKYH767	Bacteroidota	-1.7243252161611	0.546750548249641	TRUE	FALSE	Significant at one site
+Alicyclobacillus	Firmicutes	-0.373364333433749	-0.315907677410026	FALSE	FALSE	Not significant
+Allocatelliglobosispora	Actinobacteriota	-0.691962356258789	0.249443330022727	FALSE	FALSE	Not significant
+Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	Proteobacteria	1.62950927386079	-0.917271528424946	TRUE	FALSE	Significant at one site
+Alphaproteobacteria (unclassified)	Proteobacteria	-0.558275491881132	0.419809516629115	TRUE	FALSE	Significant at one site
+Alsobacter	Proteobacteria	0.258916991756213	-2.21170756464039	FALSE	TRUE	Significant at one site
+Altererythrobacter	Proteobacteria	0.0571282697965115	-0.527870087953362	FALSE	FALSE	Not significant
+Amb-16S-1323	Proteobacteria	0.0966536674722444	1.16696351563071	FALSE	TRUE	Significant at one site
+Ammoniphilus	Firmicutes	-1.09448644639506	-0.16479120097833	TRUE	FALSE	Significant at one site
+Amycolatopsis	Actinobacteriota	0.121555661113174	-1.30266997171582	FALSE	TRUE	Significant at one site
+Anaerobacterium	Firmicutes	0.263694610190876	0.915758548214311	FALSE	FALSE	Not significant
+Anaerolinea	Chloroflexi	-0.383026512099588	-0.950055080347069	FALSE	TRUE	Significant at one site
+Anaerolineaceae (unclassified)	Chloroflexi	-1.6367369423014	1.63315079892008	TRUE	TRUE	Opposite directions
+Anaerolineae	Chloroflexi	-0.970367503019969	-0.500147686301218	TRUE	FALSE	Significant at one site
+Anaerolineae (unclassified)	Chloroflexi	-0.806623850848759	0.961619374961872	TRUE	TRUE	Opposite directions
+Anaeromyxobacter	Myxococcota	-1.6453595726435	-0.903565718307285	TRUE	TRUE	Depleted at both
+Anaerospora	Firmicutes	0.644878811415988	-0.171103453708032	TRUE	FALSE	Significant at one site
+Angustibacter	Actinobacteriota	-0.755488736988699	-0.675743636194227	TRUE	TRUE	Depleted at both
+Aquicella	Proteobacteria	-1.17303051286473	-0.149591185453344	TRUE	FALSE	Significant at one site
+Aquisphaera	Planctomycetota	-0.0646518344936757	-0.0638627856100588	FALSE	FALSE	Not significant
+Arcticibacter	Bacteroidota	1.50356378899388	-2.24388469097341	TRUE	TRUE	Opposite directions
+Ardenticatenales (unclassified)	Chloroflexi	-1.07529482057665	3.23038473866895	TRUE	TRUE	Opposite directions
+Arenimonas	Proteobacteria	-1.22324250223831	-0.634299169206383	TRUE	FALSE	Significant at one site
+Aridibacter	Acidobacteriota	0.511004671523499	-1.56608597383346	FALSE	TRUE	Significant at one site
+Armatimonadales	Armatimonadota	0.221389289363976	-1.73403476385056	FALSE	TRUE	Significant at one site
+Armatimonadota (unclassified)	Armatimonadota	-0.966884332572445	-0.790021921025979	TRUE	FALSE	Significant at one site
+Asticcacaulis	Proteobacteria	1.20286576003829	-0.525076956405768	FALSE	FALSE	Not significant
+Aurantisolimonas	Bacteroidota	-1.1902493984758	2.11834601131945	TRUE	TRUE	Opposite directions
+Aureimonas	Proteobacteria	0.132856235217718	-1.18683433513486	FALSE	FALSE	Not significant
+Azohydromonas	Proteobacteria	-1.10190906861256	-0.813252838889459	TRUE	TRUE	Depleted at both
+Azospirillales (unclassified)	Proteobacteria	-0.768582654459218	0.788667637936208	TRUE	TRUE	Opposite directions
+Azospirillum	Proteobacteria	-0.134364686352423	-0.437767650373143	FALSE	FALSE	Not significant
+B1-7BS	Proteobacteria	-0.552950927150755	0.302498852890482	TRUE	FALSE	Significant at one site
+Babeliaceae	Dependentiae	-0.527304421109354	1.2695374348625	TRUE	TRUE	Opposite directions
+Babeliales	Dependentiae	-1.21477204549498	2.22192012896464	TRUE	TRUE	Opposite directions
+Babeliales (unclassified)	Dependentiae	-1.23164150787522	1.66132172940238	TRUE	TRUE	Opposite directions
+Bacillaceae (unclassified)	Firmicutes	-0.970394005328833	-0.388855651974748	TRUE	FALSE	Significant at one site
+Bacillales (unclassified)	Firmicutes	2.62635520869153	1.38740227019744	TRUE	TRUE	Enriched at both
+Bacilli (unclassified)	Firmicutes	-0.285430934861262	0.60932325678435	FALSE	FALSE	Not significant
+Bacillus	Firmicutes	-0.164809743585654	0.591248850400891	FALSE	TRUE	Significant at one site
+bacteriap25	Myxococcota	-0.815256563182388	1.25206584329992	TRUE	TRUE	Opposite directions
+Bacteriovorax	Bdellovibrionota	0.598178914564561	0.316307561170877	FALSE	FALSE	Not significant
+Bacteroidia (unclassified)	Bacteroidota	0.31322136018946	2.78800491336	FALSE	TRUE	Significant at one site
+Bauldia	Proteobacteria	-0.756341516126204	-0.326909151344367	TRUE	FALSE	Significant at one site
+BD2-11_terrestrial_group	Gemmatimonadota	-1.23042409776876	0.490182985387934	TRUE	TRUE	Opposite directions
+BD7-11	Planctomycetota	-0.861948289946056	1.29283503214216	TRUE	TRUE	Opposite directions
+Bdellovibrio	Bdellovibrionota	-0.193664106837532	-0.65363631202995	FALSE	FALSE	Not significant
+Bdellovibrionota (unclassified)	Bdellovibrionota	0.0556812497652786	0.480682571136079	FALSE	FALSE	Not significant
+Beijerinckiaceae (unclassified)	Proteobacteria	-0.664729401571833	-1.37063146789879	TRUE	FALSE	Significant at one site
+Berkelbacteria	Patescibacteria	-1.30255024015666	-0.762373657619682	TRUE	FALSE	Significant at one site
+BIrii41	Myxococcota	-2.11023428771974	1.924122107272	TRUE	TRUE	Opposite directions
+Blastocatella	Acidobacteriota	1.1888731516022	-2.5937529934169	FALSE	TRUE	Significant at one site
+Blastocatellaceae (unclassified)	Acidobacteriota	0.0706237239490795	-2.07523424980391	FALSE	TRUE	Significant at one site
+Blastocatellia (unclassified)	Acidobacteriota	-1.50839163889745	1.96775738971392	TRUE	TRUE	Opposite directions
+Blastococcus	Actinobacteriota	-0.402768435234399	-1.64810371524411	TRUE	TRUE	Depleted at both
+Blfdi19	Myxococcota	-1.06820348500636	0.287713762243433	TRUE	FALSE	Significant at one site
+Bosea	Proteobacteria	1.32774340898627	0.264517010353985	TRUE	FALSE	Significant at one site
+Bradyrhizobium	Proteobacteria	1.45641994662567	-0.110677033663316	TRUE	FALSE	Significant at one site
+Brevibacillus	Firmicutes	-0.418596985865106	1.49269441339631	TRUE	TRUE	Opposite directions
+Brevifollis	Verrucomicrobiota	1.55009160212268	-0.80907598632217	FALSE	FALSE	Not significant
+Brevundimonas	Proteobacteria	0.908045477761234	-1.01644663015916	FALSE	TRUE	Significant at one site
+Bryobacter	Acidobacteriota	-0.854633158969627	-0.965001555375385	TRUE	TRUE	Depleted at both
+BSV26	Bacteroidota	-1.50045826998837	2.794044082329	TRUE	TRUE	Opposite directions
+Burkholderia-Caballeronia-Paraburkholderia	Proteobacteria	-0.792514235409321	-1.13779527338321	TRUE	FALSE	Significant at one site
+Burkholderiales (unclassified)	Proteobacteria	-1.55344569046095	1.06713827874271	TRUE	TRUE	Opposite directions
+C0119	Chloroflexi	-0.475614780548097	-1.49055615052686	TRUE	TRUE	Depleted at both
+Caenimonas	Proteobacteria	-0.0794604757363889	-0.893801574921568	FALSE	FALSE	Not significant
+Caldilineaceae	Chloroflexi	0.239459308305618	-1.55255772748677	FALSE	TRUE	Significant at one site
+Caldilineaceae (unclassified)	Chloroflexi	-0.432324718890506	0.402479762418678	TRUE	FALSE	Significant at one site
+Candidatus_Alysiosphaera	Proteobacteria	-0.524667420115258	0.258750998172342	TRUE	FALSE	Significant at one site
+Candidatus_Berkiella	Proteobacteria	-1.19996639394297	1.45309724781404	TRUE	TRUE	Opposite directions
+Candidatus_Captivus	Proteobacteria	0.966198198505195	-0.0755714814975775	FALSE	FALSE	Not significant
+Candidatus_Jidaibacter	Proteobacteria	-0.108407063264743	-0.129126660245933	FALSE	FALSE	Not significant
+Candidatus_Koribacter	Acidobacteriota	-1.06161674008751	-0.892750392911075	TRUE	TRUE	Depleted at both
+Candidatus_Levybacteria	Patescibacteria	0.997544614968622	-1.01732221274694	FALSE	TRUE	Significant at one site
+Candidatus_Moranbacteria	Patescibacteria	0.142364947551547	-0.191347510673824	FALSE	FALSE	Not significant
+Candidatus_Nitrocosmicus	Crenarchaeota	-0.0583371462639805	0.705232572042542	FALSE	TRUE	Significant at one site
+Candidatus_Ovatusbacter	Proteobacteria	-1.45329610222152	0.478826918077685	TRUE	FALSE	Significant at one site
+Candidatus_Paracaedibacter	Proteobacteria	-0.660169449266888	0.0622548974565172	TRUE	FALSE	Significant at one site
+Candidatus_Protochlamydia	Verrucomicrobiota	-0.583802728405499	2.20631167523491	TRUE	TRUE	Opposite directions
+Candidatus_Solibacter	Acidobacteriota	-1.31854560618115	-0.321857346549162	TRUE	FALSE	Significant at one site
+Candidatus_Udaeobacter	Verrucomicrobiota	-0.569015582052086	-1.42007806976655	TRUE	TRUE	Depleted at both
+Candidatus_Woesebacteria	Patescibacteria	-2.17431562274247	-0.219427207820232	TRUE	FALSE	Significant at one site
+Candidatus_Xiphinematobacter	Verrucomicrobiota	-0.431641034974106	-0.716303371790345	TRUE	FALSE	Significant at one site
+Candidatus_Yanofskybacteria	Patescibacteria	-2.40004747404055	3.10482071971297	TRUE	TRUE	Opposite directions
+Catellatospora	Actinobacteriota	-0.139446887944553	0.622180398123689	FALSE	TRUE	Significant at one site
+Catenulispora	Actinobacteriota	-0.234580611036966	-1.74721044446542	FALSE	TRUE	Significant at one site
+Caulobacter	Proteobacteria	0.919721227898195	-0.926998413978267	FALSE	TRUE	Significant at one site
+Caulobacteraceae (unclassified)	Proteobacteria	-0.233007902875461	-1.36345888280375	FALSE	TRUE	Significant at one site
+CCD24	Proteobacteria	-1.94581401011015	2.08238835720939	TRUE	TRUE	Opposite directions
+Cellulomonas	Actinobacteriota	0.175413246905656	1.11455408598807	FALSE	TRUE	Significant at one site
+Cerasicoccus	Verrucomicrobiota	0.481638512321655	-0.348539112632301	FALSE	FALSE	Not significant
+Chitinophaga	Bacteroidota	1.03707734969677	-1.02373324826972	TRUE	FALSE	Significant at one site
+Chitinophagaceae (unclassified)	Bacteroidota	-0.598882252620911	-0.856936614116133	TRUE	TRUE	Depleted at both
+Chitinophagales (unclassified)	Bacteroidota	-1.11769277702821	-0.40399795378205	TRUE	FALSE	Significant at one site
+Chlamydiales (unclassified)	Verrucomicrobiota	-1.17883395018087	2.21122144531055	TRUE	TRUE	Opposite directions
+Chloroflexi (unclassified)	Chloroflexi	-0.887330131909106	-1.00284659898288	TRUE	FALSE	Significant at one site
+Chryseobacterium	Bacteroidota	1.54181720241895	-1.09031107480934	FALSE	FALSE	Not significant
+Chryseolinea	Bacteroidota	-0.756521686504841	2.15363875065964	TRUE	TRUE	Opposite directions
+Chthoniobacter	Verrucomicrobiota	-0.32605445857573	-0.487488581866294	TRUE	FALSE	Significant at one site
+Chthoniobacteraceae (unclassified)	Verrucomicrobiota	0.713793004405736	-1.12164066441237	FALSE	FALSE	Not significant
+Chthonomonadales	Armatimonadota	-0.487811036390207	-0.000311989985974529	TRUE	FALSE	Significant at one site
+Chthonomonas	Armatimonadota	-0.621774080433647	-0.509120866333027	TRUE	FALSE	Significant at one site
+Chungangia	Firmicutes	-0.718529405720387	-0.62421070175123	TRUE	TRUE	Depleted at both
+Citrifermentans	Desulfobacterota	-1.36699160554249	1.6783513552342	TRUE	TRUE	Opposite directions
+CL500-29_marine_group	Actinobacteriota	-0.466079705186049	0.119152915657841	TRUE	FALSE	Significant at one site
+Clostridia (unclassified)	Firmicutes	-0.880850871816191	0.562046180534422	TRUE	FALSE	Significant at one site
+Clostridiaceae (unclassified)	Firmicutes	-0.477793020081978	-0.199184459315624	TRUE	FALSE	Significant at one site
+Clostridium_sensu_stricto_1	Firmicutes	1.42570412078479	1.39570639950084	TRUE	TRUE	Enriched at both
+Clostridium_sensu_stricto_10	Firmicutes	-0.895993059670442	-0.292030027173675	TRUE	FALSE	Significant at one site
+Clostridium_sensu_stricto_12	Firmicutes	0.000311801367758141	0.13847911322566	FALSE	FALSE	Not significant
+Clostridium_sensu_stricto_13	Firmicutes	2.34079483818201	1.1232865749955	TRUE	FALSE	Significant at one site
+Clostridium_sensu_stricto_3	Firmicutes	-0.187448724189361	0.73913652640332	FALSE	FALSE	Not significant
+Clostridium_sensu_stricto_8	Firmicutes	-0.722593238063358	1.42992304629918	TRUE	TRUE	Opposite directions
+Clostridium_sensu_stricto_9	Firmicutes	-0.918244286569251	-0.239605748184604	TRUE	FALSE	Significant at one site
+Cohnella	Firmicutes	-1.35286385860434	1.51417886882891	TRUE	TRUE	Opposite directions
+Coleofasciculaceae (unclassified)	Cyanobacteria	1.32147563680226	-1.25477795030305	FALSE	TRUE	Significant at one site
+Comamonadaceae (unclassified)	Proteobacteria	-0.696627105433753	-0.583034872760639	TRUE	TRUE	Depleted at both
+Conexibacter	Actinobacteriota	-0.776212271675572	-1.1924355289	TRUE	TRUE	Depleted at both
+Coxiella	Proteobacteria	-1.28319962280788	1.3193072752822	TRUE	TRUE	Opposite directions
+CPla-3_termite_group	Planctomycetota	-0.699695101537024	0.303726851359647	TRUE	FALSE	Significant at one site
+Crossiella	Actinobacteriota	-0.744793571122637	-0.505213605699861	TRUE	FALSE	Significant at one site
+Cupriavidus	Proteobacteria	-0.547016532111336	1.46963454906761	TRUE	TRUE	Opposite directions
+cvE6	Verrucomicrobiota	-2.32798278523481	3.60935439447003	TRUE	TRUE	Opposite directions
+Cyanobacteriales (unclassified)	Cyanobacteria	-0.538102024311489	-1.54935029681243	FALSE	TRUE	Significant at one site
+Cytophaga	Bacteroidota	-0.423634126742679	0.406090356828277	FALSE	FALSE	Not significant
+Cytophagales (unclassified)	Bacteroidota	-0.0430663750373582	-1.29047245268125	FALSE	TRUE	Significant at one site
+Dactylosporangium	Actinobacteriota	-0.40441420762532	-0.493868924895243	TRUE	FALSE	Significant at one site
+Defluviicoccales (unclassified)	Proteobacteria	1.19043907200618	-0.439298716275747	FALSE	FALSE	Not significant
+Desulfobacterota (unclassified)	Desulfobacterota	-1.32122013087033	0.392357555840847	TRUE	FALSE	Significant at one site
+Devosia	Proteobacteria	0.108643870744436	-2.01216415436341	FALSE	TRUE	Significant at one site
+Devosiaceae (unclassified)	Proteobacteria	0.827484272094293	-0.916477680888709	TRUE	FALSE	Significant at one site
+Dinghuibacter	Bacteroidota	-0.152041848732496	1.15586765362718	FALSE	TRUE	Significant at one site
+Diplorickettsiaceae (unclassified)	Proteobacteria	-1.51033967467083	-0.00181343971042045	TRUE	FALSE	Significant at one site
+Dojkabacteria	Patescibacteria	-1.07249755159538	-0.199356122616158	TRUE	FALSE	Significant at one site
+Dokdonella	Proteobacteria	-0.59870409130869	-0.987563094497847	TRUE	TRUE	Depleted at both
+Dongia	Proteobacteria	-0.953696897536722	1.74594000221357	TRUE	TRUE	Opposite directions
+DS-100	Acidobacteriota	-0.905394809483145	1.00056929679392	TRUE	TRUE	Opposite directions
+Dyadobacter	Bacteroidota	0.951992235638377	-1.04523829598052	FALSE	TRUE	Significant at one site
+Dyella	Proteobacteria	0.577523465757836	-1.61659215011518	FALSE	TRUE	Significant at one site
+EC3	Proteobacteria	-0.934162764054328	0.248272379487424	TRUE	FALSE	Significant at one site
+Edaphobacter	Acidobacteriota	-0.216040333196982	-1.59971974911283	FALSE	TRUE	Significant at one site
+Edaphobaculum	Bacteroidota	-0.559531209394304	-1.20691526130623	TRUE	TRUE	Depleted at both
+Ellin516	Verrucomicrobiota	-0.324757121029934	-1.19415768203052	FALSE	FALSE	Not significant
+Ellin517	Verrucomicrobiota	-0.991536658906678	-1.49841590705189	TRUE	FALSE	Significant at one site
+Ellin6067	Proteobacteria	-1.25985963411949	-0.895543320169669	TRUE	TRUE	Depleted at both
+Elsteraceae (unclassified)	Proteobacteria	0.888663721814992	0.156837277141378	FALSE	FALSE	Not significant
+Elsterales (unclassified)	Proteobacteria	-0.469972803113422	-0.901235673846534	TRUE	TRUE	Depleted at both
+Enterobacteriaceae (unclassified)	Proteobacteria	3.23287504460852	-0.840269233342955	TRUE	FALSE	Significant at one site
+Entotheonellaceae	Entotheonellaeota	-0.48589513549465	2.5898435630511	TRUE	TRUE	Opposite directions
+env.OPS_17	Bacteroidota	-0.935920545673084	-0.226523527820001	TRUE	FALSE	Significant at one site
+FCPS473	Chloroflexi	-0.0363683215599888	-0.0958679258359479	FALSE	FALSE	Not significant
+Ferruginibacter	Bacteroidota	-0.370195658876929	-0.683659843449106	FALSE	FALSE	Not significant
+FFCH16263	Actinobacteriota	-0.365686135277479	1.45963532705585	FALSE	TRUE	Significant at one site
+FFCH16767	Myxococcota	-0.800304362530282	0.413845393735968	TRUE	FALSE	Significant at one site
+FFCH7168	Chloroflexi	-0.3123468796341	-1.75102572740723	FALSE	TRUE	Significant at one site
+FFCH9454	Bacteroidota	0.178430945941058	-0.740037579840956	FALSE	FALSE	Not significant
+Fimbriiglobus	Planctomycetota	-0.423349267694419	0.923695879447821	TRUE	TRUE	Opposite directions
+Fimbriimonadaceae	Armatimonadota	-0.112552872123722	-0.609392069878843	FALSE	FALSE	Not significant
+Flavisolibacter	Bacteroidota	-0.0207850739584848	-3.83008656153811	FALSE	TRUE	Significant at one site
+Flavitalea	Bacteroidota	0.0329849936588862	-2.86129648404528	FALSE	TRUE	Significant at one site
+Flavobacterium	Bacteroidota	-1.3823803207876	1.47705051062401	TRUE	TRUE	Opposite directions
+Fonticella	Firmicutes	-0.553988730603929	-0.265983996295758	FALSE	FALSE	Not significant
+Frankiales (unclassified)	Actinobacteriota	-0.433106429931512	-2.35164946871572	TRUE	TRUE	Depleted at both
+Ga0074140	Verrucomicrobiota	-1.06650464181749	2.43434787258284	FALSE	TRUE	Significant at one site
+Gaiella	Actinobacteriota	-0.772396489598479	0.0150906466606852	TRUE	FALSE	Significant at one site
+Gaiellales (unclassified)	Actinobacteriota	-0.705590670414965	-0.827994831115411	TRUE	TRUE	Depleted at both
+GAL15	GAL15	0.365532641703808	-0.954871209711089	FALSE	TRUE	Significant at one site
+Gammaproteobacteria (unclassified)	Proteobacteria	-1.22418770197832	1.47079591366048	TRUE	TRUE	Opposite directions
+Gemmata	Planctomycetota	-0.134213548231878	0.118375647045553	FALSE	FALSE	Not significant
+Gemmataceae (unclassified)	Planctomycetota	-0.557915329159991	0.603064735423621	TRUE	TRUE	Opposite directions
+Gemmatimonadaceae (unclassified)	Gemmatimonadota	-0.948524932380636	-0.649021246051144	TRUE	TRUE	Depleted at both
+Gemmatimonas	Gemmatimonadota	-1.03827757259454	-1.19877940118044	TRUE	TRUE	Depleted at both
+Geobacter	Desulfobacterota	-1.52490486718458	1.06914723708889	TRUE	TRUE	Opposite directions
+Geobacteraceae (unclassified)	Desulfobacterota	-1.51561355147882	0.522665066599296	TRUE	FALSE	Significant at one site
+Geobacterales (unclassified)	Desulfobacterota	-1.24513151238081	1.293110435232	TRUE	TRUE	Opposite directions
+Geodermatophilaceae (unclassified)	Actinobacteriota	-0.426357531890113	-1.75409365185206	TRUE	TRUE	Depleted at both
+Geodermatophilus	Actinobacteriota	0.0150457912160385	-2.23943235647796	FALSE	TRUE	Significant at one site
+Gimesiaceae (unclassified)	Planctomycetota	0.312721370865121	-0.34922740962453	FALSE	FALSE	Not significant
+Gitt-GS-136	Chloroflexi	-0.930020552352041	-0.396871879317567	TRUE	FALSE	Significant at one site
+Gordonia	Actinobacteriota	0.069419856954787	0.00606116606985303	FALSE	FALSE	Not significant
+Granulicella	Acidobacteriota	-0.428704131607715	-4.29618418875785	FALSE	TRUE	Significant at one site
+Haliangium	Myxococcota	-2.48022758559367	0.511972729987743	TRUE	TRUE	Opposite directions
+Hamadaea	Actinobacteriota	-0.176589603357141	-0.442521828286052	FALSE	FALSE	Not significant
+Heliobacteriaceae (unclassified)	Firmicutes	-0.309174157588127	-0.547139541563577	TRUE	FALSE	Significant at one site
+Herpetosiphon	Chloroflexi	0.64501392398776	-1.22782976518998	FALSE	TRUE	Significant at one site
+Hirschia	Proteobacteria	-1.13639374225608	1.67883494087499	FALSE	TRUE	Significant at one site
+Holosporaceae (unclassified)	Proteobacteria	-0.601430504641578	0.739888546795654	TRUE	TRUE	Opposite directions
+HSB_OF53-F07	Chloroflexi	0.187008859720569	-3.84581502138343	FALSE	TRUE	Significant at one site
+Hungateiclostridiaceae (unclassified)	Firmicutes	-0.799417120969486	0.636523170111621	TRUE	FALSE	Significant at one site
+Hydrogenedensaceae	Hydrogenedentes	-0.0844667696519772	0.894957439373666	FALSE	TRUE	Significant at one site
+Hydrogenispora	Firmicutes	-0.993983407029793	-0.873113878995813	TRUE	TRUE	Depleted at both
+Hymenobacter	Bacteroidota	-1.12409932221974	-2.40723389920229	TRUE	TRUE	Depleted at both
+Hyphomicrobiaceae (unclassified)	Proteobacteria	0.333554093323771	0.964774742522583	FALSE	TRUE	Significant at one site
+Hyphomicrobium	Proteobacteria	-0.88229125776971	1.04772461085498	TRUE	TRUE	Opposite directions
+Iamia	Actinobacteriota	-0.386797470737928	0.455301640718742	TRUE	FALSE	Significant at one site
+Ilumatobacter	Actinobacteriota	-0.455453142545595	1.86673948207543	TRUE	TRUE	Opposite directions
+Ilumatobacteraceae (unclassified)	Actinobacteriota	-0.614557105168575	0.654678020815365	TRUE	TRUE	Opposite directions
+IMCC26207	Actinobacteriota	-0.0453144813953442	0.345871051988753	FALSE	FALSE	Not significant
+IMCC26256	Actinobacteriota	-0.813213749086203	-0.242938942512908	TRUE	FALSE	Significant at one site
+Inquilinus	Proteobacteria	0.581061703178136	-0.495093652465759	FALSE	FALSE	Not significant
+Intrasporangiaceae (unclassified)	Actinobacteriota	-0.763982367933144	-1.95346764111242	TRUE	TRUE	Depleted at both
+IS-44	Proteobacteria	-1.68712570977899	2.65455001348536	TRUE	TRUE	Opposite directions
+Isosphaeraceae (unclassified)	Planctomycetota	-0.772348342523144	-0.506306046203538	TRUE	TRUE	Depleted at both
+Jatrophihabitans	Actinobacteriota	-0.584714734803074	-1.94631044465706	TRUE	TRUE	Depleted at both
+JCM_18997	Actinobacteriota	-0.139773701079881	-0.388610853541101	FALSE	FALSE	Not significant
+JG30-KF-AS9	Chloroflexi	-0.819375076091801	-1.36689922979724	TRUE	TRUE	Depleted at both
+JG30-KF-CM45	Chloroflexi	-0.959335552977701	-0.658171460215417	TRUE	FALSE	Significant at one site
+JG30-KF-CM66	Chloroflexi	-1.26823637524181	-0.917398884297352	TRUE	FALSE	Significant at one site
+JGI_0001001-H03	Acidobacteriota	0.0228886610874514	-1.34308358128998	FALSE	FALSE	Not significant
+JTB255_marine_benthic_group	Proteobacteria	-1.15005136331201	1.91770268411234	TRUE	TRUE	Opposite directions
+Kapabacteriales	Bacteroidota	-0.836160439553715	-1.05324670843608	TRUE	TRUE	Depleted at both
+KD3-10	Myxococcota	-1.1093173148742	0.347045281357051	TRUE	FALSE	Significant at one site
+KD3-93	Bacteroidota	0.133468937517997	-1.23432078882334	FALSE	FALSE	Not significant
+KD4-96	Chloroflexi	-0.829924788221254	-0.270973966809369	TRUE	FALSE	Significant at one site
+KF-JG30-B3	Proteobacteria	-1.56375828177368	-0.335804173311848	TRUE	FALSE	Significant at one site
+KI89A_clade	Proteobacteria	-1.526083517271	1.84889081676689	TRUE	TRUE	Opposite directions
+Kribbella	Actinobacteriota	-0.266080777519176	-1.14328019961195	FALSE	FALSE	Not significant
+Ktedonobacter	Chloroflexi	-0.793152648255894	-0.55344579440061	TRUE	FALSE	Significant at one site
+Ktedonobacteraceae (unclassified)	Chloroflexi	-0.712619270010666	-1.58836865936561	TRUE	TRUE	Depleted at both
+Labrys	Proteobacteria	0.400348788798354	-0.0847402019951499	TRUE	FALSE	Significant at one site
+Lachnospiraceae (unclassified)	Firmicutes	-0.173685931399632	0.925973773152502	FALSE	TRUE	Significant at one site
+Lacunisphaera	Verrucomicrobiota	-0.0277845590842122	2.01411546764201	FALSE	TRUE	Significant at one site
+Latescibacteraceae	Latescibacterota	-2.44329219891105	1.86988143733977	TRUE	TRUE	Opposite directions
+Latescibacterota	Latescibacterota	-3.22822356041846	1.49464255358008	TRUE	TRUE	Opposite directions
+LD29	Verrucomicrobiota	0.346687458671316	-0.325265859539834	FALSE	FALSE	Not significant
+Legionella	Proteobacteria	-0.97704162907808	-0.279362818379785	TRUE	FALSE	Significant at one site
+Leifsonia	Actinobacteriota	-0.636212951819481	-1.03084122187876	FALSE	TRUE	Significant at one site
+Lineage_IIa	Elusimicrobiota	-2.15260300563297	1.96289418867223	TRUE	TRUE	Opposite directions
+Lineage_IIb	Elusimicrobiota	-2.40011669606629	1.14218184527958	TRUE	TRUE	Opposite directions
+Lineage_IV	Elusimicrobiota	-2.90002561321863	1.81348353750724	TRUE	TRUE	Opposite directions
+Litorilinea	Chloroflexi	-0.553963484509628	1.16159507269367	TRUE	TRUE	Opposite directions
+Longimicrobiaceae	Gemmatimonadota	0.855388064877548	-2.74007276281011	FALSE	TRUE	Significant at one site
+Longispora	Actinobacteriota	-0.160201407448067	1.26728279187858	FALSE	TRUE	Significant at one site
+Luedemannella	Actinobacteriota	-0.587076799652501	-1.02330998485204	TRUE	FALSE	Significant at one site
+Luteolibacter	Verrucomicrobiota	0.464562920161442	0.697436941712169	FALSE	TRUE	Significant at one site
+LWQ8	Patescibacteria	0.38537444538878	-2.08436666893909	TRUE	TRUE	Opposite directions
+Lysinibacillus	Firmicutes	-0.901263769854265	-0.73248795613628	TRUE	FALSE	Significant at one site
+Lysobacter	Proteobacteria	-1.21048668402932	-1.07871534501632	TRUE	FALSE	Significant at one site
+Marmoricola	Actinobacteriota	-0.36598864528438	-1.21070549954345	TRUE	TRUE	Depleted at both
+Massilia	Proteobacteria	-1.03847933076893	-0.733219697302766	TRUE	TRUE	Depleted at both
+MB-A2-108	Actinobacteriota	-1.02373737205943	0.135849975997424	TRUE	FALSE	Significant at one site
+MBNT15	MBNT15	-1.27474643256008	1.19077694564613	TRUE	TRUE	Opposite directions
+Mesorhizobium	Proteobacteria	0.609997175813982	-1.73016396427559	TRUE	TRUE	Opposite directions
+Methylobacillus	Proteobacteria	0.265728246692448	-0.102862571843784	FALSE	FALSE	Not significant
+Methylobacterium-Methylorubrum	Proteobacteria	0.162525125247874	-1.75953136853673	FALSE	TRUE	Significant at one site
+Methyloligellaceae	Proteobacteria	-0.82872557412195	-1.0758371385726	TRUE	FALSE	Significant at one site
+Methyloligellaceae (unclassified)	Proteobacteria	-0.945540262698081	0.587533742677227	TRUE	FALSE	Significant at one site
+Methylophilaceae (unclassified)	Proteobacteria	-1.17283296316259	0.432801879298985	TRUE	FALSE	Significant at one site
+Methylotenera	Proteobacteria	0.940257142137205	-0.616779458973617	FALSE	FALSE	Not significant
+Microbacteriaceae (unclassified)	Actinobacteriota	3.80444611504008	-0.382587891353457	TRUE	FALSE	Significant at one site
+Microbacterium	Actinobacteriota	0.867048015065449	-0.193832426057579	FALSE	FALSE	Not significant
+Microbispora	Actinobacteriota	-0.369061180739794	0.677380464377442	TRUE	TRUE	Opposite directions
+Micrococcaceae (unclassified)	Actinobacteriota	1.13931668937617	-0.607783785469783	TRUE	FALSE	Significant at one site
+Microcoleus_PCC-7113	Cyanobacteria	0.581284747021646	-2.30411087595624	FALSE	TRUE	Significant at one site
+Microgenomatia	Patescibacteria	-1.01126985573718	-0.564857453778373	FALSE	TRUE	Significant at one site
+Microlunatus	Actinobacteriota	0.0620071097222125	0.646373712177186	FALSE	TRUE	Significant at one site
+Micromonospora	Actinobacteriota	-0.255171215765419	-0.320013738556681	FALSE	FALSE	Not significant
+Micromonosporaceae (unclassified)	Actinobacteriota	-0.685890197778657	-0.442286129568061	TRUE	TRUE	Depleted at both
+Micropepsaceae	Proteobacteria	-0.95049693525362	-1.11939141292645	TRUE	FALSE	Significant at one site
+Micropepsaceae (unclassified)	Proteobacteria	-1.58306104042051	0.0400646954473011	TRUE	FALSE	Significant at one site
+Microscillaceae (unclassified)	Bacteroidota	-2.0434986428669	2.87014809557173	TRUE	TRUE	Opposite directions
+Microtrichaceae (unclassified)	Actinobacteriota	0.336643396591527	1.17792754481489	FALSE	TRUE	Significant at one site
+Microtrichales (unclassified)	Actinobacteriota	-0.794214759488534	-1.00237707550389	TRUE	TRUE	Depleted at both
+Microvirga	Proteobacteria	-0.158608532103167	0.195391026142804	FALSE	FALSE	Not significant
+mle1-27	Myxococcota	-0.890424503055045	-0.715015730165772	TRUE	FALSE	Significant at one site
+mle1-7	Proteobacteria	-0.852044101539604	1.05964161939046	TRUE	TRUE	Opposite directions
+MND1	Proteobacteria	-2.7179074938595	1.69274566163284	TRUE	TRUE	Opposite directions
+Mucilaginibacter	Bacteroidota	0.775734621768736	-1.99770420174184	FALSE	TRUE	Significant at one site
+Mycobacterium	Actinobacteriota	-0.180578125753517	-0.263835016021876	FALSE	FALSE	Not significant
+Myxococcaceae (unclassified)	Myxococcota	-1.0986775620724	-0.355706468990568	TRUE	FALSE	Significant at one site
+Nakamurella	Actinobacteriota	-0.226237173888801	-0.204853325049814	FALSE	FALSE	Not significant
+NB1-j	NB1-j	-2.05242670653482	1.75387043136286	TRUE	TRUE	Opposite directions
+Neochlamydia	Verrucomicrobiota	-1.20825455295789	1.24538106287341	TRUE	TRUE	Opposite directions
+Niastella	Bacteroidota	-0.58365801787981	-1.01626888370543	TRUE	FALSE	Significant at one site
+Nitrolancea	Chloroflexi	-0.631154902966492	-0.362124035817037	TRUE	FALSE	Significant at one site
+Nitrososphaeraceae	Crenarchaeota	-0.617141624510728	0.119223347920317	TRUE	FALSE	Significant at one site
+Nitrososphaeraceae (unclassified)	Crenarchaeota	0.0233050578712073	0.12780651773781	FALSE	FALSE	Not significant
+Nitrosospira	Proteobacteria	-0.0572821007625802	-0.477703730983213	FALSE	FALSE	Not significant
+Nitrospira	Nitrospirota	-0.952146165160373	1.27786397452908	TRUE	TRUE	Opposite directions
+Nocardia	Actinobacteriota	-0.733707804165014	0.361312862935543	TRUE	FALSE	Significant at one site
+Nocardioides	Actinobacteriota	-0.367328341257055	-0.919089987746427	TRUE	TRUE	Depleted at both
+Nonomuraea	Actinobacteriota	-0.449537745679852	0.145612639276968	TRUE	FALSE	Significant at one site
+Nordella	Proteobacteria	-0.775827348514405	-0.0341400207045474	TRUE	FALSE	Significant at one site
+Nostoc_PCC-7524	Cyanobacteria	0.832955167486407	-0.0796062595004294	FALSE	FALSE	Not significant
+Noviherbaspirillum	Proteobacteria	-1.11301138397967	-0.253506579656219	TRUE	FALSE	Significant at one site
+Novosphingobium	Proteobacteria	0.98872918549737	-0.678569411956796	TRUE	FALSE	Significant at one site
+NS11-12_marine_group	Bacteroidota	-1.13421019834116	0.185644093715209	TRUE	FALSE	Significant at one site
+Obscuribacteraceae	Cyanobacteria	-1.47270345539993	2.13811708637454	TRUE	TRUE	Opposite directions
+Occallatibacter	Acidobacteriota	-0.572600468556287	-0.905128186666476	TRUE	FALSE	Significant at one site
+Ohtaekwangia	Bacteroidota	0.343961244281581	-0.0814117587057523	FALSE	FALSE	Not significant
+OLB14	Chloroflexi	-1.39794403918986	0.389635450069975	TRUE	FALSE	Significant at one site
+Oligoflexaceae (unclassified)	Bdellovibrionota	-0.536919541490968	-0.862438282069107	TRUE	FALSE	Significant at one site
+Oligoflexus	Bdellovibrionota	-0.85816680318602	-1.72108006665265	TRUE	TRUE	Depleted at both
+OM190	Planctomycetota	-2.88001159615636	3.06885070934468	TRUE	TRUE	Opposite directions
+OM27_clade	Bdellovibrionota	-1.57385262792623	1.8247942737929	TRUE	TRUE	Opposite directions
+Opitutaceae (unclassified)	Verrucomicrobiota	-0.0288277357716281	-0.552082267058645	FALSE	FALSE	Not significant
+Opitutus	Verrucomicrobiota	-1.64969380855084	-0.445724429853193	TRUE	FALSE	Significant at one site
+Oryzihumus	Actinobacteriota	-0.600564617961059	-3.77113779209518	TRUE	TRUE	Depleted at both
+Oxalobacteraceae (unclassified)	Proteobacteria	-1.24781088412405	0.354453226842484	TRUE	FALSE	Significant at one site
+P2-11E	Chloroflexi	-1.2550861085935	-1.2744244793437	TRUE	TRUE	Depleted at both
+P3OB-42	Myxococcota	-1.45577935774833	0.398858465375082	TRUE	FALSE	Significant at one site
+Paenarthrobacter	Actinobacteriota	1.3197813829362	-0.784388132403459	TRUE	FALSE	Significant at one site
+Paenibacillaceae (unclassified)	Firmicutes	2.57194378753333	-0.477831752770028	FALSE	FALSE	Not significant
+Paenibacillus	Firmicutes	2.62717347842136	0.288499980266022	TRUE	FALSE	Significant at one site
+Paracaedibacteraceae (unclassified)	Proteobacteria	1.82853143809459	0.681614902276924	FALSE	TRUE	Significant at one site
+Parachlamydiaceae (unclassified)	Verrucomicrobiota	-0.947457337057195	0.996672663356848	TRUE	TRUE	Opposite directions
+Paraclostridium	Firmicutes	-0.173225503701437	1.48744348465702	FALSE	FALSE	Not significant
+Parafilimonas	Bacteroidota	-0.637819568735567	1.43395959788767	TRUE	TRUE	Opposite directions
+Parasegetibacter	Bacteroidota	0.0137802406826724	-0.307944224181906	FALSE	FALSE	Not significant
+Parcubacteria	Patescibacteria	-2.40821226362264	1.23579163487552	TRUE	TRUE	Opposite directions
+Patescibacteria (unclassified)	Patescibacteria	-1.27289010683093	-0.505846155478504	TRUE	FALSE	Significant at one site
+Patulibacter	Actinobacteriota	1.35613723198023	-0.994345500092443	FALSE	TRUE	Significant at one site
+PAUC26f	Acidobacteriota	-1.62430341765318	2.90054609455692	TRUE	TRUE	Opposite directions
+Pedobacter	Bacteroidota	-0.251426896900599	-0.790443957449442	FALSE	TRUE	Significant at one site
+Pedococcus-Phycicoccus	Actinobacteriota	-0.14790299584893	-2.72156574878122	FALSE	TRUE	Significant at one site
+Pedomicrobium	Proteobacteria	-0.666270409447742	0.348412930810861	TRUE	FALSE	Significant at one site
+Pedosphaera	Verrucomicrobiota	0.105030479126643	1.3964963451559	FALSE	TRUE	Significant at one site
+Pedosphaeraceae	Verrucomicrobiota	-0.8246913937135	0.446741533285662	TRUE	FALSE	Significant at one site
+Pedosphaeraceae (unclassified)	Verrucomicrobiota	-1.23458088666979	1.19482823225459	TRUE	TRUE	Opposite directions
+Pelosinus	Firmicutes	-0.270519142544504	-0.02237965809472	FALSE	FALSE	Not significant
+Peptococcaceae (unclassified)	Firmicutes	0.118938136864941	0.772104202016632	FALSE	FALSE	Not significant
+Peredibacter	Bdellovibrionota	-0.0616248984193978	-1.36774602011	FALSE	FALSE	Not significant
+Phenylobacterium	Proteobacteria	0.380883666789003	-0.91519440927889	TRUE	FALSE	Significant at one site
+Phyllobacterium	Proteobacteria	0.252665383183958	0.634015162757946	FALSE	TRUE	Significant at one site
+Pir4_lineage	Planctomycetota	-0.589442901877216	0.594003276123554	TRUE	TRUE	Opposite directions
+Pirellula	Planctomycetota	-0.362648259407208	-0.0973638095262588	TRUE	FALSE	Significant at one site
+Pirellulaceae (unclassified)	Planctomycetota	-0.650892955892263	0.822996741074906	TRUE	TRUE	Opposite directions
+Pla1_lineage	Planctomycetota	-1.14347569053408	1.36164555799948	TRUE	TRUE	Opposite directions
+Pla4_lineage	Planctomycetota	-2.8355146011837	3.69501962497283	TRUE	TRUE	Opposite directions
+Planctomycetales (unclassified)	Planctomycetota	-0.144072086565839	0.608349439593788	FALSE	TRUE	Significant at one site
+Planctomycetes (unclassified)	Planctomycetota	0.116268701060663	0.969171314775097	FALSE	TRUE	Significant at one site
+Planctomycetota (unclassified)	Planctomycetota	-2.12770922253043	2.87111685517409	TRUE	TRUE	Opposite directions
+Planctopirus	Planctomycetota	-0.784590986752436	0.217752903915445	TRUE	FALSE	Significant at one site
+Planococcaceae (unclassified)	Firmicutes	-0.931126648193331	-0.32287179224217	TRUE	FALSE	Significant at one site
+PLTA13	Proteobacteria	-1.57502170020665	3.21070030893907	TRUE	TRUE	Opposite directions
+Polaromonas	Proteobacteria	-0.447395615176905	1.90626330863764	FALSE	TRUE	Significant at one site
+Polyangia (unclassified)	Myxococcota	-2.39454908693402	0.807484020904755	TRUE	TRUE	Opposite directions
+possible_genus_04	Fibrobacterota	-1.17724899692398	0.533562747946831	TRUE	TRUE	Opposite directions
+Pseudaminobacter	Proteobacteria	0.0341370572740238	0.245592012996791	FALSE	FALSE	Not significant
+Pseudarthrobacter	Actinobacteriota	-0.00522206287235446	-2.83714100307479	FALSE	TRUE	Significant at one site
+Pseudoduganella	Proteobacteria	-2.24756232693	0.492986224499893	TRUE	TRUE	Opposite directions
+Pseudolabrys	Proteobacteria	-0.522036081475655	-1.48751321292424	TRUE	TRUE	Depleted at both
+Pseudomonas	Proteobacteria	5.78589558178353	4.28637994648353	TRUE	TRUE	Enriched at both
+Pseudonocardia	Actinobacteriota	-0.039840799770867	0.262914182225674	FALSE	FALSE	Not significant
+Pseudonocardiaceae (unclassified)	Actinobacteriota	0.398885993523839	1.66783996299612	FALSE	TRUE	Significant at one site
+Pseudorhodoferax	Proteobacteria	0.166048678707532	-1.05181546862161	FALSE	TRUE	Significant at one site
+Pseudoxanthomonas	Proteobacteria	0.386663970685944	-0.702745351258743	FALSE	FALSE	Not significant
+Psychrobacillus	Firmicutes	3.0031269544879	0.782442680090676	TRUE	TRUE	Enriched at both
+Psychroglaciecola	Proteobacteria	1.38440877321756	-1.41574614631872	FALSE	TRUE	Significant at one site
+Puia	Bacteroidota	-0.758256086778782	-0.577923676977646	TRUE	TRUE	Depleted at both
+Pullulanibacillus	Firmicutes	-0.641877039429632	0.663472283360845	TRUE	TRUE	Opposite directions
+Puniceicoccaceae (unclassified)	Verrucomicrobiota	-0.162482993397257	0.753273703419739	FALSE	TRUE	Significant at one site
+Quadrisphaera	Actinobacteriota	-1.34144166925469	-0.888088439533738	FALSE	FALSE	Not significant
+Ralstonia	Proteobacteria	1.55821675242046	-1.29970093737012	FALSE	TRUE	Significant at one site
+Ramlibacter	Proteobacteria	-0.850238783724891	-0.483663072466754	TRUE	FALSE	Significant at one site
+RB41	Acidobacteriota	-0.788851239683504	0.934431898097054	TRUE	TRUE	Opposite directions
+RBG-13-54-9	Chloroflexi	-0.816146710866563	0.747776027395079	TRUE	TRUE	Opposite directions
+RCP2-54	RCP2-54	-0.841892000427736	-3.00197833276537	TRUE	TRUE	Depleted at both
+Reyranella	Proteobacteria	-0.0337451374604057	-0.265753488433424	FALSE	FALSE	Not significant
+Reyranellaceae (unclassified)	Proteobacteria	0.155373089573234	1.37465264580328	FALSE	TRUE	Significant at one site
+Rhizobacter	Proteobacteria	-0.0874948723240091	-0.171323814883362	FALSE	FALSE	Not significant
+Rhizobiaceae (unclassified)	Proteobacteria	0.2604716185335	0.479082417052472	FALSE	FALSE	Not significant
+Rhizobiales (unclassified)	Proteobacteria	-0.851972777088836	0.254044036841778	TRUE	FALSE	Significant at one site
+Rhizobiales_Incertae_Sedis (unclassified)	Proteobacteria	-0.381512959289698	-1.06763094645105	TRUE	FALSE	Significant at one site
+Rhodanobacter	Proteobacteria	-1.71897868901898	-1.38778097345528	TRUE	FALSE	Significant at one site
+Rhodanobacteraceae (unclassified)	Proteobacteria	-0.520480394178967	-2.07792027280304	TRUE	TRUE	Depleted at both
+Rhodobacteraceae (unclassified)	Proteobacteria	1.06196330623698	-0.761150019520718	FALSE	FALSE	Not significant
+Rhodococcus	Actinobacteriota	3.62860874162969	0.290114302435104	TRUE	FALSE	Significant at one site
+Rhodocyclaceae (unclassified)	Proteobacteria	-1.23790873943918	1.36784996889011	TRUE	TRUE	Opposite directions
+Rhodomicrobium	Proteobacteria	-0.3436659277453	0.765188114205022	TRUE	FALSE	Significant at one site
+Rhodopila	Proteobacteria	-0.696714856109883	-0.333289279640992	TRUE	FALSE	Significant at one site
+Rhodoplanes	Proteobacteria	-0.551855308384384	-1.13322324852332	TRUE	TRUE	Depleted at both
+Rhodospirillaceae (unclassified)	Proteobacteria	-0.886790489574512	0.513263393451806	TRUE	FALSE	Significant at one site
+Rhodospirillales (unclassified)	Proteobacteria	-1.39588150690371	1.14007772750047	TRUE	TRUE	Opposite directions
+Rhodovastum	Proteobacteria	0.714709646330719	0.165433840020858	FALSE	FALSE	Not significant
+Rickettsiaceae (unclassified)	Proteobacteria	0.441487344954144	0.692612604300311	FALSE	TRUE	Significant at one site
+Rokubacteriales	Methylomirabilota	-0.629790639183126	0.968558038627526	TRUE	TRUE	Opposite directions
+Romboutsia	Firmicutes	0.559945556662304	1.03200326520431	FALSE	TRUE	Significant at one site
+Roseiarcus	Proteobacteria	-0.48131821060238	-1.17215925361068	TRUE	FALSE	Significant at one site
+Roseiflexaceae (unclassified)	Chloroflexi	-0.717953127637126	-0.248376896328551	TRUE	FALSE	Significant at one site
+Roseisolibacter	Gemmatimonadota	0.015973216888539	-2.4239524825618	FALSE	TRUE	Significant at one site
+Roseomonas	Proteobacteria	0.0853844455429778	-1.10753286164285	FALSE	TRUE	Significant at one site
+Rubellimicrobium	Proteobacteria	0.55173315784754	-3.42378734837372	FALSE	TRUE	Significant at one site
+Rubrivivax	Proteobacteria	-1.00297043778766	0.258097194964648	TRUE	FALSE	Significant at one site
+Ruminiclostridium	Firmicutes	-0.795443242908395	0.099155757279669	TRUE	FALSE	Significant at one site
+S0134_terrestrial_group	Gemmatimonadota	-1.49596122668293	-1.84330985170704	TRUE	TRUE	Depleted at both
+S085	Chloroflexi	-0.895977014465057	-0.017813177162092	TRUE	FALSE	Significant at one site
+Saccharimonadales	Patescibacteria	-0.478692228539386	-1.35856374721948	TRUE	TRUE	Depleted at both
+Saccharimonadales (unclassified)	Patescibacteria	-0.141640184390777	-0.911094107107482	FALSE	TRUE	Significant at one site
+Sandaracinaceae (unclassified)	Myxococcota	-1.68138358428586	1.34191617332558	TRUE	TRUE	Opposite directions
+Saprospiraceae (unclassified)	Bacteroidota	-1.45057042626994	0.65723277539355	TRUE	FALSE	Significant at one site
+SAR324_clade(Marine_group_B)	SAR324_clade(Marine_group_B)	-0.815380551755086	1.14483962964153	TRUE	TRUE	Opposite directions
+SBR1031	Chloroflexi	-0.671832985040148	0.0992541673581984	TRUE	FALSE	Significant at one site
+SBR1031 (unclassified)	Chloroflexi	-0.807445013986638	-0.499667879129568	TRUE	TRUE	Depleted at both
+SC-I-84	Proteobacteria	-0.965057525609764	-1.39763207279065	TRUE	TRUE	Depleted at both
+Schlesneria	Planctomycetota	0.678164036748995	0.930765031608236	FALSE	TRUE	Significant at one site
+Segetibacter	Bacteroidota	-0.201602780372863	-4.19595709492385	FALSE	TRUE	Significant at one site
+Sericytochromatia	Cyanobacteria	-0.886895543561017	-0.484762204896613	TRUE	TRUE	Depleted at both
+SH-PL14	Planctomycetota	0.126486412069352	-0.067076679574463	FALSE	FALSE	Not significant
+Shimazuella	Firmicutes	-0.735013074280179	0.42371574369762	TRUE	FALSE	Significant at one site
+Simkaniaceae (unclassified)	Verrucomicrobiota	-1.48317671256853	2.96891157360481	TRUE	TRUE	Opposite directions
+Singulisphaera	Planctomycetota	-0.19407557547864	-0.746587752989081	FALSE	FALSE	Not significant
+SJA-28	Bacteroidota	-0.543687053492002	1.03063559499489	TRUE	TRUE	Opposite directions
+Skermanella	Proteobacteria	-0.689015707276667	0.292673374944479	TRUE	FALSE	Significant at one site
+SM1A02	Planctomycetota	-1.81486254617083	1.76078472107348	TRUE	TRUE	Opposite directions
+SM2D12	Proteobacteria	-2.3768136238079	1.08244581766347	TRUE	TRUE	Opposite directions
+Smaragdicoccus	Actinobacteriota	-0.172804019742279	0.323433231659271	FALSE	FALSE	Not significant
+Solibacillus	Firmicutes	-0.139696110735364	0.156506989099671	FALSE	FALSE	Not significant
+Solirubrobacter	Actinobacteriota	-0.638586669046077	-0.248109336603915	TRUE	FALSE	Significant at one site
+Solirubrobacteraceae	Actinobacteriota	0.519022882052154	-0.146947710452563	FALSE	FALSE	Not significant
+Solirubrobacteraceae (unclassified)	Actinobacteriota	-0.785866363306474	-2.21802934996522	TRUE	TRUE	Depleted at both
+Solirubrobacterales (unclassified)	Actinobacteriota	-0.14815233130107	1.3929083032335	FALSE	TRUE	Significant at one site
+Solitalea	Bacteroidota	-0.190139037107713	2.16835879883997	FALSE	TRUE	Significant at one site
+Sphaerisporangium	Actinobacteriota	0.221618286224637	0.0503693438779012	FALSE	FALSE	Not significant
+Sphingobacteriaceae (unclassified)	Bacteroidota	0.362575499741451	-1.83107306915192	FALSE	TRUE	Significant at one site
+Sphingobacteriales (unclassified)	Bacteroidota	0.353618218671335	-0.001523857461325	FALSE	FALSE	Not significant
+Sphingobacterium	Bacteroidota	0.574546748979974	-1.09294294281595	FALSE	FALSE	Not significant
+Sphingobium	Proteobacteria	0.286590639889212	-0.354879380799283	FALSE	FALSE	Not significant
+Sphingomonadaceae (unclassified)	Proteobacteria	-0.0160514392305816	-1.48571825228324	FALSE	FALSE	Not significant
+Sphingomonas	Proteobacteria	-0.640636604653568	-2.45639405763123	TRUE	TRUE	Depleted at both
+Sphingopyxis	Proteobacteria	1.77893654554181	0.233086560900842	FALSE	FALSE	Not significant
+Sporichthya	Actinobacteriota	0.157664022399981	-1.0324274368213	FALSE	TRUE	Significant at one site
+Sporichthyaceae (unclassified)	Actinobacteriota	-0.495685422008273	-1.59489235718356	TRUE	TRUE	Depleted at both
+Sporocytophaga	Bacteroidota	-0.0223126456714528	0.612108166383687	FALSE	TRUE	Significant at one site
+Sporomusa	Firmicutes	0.247049874795713	-0.527684896817789	FALSE	FALSE	Not significant
+Sporomusaceae (unclassified)	Firmicutes	0.00341367410839115	-0.793220867142072	FALSE	FALSE	Not significant
+Sporosarcina	Firmicutes	4.22669284120491	0.854043950640995	TRUE	FALSE	Significant at one site
+Stenotrophomonas	Proteobacteria	1.59798832666324	0.0735989339333204	TRUE	FALSE	Significant at one site
+Steroidobacter	Proteobacteria	-0.564433292152028	0.164995614372334	TRUE	FALSE	Significant at one site
+Steroidobacteraceae (unclassified)	Proteobacteria	-1.37833953200223	1.06472141907752	TRUE	TRUE	Opposite directions
+Streptococcus	Firmicutes	1.37206590213875	-0.907307809955233	FALSE	TRUE	Significant at one site
+Streptomyces	Actinobacteriota	-0.271583734698196	-0.375109975094666	FALSE	TRUE	Significant at one site
+Streptomycetaceae (unclassified)	Actinobacteriota	-0.631181291703212	-0.405708240683868	TRUE	FALSE	Significant at one site
+Streptosporangiaceae (unclassified)	Actinobacteriota	0.60476039726293	0.566879147895876	FALSE	FALSE	Not significant
+Streptosporangium	Actinobacteriota	-0.52240056892999	0.657474211711583	TRUE	FALSE	Significant at one site
+Subgroup_10	Acidobacteriota	-2.28123245546121	0.344481887228134	TRUE	FALSE	Significant at one site
+Subgroup_11	Acidobacteriota	-1.73771532094088	2.05769602597465	TRUE	TRUE	Opposite directions
+Subgroup_12	Acidobacteriota	-1.01207620625503	2.04660988583951	TRUE	TRUE	Opposite directions
+Subgroup_13	Acidobacteriota	-1.41719598946685	0.788523220576204	TRUE	TRUE	Opposite directions
+Subgroup_17	Acidobacteriota	-1.42284255364641	1.39254832484645	TRUE	TRUE	Opposite directions
+Subgroup_18	Acidobacteriota	-1.69606496786286	1.43027693373945	TRUE	TRUE	Opposite directions
+Subgroup_2	Acidobacteriota	-0.913511163684919	-0.595698376677856	TRUE	TRUE	Depleted at both
+Subgroup_20	Acidobacteriota	0.299499204239754	-1.18906762477784	FALSE	FALSE	Not significant
+Subgroup_22	Acidobacteriota	-4.31581958590465	4.03192220757035	TRUE	TRUE	Opposite directions
+Subgroup_25	Acidobacteriota	-0.713858549178069	0.687960998799043	TRUE	TRUE	Opposite directions
+Subgroup_5	Acidobacteriota	-1.40711681936043	0.970019045246159	TRUE	TRUE	Opposite directions
+Subgroup_7	Acidobacteriota	-1.22335928578655	-0.901022928020218	TRUE	TRUE	Depleted at both
+Sulfurifustis	Proteobacteria	-0.87327382334962	0.586922869804438	TRUE	TRUE	Opposite directions
+Sumerlaea	Sumerlaeota	-0.448642932006385	-1.09553159031013	TRUE	TRUE	Depleted at both
+SWB02	Proteobacteria	-1.58515768699418	1.91685811330398	TRUE	TRUE	Opposite directions
+Symbiobacteraceae (unclassified)	Firmicutes	-1.24813495843847	-0.053882193108913	TRUE	FALSE	Significant at one site
+Tahibacter	Proteobacteria	0.999662878895022	-1.19414123904204	FALSE	FALSE	Not significant
+Taibaiella	Bacteroidota	0.67109068140816	-2.91554213851514	FALSE	TRUE	Significant at one site
+Tardiphaga	Proteobacteria	1.59471328695757	-0.881605471832742	FALSE	FALSE	Not significant
+Telmatocola	Planctomycetota	-0.264682988390634	0.560519614615377	FALSE	FALSE	Not significant
+Tepidisphaera	Planctomycetota	0.135189832360892	-2.80878160257373	FALSE	TRUE	Significant at one site
+Tepidisphaeraceae	Planctomycetota	0.706946802274283	-1.50171400242944	FALSE	TRUE	Significant at one site
+Terrabacter	Actinobacteriota	-0.381410072683823	-2.42437927085502	TRUE	TRUE	Depleted at both
+Terriglobus	Acidobacteriota	0.687221108397412	-1.86262840157661	FALSE	TRUE	Significant at one site
+Terrimicrobium	Verrucomicrobiota	0.792333275333721	-0.42760556284741	FALSE	FALSE	Not significant
+Terrimonas	Bacteroidota	-1.28720023872106	0.0147927292924146	TRUE	FALSE	Significant at one site
+Thermincola	Firmicutes	-0.6613382813292	0.112799814631071	TRUE	FALSE	Significant at one site
+Thermoactinomycetaceae (unclassified)	Firmicutes	-0.4765689894532	2.11546912220336	TRUE	TRUE	Opposite directions
+Thermoleophilia (unclassified)	Actinobacteriota	-1.00948838378799	0.0978842163017426	TRUE	FALSE	Significant at one site
+Thermomonosporaceae (unclassified)	Actinobacteriota	0.260716071356915	-0.777156117763527	FALSE	FALSE	Not significant
+Thermosporothrix	Chloroflexi	1.64885096330197	-1.09507632542398	FALSE	FALSE	Not significant
+TK10	Chloroflexi	-0.473768472154065	-0.893972254265326	TRUE	TRUE	Depleted at both
+TM7a	Patescibacteria	0.373865371459306	-2.22453687179597	FALSE	TRUE	Significant at one site
+TRA3-20	Proteobacteria	-1.26020490471648	-0.34896708066667	TRUE	FALSE	Significant at one site
+Tumebacillus	Firmicutes	-1.22218059642803	1.41461618897488	TRUE	TRUE	Opposite directions
+Tychonema_CCAP_1459-11B	Cyanobacteria	0.505492722710507	-2.09540304153755	FALSE	TRUE	Significant at one site
+Unassigned	NA	-0.79227827882227	0.379686495873405	TRUE	TRUE	Opposite directions
+Unknown_Family	Proteobacteria	-0.803796241729358	0.560214676722373	TRUE	TRUE	Opposite directions
+Unknown_Family (unclassified)	Proteobacteria	0.269382337721581	-0.147276995981166	FALSE	FALSE	Not significant
+URHD0088	Proteobacteria	-0.0753651651169103	-2.00840755309512	FALSE	TRUE	Significant at one site
+UTBCD1	Bacteroidota	-1.25951087822627	0.62465891221531	TRUE	TRUE	Opposite directions
+UTCFX1	Chloroflexi	-1.13589534469007	-0.289331490733389	TRUE	FALSE	Significant at one site
+vadinHA49	Planctomycetota	-1.0041649837476	2.26472584917345	TRUE	TRUE	Opposite directions
+Vampirovibrio	Cyanobacteria	0.353933102570436	-0.704710633114104	FALSE	FALSE	Not significant
+Vampirovibrionaceae	Cyanobacteria	-0.186887117499672	-0.500664224821802	FALSE	FALSE	Not significant
+Vampirovibrionales	Cyanobacteria	-0.785247349444386	0.671993065031206	TRUE	TRUE	Opposite directions
+Variovorax	Proteobacteria	0.309137769448538	0.977733424888581	FALSE	TRUE	Significant at one site
+Vermiphilaceae	Dependentiae	-1.00911185968071	1.40475150842651	TRUE	TRUE	Opposite directions
+Verrucomicrobiaceae (unclassified)	Verrucomicrobiota	0.518293431675957	-0.590793686561056	FALSE	FALSE	Not significant
+Verrucomicrobiota (unclassified)	Verrucomicrobiota	-1.26340949073101	0.524970835712646	TRUE	FALSE	Significant at one site
+Verticiella	Proteobacteria	0.113904520234087	-1.65053261782261	FALSE	TRUE	Significant at one site
+Vicinamibacter	Acidobacteriota	-0.375203662802687	-1.07364923217632	TRUE	TRUE	Depleted at both
+Vicinamibacteraceae	Acidobacteriota	-1.62126039281325	0.483898575369195	TRUE	FALSE	Significant at one site
+Vicinamibacteraceae (unclassified)	Acidobacteriota	-0.509288792166388	0.816293987452712	TRUE	TRUE	Opposite directions
+Vicinamibacterales (unclassified)	Acidobacteriota	-1.16454467877404	0.320386842434164	TRUE	FALSE	Significant at one site
+Vulgatibacter	Myxococcota	-1.25398099417023	0.22404104371305	TRUE	FALSE	Significant at one site
+WD2101_soil_group	Planctomycetota	-0.721075152724254	-0.96325581400407	TRUE	TRUE	Depleted at both
+Weeksellaceae (unclassified)	Bacteroidota	2.45676284575564	0.451113213859543	FALSE	FALSE	Not significant
+WS2	WS2	-0.16335120924236	-1.18259904262517	FALSE	TRUE	Significant at one site
+WWH38	Patescibacteria	-1.58599561288394	0.233435680527865	TRUE	FALSE	Significant at one site
+WX65	Methylomirabilota	-0.732462800945566	2.78206889263723	TRUE	TRUE	Opposite directions
+Xanthobacteraceae	Proteobacteria	-0.0247284797186151	-1.23515639410127	FALSE	TRUE	Significant at one site
+Xanthobacteraceae (unclassified)	Proteobacteria	0.159594051761942	-0.693751525412158	FALSE	TRUE	Significant at one site
+Xanthomonadaceae (unclassified)	Proteobacteria	-1.11437059890167	-3.0908811495292	TRUE	TRUE	Depleted at both
+YC-ZSS-LKJ147	Gemmatimonadota	-0.707684935804329	-2.63145431698776	TRUE	TRUE	Depleted at both
+YM_S32_TM7_50_20	Patescibacteria	-1.32017191436511	-1.37553596838604	TRUE	TRUE	Depleted at both
+Zavarzinella	Planctomycetota	0.127983886531128	-0.47453388802443	FALSE	FALSE	Not significant

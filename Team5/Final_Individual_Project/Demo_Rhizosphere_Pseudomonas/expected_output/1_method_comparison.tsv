@@ -1,0 +1,3 @@
+site	genera_tested	ancombc2_enriched	ancombc2_depleted	deseq2_enriched	deseq2_depleted	clr_enriched	clr_depleted	all3_enriched	r_lfc_ancombc2_vs_deseq2	r_lfc_ancombc2_vs_clr
+Kentland	618	32	324	87	251	46	398	28	0.8	0.89
+Warsaw	727	220	149	257	221	232	249	211	0.88	0.92

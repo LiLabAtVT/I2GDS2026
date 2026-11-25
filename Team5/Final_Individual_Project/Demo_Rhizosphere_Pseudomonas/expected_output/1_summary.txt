@@ -1,0 +1,33 @@
+PART 1 - DIFFERENTIAL ABUNDANCE, RHIZOSPHERE vs OWN-PLOT BULK SOIL (genus level)
+
+Significant genera per method (q < 0.05; ANCOM-BC2 also requires the pseudo-count sensitivity test):
+     site genera_tested ancombc2_enriched ancombc2_depleted deseq2_enriched
+ Kentland           618                32               324              87
+   Warsaw           727               220               149             257
+ deseq2_depleted clr_enriched clr_depleted all3_enriched
+             251           46          398            28
+             221          232          249           211
+ r_lfc_ancombc2_vs_deseq2 r_lfc_ancombc2_vs_clr
+                     0.80                  0.89
+                     0.88                  0.92
+
+Genera tested at both sites, by ANCOM-BC2 category:
+
+       Depleted at both        Enriched at both         Not significant 
+                     68                       4                     104 
+    Opposite directions Significant at one site 
+                    116                     249 
+
+Enriched at BOTH sites (ANCOM-BC2):
+  Pseudomonas
+  Bacillales (unclassified)
+  Psychrobacillus
+  Clostridium_sensu_stricto_1
+
+Pseudomonas in each method (ANCOM-BC2 lfc = natural log; DESeq2 = log2; CLR = mean paired difference):
+     site ancombc2_lfc ancombc2_q deseq2_log2fc  deseq2_q clr_diff    clr_q
+ Kentland         5.79   7.09e-16          9.42 1.56e-202     5.76 0.000116
+   Warsaw         4.29   4.15e-09          6.41  2.58e-45     4.06 0.000306
+     site pseudomonas_rank_among_named_enriched
+ Kentland                                     1
+   Warsaw                                     1

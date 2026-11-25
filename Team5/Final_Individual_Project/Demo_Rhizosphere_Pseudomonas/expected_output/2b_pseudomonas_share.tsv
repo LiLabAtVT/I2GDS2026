@@ -1,0 +1,5 @@
+site	compartment	n	mean_pct	median_pct	min_pct	max_pct
+Kentland	Bulk	24	0.41	0.2	0.09	1.68
+Kentland	Rhizosphere	24	33.39	35.08	2.04	54.96
+Warsaw	Bulk	23	0.48	0.13	0.02	2.91
+Warsaw	Rhizosphere	23	19.79	20.93	0.51	42.28

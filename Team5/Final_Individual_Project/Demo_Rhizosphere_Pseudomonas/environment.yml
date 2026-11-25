@@ -1,0 +1,17 @@
+# Software for the demo (R 4.4 + Bioconductor 3.20 + BLAST+). Create with: bash scripts/00_setup_env.sh
+name: soybean_rhizo_demo
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - r-base=4.4
+  - bioconductor-ancombc=2.8
+  - bioconductor-deseq2
+  - r-cvxr=1.0_15          # ANCOMBC 2.8 needs CVXR 1.0.x (newer CVXR lacks solve())
+  - r-lme4
+  - r-vegan
+  - r-dplyr
+  - r-tidyr
+  - r-ggplot2
+  - blast=2.16
